@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """YouTube -> Telegram: оповещения о трансляциях.
 
+Все идущие стримы собираются в ОДИН пост. Пока кто-то в эфире,
+бот редактирует этот пост (онлайн, длительность, новые стримы).
+Когда все закончили, пост меняется на «Сейчас никого нет в эфире»,
+и следующий эфир начнёт новый пост.
+
 Один запуск = одна проверка (так работает на GitHub Actions).
 Для запуска на своём компе: python bot.py --loop 120  (проверка каждые 120 сек).
 """
@@ -45,9 +50,12 @@ def tg(method, **params):
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8", "ignore")
         if "message is not modified" in body:
-            return {"ok": True}
+            return {"ok": True, "same": True}
         print("Telegram error:", method, body)
-        return {"ok": False}
+        try:
+            return json.loads(body)
+        except json.JSONDecodeError:
+            return {"ok": False, "description": body}
 
 
 # ---------- файлы ----------
@@ -58,8 +66,9 @@ def load_state():
             s = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         s = {}
-    s.setdefault("ids", {})   # ссылка из channels.txt -> ID канала
-    s.setdefault("live", {})  # ID видео -> данные поста
+    s.setdefault("ids", {})  # ссылка из channels.txt -> ID канала
+    s.pop("live", None)      # формат старой версии, больше не нужен
+    s.setdefault("board", None)
     return s
 
 
@@ -108,15 +117,7 @@ def recent_videos(cid):
     return [it["contentDetails"]["videoId"] for it in r.get("items", [])]
 
 
-def best_thumb(sn):
-    th = sn.get("thumbnails", {})
-    for k in ("maxres", "standard", "high", "medium", "default"):
-        if k in th:
-            return th[k]["url"]
-    return None
-
-
-# ---------- текст постов ----------
+# ---------- текст поста ----------
 
 def parse_t(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
@@ -127,45 +128,77 @@ def fmt_dur(sec):
     return "%d ч %d мин" % (h, m) if h else "%d мин" % m
 
 
-def caption_live(t, now):
-    dur = fmt_dur((now - parse_t(t["start"])).total_seconds())
-    stats = ("👁 %d · " % t["viewers"]) if t["has_viewers"] else ""
-    return (
-        "🔴 <b>%s</b> в эфире\n%s\n\n%sидёт %s\n<a href=\"https://youtu.be/%s\">Смотреть стрим</a>"
-        % (html.escape(t["name"]), html.escape(t["title"]), stats, dur, t["vid"])
-    )
+def short(s, n=70):
+    return s if len(s) <= n else s[:n - 1].rstrip() + "…"
 
 
-def caption_end(t, end):
-    dur = fmt_dur((end - parse_t(t["start"])).total_seconds())
-    peak = (" · пик 👁 %d" % t["peak"]) if t["has_viewers"] else ""
-    return (
-        "⚫️ <b>%s</b>: стрим закончился\n%s\n\n⏱ %s%s\n<a href=\"https://youtu.be/%s\">Запись</a>"
-        % (html.escape(t["name"]), html.escape(t["title"]), dur, peak, t["vid"])
-    )
+def live_sorted(board):
+    return sorted(board["streams"].values(), key=lambda t: -t["viewers"])
 
 
-def post(t, cap, thumb):
-    if thumb:
-        r = tg("sendPhoto", chat_id=TG_CHAT, photo=thumb, caption=cap, parse_mode="HTML")
-        if r.get("ok"):
-            return r["result"]["message_id"], True
-    r = tg("sendMessage", chat_id=TG_CHAT, text=cap, parse_mode="HTML")
+def build_text(board, now):
+    e = html.escape
+    live = live_sorted(board)
+    parts = ["🔴 <b>СЕЙЧАС В ЭФИРЕ</b>" if live else "⚫️ <b>Сейчас никого нет в эфире</b>"]
+
+    for t in live:
+        dur = fmt_dur((now - parse_t(t["start"])).total_seconds())
+        eye = ("👁 %d · " % t["viewers"]) if t["has_viewers"] else ""
+        parts.append(
+            "<b>%s</b> — %s\n%sидёт %s · <a href=\"https://youtu.be/%s\">смотреть</a>"
+            % (e(t["name"]), e(short(t["title"])), eye, dur, t["vid"])
+        )
+
+    if board["ended"]:
+        lines = ["⚫️ <b>Закончили:</b>" if live else "<b>Последние эфиры:</b>"]
+        for t in board["ended"]:
+            peak = (" · пик 👁 %d" % t["peak"]) if t["has_viewers"] else ""
+            lines.append(
+                "%s — %s%s · <a href=\"https://youtu.be/%s\">запись</a>"
+                % (e(t["name"]), t["dur"], peak, t["vid"])
+            )
+        parts.append("\n".join(lines))
+
+    text = "\n\n".join(parts)
+    return text[:4000]
+
+
+def preview_opts(board):
+    live = live_sorted(board)
+    src = live[0] if live else (board["ended"][-1] if board["ended"] else None)
+    if not src:
+        return json.dumps({"is_disabled": True})
+    return json.dumps({
+        "url": "https://youtu.be/%s" % src["vid"],
+        "prefer_large_media": True,
+        "show_above_text": True,
+    })
+
+
+def send_board(board, now):
+    text = build_text(board, now)
+    r = tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
+           link_preview_options=preview_opts(board))
     if r.get("ok"):
-        return r["result"]["message_id"], False
-    return None, False
+        board["msg"] = r["result"]["message_id"]
+        board["text"] = text
+        return True
+    return False
 
 
-def edit(t, cap):
-    if cap == t.get("cap"):
-        return
-    if t["photo"]:
-        r = tg("editMessageCaption", chat_id=TG_CHAT, message_id=t["msg"], caption=cap, parse_mode="HTML")
-    else:
-        r = tg("editMessageText", chat_id=TG_CHAT, message_id=t["msg"], text=cap,
-               parse_mode="HTML", disable_web_page_preview="true")
+def edit_board(board, now):
+    text = build_text(board, now)
+    if text == board.get("text"):
+        return True
+    r = tg("editMessageText", chat_id=TG_CHAT, message_id=board["msg"], text=text,
+           parse_mode="HTML", link_preview_options=preview_opts(board))
     if r.get("ok"):
-        t["cap"] = cap
+        board["text"] = text
+        return True
+    desc = (r.get("description") or "").lower()
+    if "not found" in desc or "can't be edited" in desc:
+        return None  # пост удалили — начнём новый
+    return False
 
 
 # ---------- основная проверка ----------
@@ -173,6 +206,7 @@ def edit(t, cap):
 def run_once():
     state = load_state()
     now = datetime.now(timezone.utc)
+    board = state["board"]
 
     cand = {}  # ID видео -> (ник, ID канала)
     cids = set()
@@ -187,12 +221,13 @@ def run_once():
         except Exception as e:
             print("Ошибка канала", ref, e)
 
-    # стримы каналов, которые убрали из списка, просто забываем
-    for vid in list(state["live"]):
-        if state["live"][vid]["cid"] not in cids:
-            del state["live"][vid]
-    for vid, t in state["live"].items():
-        cand.setdefault(vid, (t["name"], t["cid"]))
+    if board:
+        # стримы каналов, которые убрали из списка, просто убираем из поста
+        for vid in list(board["streams"]):
+            if board["streams"][vid]["cid"] not in cids:
+                del board["streams"][vid]
+        for vid, t in board["streams"].items():
+            cand.setdefault(vid, (t["name"], t["cid"]))
 
     videos = {}
     ids = list(cand)
@@ -205,47 +240,67 @@ def run_once():
         print("YouTube не ответил, пропускаю проверку:", e)
         return
 
+    live_now = {}
     for vid, (name, cid) in cand.items():
         v = videos.get(vid)
-        t = state["live"].get(vid)
-        sn = v["snippet"] if v else {}
-        lsd = v.get("liveStreamingDetails", {}) if v else {}
-        is_live = (
-            bool(v)
-            and sn.get("liveBroadcastContent") == "live"
-            and "actualStartTime" in lsd
-            and "actualEndTime" not in lsd
-        )
+        if not v:
+            continue
+        sn = v["snippet"]
+        lsd = v.get("liveStreamingDetails", {})
+        if (sn.get("liveBroadcastContent") == "live"
+                and "actualStartTime" in lsd and "actualEndTime" not in lsd):
+            live_now[vid] = (name, cid, sn, lsd)
 
-        if is_live:
-            has_v = "concurrentViewers" in lsd
-            viewers = int(lsd.get("concurrentViewers") or 0)
-            if not t:
-                t = {
-                    "vid": vid, "cid": cid,
-                    "name": name or sn.get("channelTitle", "?"),
-                    "title": sn.get("title", ""),
-                    "start": lsd["actualStartTime"],
-                    "viewers": viewers, "peak": viewers, "has_viewers": has_v,
-                }
-                cap = caption_live(t, now)
-                msg, photo = post(t, cap, best_thumb(sn))
-                if msg:
-                    t.update(msg=msg, photo=photo, cap=cap)
-                    state["live"][vid] = t
-                    print("Новый стрим:", t["name"], vid)
-            else:
-                t["title"] = sn.get("title", t["title"])
-                t["viewers"] = viewers
-                t["peak"] = max(t["peak"], viewers)
-                t["has_viewers"] = t["has_viewers"] or has_v
-                edit(t, caption_live(t, now))
-        elif t:
-            end = parse_t(lsd["actualEndTime"]) if "actualEndTime" in lsd else now
-            edit(t, caption_end(t, end))
-            del state["live"][vid]
-            print("Стрим закончился:", t["name"], vid)
+    if board is None and not live_now:
+        state["day"] = now.strftime("%Y-%m-%d")
+        save_state(state)
+        return
 
+    if board is None:
+        board = {"msg": None, "streams": {}, "ended": [], "text": ""}
+
+    # обновляем идущие и добавляем новые
+    for vid, (name, cid, sn, lsd) in live_now.items():
+        has_v = "concurrentViewers" in lsd
+        viewers = int(lsd.get("concurrentViewers") or 0)
+        t = board["streams"].get(vid)
+        if not t:
+            t = board["streams"][vid] = {
+                "vid": vid, "cid": cid,
+                "name": name or sn.get("channelTitle", "?"),
+                "start": lsd["actualStartTime"],
+                "peak": viewers, "has_viewers": False,
+            }
+            print("Новый стрим:", t["name"], vid)
+        t["title"] = sn.get("title", "")
+        t["viewers"] = viewers
+        t["peak"] = max(t["peak"], viewers)
+        t["has_viewers"] = t["has_viewers"] or has_v
+
+    # закончившиеся переносим вниз поста
+    for vid in list(board["streams"]):
+        if vid in live_now:
+            continue
+        t = board["streams"].pop(vid)
+        lsd = videos.get(vid, {}).get("liveStreamingDetails", {})
+        end = parse_t(lsd["actualEndTime"]) if "actualEndTime" in lsd else now
+        t["dur"] = fmt_dur((end - parse_t(t["start"])).total_seconds())
+        board["ended"].append(t)
+        print("Стрим закончился:", t["name"], vid)
+
+    if board["msg"] is None:
+        ok = send_board(board, now) if board["streams"] else True
+    else:
+        ok = edit_board(board, now)
+        if ok is None:
+            board["msg"] = None
+            board["ended"] = []
+            ok = send_board(board, now) if board["streams"] else True
+
+    if not board["streams"] and ok:
+        board = None  # все закончили: следующий эфир начнёт новый пост
+
+    state["board"] = board
     state["day"] = now.strftime("%Y-%m-%d")  # раз в сутки коммит, чтобы GitHub не отключил расписание
     save_state(state)
 
