@@ -103,8 +103,16 @@ def resolve(ref, cache):
     if ref in cache:
         return cache[ref]
     m = re.search(r"(UC[\w-]{22})", ref)
+    v = re.search(r"(?:watch\?v=|youtu\.be/|/live/|/shorts/)([\w-]{11})", ref)
     if m:
         cid = m.group(1)
+    elif v:
+        # ссылка на видео/стрим: узнаём, чей это канал
+        items = yt("videos", part="snippet", id=v.group(1)).get("items", [])
+        if not items:
+            print("Видео не найдено:", ref)
+            return None
+        cid = items[0]["snippet"]["channelId"]
     else:
         m = re.search(r"@([\w.\-]+)", ref)
         handle = m.group(1) if m else ref
@@ -234,8 +242,8 @@ def run_once():
     for name, ref in load_channels():
         try:
             cid = resolve(ref, state["ids"])
-            if not cid:
-                continue
+            if not cid or cid in cids:
+                continue  # канал уже есть в списке выше — берём первый ник
             cids.add(cid)
             for vid in recent_videos(cid):
                 cand[vid] = (name, cid)
