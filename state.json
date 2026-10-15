@@ -38,7 +38,7 @@
  },
  "day": "2026-10-15",
  "board": {
-  "msg": 104,
+  "msg": 105,
   "streams": {
    "MlnBtvf6UTc": {
     "vid": "MlnBtvf6UTc",
@@ -48,27 +48,14 @@
     "peak": 138,
     "has_viewers": true,
     "title": "Компы Бархатные",
-    "viewers": 138,
+    "viewers": 126,
     "thumb": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
    }
   },
-  "ended": [
-   {
-    "vid": "nLyVQQaxTJc",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-15T00:59:36Z",
-    "peak": 62,
-    "has_viewers": true,
-    "title": "kaka",
-    "viewers": 62,
-    "thumb": "https://i.ytimg.com/vi/nLyVQQaxTJc/maxresdefault_live.jpg",
-    "dur": "1 ч 40 мин"
-   }
-  ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ</b> · 1\n\n▶️ <a href=\"https://youtu.be/MlnBtvf6UTc\"><b>Дон Грязь</b></a>\n👁 138   ⏱ 6 ч 31 мин\n<i>Компы Бархатные</i>\n\n<b>Закончили:</b>\n▫️ <a href=\"https://youtu.be/nLyVQQaxTJc\">Гундос</a> · 1 ч 40 мин · пик 👁 62",
-  "created": "2026-10-15T01:59:43.982787+00:00",
-  "kind": "photo",
+  "ended": [],
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/MlnBtvf6UTc\">Дон Грязь</a></b> · 126 👁 · 6 ч 36 мин\n└ Компы Бархатные",
+  "created": "2026-10-15T02:45:03.414465+00:00",
+  "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
  }
 }
