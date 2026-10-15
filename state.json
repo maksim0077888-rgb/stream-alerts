@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "ИТУХ ТВ",
     "thumb": "https://i.ytimg.com/vi/VwUKKWyxfPM/maxresdefault_live.jpg",
-    "viewers": 681
+    "viewers": 661
    },
-   "Gd7qQg3KvnU": {
-    "vid": "Gd7qQg3KvnU",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-10-15T14:35:08Z",
-    "peak": 5159,
+   "8Z3JdPByCuc": {
+    "vid": "8Z3JdPByCuc",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-15T17:12:49Z",
+    "peak": 135,
     "has_viewers": true,
-    "title": "Days Come",
-    "thumb": "https://i.ytimg.com/vi/Gd7qQg3KvnU/maxresdefault_live.jpg",
-    "viewers": 4464
+    "title": "Кайли Дженнер у меня в студии в студии🔥❤️",
+    "thumb": "https://i.ytimg.com/vi/8Z3JdPByCuc/maxresdefault_live.jpg",
+    "viewers": 135
    }
   },
   "ended": [
@@ -76,9 +76,21 @@
     "thumb": "https://i.ytimg.com/vi/J7ezbLjE1TI/maxresdefault_live.jpg",
     "viewers": 471,
     "dur": "3 ч 18 мин"
+   },
+   {
+    "vid": "Gd7qQg3KvnU",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-10-15T14:35:08Z",
+    "peak": 5159,
+    "has_viewers": true,
+    "title": "Days Come",
+    "thumb": "https://i.ytimg.com/vi/Gd7qQg3KvnU/maxresdefault_live.jpg",
+    "viewers": 4464,
+    "dur": "2 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Gd7qQg3KvnU\">ПАПИЧ</a></b> · 4464 👁 · 2 ч 25 мин\n└ Days Come\n\n<b><a href=\"https://youtu.be/VwUKKWyxfPM\">Гундос</a></b> · 681 👁 · 2 ч 26 мин\n└ ИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/VwUKKWyxfPM\">Гундос</a></b> · 661 👁 · 2 ч 41 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/8Z3JdPByCuc\">Дон Грязь</a></b> · 135 👁 · 2 мин\n└ Кайли Дженнер у меня в студии в студии🔥❤️",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
