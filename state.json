@@ -41,27 +41,16 @@
  "board": {
   "msg": 107,
   "streams": {
-   "VwUKKWyxfPM": {
-    "vid": "VwUKKWyxfPM",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-15T14:34:09Z",
-    "peak": 681,
-    "has_viewers": true,
-    "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/VwUKKWyxfPM/maxresdefault_live.jpg",
-    "viewers": 405
-   },
    "_bVxYBRVDUo": {
     "vid": "_bVxYBRVDUo",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-15T20:13:29Z",
-    "peak": 939,
+    "peak": 1171,
     "has_viewers": true,
     "title": "Мы тут",
     "thumb": "https://i.ytimg.com/vi/_bVxYBRVDUo/sddefault_live.jpg",
-    "viewers": 927
+    "viewers": 1171
    }
   },
   "ended": [
@@ -100,9 +89,21 @@
     "thumb": "https://i.ytimg.com/vi/8Z3JdPByCuc/maxresdefault_live.jpg",
     "viewers": 1194,
     "dur": "2 ч 59 мин"
+   },
+   {
+    "vid": "VwUKKWyxfPM",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-15T14:34:09Z",
+    "peak": 681,
+    "has_viewers": true,
+    "title": "ИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/VwUKKWyxfPM/maxresdefault_live.jpg",
+    "viewers": 405,
+    "dur": "6 ч 24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/_bVxYBRVDUo\">Дон Грязь</a></b> · 927 👁 · 31 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/VwUKKWyxfPM\">Гундос</a></b> · 405 👁 · 6 ч 11 мин\n└ ИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/_bVxYBRVDUo\">Дон Грязь</a></b> · 1171 👁 · 47 мин\n└ Мы тут",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
