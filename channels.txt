@@ -1,5 +1,5 @@
 # Один стример на строку:  Ник | ссылка на YouTube-канал
-# Ссылка: https://www.youtube.com/@handle  или ID канала (UC...)
+# Ссылка: https://www.youtube.com/@handle, ID канала (UC...) или ссылка на любой его стрим/видео
 # Строки с # бот пропускает.
 
 Дон Грязь | https://www.youtube.com/@Don_gryaz7
@@ -14,11 +14,8 @@
 Шкила | https://www.youtube.com/@shkilatv-357
 Демон | https://www.youtube.com/@Бертолет
 Усадьба | https://www.youtube.com/@УсадьбаСПБ
-Усадьба | https://www.youtube.com/channel/UCyOxBkR6oD17PzazUVYYm4g
 Усадьба | https://www.youtube.com/channel/UCZ8SuUO7UgbnG6D9IixWp3Q
-Усадьба | https://www.youtube.com/channel/UCI-ZU17_2PCHErgwMg8TaLA
 Усадьба | https://www.youtube.com/channel/UChXHXVfN6Q3mnuwwzCIcU1Q
-Усадьба | https://www.youtube.com/channel/UCcdE7c1twckliSbtU_-Wv5Q
 Селянин | https://www.youtube.com/@ПОКЕМОНЫ-й7о
 МАЭСТРО | https://www.youtube.com/channel/UCMRTBgQwUKOig7S8G4yXosg
 Гундос | https://www.youtube.com/@ПиздарванкиКамеры
@@ -38,3 +35,4 @@
 Федук | https://www.youtube.com/@ФИЛЯЙ-ФИЛЯЙ2.0
 Федук | https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g
 Гадик | https://www.youtube.com/@GADICK3200
+Don Simon | https://www.youtube.com/watch?v=hn69kR7KNv8
