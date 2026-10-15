@@ -26,10 +26,11 @@
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Селюк3",
     "start": "2026-10-14T20:08:32Z",
-    "peak": 115,
+    "peak": 129,
     "has_viewers": true,
     "title": "Компы Бархатные",
-    "viewers": 115
+    "viewers": 129,
+    "thumb": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
    },
    "nLyVQQaxTJc": {
     "vid": "nLyVQQaxTJc",
@@ -39,7 +40,8 @@
     "peak": 42,
     "has_viewers": true,
     "title": "kaka",
-    "viewers": 42
+    "viewers": 39,
+    "thumb": "https://i.ytimg.com/vi/nLyVQQaxTJc/maxresdefault_live.jpg"
    }
   },
   "ended": [],
