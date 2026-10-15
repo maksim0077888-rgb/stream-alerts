@@ -1,34 +1,49 @@
 {
  "ids": {
-  "https://www.youtube.com/@LofiGirl": "UCSJ4gkVC6NrvII8umztf0Ow"
+  "https://www.youtube.com/@LofiGirl": "UCSJ4gkVC6NrvII8umztf0Ow",
+  "https://www.youtube.com/@Don_gryaz7": "UCEGkf3wJTjcDX97lG-O1jlg",
+  "https://www.youtube.com/@Don_gryaz97": "UCcUNTjgQSJU_u1ijq7IkQdw",
+  "https://www.youtube.com/@Don_gryaz69": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+  "https://www.youtube.com/@germanjagodka": "UC0QxXv06SBMMR6VcAsGjVCA",
+  "https://www.youtube.com/@LarIBeF": "UCBhHZORBNdh1v27jr4Ey42g",
+  "https://www.youtube.com/@ВАЛЕНТИН_ГАНИЧЕВ_ДЕПУТАТ": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+  "https://www.youtube.com/@SHKILLA-357": "UCeOF4ZHgHtotuGc07sVH2Pw",
+  "https://www.youtube.com/@shkilla35749": "UCslZVm-WgC0KpEgdxiHk9Ng",
+  "https://www.youtube.com/@Бертолет": "UCDxns5jCJ09P4zCe_Kpyblg",
+  "https://www.youtube.com/@УсадьбаСПБ": "UCcdE7c1twckliSbtU_-Wv5Q",
+  "https://www.youtube.com/@ПОКЕМОНЫ-й7о": "UCyOxBkR6oD17PzazUVYYm4g",
+  "https://www.youtube.com/channel/UCMRTBgQwUKOig7S8G4yXosg": "UCMRTBgQwUKOig7S8G4yXosg",
+  "https://www.youtube.com/@ПиздарванкиКамеры": "UCI-ZU17_2PCHErgwMg8TaLA",
+  "https://www.youtube.com/@SpitefulDick": "UCbt5BCs0aUDgNwRaUnKtXwA",
+  "https://www.youtube.com/@stasivanoF": "UCGZvpQlc9dMl30uqbx7scHA"
  },
- "live": {
-  "vadHXNBy4jQ": {
-   "vid": "vadHXNBy4jQ",
-   "cid": "UCSJ4gkVC6NrvII8umztf0Ow",
-   "name": "Тест",
-   "title": "8h of halloween lofi 🎃 spooky ambience to get chills to",
-   "start": "2026-10-14T16:00:06Z",
-   "viewers": 0,
-   "peak": 0,
-   "has_viewers": false,
-   "msg": 101,
-   "photo": true,
-   "cap": "🔴 <b>Тест</b> в эфире\n8h of halloween lofi 🎃 spooky ambience to get chills to\n\nидёт 7 ч 32 мин\n<a href=\"https://youtu.be/vadHXNBy4jQ\">Смотреть стрим</a>"
+ "day": "2026-10-15",
+ "board": {
+  "msg": 103,
+  "streams": {
+   "MlnBtvf6UTc": {
+    "vid": "MlnBtvf6UTc",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Селюк3",
+    "start": "2026-10-14T20:08:32Z",
+    "peak": 115,
+    "has_viewers": true,
+    "title": "Компы Бархатные",
+    "viewers": 115
+   },
+   "nLyVQQaxTJc": {
+    "vid": "nLyVQQaxTJc",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-15T00:59:36Z",
+    "peak": 42,
+    "has_viewers": true,
+    "title": "kaka",
+    "viewers": 42
+   }
   },
-  "1-LpQekNa9g": {
-   "vid": "1-LpQekNa9g",
-   "cid": "UCSJ4gkVC6NrvII8umztf0Ow",
-   "name": "Тест",
-   "title": "24/7 halloween ambience 🎃 spooky lofi to get chills to",
-   "start": "2026-10-01T17:00:26Z",
-   "viewers": 3247,
-   "peak": 3247,
-   "has_viewers": true,
-   "msg": 102,
-   "photo": true,
-   "cap": "🔴 <b>Тест</b> в эфире\n24/7 halloween ambience 🎃 spooky lofi to get chills to\n\n👁 3247 · идёт 318 ч 31 мин\n<a href=\"https://youtu.be/1-LpQekNa9g\">Смотреть стрим</a>"
-  }
- },
- "day": "2026-10-14"
+  "ended": [],
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ</b>\n\n<b>Селюк3</b> — Компы Бархатные\n👁 115 · идёт 5 ч 40 мин · <a href=\"https://youtu.be/MlnBtvf6UTc\">смотреть</a>\n\n<b>Гундос</b> — kaka\n👁 42 · идёт 49 мин · <a href=\"https://youtu.be/nLyVQQaxTJc\">смотреть</a>",
+  "created": "2026-10-15T01:49:06.428030+00:00"
+ }
 }
