@@ -124,7 +124,7 @@ def recent_videos(cid):
 
 # ---------- текст поста ----------
 
-CAPTION_MAX = 1024  # лимит подписи к фото в Telegram
+TEXT_MAX = 4000  # лимит длины сообщения в Telegram
 
 
 def parse_t(s):
@@ -152,61 +152,37 @@ def live_sorted(board):
     return sorted(board["streams"].values(), key=lambda t: -t["viewers"])
 
 
-def _render(board, now, live, ended, title_len):
-    e = html.escape
-    if live:
-        parts = ["🔴 <b>СЕЙЧАС В ЭФИРЕ</b> · %d" % len(live)]
-    else:
-        parts = ["⚫️ <b>Сейчас никого нет в эфире</b>"]
-
-    for t in live:
-        dur = fmt_dur((now - parse_t(t["start"])).total_seconds())
-        eye = ("👁 %d   " % t["viewers"]) if t["has_viewers"] else ""
-        block = "▶️ <a href=\"https://youtu.be/%s\"><b>%s</b></a>\n%s⏱ %s" % (
-            t["vid"], e(t["name"]), eye, dur)
-        if title_len and t.get("title"):
-            block += "\n<i>%s</i>" % e(short(t["title"], title_len))
-        parts.append(block)
-
-    if ended:
-        lines = ["<b>Закончили:</b>" if live else "<b>Последние эфиры:</b>"]
-        for t in reversed(ended):
-            peak = (" · пик 👁 %d" % t["peak"]) if t["has_viewers"] else ""
-            lines.append("▫️ <a href=\"https://youtu.be/%s\">%s</a> · %s%s" % (
-                t["vid"], e(t["name"]), t["dur"], peak))
-        parts.append("\n".join(lines))
-
-    return "\n\n".join(parts)
-
-
 def build_text(board, now):
-    """Собирает подпись так, чтобы влезла в лимит Telegram."""
+    """Строгий текстовый пост: только те, кто сейчас в эфире."""
+    e = html.escape
     live = live_sorted(board)
-    ended = list(board["ended"])
-    for title_len in (60, 35, 0):
-        cur = list(ended)
-        while True:
-            text = _render(board, now, live, cur, title_len)
-            if len(text) <= CAPTION_MAX or not cur:
-                break
-            cur.pop(0)  # убираем самые старые закончившиеся
-        if len(text) <= CAPTION_MAX:
+    if not live:
+        return "⚫️ <b>Сейчас никого нет в эфире</b>"
+
+    def render(items, title_len, more=0):
+        parts = ["🔴 <b>СЕЙЧАС В ЭФИРЕ — %d</b>" % len(live)]
+        for t in items:
+            dur = fmt_dur((now - parse_t(t["start"])).total_seconds())
+            line = "<b><a href=\"https://youtu.be/%s\">%s</a></b>" % (t["vid"], e(t["name"]))
+            if t["has_viewers"]:
+                line += " · %d 👁" % t["viewers"]
+            line += " · %s" % dur
+            if title_len and t.get("title"):
+                line += "\n└ %s" % e(short(t["title"], title_len))
+            parts.append(line)
+        if more:
+            parts.append("…и ещё %d" % more)
+        return "\n\n".join(parts)
+
+    for title_len in (50, 30, 0):
+        text = render(live, title_len)
+        if len(text) <= TEXT_MAX:
             return text
-    # совсем много стримов: показываем первых, остальных числом
     for n in range(len(live) - 1, 0, -1):
-        text = _render(board, now, live[:n], [], 0) + "\n\n…и ещё %d" % (len(live) - n)
-        if len(text) <= CAPTION_MAX:
+        text = render(live[:n], 0, len(live) - n)
+        if len(text) <= TEXT_MAX:
             return text
-    return text[:CAPTION_MAX]
-
-
-def cover(board):
-    """Картинка поста: превью самого популярного стрима (или последнего)."""
-    live = live_sorted(board)
-    for t in live + list(reversed(board["ended"])):
-        if t.get("thumb"):
-            return t["thumb"]
-    return None
+    return text[:TEXT_MAX]
 
 
 def _gone(r):
@@ -217,43 +193,27 @@ def _gone(r):
 
 def send_board(board, now):
     text = build_text(board, now)
-    pic = cover(board)
-    r = {"ok": False}
-    if pic:
-        r = tg("sendPhoto", chat_id=TG_CHAT, photo=pic, caption=text, parse_mode="HTML")
-        board["kind"], board["pic"] = "photo", pic
-    if not r.get("ok"):
-        r = tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
-               disable_web_page_preview="true")
-        board["kind"], board["pic"] = "text", None
+    r = tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
+           disable_web_page_preview="true")
     if r.get("ok"):
         board["msg"] = r["result"]["message_id"]
         board["text"] = text
+        board["kind"] = "text"
         board["created"] = now.isoformat()
         return True
     return False
 
 
 def edit_board(board, now):
+    if board.get("kind") == "photo":
+        # пост старого вида (с картинкой): удаляем, бот сделает новый текстовый
+        tg("deleteMessage", chat_id=TG_CHAT, message_id=board["msg"])
+        return None
     text = build_text(board, now)
-    pic = cover(board)
-    if board.get("kind") == "photo" and pic and pic != board.get("pic"):
-        # сменился самый популярный стрим — меняем картинку
-        media = json.dumps({"type": "photo", "media": pic, "caption": text, "parse_mode": "HTML"})
-        r = tg("editMessageMedia", chat_id=TG_CHAT, message_id=board["msg"], media=media)
-        if r.get("ok"):
-            board["pic"], board["text"] = pic, text
-            return True
-        if _gone(r):
-            return None
     if text == board.get("text"):
         return True
-    if board.get("kind") == "photo":
-        r = tg("editMessageCaption", chat_id=TG_CHAT, message_id=board["msg"],
-               caption=text, parse_mode="HTML")
-    else:
-        r = tg("editMessageText", chat_id=TG_CHAT, message_id=board["msg"], text=text,
-               parse_mode="HTML", disable_web_page_preview="true")
+    r = tg("editMessageText", chat_id=TG_CHAT, message_id=board["msg"], text=text,
+           parse_mode="HTML", disable_web_page_preview="true")
     if r.get("ok"):
         board["text"] = text
         return True
