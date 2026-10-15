@@ -333,6 +333,7 @@ def run_once():
                 "peak": viewers, "has_viewers": False,
             }
             print("Новый стрим:", t["name"], vid)
+        t["name"] = name or sn.get("channelTitle", t["name"])  # ник из channels.txt, если его поменяли
         t["title"] = sn.get("title", "")
         t["thumb"] = best_thumb(sn) or t.get("thumb")
         t["viewers"] = viewers
