@@ -2,18 +2,39 @@
 # Ссылка: https://www.youtube.com/@handle  или ID канала (UC...)
 # Строки с # бот пропускает.
 
-Селюк | https://www.youtube.com/@Don_gryaz7
-Селюк2 | https://www.youtube.com/@Don_gryaz97
-Селюк3 | https://www.youtube.com/@Don_gryaz69
+Дон Грязь | https://www.youtube.com/@Don_gryaz7
+Дон Грязь | https://www.youtube.com/@Don_gryaz97
+Дон Грязь | https://www.youtube.com/@Don_gryaz69
+Дон Грязь | https://www.youtube.com/@Don_gryaz9
 Герман Ягодка | https://www.youtube.com/@germanjagodka
 Педосеев | https://www.youtube.com/@LarIBeF
 Депутат | https://www.youtube.com/@ВАЛЕНТИН_ГАНИЧЕВ_ДЕПУТАТ
 Шкила | https://www.youtube.com/@SHKILLA-357
-Шкила 2 | https://www.youtube.com/@shkilla35749
+Шкила | https://www.youtube.com/@shkilla35749
+Шкила | https://www.youtube.com/@shkilatv-357
 Демон | https://www.youtube.com/@Бертолет
 Усадьба | https://www.youtube.com/@УсадьбаСПБ
+Усадьба | https://www.youtube.com/channel/UCyOxBkR6oD17PzazUVYYm4g
+Усадьба | https://www.youtube.com/channel/UCZ8SuUO7UgbnG6D9IixWp3Q
+Усадьба | https://www.youtube.com/channel/UCI-ZU17_2PCHErgwMg8TaLA
+Усадьба | https://www.youtube.com/channel/UChXHXVfN6Q3mnuwwzCIcU1Q
+Усадьба | https://www.youtube.com/channel/UCcdE7c1twckliSbtU_-Wv5Q
 Селянин | https://www.youtube.com/@ПОКЕМОНЫ-й7о
 МАЭСТРО | https://www.youtube.com/channel/UCMRTBgQwUKOig7S8G4yXosg
 Гундос | https://www.youtube.com/@ПиздарванкиКамеры
 ПАПИЧ | https://www.youtube.com/@SpitefulDick
 Рифляй | https://www.youtube.com/@stasivanoF
+Ахиллес | https://www.youtube.com/@perseuslix
+Ахиллес | https://www.youtube.com/@flacostan
+Костя Вайт | https://www.youtube.com/@KonstantinWhite777
+Школа Сук | https://www.youtube.com/@bitchzschool
+Майвен | https://www.youtube.com/channel/UCJS0jZa8ni56vHz305CWBdQ
+Гусь | https://www.youtube.com/channel/UCglOZWO-WsYCYsR4zMj0rzA
+Ната | https://www.youtube.com/channel/UCLzk5RtehbFUzgySAa0iw8Q
+Болодя Проздник | https://www.youtube.com/channel/UCg34s6DMYy-euGDpqtQ1Gog
+Добрый дом | https://www.youtube.com/channel/UCUUvcBSRk7O0jfPishCvYUw
+Коля и Оля | https://www.youtube.com/@513benja
+Чвид и Вайт | https://www.youtube.com/channel/UCY9ZDZ3R5_dBdMbUY6iQNxA
+Федук | https://www.youtube.com/@ФИЛЯЙ-ФИЛЯЙ2.0
+Федук | https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g
+Гадик | https://www.youtube.com/@GADICK3200
