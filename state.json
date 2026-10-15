@@ -41,27 +41,27 @@
  "board": {
   "msg": 107,
   "streams": {
-   "SRC3OggvJW4": {
-    "vid": "SRC3OggvJW4",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-15T22:51:46Z",
-    "peak": 103,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/SRC3OggvJW4/maxresdefault_live.jpg",
-    "viewers": 103
-   },
    "LEc_Cus_tl4": {
     "vid": "LEc_Cus_tl4",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-15T23:10:47Z",
-    "peak": 411,
+    "peak": 601,
     "has_viewers": true,
     "title": "Мы тут",
     "thumb": "https://i.ytimg.com/vi/LEc_Cus_tl4/sddefault_live.jpg",
-    "viewers": 411
+    "viewers": 601
+   },
+   "O3oI6p759tU": {
+    "vid": "O3oI6p759tU",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-15T23:19:16Z",
+    "peak": 105,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/O3oI6p759tU/maxresdefault_live.jpg",
+    "viewers": 105
    }
   },
   "ended": [
@@ -124,9 +124,21 @@
     "thumb": "https://i.ytimg.com/vi/_bVxYBRVDUo/sddefault_live.jpg",
     "viewers": 1266,
     "dur": "2 ч 56 мин"
+   },
+   {
+    "vid": "SRC3OggvJW4",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-15T22:51:46Z",
+    "peak": 103,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/SRC3OggvJW4/maxresdefault_live.jpg",
+    "viewers": 103,
+    "dur": "27 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/LEc_Cus_tl4\">Дон Грязь</a></b> · 411 👁 · 4 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/SRC3OggvJW4\">Гундос</a></b> · 103 👁 · 23 мин\n└ ТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/LEc_Cus_tl4\">Дон Грязь</a></b> · 601 👁 · 19 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/O3oI6p759tU\">Гундос</a></b> · 105 👁 · 11 мин\n└ УХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
