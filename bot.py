@@ -211,7 +211,8 @@ def cover(board):
 
 def _gone(r):
     desc = (r.get("description") or "").lower()
-    return "not found" in desc or "can't be edited" in desc
+    return ("not found" in desc or "can't be edited" in desc
+            or "message_id_invalid" in desc)
 
 
 def send_board(board, now):
