@@ -38,20 +38,8 @@
  },
  "day": "2026-10-15",
  "board": {
-  "msg": 105,
-  "streams": {
-   "MlnBtvf6UTc": {
-    "vid": "MlnBtvf6UTc",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-14T20:08:32Z",
-    "peak": 138,
-    "has_viewers": true,
-    "title": "Компы Бархатные",
-    "viewers": 126,
-    "thumb": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
-   }
-  },
+  "msg": null,
+  "streams": {},
   "ended": [],
   "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/MlnBtvf6UTc\">Дон Грязь</a></b> · 126 👁 · 6 ч 36 мин\n└ Компы Бархатные",
   "created": "2026-10-15T02:45:03.414465+00:00",
