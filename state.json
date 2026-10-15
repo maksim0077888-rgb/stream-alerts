@@ -19,7 +19,7 @@
  },
  "day": "2026-10-15",
  "board": {
-  "msg": 103,
+  "msg": 104,
   "streams": {
    "MlnBtvf6UTc": {
     "vid": "MlnBtvf6UTc",
@@ -29,7 +29,7 @@
     "peak": 129,
     "has_viewers": true,
     "title": "Компы Бархатные",
-    "viewers": 129,
+    "viewers": 104,
     "thumb": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
    },
    "nLyVQQaxTJc": {
@@ -37,15 +37,17 @@
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-15T00:59:36Z",
-    "peak": 42,
+    "peak": 62,
     "has_viewers": true,
     "title": "kaka",
-    "viewers": 39,
+    "viewers": 62,
     "thumb": "https://i.ytimg.com/vi/nLyVQQaxTJc/maxresdefault_live.jpg"
    }
   },
   "ended": [],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ</b>\n\n<b>Селюк3</b> — Компы Бархатные\n👁 115 · идёт 5 ч 40 мин · <a href=\"https://youtu.be/MlnBtvf6UTc\">смотреть</a>\n\n<b>Гундос</b> — kaka\n👁 42 · идёт 49 мин · <a href=\"https://youtu.be/nLyVQQaxTJc\">смотреть</a>",
-  "created": "2026-10-15T01:49:06.428030+00:00"
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ</b> · 2\n\n▶️ <a href=\"https://youtu.be/MlnBtvf6UTc\"><b>Селюк3</b></a>\n👁 104   ⏱ 5 ч 51 мин\n<i>Компы Бархатные</i>\n\n▶️ <a href=\"https://youtu.be/nLyVQQaxTJc\"><b>Гундос</b></a>\n👁 62   ⏱ 1 ч 00 мин\n<i>kaka</i>",
+  "created": "2026-10-15T01:59:43.982787+00:00",
+  "kind": "photo",
+  "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
  }
 }
