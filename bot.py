@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """YouTube -> Telegram: оповещения о трансляциях.
 
-Все идущие стримы собираются в ОДИН пост. Пока кто-то в эфире,
-бот редактирует этот пост (онлайн, длительность, новые стримы).
-Когда все закончили, пост меняется на «Сейчас никого нет в эфире»,
-и следующий эфир начнёт новый пост.
+Все стримы собираются в ОДИН пост, бот его редактирует
+(онлайн, длительность, новые стримы, «никого нет в эфире»).
+Новый пост с уведомлением — не чаще раза в POST_EVERY_HOURS часов.
 
 Один запуск = одна проверка (так работает на GitHub Actions).
 Для запуска на своём компе: python bot.py --loop 120  (проверка каждые 120 сек).
@@ -23,6 +22,11 @@ from datetime import datetime, timezone
 TG_TOKEN = os.environ["TG_TOKEN"]
 TG_CHAT = os.environ["TG_CHAT"]
 YT_KEY = os.environ["YT_KEY"]
+
+# КД: новый пост (с уведомлением) не чаще, чем раз в столько часов.
+# Всё, что происходит в это время, бот дописывает в старый пост.
+POST_EVERY_HOURS = 24
+ENDED_MAX = 15  # сколько последних эфиров держать в посте
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 STATE_FILE = os.path.join(BASE, "state.json")
@@ -182,6 +186,7 @@ def send_board(board, now):
     if r.get("ok"):
         board["msg"] = r["result"]["message_id"]
         board["text"] = text
+        board["created"] = now.isoformat()
         return True
     return False
 
@@ -286,6 +291,7 @@ def run_once():
         end = parse_t(lsd["actualEndTime"]) if "actualEndTime" in lsd else now
         t["dur"] = fmt_dur((end - parse_t(t["start"])).total_seconds())
         board["ended"].append(t)
+        board["ended"] = board["ended"][-ENDED_MAX:]
         print("Стрим закончился:", t["name"], vid)
 
     if board["msg"] is None:
@@ -298,7 +304,10 @@ def run_once():
             ok = send_board(board, now) if board["streams"] else True
 
     if not board["streams"] and ok:
-        board = None  # все закончили: следующий эфир начнёт новый пост
+        # никого нет: пост висит «никого нет в эфире»
+        created = board.get("created")
+        if not created or (now - parse_t(created)).total_seconds() >= POST_EVERY_HOURS * 3600:
+            board = None  # КД прошёл: следующий эфир начнёт новый пост
 
     state["board"] = board
     state["day"] = now.strftime("%Y-%m-%d")  # раз в сутки коммит, чтобы GitHub не отключил расписание
