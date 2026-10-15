@@ -40,7 +40,30 @@
  "day": "2026-10-15",
  "board": {
   "msg": 107,
-  "streams": {},
+  "streams": {
+   "VwUKKWyxfPM": {
+    "vid": "VwUKKWyxfPM",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-15T14:34:09Z",
+    "peak": 187,
+    "has_viewers": true,
+    "title": "ИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/VwUKKWyxfPM/maxresdefault_live.jpg",
+    "viewers": 187
+   },
+   "Gd7qQg3KvnU": {
+    "vid": "Gd7qQg3KvnU",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-10-15T14:35:08Z",
+    "peak": 3465,
+    "has_viewers": true,
+    "title": "Days Come",
+    "thumb": "https://i.ytimg.com/vi/Gd7qQg3KvnU/maxresdefault_live.jpg",
+    "viewers": 3465
+   }
+  },
   "ended": [
    {
     "vid": "J7ezbLjE1TI",
@@ -55,7 +78,7 @@
     "dur": "3 ч 18 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Gd7qQg3KvnU\">ПАПИЧ</a></b> · 3465 👁 · 10 мин\n└ Days Come\n\n<b><a href=\"https://youtu.be/VwUKKWyxfPM\">Гундос</a></b> · 187 👁 · 11 мин\n└ ИТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
