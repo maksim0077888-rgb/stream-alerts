@@ -27,6 +27,7 @@ YT_KEY = os.environ["YT_KEY"]
 # Всё, что происходит в это время, бот дописывает в старый пост.
 POST_EVERY_HOURS = 24
 ENDED_MAX = 15  # сколько последних эфиров держать в посте
+DELETE_OLD = True  # удалять пост, когда он устарел (никого нет и прошли сутки)
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 STATE_FILE = os.path.join(BASE, "state.json")
@@ -307,7 +308,11 @@ def run_once():
         # никого нет: пост висит «никого нет в эфире»
         created = board.get("created")
         if not created or (now - parse_t(created)).total_seconds() >= POST_EVERY_HOURS * 3600:
-            board = None  # КД прошёл: следующий эфир начнёт новый пост
+            # КД прошёл: пост устарел, удаляем его; следующий эфир начнёт новый
+            if DELETE_OLD and board.get("msg"):
+                r = tg("deleteMessage", chat_id=TG_CHAT, message_id=board["msg"])
+                print("Старый пост удалён" if r.get("ok") else "Не смог удалить старый пост")
+            board = None
 
     state["board"] = board
     state["day"] = now.strftime("%Y-%m-%d")  # раз в сутки коммит, чтобы GitHub не отключил расписание
