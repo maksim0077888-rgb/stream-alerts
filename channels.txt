@@ -1,6 +1,19 @@
 # Один стример на строку:  Ник | ссылка на YouTube-канал
 # Ссылка: https://www.youtube.com/@handle  или ID канала (UC...)
 # Строки с # бот пропускает.
-#
-# Для теста — канал, который в эфире круглосуточно (потом удали эту строку):
-Тест | https://www.youtube.com/@LofiGirl
+
+Селюк | https://www.youtube.com/@Don_gryaz7
+Селюк2 | https://www.youtube.com/@Don_gryaz97
+Селюк3 | https://www.youtube.com/@Don_gryaz69
+Герман Ягодка | https://www.youtube.com/@germanjagodka
+Педосеев | https://www.youtube.com/@LarIBeF
+Депутат | https://www.youtube.com/@ВАЛЕНТИН_ГАНИЧЕВ_ДЕПУТАТ
+Шкила | https://www.youtube.com/@SHKILLA-357
+Шкила 2 | https://www.youtube.com/@shkilla35749
+Демон | https://www.youtube.com/@Бертолет
+Усадьба | https://www.youtube.com/@УсадьбаСПБ
+Селянин | https://www.youtube.com/@ПОКЕМОНЫ-й7о
+МАЭСТРО | https://www.youtube.com/channel/UCMRTBgQwUKOig7S8G4yXosg
+Гундос | https://www.youtube.com/@ПиздарванкиКамеры
+ПАПИЧ | https://www.youtube.com/@SpitefulDick
+Рифляй | https://www.youtube.com/@stasivanoF
