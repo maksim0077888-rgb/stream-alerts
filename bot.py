@@ -124,66 +124,107 @@ def recent_videos(cid):
 
 # ---------- текст поста ----------
 
+CAPTION_MAX = 1024  # лимит подписи к фото в Telegram
+
+
 def parse_t(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
 
 
 def fmt_dur(sec):
     h, m = divmod(max(0, int(sec)) // 60, 60)
-    return "%d ч %d мин" % (h, m) if h else "%d мин" % m
+    return "%d ч %02d мин" % (h, m) if h else "%d мин" % m
 
 
-def short(s, n=70):
+def short(s, n):
     return s if len(s) <= n else s[:n - 1].rstrip() + "…"
+
+
+def best_thumb(sn):
+    th = sn.get("thumbnails", {})
+    for k in ("maxres", "standard", "high", "medium", "default"):
+        if k in th:
+            return th[k]["url"]
+    return None
 
 
 def live_sorted(board):
     return sorted(board["streams"].values(), key=lambda t: -t["viewers"])
 
 
-def build_text(board, now):
+def _render(board, now, live, ended, title_len):
     e = html.escape
-    live = live_sorted(board)
-    parts = ["🔴 <b>СЕЙЧАС В ЭФИРЕ</b>" if live else "⚫️ <b>Сейчас никого нет в эфире</b>"]
+    if live:
+        parts = ["🔴 <b>СЕЙЧАС В ЭФИРЕ</b> · %d" % len(live)]
+    else:
+        parts = ["⚫️ <b>Сейчас никого нет в эфире</b>"]
 
     for t in live:
         dur = fmt_dur((now - parse_t(t["start"])).total_seconds())
-        eye = ("👁 %d · " % t["viewers"]) if t["has_viewers"] else ""
-        parts.append(
-            "<b>%s</b> — %s\n%sидёт %s · <a href=\"https://youtu.be/%s\">смотреть</a>"
-            % (e(t["name"]), e(short(t["title"])), eye, dur, t["vid"])
-        )
+        eye = ("👁 %d   " % t["viewers"]) if t["has_viewers"] else ""
+        block = "▶️ <a href=\"https://youtu.be/%s\"><b>%s</b></a>\n%s⏱ %s" % (
+            t["vid"], e(t["name"]), eye, dur)
+        if title_len and t.get("title"):
+            block += "\n<i>%s</i>" % e(short(t["title"], title_len))
+        parts.append(block)
 
-    if board["ended"]:
-        lines = ["⚫️ <b>Закончили:</b>" if live else "<b>Последние эфиры:</b>"]
-        for t in board["ended"]:
+    if ended:
+        lines = ["<b>Закончили:</b>" if live else "<b>Последние эфиры:</b>"]
+        for t in reversed(ended):
             peak = (" · пик 👁 %d" % t["peak"]) if t["has_viewers"] else ""
-            lines.append(
-                "%s — %s%s · <a href=\"https://youtu.be/%s\">запись</a>"
-                % (e(t["name"]), t["dur"], peak, t["vid"])
-            )
+            lines.append("▫️ <a href=\"https://youtu.be/%s\">%s</a> · %s%s" % (
+                t["vid"], e(t["name"]), t["dur"], peak))
         parts.append("\n".join(lines))
 
-    text = "\n\n".join(parts)
-    return text[:4000]
+    return "\n\n".join(parts)
 
 
-def preview_opts(board):
+def build_text(board, now):
+    """Собирает подпись так, чтобы влезла в лимит Telegram."""
     live = live_sorted(board)
-    src = live[0] if live else (board["ended"][-1] if board["ended"] else None)
-    if not src:
-        return json.dumps({"is_disabled": True})
-    return json.dumps({
-        "url": "https://youtu.be/%s" % src["vid"],
-        "prefer_large_media": True,
-        "show_above_text": True,
-    })
+    ended = list(board["ended"])
+    for title_len in (60, 35, 0):
+        cur = list(ended)
+        while True:
+            text = _render(board, now, live, cur, title_len)
+            if len(text) <= CAPTION_MAX or not cur:
+                break
+            cur.pop(0)  # убираем самые старые закончившиеся
+        if len(text) <= CAPTION_MAX:
+            return text
+    # совсем много стримов: показываем первых, остальных числом
+    for n in range(len(live) - 1, 0, -1):
+        text = _render(board, now, live[:n], [], 0) + "\n\n…и ещё %d" % (len(live) - n)
+        if len(text) <= CAPTION_MAX:
+            return text
+    return text[:CAPTION_MAX]
+
+
+def cover(board):
+    """Картинка поста: превью самого популярного стрима (или последнего)."""
+    live = live_sorted(board)
+    for t in live + list(reversed(board["ended"])):
+        if t.get("thumb"):
+            return t["thumb"]
+    return None
+
+
+def _gone(r):
+    desc = (r.get("description") or "").lower()
+    return "not found" in desc or "can't be edited" in desc
 
 
 def send_board(board, now):
     text = build_text(board, now)
-    r = tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
-           link_preview_options=preview_opts(board))
+    pic = cover(board)
+    r = {"ok": False}
+    if pic:
+        r = tg("sendPhoto", chat_id=TG_CHAT, photo=pic, caption=text, parse_mode="HTML")
+        board["kind"], board["pic"] = "photo", pic
+    if not r.get("ok"):
+        r = tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
+               disable_web_page_preview="true")
+        board["kind"], board["pic"] = "text", None
     if r.get("ok"):
         board["msg"] = r["result"]["message_id"]
         board["text"] = text
@@ -194,15 +235,28 @@ def send_board(board, now):
 
 def edit_board(board, now):
     text = build_text(board, now)
+    pic = cover(board)
+    if board.get("kind") == "photo" and pic and pic != board.get("pic"):
+        # сменился самый популярный стрим — меняем картинку
+        media = json.dumps({"type": "photo", "media": pic, "caption": text, "parse_mode": "HTML"})
+        r = tg("editMessageMedia", chat_id=TG_CHAT, message_id=board["msg"], media=media)
+        if r.get("ok"):
+            board["pic"], board["text"] = pic, text
+            return True
+        if _gone(r):
+            return None
     if text == board.get("text"):
         return True
-    r = tg("editMessageText", chat_id=TG_CHAT, message_id=board["msg"], text=text,
-           parse_mode="HTML", link_preview_options=preview_opts(board))
+    if board.get("kind") == "photo":
+        r = tg("editMessageCaption", chat_id=TG_CHAT, message_id=board["msg"],
+               caption=text, parse_mode="HTML")
+    else:
+        r = tg("editMessageText", chat_id=TG_CHAT, message_id=board["msg"], text=text,
+               parse_mode="HTML", disable_web_page_preview="true")
     if r.get("ok"):
         board["text"] = text
         return True
-    desc = (r.get("description") or "").lower()
-    if "not found" in desc or "can't be edited" in desc:
+    if _gone(r):
         return None  # пост удалили — начнём новый
     return False
 
@@ -279,6 +333,7 @@ def run_once():
             }
             print("Новый стрим:", t["name"], vid)
         t["title"] = sn.get("title", "")
+        t["thumb"] = best_thumb(sn) or t.get("thumb")
         t["viewers"] = viewers
         t["peak"] = max(t["peak"], viewers)
         t["has_viewers"] = t["has_viewers"] or has_v
