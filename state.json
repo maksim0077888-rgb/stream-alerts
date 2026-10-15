@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "Мы тут",
     "thumb": "https://i.ytimg.com/vi/_bVxYBRVDUo/sddefault_live.jpg",
-    "viewers": 1012
+    "viewers": 1266
+   },
+   "SRC3OggvJW4": {
+    "vid": "SRC3OggvJW4",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-15T22:51:46Z",
+    "peak": 42,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/SRC3OggvJW4/maxresdefault_live.jpg",
+    "viewers": 42
    }
   },
   "ended": [
@@ -103,7 +114,7 @@
     "dur": "6 ч 24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/_bVxYBRVDUo\">Дон Грязь</a></b> · 1012 👁 · 2 ч 31 мин\n└ Мы тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/_bVxYBRVDUo\">Дон Грязь</a></b> · 1266 👁 · 2 ч 47 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/SRC3OggvJW4\">Гундос</a></b> · 42 👁 · 9 мин\n└ ТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
