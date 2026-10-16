@@ -41,27 +41,16 @@
  "board": {
   "msg": 107,
   "streams": {
-   "-OZoSMNKcmw": {
-    "vid": "-OZoSMNKcmw",
-    "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
-    "name": "Демон",
-    "start": "2026-10-16T07:02:26Z",
-    "peak": 321,
-    "has_viewers": true,
-    "title": "test",
-    "thumb": "https://i.ytimg.com/vi/-OZoSMNKcmw/maxresdefault_live.jpg",
-    "viewers": 321
-   },
    "QQSe-bfHY9Y": {
     "vid": "QQSe-bfHY9Y",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-16T08:09:52Z",
-    "peak": 200,
+    "peak": 345,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
     "thumb": "https://i.ytimg.com/vi/QQSe-bfHY9Y/maxresdefault_live.jpg",
-    "viewers": 200
+    "viewers": 345
    }
   },
   "ended": [
@@ -184,9 +173,21 @@
     "thumb": "https://i.ytimg.com/vi/rrVoaD22440/maxresdefault_live.jpg",
     "viewers": 394,
     "dur": "5 ч 48 мин"
+   },
+   {
+    "vid": "-OZoSMNKcmw",
+    "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
+    "name": "Демон",
+    "start": "2026-10-16T07:02:26Z",
+    "peak": 321,
+    "has_viewers": true,
+    "title": "test",
+    "thumb": "https://i.ytimg.com/vi/-OZoSMNKcmw/maxresdefault_live.jpg",
+    "viewers": 321,
+    "dur": "1 ч 25 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/-OZoSMNKcmw\">Демон</a></b> · 321 👁 · 1 ч 13 мин\n└ test\n\n<b><a href=\"https://youtu.be/QQSe-bfHY9Y\">Гундос</a></b> · 200 👁 · 5 мин\n└ ПИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/QQSe-bfHY9Y\">Гундос</a></b> · 345 👁 · 20 мин\n└ ПИТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
