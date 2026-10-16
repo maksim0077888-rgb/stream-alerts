@@ -41,27 +41,27 @@
  "board": {
   "msg": 107,
   "streams": {
-   "QQSe-bfHY9Y": {
-    "vid": "QQSe-bfHY9Y",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-16T08:09:52Z",
-    "peak": 384,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/QQSe-bfHY9Y/maxresdefault_live.jpg",
-    "viewers": 384
-   },
    "vhHJ151DGFI": {
     "vid": "vhHJ151DGFI",
     "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
     "name": "Демон",
     "start": "2026-10-16T08:31:15Z",
-    "peak": 205,
+    "peak": 272,
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 205
+    "viewers": 272
+   },
+   "Fejo8cRlc4g": {
+    "vid": "Fejo8cRlc4g",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-16T08:54:14Z",
+    "peak": 201,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/Fejo8cRlc4g/maxresdefault_live.jpg",
+    "viewers": 201
    }
   },
   "ended": [
@@ -196,9 +196,21 @@
     "thumb": "https://i.ytimg.com/vi/-OZoSMNKcmw/maxresdefault_live.jpg",
     "viewers": 321,
     "dur": "1 ч 25 мин"
+   },
+   {
+    "vid": "QQSe-bfHY9Y",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-16T08:09:52Z",
+    "peak": 384,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/QQSe-bfHY9Y/maxresdefault_live.jpg",
+    "viewers": 384,
+    "dur": "38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/QQSe-bfHY9Y\">Гундос</a></b> · 384 👁 · 35 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 205 👁 · 14 мин\n└ test2232",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 272 👁 · 29 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/Fejo8cRlc4g\">Гундос</a></b> · 201 👁 · 6 мин\n└ ПИТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
