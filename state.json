@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 195
+    "viewers": 183
    },
    "1l7uwLbvx-w": {
     "vid": "1l7uwLbvx-w",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "= Дон Симон - Пятница=",
     "thumb": "https://i.ytimg.com/vi/1l7uwLbvx-w/maxresdefault_live.jpg",
-    "viewers": 103
+    "viewers": 114
    },
    "X8FDrHOUyxA": {
     "vid": "X8FDrHOUyxA",
@@ -72,18 +72,18 @@
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
     "thumb": "https://i.ytimg.com/vi/X8FDrHOUyxA/maxresdefault_live.jpg",
-    "viewers": 497
+    "viewers": 487
    },
    "R11J9XEJTD4": {
     "vid": "R11J9XEJTD4",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-16T11:14:16Z",
-    "peak": 289,
+    "peak": 398,
     "has_viewers": true,
     "title": "Уборочка бархатная",
     "thumb": "https://i.ytimg.com/vi/R11J9XEJTD4/sddefault_live.jpg",
-    "viewers": 289
+    "viewers": 398
    }
   },
   "ended": [
@@ -244,7 +244,7 @@
     "dur": "1 ч 49 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/X8FDrHOUyxA\">Гундос</a></b> · 497 👁 · 46 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/R11J9XEJTD4\">Дон Грязь</a></b> · 289 👁 · 16 мин\n└ Уборочка бархатная\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 195 👁 · 2 ч 59 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 103 👁 · 1 ч 06 мин\n└ = Дон Симон - Пятница=",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/X8FDrHOUyxA\">Гундос</a></b> · 487 👁 · 1 ч 00 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/R11J9XEJTD4\">Дон Грязь</a></b> · 398 👁 · 31 мин\n└ Уборочка бархатная\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 183 👁 · 3 ч 14 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 114 👁 · 1 ч 21 мин\n└ = Дон Симон - Пятница=",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
