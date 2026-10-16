@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 208
+    "viewers": 220
    },
    "1l7uwLbvx-w": {
     "vid": "1l7uwLbvx-w",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "= Дон Симон - Пятница=",
     "thumb": "https://i.ytimg.com/vi/1l7uwLbvx-w/maxresdefault_live.jpg",
-    "viewers": 86
+    "viewers": 103
    },
    "m7pj4df38Jw": {
     "vid": "m7pj4df38Jw",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-16T11:54:04Z",
-    "peak": 494,
+    "peak": 568,
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/m7pj4df38Jw/sddefault_live.jpg",
-    "viewers": 494
+    "viewers": 568
    },
    "H65eEp9fcsk": {
     "vid": "H65eEp9fcsk",
@@ -83,7 +83,7 @@
     "has_viewers": true,
     "title": "Прямой эфир 16.10.2026",
     "thumb": "https://i.ytimg.com/vi/H65eEp9fcsk/maxresdefault_live.jpg",
-    "viewers": 37
+    "viewers": 23
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "1 ч 18 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 494 👁 · 21 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 208 👁 · 3 ч 44 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 86 👁 · 1 ч 51 мин\n└ = Дон Симон - Пятница=\n\n<b><a href=\"https://youtu.be/H65eEp9fcsk\">Депутат</a></b> · 37 👁 · 12 мин\n└ Прямой эфир 16.10.2026",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 568 👁 · 36 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 220 👁 · 3 ч 59 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 103 👁 · 2 ч 06 мин\n└ = Дон Симон - Пятница=\n\n<b><a href=\"https://youtu.be/H65eEp9fcsk\">Депутат</a></b> · 23 👁 · 27 мин\n└ Прямой эфир 16.10.2026",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
