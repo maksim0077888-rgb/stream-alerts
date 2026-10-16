@@ -61,44 +61,32 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 906
+    "viewers": 927
    },
    "KwFMwufgGCY": {
     "vid": "KwFMwufgGCY",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-16T17:29:53Z",
-    "peak": 194,
+    "peak": 198,
     "has_viewers": true,
     "title": "Стрим с вискас,аришей и никитой",
     "thumb": "https://i.ytimg.com/vi/KwFMwufgGCY/maxresdefault_live.jpg",
-    "viewers": 185
+    "viewers": 198
    },
-   "hZi_4gTNNwQ": {
-    "vid": "hZi_4gTNNwQ",
+   "4PQjg_npAZw": {
+    "vid": "4PQjg_npAZw",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
-    "start": "2026-10-16T21:08:32Z",
-    "peak": 106,
+    "start": "2026-10-16T21:16:32Z",
+    "peak": 113,
     "has_viewers": true,
-    "title": "гуляй",
-    "thumb": "https://i.ytimg.com/vi/hZi_4gTNNwQ/maxresdefault_live.jpg",
-    "viewers": 106
+    "title": "туса",
+    "thumb": "https://i.ytimg.com/vi/4PQjg_npAZw/maxresdefault_live.jpg",
+    "viewers": 113
    }
   },
   "ended": [
-   {
-    "vid": "rrVoaD22440",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-16T02:21:33Z",
-    "peak": 437,
-    "has_viewers": true,
-    "title": "П",
-    "thumb": "https://i.ytimg.com/vi/rrVoaD22440/maxresdefault_live.jpg",
-    "viewers": 394,
-    "dur": "5 ч 48 мин"
-   },
    {
     "vid": "-OZoSMNKcmw",
     "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/PTwyCvQ1ovE/maxresdefault_live.jpg",
     "viewers": 7,
     "dur": "6 мин"
+   },
+   {
+    "vid": "hZi_4gTNNwQ",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-16T21:08:32Z",
+    "peak": 106,
+    "has_viewers": true,
+    "title": "гуляй",
+    "thumb": "https://i.ytimg.com/vi/hZi_4gTNNwQ/maxresdefault_live.jpg",
+    "viewers": 106,
+    "dur": "7 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 906 👁 · 4 ч 18 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/KwFMwufgGCY\">Рифляй</a></b> · 185 👁 · 3 ч 45 мин\n└ Стрим с вискас,аришей и никитой\n\n<b><a href=\"https://youtu.be/hZi_4gTNNwQ\">Герман Ягодка</a></b> · 106 👁 · 6 мин\n└ гуляй\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 21 👁 · 5 ч 42 мин\n└ Прямая трансляция ПОКЕМОНЫ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 927 👁 · 4 ч 33 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/KwFMwufgGCY\">Рифляй</a></b> · 198 👁 · 4 ч 00 мин\n└ Стрим с вискас,аришей и никитой\n\n<b><a href=\"https://youtu.be/4PQjg_npAZw\">Герман Ягодка</a></b> · 113 👁 · 14 мин\n└ туса\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 21 👁 · 5 ч 58 мин\n└ Прямая трансляция ПОКЕМОНЫ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
