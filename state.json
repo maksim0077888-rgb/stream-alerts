@@ -41,28 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "vhHJ151DGFI": {
-    "vid": "vhHJ151DGFI",
-    "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
-    "name": "Демон",
-    "start": "2026-10-16T08:31:15Z",
-    "peak": 325,
-    "has_viewers": true,
-    "title": "test2232",
-    "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 104
-   },
-   "m7pj4df38Jw": {
-    "vid": "m7pj4df38Jw",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-16T11:54:04Z",
-    "peak": 762,
-    "has_viewers": true,
-    "title": "Уборка, вечером тёлка, либо уличный",
-    "thumb": "https://i.ytimg.com/vi/m7pj4df38Jw/sddefault_live.jpg",
-    "viewers": 534
-   },
    "oI4YEGVE208": {
     "vid": "oI4YEGVE208",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -72,57 +50,32 @@
     "has_viewers": true,
     "title": "Прямая трансляция ПОКЕМОНЫ",
     "thumb": "https://i.ytimg.com/vi/oI4YEGVE208/maxresdefault_live.jpg",
-    "viewers": 937
+    "viewers": 954
    },
-   "STxClFrETk0": {
-    "vid": "STxClFrETk0",
+   "DZ2PK2emggU": {
+    "vid": "DZ2PK2emggU",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-16T16:56:54Z",
+    "peak": 247,
+    "has_viewers": true,
+    "title": "Уборка, вечером тёлка, либо уличный",
+    "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
+    "viewers": 247
+   },
+   "0vFhVd14TXs": {
+    "vid": "0vFhVd14TXs",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
-    "start": "2026-10-16T16:39:38Z",
-    "peak": 83,
+    "start": "2026-10-16T17:00:03Z",
+    "peak": 6,
     "has_viewers": true,
     "title": "стрим с виской и ещё одной дамой",
-    "thumb": "https://i.ytimg.com/vi/STxClFrETk0/maxresdefault_live.jpg",
-    "viewers": 83
+    "thumb": "https://i.ytimg.com/vi/0vFhVd14TXs/maxresdefault_live.jpg",
+    "viewers": 6
    }
   },
   "ended": [
-   {
-    "vid": "VwUKKWyxfPM",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-15T14:34:09Z",
-    "peak": 681,
-    "has_viewers": true,
-    "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/VwUKKWyxfPM/maxresdefault_live.jpg",
-    "viewers": 405,
-    "dur": "6 ч 24 мин"
-   },
-   {
-    "vid": "_bVxYBRVDUo",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-15T20:13:29Z",
-    "peak": 1699,
-    "has_viewers": true,
-    "title": "Мы тут",
-    "thumb": "https://i.ytimg.com/vi/_bVxYBRVDUo/sddefault_live.jpg",
-    "viewers": 1266,
-    "dur": "2 ч 56 мин"
-   },
-   {
-    "vid": "SRC3OggvJW4",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-15T22:51:46Z",
-    "peak": 103,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/SRC3OggvJW4/maxresdefault_live.jpg",
-    "viewers": 103,
-    "dur": "27 мин"
-   },
    {
     "vid": "O3oI6p759tU",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -266,9 +219,45 @@
     "thumb": "https://i.ytimg.com/vi/DobCajWDAwM/maxresdefault_live.jpg",
     "viewers": 779,
     "dur": "1 ч 10 мин"
+   },
+   {
+    "vid": "vhHJ151DGFI",
+    "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
+    "name": "Демон",
+    "start": "2026-10-16T08:31:15Z",
+    "peak": 325,
+    "has_viewers": true,
+    "title": "test2232",
+    "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
+    "viewers": 104,
+    "dur": "8 ч 22 мин"
+   },
+   {
+    "vid": "m7pj4df38Jw",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-16T11:54:04Z",
+    "peak": 762,
+    "has_viewers": true,
+    "title": "Уборка, вечером тёлка, либо уличный",
+    "thumb": "https://i.ytimg.com/vi/m7pj4df38Jw/sddefault_live.jpg",
+    "viewers": 534,
+    "dur": "4 ч 59 мин"
+   },
+   {
+    "vid": "STxClFrETk0",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-16T16:39:38Z",
+    "peak": 83,
+    "has_viewers": true,
+    "title": "стрим с виской и ещё одной дамой",
+    "thumb": "https://i.ytimg.com/vi/STxClFrETk0/maxresdefault_live.jpg",
+    "viewers": 83,
+    "dur": "13 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 937 👁 · 1 ч 12 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 534 👁 · 4 ч 51 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 104 👁 · 8 ч 14 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/STxClFrETk0\">Рифляй</a></b> · 83 👁 · 5 мин\n└ стрим с виской и ещё одной дамой",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 954 👁 · 1 ч 28 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 247 👁 · 3 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/0vFhVd14TXs\">Рифляй</a></b> · 6 👁 · 0 мин\n└ стрим с виской и ещё одной дамой",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
