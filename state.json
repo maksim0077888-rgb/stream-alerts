@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 157
+    "viewers": 105
    },
    "m7pj4df38Jw": {
     "vid": "m7pj4df38Jw",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/m7pj4df38Jw/sddefault_live.jpg",
-    "viewers": 573
+    "viewers": 555
    },
    "oI4YEGVE208": {
     "vid": "oI4YEGVE208",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-16T15:32:29Z",
-    "peak": 617,
+    "peak": 877,
     "has_viewers": true,
     "title": "Прямая трансляция ПОКЕМОНЫ",
     "thumb": "https://i.ytimg.com/vi/oI4YEGVE208/maxresdefault_live.jpg",
-    "viewers": 617
+    "viewers": 877
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "1 ч 10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 617 👁 · 12 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 573 👁 · 3 ч 51 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 157 👁 · 7 ч 14 мин\n└ test2232",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 877 👁 · 28 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 555 👁 · 4 ч 06 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 105 👁 · 7 ч 29 мин\n└ test2232",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
