@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Мы тут",
     "thumb": "https://i.ytimg.com/vi/LEc_Cus_tl4/sddefault_live.jpg",
-    "viewers": 469
+    "viewers": 511
    },
    "O3oI6p759tU": {
     "vid": "O3oI6p759tU",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-15T23:19:16Z",
-    "peak": 123,
+    "peak": 138,
     "has_viewers": true,
     "title": "УХ ТВ",
     "thumb": "https://i.ytimg.com/vi/O3oI6p759tU/maxresdefault_live.jpg",
-    "viewers": 123
+    "viewers": 138
    }
   },
   "ended": [
@@ -138,7 +138,7 @@
     "dur": "27 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/LEc_Cus_tl4\">Дон Грязь</a></b> · 469 👁 · 50 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/O3oI6p759tU\">Гундос</a></b> · 123 👁 · 41 мин\n└ УХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/LEc_Cus_tl4\">Дон Грязь</a></b> · 511 👁 · 1 ч 01 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/O3oI6p759tU\">Гундос</a></b> · 138 👁 · 53 мин\n└ УХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
