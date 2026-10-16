@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 177
+    "viewers": 161
    },
    "m7pj4df38Jw": {
     "vid": "m7pj4df38Jw",
@@ -61,44 +61,21 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/m7pj4df38Jw/sddefault_live.jpg",
-    "viewers": 695
-   },
-   "H65eEp9fcsk": {
-    "vid": "H65eEp9fcsk",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-16T12:02:40Z",
-    "peak": 37,
-    "has_viewers": true,
-    "title": "Прямой эфир 16.10.2026",
-    "thumb": "https://i.ytimg.com/vi/H65eEp9fcsk/maxresdefault_live.jpg",
-    "viewers": 25
+    "viewers": 647
    },
    "DobCajWDAwM": {
     "vid": "DobCajWDAwM",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-16T13:32:11Z",
-    "peak": 509,
+    "peak": 604,
     "has_viewers": true,
     "title": "Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ",
     "thumb": "https://i.ytimg.com/vi/DobCajWDAwM/maxresdefault_live.jpg",
-    "viewers": 509
+    "viewers": 604
    }
   },
   "ended": [
-   {
-    "vid": "Gd7qQg3KvnU",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-10-15T14:35:08Z",
-    "peak": 5159,
-    "has_viewers": true,
-    "title": "Days Come",
-    "thumb": "https://i.ytimg.com/vi/Gd7qQg3KvnU/maxresdefault_live.jpg",
-    "viewers": 4464,
-    "dur": "2 ч 29 мин"
-   },
    {
     "vid": "8Z3JdPByCuc",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/1l7uwLbvx-w/maxresdefault_live.jpg",
     "viewers": 103,
     "dur": "2 ч 10 мин"
+   },
+   {
+    "vid": "H65eEp9fcsk",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-16T12:02:40Z",
+    "peak": 37,
+    "has_viewers": true,
+    "title": "Прямой эфир 16.10.2026",
+    "thumb": "https://i.ytimg.com/vi/H65eEp9fcsk/maxresdefault_live.jpg",
+    "viewers": 25,
+    "dur": "2 ч 04 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 695 👁 · 2 ч 06 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/DobCajWDAwM\">Гундос</a></b> · 509 👁 · 28 мин\n└ Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 177 👁 · 5 ч 29 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/H65eEp9fcsk\">Депутат</a></b> · 25 👁 · 1 ч 58 мин\n└ Прямой эфир 16.10.2026",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 647 👁 · 2 ч 21 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/DobCajWDAwM\">Гундос</a></b> · 604 👁 · 43 мин\n└ Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 161 👁 · 5 ч 44 мин\n└ test2232",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
