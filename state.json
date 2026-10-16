@@ -46,48 +46,36 @@
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-16T15:32:29Z",
-    "peak": 1002,
+    "peak": 1062,
     "has_viewers": true,
     "title": "Прямая трансляция ПОКЕМОНЫ",
     "thumb": "https://i.ytimg.com/vi/oI4YEGVE208/maxresdefault_live.jpg",
-    "viewers": 956
+    "viewers": 1062
    },
    "DZ2PK2emggU": {
     "vid": "DZ2PK2emggU",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-16T16:56:54Z",
-    "peak": 331,
+    "peak": 461,
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 331
+    "viewers": 461
    },
-   "0vFhVd14TXs": {
-    "vid": "0vFhVd14TXs",
+   "KwFMwufgGCY": {
+    "vid": "KwFMwufgGCY",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
-    "start": "2026-10-16T17:00:03Z",
-    "peak": 64,
+    "start": "2026-10-16T17:29:53Z",
+    "peak": 9,
     "has_viewers": true,
-    "title": "стрим с виской и ещё одной дамой",
-    "thumb": "https://i.ytimg.com/vi/0vFhVd14TXs/maxresdefault_live.jpg",
-    "viewers": 64
+    "title": "Стрим с вискас,аришей и никитой",
+    "thumb": "https://i.ytimg.com/vi/KwFMwufgGCY/maxresdefault_live.jpg",
+    "viewers": 9
    }
   },
   "ended": [
-   {
-    "vid": "O3oI6p759tU",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-15T23:19:16Z",
-    "peak": 154,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/O3oI6p759tU/maxresdefault_live.jpg",
-    "viewers": 154,
-    "dur": "59 мин"
-   },
    {
     "vid": "LEc_Cus_tl4",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/STxClFrETk0/maxresdefault_live.jpg",
     "viewers": 83,
     "dur": "13 мин"
+   },
+   {
+    "vid": "0vFhVd14TXs",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-16T17:00:03Z",
+    "peak": 64,
+    "has_viewers": true,
+    "title": "стрим с виской и ещё одной дамой",
+    "thumb": "https://i.ytimg.com/vi/0vFhVd14TXs/maxresdefault_live.jpg",
+    "viewers": 64,
+    "dur": "30 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 956 👁 · 1 ч 42 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 331 👁 · 18 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/0vFhVd14TXs\">Рифляй</a></b> · 64 👁 · 15 мин\n└ стрим с виской и ещё одной дамой",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 1062 👁 · 1 ч 58 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 461 👁 · 33 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/KwFMwufgGCY\">Рифляй</a></b> · 9 👁 · 0 мин\n└ Стрим с вискас,аришей и никитой",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
