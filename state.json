@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 195
+    "viewers": 208
    },
    "1l7uwLbvx-w": {
     "vid": "1l7uwLbvx-w",
@@ -61,29 +61,29 @@
     "has_viewers": true,
     "title": "= Дон Симон - Пятница=",
     "thumb": "https://i.ytimg.com/vi/1l7uwLbvx-w/maxresdefault_live.jpg",
-    "viewers": 100
-   },
-   "X8FDrHOUyxA": {
-    "vid": "X8FDrHOUyxA",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-16T10:44:31Z",
-    "peak": 555,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/X8FDrHOUyxA/maxresdefault_live.jpg",
-    "viewers": 555
+    "viewers": 86
    },
    "m7pj4df38Jw": {
     "vid": "m7pj4df38Jw",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-16T11:54:04Z",
-    "peak": 113,
+    "peak": 494,
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/m7pj4df38Jw/sddefault_live.jpg",
-    "viewers": 113
+    "viewers": 494
+   },
+   "H65eEp9fcsk": {
+    "vid": "H65eEp9fcsk",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-16T12:02:40Z",
+    "peak": 37,
+    "has_viewers": true,
+    "title": "Прямой эфир 16.10.2026",
+    "thumb": "https://i.ytimg.com/vi/H65eEp9fcsk/maxresdefault_live.jpg",
+    "viewers": 37
    }
   },
   "ended": [
@@ -254,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/R11J9XEJTD4/sddefault_live.jpg",
     "viewers": 398,
     "dur": "39 мин"
+   },
+   {
+    "vid": "X8FDrHOUyxA",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-16T10:44:31Z",
+    "peak": 555,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/X8FDrHOUyxA/maxresdefault_live.jpg",
+    "viewers": 555,
+    "dur": "1 ч 18 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/X8FDrHOUyxA\">Гундос</a></b> · 555 👁 · 1 ч 16 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 195 👁 · 3 ч 29 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 113 👁 · 6 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 100 👁 · 1 ч 37 мин\n└ = Дон Симон - Пятница=",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 494 👁 · 21 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 208 👁 · 3 ч 44 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 86 👁 · 1 ч 51 мин\n└ = Дон Симон - Пятница=\n\n<b><a href=\"https://youtu.be/H65eEp9fcsk\">Депутат</a></b> · 37 👁 · 12 мин\n└ Прямой эфир 16.10.2026",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
