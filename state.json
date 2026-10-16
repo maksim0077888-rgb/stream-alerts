@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Мы тут",
     "thumb": "https://i.ytimg.com/vi/LEc_Cus_tl4/sddefault_live.jpg",
-    "viewers": 486
+    "viewers": 505
    },
-   "O3oI6p759tU": {
-    "vid": "O3oI6p759tU",
+   "_KtWKCe-cgk": {
+    "vid": "_KtWKCe-cgk",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
-    "start": "2026-10-15T23:19:16Z",
-    "peak": 154,
+    "start": "2026-10-16T00:19:03Z",
+    "peak": 120,
     "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/O3oI6p759tU/maxresdefault_live.jpg",
-    "viewers": 154
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/_KtWKCe-cgk/maxresdefault_live.jpg",
+    "viewers": 120
    }
   },
   "ended": [
@@ -136,9 +136,21 @@
     "thumb": "https://i.ytimg.com/vi/SRC3OggvJW4/maxresdefault_live.jpg",
     "viewers": 103,
     "dur": "27 мин"
+   },
+   {
+    "vid": "O3oI6p759tU",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-15T23:19:16Z",
+    "peak": 154,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/O3oI6p759tU/maxresdefault_live.jpg",
+    "viewers": 154,
+    "dur": "59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/LEc_Cus_tl4\">Дон Грязь</a></b> · 486 👁 · 1 ч 04 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/O3oI6p759tU\">Гундос</a></b> · 154 👁 · 56 мин\n└ УХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/LEc_Cus_tl4\">Дон Грязь</a></b> · 505 👁 · 1 ч 19 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/_KtWKCe-cgk\">Гундос</a></b> · 120 👁 · 11 мин\n└ ТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
