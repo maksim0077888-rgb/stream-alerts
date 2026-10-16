@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 271
+    "viewers": 263
    },
    "Fejo8cRlc4g": {
     "vid": "Fejo8cRlc4g",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-16T08:54:14Z",
-    "peak": 404,
+    "peak": 451,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
     "thumb": "https://i.ytimg.com/vi/Fejo8cRlc4g/maxresdefault_live.jpg",
-    "viewers": 404
+    "viewers": 451
    }
   },
   "ended": [
@@ -210,7 +210,7 @@
     "dur": "38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Fejo8cRlc4g\">Гундос</a></b> · 404 👁 · 21 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 271 👁 · 44 мин\n└ test2232",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Fejo8cRlc4g\">Гундос</a></b> · 451 👁 · 36 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 263 👁 · 59 мин\n└ test2232",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
