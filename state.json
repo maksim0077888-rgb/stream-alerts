@@ -46,22 +46,22 @@
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-16T02:21:33Z",
-    "peak": 421,
+    "peak": 437,
     "has_viewers": true,
     "title": "П",
     "thumb": "https://i.ytimg.com/vi/rrVoaD22440/maxresdefault_live.jpg",
-    "viewers": 409
+    "viewers": 437
    },
    "-OZoSMNKcmw": {
     "vid": "-OZoSMNKcmw",
     "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
     "name": "Демон",
     "start": "2026-10-16T07:02:26Z",
-    "peak": 167,
+    "peak": 259,
     "has_viewers": true,
     "title": "test",
     "thumb": "https://i.ytimg.com/vi/-OZoSMNKcmw/maxresdefault_live.jpg",
-    "viewers": 167
+    "viewers": 259
    }
   },
   "ended": [
@@ -174,7 +174,7 @@
     "dur": "2 ч 01 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/rrVoaD22440\">Гундос</a></b> · 409 👁 · 4 ч 53 мин\n└ П\n\n<b><a href=\"https://youtu.be/-OZoSMNKcmw\">Демон</a></b> · 167 👁 · 13 мин\n└ test",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/rrVoaD22440\">Гундос</a></b> · 437 👁 · 5 ч 09 мин\n└ П\n\n<b><a href=\"https://youtu.be/-OZoSMNKcmw\">Демон</a></b> · 259 👁 · 28 мин\n└ test",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
