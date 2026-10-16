@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 183
+    "viewers": 195
    },
    "1l7uwLbvx-w": {
     "vid": "1l7uwLbvx-w",
@@ -61,29 +61,29 @@
     "has_viewers": true,
     "title": "= Дон Симон - Пятница=",
     "thumb": "https://i.ytimg.com/vi/1l7uwLbvx-w/maxresdefault_live.jpg",
-    "viewers": 114
+    "viewers": 100
    },
    "X8FDrHOUyxA": {
     "vid": "X8FDrHOUyxA",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-16T10:44:31Z",
-    "peak": 497,
+    "peak": 555,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
     "thumb": "https://i.ytimg.com/vi/X8FDrHOUyxA/maxresdefault_live.jpg",
-    "viewers": 487
+    "viewers": 555
    },
-   "R11J9XEJTD4": {
-    "vid": "R11J9XEJTD4",
+   "m7pj4df38Jw": {
+    "vid": "m7pj4df38Jw",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
-    "start": "2026-10-16T11:14:16Z",
-    "peak": 398,
+    "start": "2026-10-16T11:54:04Z",
+    "peak": 113,
     "has_viewers": true,
-    "title": "Уборочка бархатная",
-    "thumb": "https://i.ytimg.com/vi/R11J9XEJTD4/sddefault_live.jpg",
-    "viewers": 398
+    "title": "Уборка, вечером тёлка, либо уличный",
+    "thumb": "https://i.ytimg.com/vi/m7pj4df38Jw/sddefault_live.jpg",
+    "viewers": 113
    }
   },
   "ended": [
@@ -242,9 +242,21 @@
     "thumb": "https://i.ytimg.com/vi/Fejo8cRlc4g/maxresdefault_live.jpg",
     "viewers": 535,
     "dur": "1 ч 49 мин"
+   },
+   {
+    "vid": "R11J9XEJTD4",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-16T11:14:16Z",
+    "peak": 398,
+    "has_viewers": true,
+    "title": "Уборочка бархатная",
+    "thumb": "https://i.ytimg.com/vi/R11J9XEJTD4/sddefault_live.jpg",
+    "viewers": 398,
+    "dur": "39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/X8FDrHOUyxA\">Гундос</a></b> · 487 👁 · 1 ч 00 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/R11J9XEJTD4\">Дон Грязь</a></b> · 398 👁 · 31 мин\n└ Уборочка бархатная\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 183 👁 · 3 ч 14 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 114 👁 · 1 ч 21 мин\n└ = Дон Симон - Пятница=",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/X8FDrHOUyxA\">Гундос</a></b> · 555 👁 · 1 ч 16 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 195 👁 · 3 ч 29 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/m7pj4df38Jw\">Дон Грязь</a></b> · 113 👁 · 6 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 100 👁 · 1 ч 37 мин\n└ = Дон Симон - Пятница=",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
