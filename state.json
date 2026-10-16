@@ -41,27 +41,27 @@
  "board": {
   "msg": 107,
   "streams": {
-   "rrVoaD22440": {
-    "vid": "rrVoaD22440",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-16T02:21:33Z",
-    "peak": 437,
-    "has_viewers": true,
-    "title": "П",
-    "thumb": "https://i.ytimg.com/vi/rrVoaD22440/maxresdefault_live.jpg",
-    "viewers": 394
-   },
    "-OZoSMNKcmw": {
     "vid": "-OZoSMNKcmw",
     "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
     "name": "Демон",
     "start": "2026-10-16T07:02:26Z",
-    "peak": 292,
+    "peak": 321,
     "has_viewers": true,
     "title": "test",
     "thumb": "https://i.ytimg.com/vi/-OZoSMNKcmw/maxresdefault_live.jpg",
-    "viewers": 292
+    "viewers": 321
+   },
+   "QQSe-bfHY9Y": {
+    "vid": "QQSe-bfHY9Y",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-16T08:09:52Z",
+    "peak": 200,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/QQSe-bfHY9Y/maxresdefault_live.jpg",
+    "viewers": 200
    }
   },
   "ended": [
@@ -172,9 +172,21 @@
     "thumb": "https://i.ytimg.com/vi/_KtWKCe-cgk/maxresdefault_live.jpg",
     "viewers": 244,
     "dur": "2 ч 01 мин"
+   },
+   {
+    "vid": "rrVoaD22440",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-16T02:21:33Z",
+    "peak": 437,
+    "has_viewers": true,
+    "title": "П",
+    "thumb": "https://i.ytimg.com/vi/rrVoaD22440/maxresdefault_live.jpg",
+    "viewers": 394,
+    "dur": "5 ч 48 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/rrVoaD22440\">Гундос</a></b> · 394 👁 · 5 ч 39 мин\n└ П\n\n<b><a href=\"https://youtu.be/-OZoSMNKcmw\">Демон</a></b> · 292 👁 · 58 мин\n└ test",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/-OZoSMNKcmw\">Демон</a></b> · 321 👁 · 1 ч 13 мин\n└ test\n\n<b><a href=\"https://youtu.be/QQSe-bfHY9Y\">Гундос</a></b> · 200 👁 · 5 мин\n└ ПИТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
