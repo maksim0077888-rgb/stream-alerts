@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "test2232",
     "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 284
+    "viewers": 254
    },
    "Fejo8cRlc4g": {
     "vid": "Fejo8cRlc4g",
@@ -61,7 +61,18 @@
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
     "thumb": "https://i.ytimg.com/vi/Fejo8cRlc4g/maxresdefault_live.jpg",
-    "viewers": 545
+    "viewers": 535
+   },
+   "1l7uwLbvx-w": {
+    "vid": "1l7uwLbvx-w",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-10-16T10:23:40Z",
+    "peak": 68,
+    "has_viewers": true,
+    "title": "= Дон Симон - Пятница=",
+    "thumb": "https://i.ytimg.com/vi/1l7uwLbvx-w/maxresdefault_live.jpg",
+    "viewers": 68
    }
   },
   "ended": [
@@ -210,7 +221,7 @@
     "dur": "38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Fejo8cRlc4g\">Гундос</a></b> · 545 👁 · 1 ч 21 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 284 👁 · 1 ч 44 мин\n└ test2232",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/Fejo8cRlc4g\">Гундос</a></b> · 535 👁 · 1 ч 36 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/vhHJ151DGFI\">Демон</a></b> · 254 👁 · 1 ч 59 мин\n└ test2232\n\n<b><a href=\"https://youtu.be/1l7uwLbvx-w\">Don Simon</a></b> · 68 👁 · 6 мин\n└ = Дон Симон - Пятница=",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
