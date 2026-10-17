@@ -46,22 +46,11 @@
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-17T15:58:38Z",
-    "peak": 1073,
+    "peak": 1114,
     "has_viewers": true,
     "title": "ГлинаТВ",
     "thumb": "https://i.ytimg.com/vi/ahdCrbKPDNU/maxresdefault_live.jpg",
-    "viewers": 1024
-   },
-   "U0ZqSMXc8Y0": {
-    "vid": "U0ZqSMXc8Y0",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-17T16:36:14Z",
-    "peak": 1951,
-    "has_viewers": true,
-    "title": "Ким едет",
-    "thumb": "https://i.ytimg.com/vi/U0ZqSMXc8Y0/sddefault_live.jpg",
-    "viewers": 518
+    "viewers": 1114
    },
    "FJD4bYbM2YU": {
     "vid": "FJD4bYbM2YU",
@@ -72,22 +61,21 @@
     "has_viewers": true,
     "title": "для девочек и не только",
     "thumb": "https://i.ytimg.com/vi/FJD4bYbM2YU/maxresdefault_live.jpg",
-    "viewers": 2
+    "viewers": 4
+   },
+   "y1M8zd1NsI8": {
+    "vid": "y1M8zd1NsI8",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-17T17:50:40Z",
+    "peak": 373,
+    "has_viewers": true,
+    "title": "Ким едет",
+    "thumb": "https://i.ytimg.com/vi/y1M8zd1NsI8/sddefault_live.jpg",
+    "viewers": 373
    }
   },
   "ended": [
-   {
-    "vid": "PTwyCvQ1ovE",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-16T21:00:12Z",
-    "peak": 7,
-    "has_viewers": true,
-    "title": "улица",
-    "thumb": "https://i.ytimg.com/vi/PTwyCvQ1ovE/maxresdefault_live.jpg",
-    "viewers": 7,
-    "dur": "6 мин"
-   },
    {
     "vid": "hZi_4gTNNwQ",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/-Aw4lP01OTs/maxresdefault_live.jpg",
     "viewers": 3578,
     "dur": "3 ч 07 мин"
+   },
+   {
+    "vid": "U0ZqSMXc8Y0",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-17T16:36:14Z",
+    "peak": 1951,
+    "has_viewers": true,
+    "title": "Ким едет",
+    "thumb": "https://i.ytimg.com/vi/U0ZqSMXc8Y0/sddefault_live.jpg",
+    "viewers": 518,
+    "dur": "1 ч 13 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/ahdCrbKPDNU\">Селянин</a></b> · 1024 👁 · 1 ч 46 мин\n└ ГлинаТВ\n\n<b><a href=\"https://youtu.be/U0ZqSMXc8Y0\">Дон Грязь</a></b> · 518 👁 · 1 ч 09 мин\n└ Ким едет\n\n<b><a href=\"https://youtu.be/FJD4bYbM2YU\">Школа Сук</a></b> · 2 👁 · 1 ч 10 мин\n└ для девочек и не только",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/ahdCrbKPDNU\">Селянин</a></b> · 1114 👁 · 2 ч 02 мин\n└ ГлинаТВ\n\n<b><a href=\"https://youtu.be/y1M8zd1NsI8\">Дон Грязь</a></b> · 373 👁 · 10 мин\n└ Ким едет\n\n<b><a href=\"https://youtu.be/FJD4bYbM2YU\">Школа Сук</a></b> · 4 👁 · 1 ч 26 мин\n└ для девочек и не только",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
