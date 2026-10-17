@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 166
-   },
-   "4PQjg_npAZw": {
-    "vid": "4PQjg_npAZw",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-16T21:16:32Z",
-    "peak": 113,
-    "has_viewers": true,
-    "title": "туса",
-    "thumb": "https://i.ytimg.com/vi/4PQjg_npAZw/maxresdefault_live.jpg",
-    "viewers": 0
+    "viewers": 135
    },
    "A-hEUDE-2SQ": {
     "vid": "A-hEUDE-2SQ",
@@ -79,26 +68,14 @@
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-17T03:08:19Z",
-    "peak": 68,
+    "peak": 72,
     "has_viewers": true,
     "title": "Боль",
     "thumb": "https://i.ytimg.com/vi/ofg48A-BOkw/maxresdefault_live.jpg",
-    "viewers": 50
+    "viewers": 72
    }
   },
   "ended": [
-   {
-    "vid": "Fejo8cRlc4g",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-16T08:54:14Z",
-    "peak": 545,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/Fejo8cRlc4g/maxresdefault_live.jpg",
-    "viewers": 535,
-    "dur": "1 ч 49 мин"
-   },
    {
     "vid": "R11J9XEJTD4",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/KwFMwufgGCY/maxresdefault_live.jpg",
     "viewers": 97,
     "dur": "8 ч 07 мин"
+   },
+   {
+    "vid": "4PQjg_npAZw",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-16T21:16:32Z",
+    "peak": 113,
+    "has_viewers": true,
+    "title": "туса",
+    "thumb": "https://i.ytimg.com/vi/4PQjg_npAZw/maxresdefault_live.jpg",
+    "viewers": 0,
+    "dur": "19 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 166 👁 · 10 ч 48 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/ofg48A-BOkw\">Герман Ягодка</a></b> · 50 👁 · 37 мин\n└ Боль\n\n<b><a href=\"https://youtu.be/A-hEUDE-2SQ\">Герман Ягодка</a></b> · 7 👁 · 5 ч 55 мин\n└ рубинштейна\n\n<b><a href=\"https://youtu.be/4PQjg_npAZw\">Герман Ягодка</a></b> · 0 👁 · 6 ч 28 мин\n└ туса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 135 👁 · 11 ч 03 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/ofg48A-BOkw\">Герман Ягодка</a></b> · 72 👁 · 52 мин\n└ Боль\n\n<b><a href=\"https://youtu.be/A-hEUDE-2SQ\">Герман Ягодка</a></b> · 7 👁 · 6 ч 10 мин\n└ рубинштейна",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
