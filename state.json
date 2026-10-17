@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 122
-   },
-   "A-hEUDE-2SQ": {
-    "vid": "A-hEUDE-2SQ",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-16T21:50:24Z",
-    "peak": 202,
-    "has_viewers": true,
-    "title": "рубинштейна",
-    "thumb": "https://i.ytimg.com/vi/A-hEUDE-2SQ/maxresdefault_live.jpg",
-    "viewers": 16
+    "viewers": 149
    }
   },
   "ended": [
-   {
-    "vid": "X8FDrHOUyxA",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-16T10:44:31Z",
-    "peak": 555,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/X8FDrHOUyxA/maxresdefault_live.jpg",
-    "viewers": 555,
-    "dur": "1 ч 18 мин"
-   },
    {
     "vid": "1l7uwLbvx-w",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/ofg48A-BOkw/maxresdefault_live.jpg",
     "viewers": 82,
     "dur": "1 ч 11 мин"
+   },
+   {
+    "vid": "A-hEUDE-2SQ",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-16T21:50:24Z",
+    "peak": 202,
+    "has_viewers": true,
+    "title": "рубинштейна",
+    "thumb": "https://i.ytimg.com/vi/A-hEUDE-2SQ/maxresdefault_live.jpg",
+    "viewers": 16,
+    "dur": "2 ч 47 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 122 👁 · 14 ч 03 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/A-hEUDE-2SQ\">Герман Ягодка</a></b> · 16 👁 · 9 ч 10 мин\n└ рубинштейна",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 149 👁 · 14 ч 18 мин\n└ Уборка, вечером тёлка, либо уличный",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
