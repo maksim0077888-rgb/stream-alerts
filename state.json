@@ -50,29 +50,29 @@
     "has_viewers": true,
     "title": "В Гостях Билайн",
     "thumb": "https://i.ytimg.com/vi/0rctzFbu93s/maxresdefault_live.jpg",
-    "viewers": 267
+    "viewers": 235
    },
    "wOD6vRJog1E": {
     "vid": "wOD6vRJog1E",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-17T09:11:44Z",
-    "peak": 584,
+    "peak": 643,
     "has_viewers": true,
     "title": "шляпа ТВ",
     "thumb": "https://i.ytimg.com/vi/wOD6vRJog1E/maxresdefault_live.jpg",
-    "viewers": 584
+    "viewers": 643
    },
    "D_jQC6UZhMM": {
     "vid": "D_jQC6UZhMM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-17T09:17:09Z",
-    "peak": 103,
+    "peak": 126,
     "has_viewers": true,
     "title": "утро после вписки",
     "thumb": "https://i.ytimg.com/vi/D_jQC6UZhMM/maxresdefault_live.jpg",
-    "viewers": 103
+    "viewers": 126
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "16 ч 11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/wOD6vRJog1E\">Селянин</a></b> · 584 👁 · 49 мин\n└ шляпа ТВ\n\n<b><a href=\"https://youtu.be/0rctzFbu93s\">Демон</a></b> · 267 👁 · 2 ч 37 мин\n└ В Гостях Билайн\n\n<b><a href=\"https://youtu.be/D_jQC6UZhMM\">Рифляй</a></b> · 103 👁 · 43 мин\n└ утро после вписки",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/wOD6vRJog1E\">Селянин</a></b> · 643 👁 · 1 ч 03 мин\n└ шляпа ТВ\n\n<b><a href=\"https://youtu.be/0rctzFbu93s\">Демон</a></b> · 235 👁 · 2 ч 52 мин\n└ В Гостях Билайн\n\n<b><a href=\"https://youtu.be/D_jQC6UZhMM\">Рифляй</a></b> · 126 👁 · 58 мин\n└ утро после вписки",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
