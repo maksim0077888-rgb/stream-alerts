@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 106
+    "viewers": 137
    },
    "A-hEUDE-2SQ": {
     "vid": "A-hEUDE-2SQ",
@@ -61,33 +61,10 @@
     "has_viewers": true,
     "title": "рубинштейна",
     "thumb": "https://i.ytimg.com/vi/A-hEUDE-2SQ/maxresdefault_live.jpg",
-    "viewers": 7
-   },
-   "ofg48A-BOkw": {
-    "vid": "ofg48A-BOkw",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-17T03:08:19Z",
-    "peak": 82,
-    "has_viewers": true,
-    "title": "Боль",
-    "thumb": "https://i.ytimg.com/vi/ofg48A-BOkw/maxresdefault_live.jpg",
-    "viewers": 82
+    "viewers": 14
    }
   },
   "ended": [
-   {
-    "vid": "R11J9XEJTD4",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-16T11:14:16Z",
-    "peak": 398,
-    "has_viewers": true,
-    "title": "Уборочка бархатная",
-    "thumb": "https://i.ytimg.com/vi/R11J9XEJTD4/sddefault_live.jpg",
-    "viewers": 398,
-    "dur": "39 мин"
-   },
    {
     "vid": "X8FDrHOUyxA",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/4PQjg_npAZw/maxresdefault_live.jpg",
     "viewers": 0,
     "dur": "19 мин"
+   },
+   {
+    "vid": "ofg48A-BOkw",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-17T03:08:19Z",
+    "peak": 82,
+    "has_viewers": true,
+    "title": "Боль",
+    "thumb": "https://i.ytimg.com/vi/ofg48A-BOkw/maxresdefault_live.jpg",
+    "viewers": 82,
+    "dur": "1 ч 11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 106 👁 · 11 ч 18 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/ofg48A-BOkw\">Герман Ягодка</a></b> · 82 👁 · 1 ч 07 мин\n└ Боль\n\n<b><a href=\"https://youtu.be/A-hEUDE-2SQ\">Герман Ягодка</a></b> · 7 👁 · 6 ч 25 мин\n└ рубинштейна",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 137 👁 · 11 ч 33 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/A-hEUDE-2SQ\">Герман Ягодка</a></b> · 14 👁 · 6 ч 40 мин\n└ рубинштейна",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
