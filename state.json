@@ -46,48 +46,25 @@
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-10-17T13:30:54Z",
-    "peak": 3966,
+    "peak": 3991,
     "has_viewers": true,
     "title": "Goys Come",
     "thumb": "https://i.ytimg.com/vi/-Aw4lP01OTs/maxresdefault_live.jpg",
-    "viewers": 3937
-   },
-   "ATDUcZyh8Pg": {
-    "vid": "ATDUcZyh8Pg",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-17T15:44:13Z",
-    "peak": 394,
-    "has_viewers": true,
-    "title": "Прямая трансляция ПОКЕМОНЫ",
-    "thumb": "https://i.ytimg.com/vi/ATDUcZyh8Pg/maxresdefault_live.jpg",
-    "viewers": 394
+    "viewers": 3991
    },
    "ahdCrbKPDNU": {
     "vid": "ahdCrbKPDNU",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-17T15:58:38Z",
-    "peak": 40,
+    "peak": 738,
     "has_viewers": true,
     "title": "ГлинаТВ",
-    "thumb": "https://i.ytimg.com/vi/ahdCrbKPDNU/sddefault_live.jpg",
-    "viewers": 40
+    "thumb": "https://i.ytimg.com/vi/ahdCrbKPDNU/maxresdefault_live.jpg",
+    "viewers": 738
    }
   },
   "ended": [
-   {
-    "vid": "0vFhVd14TXs",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-16T17:00:03Z",
-    "peak": 64,
-    "has_viewers": true,
-    "title": "стрим с виской и ещё одной дамой",
-    "thumb": "https://i.ytimg.com/vi/0vFhVd14TXs/maxresdefault_live.jpg",
-    "viewers": 64,
-    "dur": "30 мин"
-   },
    {
     "vid": "0bh26qB_lTE",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/2DYGy_MB2QQ/sddefault_live.jpg",
     "viewers": 473,
     "dur": "1 ч 14 мин"
+   },
+   {
+    "vid": "ATDUcZyh8Pg",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-17T15:44:13Z",
+    "peak": 394,
+    "has_viewers": true,
+    "title": "Прямая трансляция ПОКЕМОНЫ",
+    "thumb": "https://i.ytimg.com/vi/ATDUcZyh8Pg/maxresdefault_live.jpg",
+    "viewers": 394,
+    "dur": "17 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/-Aw4lP01OTs\">ПАПИЧ</a></b> · 3937 👁 · 2 ч 29 мин\n└ Goys Come\n\n<b><a href=\"https://youtu.be/ATDUcZyh8Pg\">Селянин</a></b> · 394 👁 · 16 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/ahdCrbKPDNU\">Селянин</a></b> · 40 👁 · 2 мин\n└ ГлинаТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/-Aw4lP01OTs\">ПАПИЧ</a></b> · 3991 👁 · 2 ч 44 мин\n└ Goys Come\n\n<b><a href=\"https://youtu.be/ahdCrbKPDNU\">Селянин</a></b> · 738 👁 · 16 мин\n└ ГлинаТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
