@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "DZ2PK2emggU": {
-    "vid": "DZ2PK2emggU",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-16T16:56:54Z",
-    "peak": 1072,
-    "has_viewers": true,
-    "title": "Уборка, вечером тёлка, либо уличный",
-    "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 27
-   },
    "0rctzFbu93s": {
     "vid": "0rctzFbu93s",
     "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
@@ -61,22 +50,21 @@
     "has_viewers": true,
     "title": "В Гостях Билайн",
     "thumb": "https://i.ytimg.com/vi/0rctzFbu93s/maxresdefault_live.jpg",
-    "viewers": 414
+    "viewers": 365
+   },
+   "wOD6vRJog1E": {
+    "vid": "wOD6vRJog1E",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-17T09:11:44Z",
+    "peak": 215,
+    "has_viewers": true,
+    "title": "шляпа ТВ",
+    "thumb": "https://i.ytimg.com/vi/wOD6vRJog1E/sddefault_live.jpg",
+    "viewers": 215
    }
   },
   "ended": [
-   {
-    "vid": "1l7uwLbvx-w",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-16T10:23:40Z",
-    "peak": 116,
-    "has_viewers": true,
-    "title": "= Дон Симон - Пятница=",
-    "thumb": "https://i.ytimg.com/vi/1l7uwLbvx-w/maxresdefault_live.jpg",
-    "viewers": 103,
-    "dur": "2 ч 10 мин"
-   },
    {
     "vid": "H65eEp9fcsk",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/A-hEUDE-2SQ/maxresdefault_live.jpg",
     "viewers": 16,
     "dur": "2 ч 47 мин"
+   },
+   {
+    "vid": "DZ2PK2emggU",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-16T16:56:54Z",
+    "peak": 1072,
+    "has_viewers": true,
+    "title": "Уборка, вечером тёлка, либо уличный",
+    "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
+    "viewers": 27,
+    "dur": "16 ч 11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/0rctzFbu93s\">Демон</a></b> · 414 👁 · 1 ч 45 мин\n└ В Гостях Билайн\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 27 👁 · 16 ч 11 мин\n└ Уборка, вечером тёлка, либо уличный",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/0rctzFbu93s\">Демон</a></b> · 365 👁 · 1 ч 52 мин\n└ В Гостях Билайн\n\n<b><a href=\"https://youtu.be/wOD6vRJog1E\">Селянин</a></b> · 215 👁 · 3 мин\n└ шляпа ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
