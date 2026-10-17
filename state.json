@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "oI4YEGVE208": {
-    "vid": "oI4YEGVE208",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-16T15:32:29Z",
-    "peak": 1075,
-    "has_viewers": true,
-    "title": "Прямая трансляция ПОКЕМОНЫ",
-    "thumb": "https://i.ytimg.com/vi/oI4YEGVE208/maxresdefault_live.jpg",
-    "viewers": 6
-   },
    "DZ2PK2emggU": {
     "vid": "DZ2PK2emggU",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -61,7 +50,7 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка, либо уличный",
     "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 505
+    "viewers": 530
    },
    "KwFMwufgGCY": {
     "vid": "KwFMwufgGCY",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "Стрим с вискас,аришей и никитой",
     "thumb": "https://i.ytimg.com/vi/KwFMwufgGCY/maxresdefault_live.jpg",
-    "viewers": 106
+    "viewers": 103
    },
    "4PQjg_npAZw": {
     "vid": "4PQjg_npAZw",
@@ -83,7 +72,7 @@
     "has_viewers": true,
     "title": "туса",
     "thumb": "https://i.ytimg.com/vi/4PQjg_npAZw/maxresdefault_live.jpg",
-    "viewers": 1
+    "viewers": 0
    },
    "A-hEUDE-2SQ": {
     "vid": "A-hEUDE-2SQ",
@@ -94,22 +83,10 @@
     "has_viewers": true,
     "title": "рубинштейна",
     "thumb": "https://i.ytimg.com/vi/A-hEUDE-2SQ/maxresdefault_live.jpg",
-    "viewers": 28
+    "viewers": 30
    }
   },
   "ended": [
-   {
-    "vid": "-OZoSMNKcmw",
-    "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
-    "name": "Демон",
-    "start": "2026-10-16T07:02:26Z",
-    "peak": 321,
-    "has_viewers": true,
-    "title": "test",
-    "thumb": "https://i.ytimg.com/vi/-OZoSMNKcmw/maxresdefault_live.jpg",
-    "viewers": 321,
-    "dur": "1 ч 25 мин"
-   },
    {
     "vid": "QQSe-bfHY9Y",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/hZi_4gTNNwQ/maxresdefault_live.jpg",
     "viewers": 106,
     "dur": "7 мин"
+   },
+   {
+    "vid": "oI4YEGVE208",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-16T15:32:29Z",
+    "peak": 1075,
+    "has_viewers": true,
+    "title": "Прямая трансляция ПОКЕМОНЫ",
+    "thumb": "https://i.ytimg.com/vi/oI4YEGVE208/maxresdefault_live.jpg",
+    "viewers": 6,
+    "dur": "2 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 505 👁 · 7 ч 48 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/KwFMwufgGCY\">Рифляй</a></b> · 106 👁 · 7 ч 15 мин\n└ Стрим с вискас,аришей и никитой\n\n<b><a href=\"https://youtu.be/A-hEUDE-2SQ\">Герман Ягодка</a></b> · 28 👁 · 2 ч 55 мин\n└ рубинштейна\n\n<b><a href=\"https://youtu.be/oI4YEGVE208\">Селянин</a></b> · 6 👁 · 9 ч 12 мин\n└ Прямая трансляция ПОКЕМОНЫ\n\n<b><a href=\"https://youtu.be/4PQjg_npAZw\">Герман Ягодка</a></b> · 1 👁 · 3 ч 28 мин\n└ туса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/DZ2PK2emggU\">Дон Грязь</a></b> · 530 👁 · 8 ч 03 мин\n└ Уборка, вечером тёлка, либо уличный\n\n<b><a href=\"https://youtu.be/KwFMwufgGCY\">Рифляй</a></b> · 103 👁 · 7 ч 30 мин\n└ Стрим с вискас,аришей и никитой\n\n<b><a href=\"https://youtu.be/A-hEUDE-2SQ\">Герман Ягодка</a></b> · 30 👁 · 3 ч 10 мин\n└ рубинштейна\n\n<b><a href=\"https://youtu.be/4PQjg_npAZw\">Герман Ягодка</a></b> · 0 👁 · 3 ч 44 мин\n└ туса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
