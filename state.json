@@ -50,44 +50,21 @@
     "has_viewers": true,
     "title": "В Гостях Билайн",
     "thumb": "https://i.ytimg.com/vi/0rctzFbu93s/maxresdefault_live.jpg",
-    "viewers": 235
+    "viewers": 229
    },
    "wOD6vRJog1E": {
     "vid": "wOD6vRJog1E",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-17T09:11:44Z",
-    "peak": 643,
+    "peak": 759,
     "has_viewers": true,
     "title": "шляпа ТВ",
     "thumb": "https://i.ytimg.com/vi/wOD6vRJog1E/maxresdefault_live.jpg",
-    "viewers": 643
-   },
-   "D_jQC6UZhMM": {
-    "vid": "D_jQC6UZhMM",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-17T09:17:09Z",
-    "peak": 126,
-    "has_viewers": true,
-    "title": "утро после вписки",
-    "thumb": "https://i.ytimg.com/vi/D_jQC6UZhMM/maxresdefault_live.jpg",
-    "viewers": 126
+    "viewers": 759
    }
   },
   "ended": [
-   {
-    "vid": "H65eEp9fcsk",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-16T12:02:40Z",
-    "peak": 37,
-    "has_viewers": true,
-    "title": "Прямой эфир 16.10.2026",
-    "thumb": "https://i.ytimg.com/vi/H65eEp9fcsk/maxresdefault_live.jpg",
-    "viewers": 25,
-    "dur": "2 ч 04 мин"
-   },
    {
     "vid": "DobCajWDAwM",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
     "viewers": 27,
     "dur": "16 ч 11 мин"
+   },
+   {
+    "vid": "D_jQC6UZhMM",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-17T09:17:09Z",
+    "peak": 126,
+    "has_viewers": true,
+    "title": "утро после вписки",
+    "thumb": "https://i.ytimg.com/vi/D_jQC6UZhMM/maxresdefault_live.jpg",
+    "viewers": 126,
+    "dur": "1 ч 08 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/wOD6vRJog1E\">Селянин</a></b> · 643 👁 · 1 ч 03 мин\n└ шляпа ТВ\n\n<b><a href=\"https://youtu.be/0rctzFbu93s\">Демон</a></b> · 235 👁 · 2 ч 52 мин\n└ В Гостях Билайн\n\n<b><a href=\"https://youtu.be/D_jQC6UZhMM\">Рифляй</a></b> · 126 👁 · 58 мин\n└ утро после вписки",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wOD6vRJog1E\">Селянин</a></b> · 759 👁 · 1 ч 18 мин\n└ шляпа ТВ\n\n<b><a href=\"https://youtu.be/0rctzFbu93s\">Демон</a></b> · 229 👁 · 3 ч 07 мин\n└ В Гостях Билайн",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
