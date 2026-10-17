@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "шляпа ТВ",
     "thumb": "https://i.ytimg.com/vi/wOD6vRJog1E/maxresdefault_live.jpg",
-    "viewers": 847
-   },
-   "H_-7PEOEnXY": {
-    "vid": "H_-7PEOEnXY",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-17T10:30:40Z",
-    "peak": 27,
-    "has_viewers": true,
-    "title": "Прямой эфир 17.10.2026",
-    "thumb": "https://i.ytimg.com/vi/H_-7PEOEnXY/maxresdefault_live.jpg",
-    "viewers": 22
+    "viewers": 874
    }
   },
   "ended": [
-   {
-    "vid": "vhHJ151DGFI",
-    "cid": "UCDxns5jCJ09P4zCe_Kpyblg",
-    "name": "Демон",
-    "start": "2026-10-16T08:31:15Z",
-    "peak": 325,
-    "has_viewers": true,
-    "title": "test2232",
-    "thumb": "https://i.ytimg.com/vi/vhHJ151DGFI/maxresdefault_live.jpg",
-    "viewers": 104,
-    "dur": "8 ч 22 мин"
-   },
    {
     "vid": "m7pj4df38Jw",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/0rctzFbu93s/maxresdefault_live.jpg",
     "viewers": 216,
     "dur": "4 ч 34 мин"
+   },
+   {
+    "vid": "H_-7PEOEnXY",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-17T10:30:40Z",
+    "peak": 27,
+    "has_viewers": true,
+    "title": "Прямой эфир 17.10.2026",
+    "thumb": "https://i.ytimg.com/vi/H_-7PEOEnXY/maxresdefault_live.jpg",
+    "viewers": 22,
+    "dur": "1 ч 51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wOD6vRJog1E\">Селянин</a></b> · 847 👁 · 3 ч 03 мин\n└ шляпа ТВ\n\n<b><a href=\"https://youtu.be/H_-7PEOEnXY\">Депутат</a></b> · 22 👁 · 1 ч 44 мин\n└ Прямой эфир 17.10.2026",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/wOD6vRJog1E\">Селянин</a></b> · 874 👁 · 3 ч 18 мин\n└ шляпа ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
