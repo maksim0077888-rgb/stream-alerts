@@ -50,55 +50,43 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 81
-   },
-   "4yoSzP4wi0o": {
-    "vid": "4yoSzP4wi0o",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-18T14:03:15Z",
-    "peak": 83,
-    "has_viewers": true,
-    "title": "Прямой эфир 18.10.2025",
-    "thumb": "https://i.ytimg.com/vi/4yoSzP4wi0o/maxresdefault_live.jpg",
-    "viewers": 14
+    "viewers": 79
    },
    "1qBpfDwF-bU": {
     "vid": "1qBpfDwF-bU",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-10-18T14:01:04Z",
-    "peak": 4064,
+    "peak": 4262,
     "has_viewers": true,
     "title": "Done Gone",
     "thumb": "https://i.ytimg.com/vi/1qBpfDwF-bU/maxresdefault_live.jpg",
-    "viewers": 4064
+    "viewers": 4262
    },
    "oXccDU4g8ic": {
     "vid": "oXccDU4g8ic",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-18T14:22:05Z",
-    "peak": 116,
+    "peak": 203,
     "has_viewers": true,
     "title": "Стрим с Дианой и кое кем еще 😁",
     "thumb": "https://i.ytimg.com/vi/oXccDU4g8ic/maxresdefault_live.jpg",
-    "viewers": 116
+    "viewers": 203
+   },
+   "fXcutdv-5-o": {
+    "vid": "fXcutdv-5-o",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-18T14:35:15Z",
+    "peak": 46,
+    "has_viewers": true,
+    "title": "Прямой эфир 18.10.2025",
+    "thumb": "https://i.ytimg.com/vi/fXcutdv-5-o/maxresdefault_live.jpg",
+    "viewers": 46
    }
   },
   "ended": [
-   {
-    "vid": "DZ2PK2emggU",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-16T16:56:54Z",
-    "peak": 1072,
-    "has_viewers": true,
-    "title": "Уборка, вечером тёлка, либо уличный",
-    "thumb": "https://i.ytimg.com/vi/DZ2PK2emggU/sddefault_live.jpg",
-    "viewers": 27,
-    "dur": "16 ч 11 мин"
-   },
    {
     "vid": "D_jQC6UZhMM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/QFCkczbmGCE/maxresdefault_live.jpg",
     "viewers": 0,
     "dur": "23 мин"
+   },
+   {
+    "vid": "4yoSzP4wi0o",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-18T14:03:15Z",
+    "peak": 83,
+    "has_viewers": true,
+    "title": "Прямой эфир 18.10.2025",
+    "thumb": "https://i.ytimg.com/vi/4yoSzP4wi0o/maxresdefault_live.jpg",
+    "viewers": 14,
+    "dur": "30 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1qBpfDwF-bU\">ПАПИЧ</a></b> · 4064 👁 · 29 мин\n└ Done Gone\n\n<b><a href=\"https://youtu.be/oXccDU4g8ic\">Рифляй</a></b> · 116 👁 · 8 мин\n└ Стрим с Дианой и кое кем еще 😁\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 81 👁 · 59 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/4yoSzP4wi0o\">Депутат</a></b> · 14 👁 · 27 мин\n└ Прямой эфир 18.10.2025",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1qBpfDwF-bU\">ПАПИЧ</a></b> · 4262 👁 · 44 мин\n└ Done Gone\n\n<b><a href=\"https://youtu.be/oXccDU4g8ic\">Рифляй</a></b> · 203 👁 · 23 мин\n└ Стрим с Дианой и кое кем еще 😁\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 79 👁 · 1 ч 14 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/fXcutdv-5-o\">Депутат</a></b> · 46 👁 · 10 мин\n└ Прямой эфир 18.10.2025",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
