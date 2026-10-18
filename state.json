@@ -41,42 +41,19 @@
  "board": {
   "msg": 107,
   "streams": {
-   "QFCkczbmGCE": {
-    "vid": "QFCkczbmGCE",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-18T06:54:51Z",
-    "peak": 29,
-    "has_viewers": true,
-    "title": "для девочек и не только",
-    "thumb": "https://i.ytimg.com/vi/QFCkczbmGCE/maxresdefault_live.jpg",
-    "viewers": 0
-   },
    "-V8uzh9o2NI": {
     "vid": "-V8uzh9o2NI",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
     "name": "Ахиллес",
     "start": "2026-10-18T13:30:49Z",
-    "peak": 83,
+    "peak": 113,
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 83
+    "viewers": 113
    }
   },
   "ended": [
-   {
-    "vid": "A-hEUDE-2SQ",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-16T21:50:24Z",
-    "peak": 202,
-    "has_viewers": true,
-    "title": "рубинштейна",
-    "thumb": "https://i.ytimg.com/vi/A-hEUDE-2SQ/maxresdefault_live.jpg",
-    "viewers": 16,
-    "dur": "2 ч 47 мин"
-   },
    {
     "vid": "DZ2PK2emggU",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/a2Dal3Lzbhc/maxresdefault_live.jpg",
     "viewers": 61,
     "dur": "5 ч 12 мин"
+   },
+   {
+    "vid": "QFCkczbmGCE",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-18T06:54:51Z",
+    "peak": 29,
+    "has_viewers": true,
+    "title": "для девочек и не только",
+    "thumb": "https://i.ytimg.com/vi/QFCkczbmGCE/maxresdefault_live.jpg",
+    "viewers": 0,
+    "dur": "23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 83 👁 · 14 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/QFCkczbmGCE\">Школа Сук</a></b> · 0 👁 · 6 ч 50 мин\n└ для девочек и не только",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 113 👁 · 29 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
