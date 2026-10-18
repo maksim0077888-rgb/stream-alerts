@@ -50,7 +50,29 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 113
+    "viewers": 87
+   },
+   "4yoSzP4wi0o": {
+    "vid": "4yoSzP4wi0o",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-18T14:03:15Z",
+    "peak": 83,
+    "has_viewers": true,
+    "title": "Прямой эфир 18.10.2025",
+    "thumb": "https://i.ytimg.com/vi/4yoSzP4wi0o/maxresdefault_live.jpg",
+    "viewers": 83
+   },
+   "1qBpfDwF-bU": {
+    "vid": "1qBpfDwF-bU",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-10-18T14:01:04Z",
+    "peak": 3255,
+    "has_viewers": true,
+    "title": "Done Gone",
+    "thumb": "https://i.ytimg.com/vi/1qBpfDwF-bU/maxresdefault_live.jpg",
+    "viewers": 3255
    }
   },
   "ended": [
@@ -235,7 +257,7 @@
     "dur": "23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 113 👁 · 29 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1qBpfDwF-bU\">ПАПИЧ</a></b> · 3255 👁 · 14 мин\n└ Done Gone\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 87 👁 · 44 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/4yoSzP4wi0o\">Депутат</a></b> · 83 👁 · 12 мин\n└ Прямой эфир 18.10.2025",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
