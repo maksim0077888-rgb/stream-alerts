@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 3
+    "viewers": 0
    },
    "oXccDU4g8ic": {
     "vid": "oXccDU4g8ic",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "Стрим с Дианой и кое кем еще 😁",
     "thumb": "https://i.ytimg.com/vi/oXccDU4g8ic/maxresdefault_live.jpg",
-    "viewers": 1012
+    "viewers": 210
    },
    "TlSXgZ3_fsA": {
     "vid": "TlSXgZ3_fsA",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
     "name": "Депутат",
     "start": "2026-10-18T15:31:18Z",
-    "peak": 39,
+    "peak": 43,
     "has_viewers": true,
     "title": "Прямой эфир 18.10.2025",
     "thumb": "https://i.ytimg.com/vi/TlSXgZ3_fsA/maxresdefault_live.jpg",
-    "viewers": 39
+    "viewers": 43
    },
    "MiW5t2y65q8": {
     "vid": "MiW5t2y65q8",
@@ -83,7 +83,7 @@
     "has_viewers": true,
     "title": "Тусовка",
     "thumb": "https://i.ytimg.com/vi/MiW5t2y65q8/sddefault_live.jpg",
-    "viewers": 1439
+    "viewers": 1230
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "2 ч 11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/MiW5t2y65q8\">Дон Грязь</a></b> · 1439 👁 · 9 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/oXccDU4g8ic\">Рифляй</a></b> · 1012 👁 · 4 ч 53 мин\n└ Стрим с Дианой и кое кем еще 😁\n\n<b><a href=\"https://youtu.be/TlSXgZ3_fsA\">Депутат</a></b> · 39 👁 · 3 ч 44 мин\n└ Прямой эфир 18.10.2025\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 3 👁 · 5 ч 44 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/MiW5t2y65q8\">Дон Грязь</a></b> · 1230 👁 · 24 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/oXccDU4g8ic\">Рифляй</a></b> · 210 👁 · 5 ч 08 мин\n└ Стрим с Дианой и кое кем еще 😁\n\n<b><a href=\"https://youtu.be/TlSXgZ3_fsA\">Депутат</a></b> · 43 👁 · 3 ч 59 мин\n└ Прямой эфир 18.10.2025\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 0 👁 · 5 ч 59 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
