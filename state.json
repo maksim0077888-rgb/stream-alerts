@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 45
+    "viewers": 39
    },
    "1qBpfDwF-bU": {
     "vid": "1qBpfDwF-bU",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "Done Gone",
     "thumb": "https://i.ytimg.com/vi/1qBpfDwF-bU/maxresdefault_live.jpg",
-    "viewers": 4936
+    "viewers": 4891
    },
    "oXccDU4g8ic": {
     "vid": "oXccDU4g8ic",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-18T14:22:05Z",
-    "peak": 203,
+    "peak": 352,
     "has_viewers": true,
     "title": "Стрим с Дианой и кое кем еще 😁",
     "thumb": "https://i.ytimg.com/vi/oXccDU4g8ic/maxresdefault_live.jpg",
-    "viewers": 167
+    "viewers": 352
    },
    "0otZsskSsYQ": {
     "vid": "0otZsskSsYQ",
@@ -83,7 +83,18 @@
     "has_viewers": true,
     "title": "Ирина Шейх у меня в студии через час",
     "thumb": "https://i.ytimg.com/vi/0otZsskSsYQ/sddefault_live.jpg",
-    "viewers": 778
+    "viewers": 721
+   },
+   "TlSXgZ3_fsA": {
+    "vid": "TlSXgZ3_fsA",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-18T15:31:18Z",
+    "peak": 31,
+    "has_viewers": true,
+    "title": "Прямой эфир 18.10.2025",
+    "thumb": "https://i.ytimg.com/vi/TlSXgZ3_fsA/maxresdefault_live.jpg",
+    "viewers": 31
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1qBpfDwF-bU\">ПАПИЧ</a></b> · 4936 👁 · 1 ч 29 мин\n└ Done Gone\n\n<b><a href=\"https://youtu.be/0otZsskSsYQ\">Дон Грязь</a></b> · 778 👁 · 40 мин\n└ Ирина Шейх у меня в студии через час\n\n<b><a href=\"https://youtu.be/oXccDU4g8ic\">Рифляй</a></b> · 167 👁 · 1 ч 08 мин\n└ Стрим с Дианой и кое кем еще 😁\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 45 👁 · 1 ч 59 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/1qBpfDwF-bU\">ПАПИЧ</a></b> · 4891 👁 · 1 ч 44 мин\n└ Done Gone\n\n<b><a href=\"https://youtu.be/0otZsskSsYQ\">Дон Грязь</a></b> · 721 👁 · 55 мин\n└ Ирина Шейх у меня в студии через час\n\n<b><a href=\"https://youtu.be/oXccDU4g8ic\">Рифляй</a></b> · 352 👁 · 1 ч 23 мин\n└ Стрим с Дианой и кое кем еще 😁\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 39 👁 · 2 ч 14 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/TlSXgZ3_fsA\">Депутат</a></b> · 31 👁 · 14 мин\n└ Прямой эфир 18.10.2025",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
