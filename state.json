@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "y1M8zd1NsI8": {
-    "vid": "y1M8zd1NsI8",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-17T17:50:40Z",
-    "peak": 1448,
-    "has_viewers": true,
-    "title": "Ким едет",
-    "thumb": "https://i.ytimg.com/vi/y1M8zd1NsI8/sddefault_live.jpg",
-    "viewers": 484
-   },
    "EbJSCf4bY54": {
     "vid": "EbJSCf4bY54",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "для девочек и не только",
     "thumb": "https://i.ytimg.com/vi/EbJSCf4bY54/maxresdefault_live.jpg",
-    "viewers": 2
+    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "KwFMwufgGCY",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-16T17:29:53Z",
-    "peak": 198,
-    "has_viewers": true,
-    "title": "Стрим с вискас,аришей и никитой",
-    "thumb": "https://i.ytimg.com/vi/KwFMwufgGCY/maxresdefault_live.jpg",
-    "viewers": 97,
-    "dur": "8 ч 07 мин"
-   },
    {
     "vid": "4PQjg_npAZw",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/ahdCrbKPDNU/maxresdefault_live.jpg",
     "viewers": 1409,
     "dur": "5 ч 44 мин"
+   },
+   {
+    "vid": "y1M8zd1NsI8",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-17T17:50:40Z",
+    "peak": 1448,
+    "has_viewers": true,
+    "title": "Ким едет",
+    "thumb": "https://i.ytimg.com/vi/y1M8zd1NsI8/sddefault_live.jpg",
+    "viewers": 484,
+    "dur": "7 ч 49 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/y1M8zd1NsI8\">Дон Грязь</a></b> · 484 👁 · 7 ч 39 мин\n└ Ким едет\n\n<b><a href=\"https://youtu.be/EbJSCf4bY54\">Школа Сук</a></b> · 2 👁 · 3 ч 04 мин\n└ для девочек и не только",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/EbJSCf4bY54\">Школа Сук</a></b> · 1 👁 · 3 ч 19 мин\n└ для девочек и не только",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
