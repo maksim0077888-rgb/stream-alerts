@@ -41,31 +41,19 @@
  "board": {
   "msg": 107,
   "streams": {
-   "H0fqnWa_TJA": {
-    "vid": "H0fqnWa_TJA",
+   "dWFlpyo2D7Q": {
+    "vid": "dWFlpyo2D7Q",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
-    "start": "2026-10-19T05:27:51Z",
-    "peak": 1111,
+    "start": "2026-10-19T14:59:16Z",
+    "peak": 221,
     "has_viewers": true,
-    "title": "Тусовка",
-    "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 1111
+    "title": "Селена Гомез у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/dWFlpyo2D7Q/sddefault_live.jpg",
+    "viewers": 221
    }
   },
   "ended": [
-   {
-    "vid": "QFCkczbmGCE",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-18T06:54:51Z",
-    "peak": 29,
-    "has_viewers": true,
-    "title": "для девочек и не только",
-    "thumb": "https://i.ytimg.com/vi/QFCkczbmGCE/maxresdefault_live.jpg",
-    "viewers": 0,
-    "dur": "23 мин"
-   },
    {
     "vid": "4yoSzP4wi0o",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/zr7zD93mAcY/maxresdefault_live.jpg",
     "viewers": 29,
     "dur": "2 ч 10 мин"
+   },
+   {
+    "vid": "H0fqnWa_TJA",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-19T05:27:51Z",
+    "peak": 1111,
+    "has_viewers": true,
+    "title": "Тусовка",
+    "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
+    "viewers": 1111,
+    "dur": "9 ч 27 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 1111 👁 · 9 ч 17 мин\n└ Тусовка",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dWFlpyo2D7Q\">Дон Грязь</a></b> · 221 👁 · 1 мин\n└ Селена Гомез у меня в студии",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
