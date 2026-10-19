@@ -50,7 +50,29 @@
     "has_viewers": true,
     "title": "Тусовка",
     "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 972
+    "viewers": 898
+   },
+   "zr7zD93mAcY": {
+    "vid": "zr7zD93mAcY",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-19T12:01:34Z",
+    "peak": 29,
+    "has_viewers": true,
+    "title": "Прямой эфир с Валентином Владимировичем",
+    "thumb": "https://i.ytimg.com/vi/zr7zD93mAcY/maxresdefault_live.jpg",
+    "viewers": 29
+   },
+   "3FH-7Teiajs": {
+    "vid": "3FH-7Teiajs",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-19T12:01:38Z",
+    "peak": 34,
+    "has_viewers": true,
+    "title": "persus",
+    "thumb": "https://i.ytimg.com/vi/3FH-7Teiajs/maxresdefault_live.jpg",
+    "viewers": 34
    }
   },
   "ended": [
@@ -235,7 +257,7 @@
     "dur": "55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 972 👁 · 6 ч 32 мин\n└ Тусовка",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 898 👁 · 6 ч 47 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/3FH-7Teiajs\">Ахиллес</a></b> · 34 👁 · 13 мин\n└ persus\n\n<b><a href=\"https://youtu.be/zr7zD93mAcY\">Депутат</a></b> · 29 👁 · 13 мин\n└ Прямой эфир с Валентином Владимировичем",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
