@@ -46,11 +46,11 @@
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-19T05:27:51Z",
-    "peak": 811,
+    "peak": 869,
     "has_viewers": true,
     "title": "Тусовка",
     "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 811
+    "viewers": 869
    },
    "wRW9cnSLRTc": {
     "vid": "wRW9cnSLRTc",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/wRW9cnSLRTc/maxresdefault_live.jpg",
-    "viewers": 20
+    "viewers": 0
    },
    "DrsBMw9QYvU": {
     "vid": "DrsBMw9QYvU",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
     "name": "Don Simon",
     "start": "2026-10-19T11:05:13Z",
-    "peak": 63,
+    "peak": 109,
     "has_viewers": true,
     "title": "= Дон Симон - Погнали=",
     "thumb": "https://i.ytimg.com/vi/DrsBMw9QYvU/maxresdefault_live.jpg",
-    "viewers": 63
+    "viewers": 109
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "1 ч 32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 811 👁 · 5 ч 40 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/DrsBMw9QYvU\">Don Simon</a></b> · 63 👁 · 2 мин\n└ = Дон Симон - Погнали=\n\n<b><a href=\"https://youtu.be/wRW9cnSLRTc\">Ахиллес</a></b> · 20 👁 · 3 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 869 👁 · 5 ч 47 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/DrsBMw9QYvU\">Don Simon</a></b> · 109 👁 · 10 мин\n└ = Дон Симон - Погнали=\n\n<b><a href=\"https://youtu.be/wRW9cnSLRTc\">Ахиллес</a></b> · 0 👁 · 10 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
