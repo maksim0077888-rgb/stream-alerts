@@ -46,11 +46,11 @@
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-19T05:27:51Z",
-    "peak": 926,
+    "peak": 995,
     "has_viewers": true,
     "title": "Тусовка",
     "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 926
+    "viewers": 995
    },
    "wRW9cnSLRTc": {
     "vid": "wRW9cnSLRTc",
@@ -62,32 +62,9 @@
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/wRW9cnSLRTc/maxresdefault_live.jpg",
     "viewers": 0
-   },
-   "DrsBMw9QYvU": {
-    "vid": "DrsBMw9QYvU",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-19T11:05:13Z",
-    "peak": 123,
-    "has_viewers": true,
-    "title": "= Дон Симон - Погнали=",
-    "thumb": "https://i.ytimg.com/vi/DrsBMw9QYvU/maxresdefault_live.jpg",
-    "viewers": 123
    }
   },
   "ended": [
-   {
-    "vid": "ahdCrbKPDNU",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-17T15:58:38Z",
-    "peak": 1409,
-    "has_viewers": true,
-    "title": "ГлинаТВ",
-    "thumb": "https://i.ytimg.com/vi/ahdCrbKPDNU/maxresdefault_live.jpg",
-    "viewers": 1409,
-    "dur": "5 ч 44 мин"
-   },
    {
     "vid": "y1M8zd1NsI8",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/Sp4KckGR8SY/maxresdefault_live.jpg",
     "viewers": 132,
     "dur": "1 ч 32 мин"
+   },
+   {
+    "vid": "DrsBMw9QYvU",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-10-19T11:05:13Z",
+    "peak": 123,
+    "has_viewers": true,
+    "title": "= Дон Симон - Погнали=",
+    "thumb": "https://i.ytimg.com/vi/DrsBMw9QYvU/maxresdefault_live.jpg",
+    "viewers": 123,
+    "dur": "38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 926 👁 · 6 ч 02 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/DrsBMw9QYvU\">Don Simon</a></b> · 123 👁 · 25 мин\n└ = Дон Симон - Погнали=\n\n<b><a href=\"https://youtu.be/wRW9cnSLRTc\">Ахиллес</a></b> · 0 👁 · 25 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 995 👁 · 6 ч 17 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/wRW9cnSLRTc\">Ахиллес</a></b> · 0 👁 · 40 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
