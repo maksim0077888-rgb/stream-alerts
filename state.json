@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "Тусовка",
     "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 995
-   },
-   "wRW9cnSLRTc": {
-    "vid": "wRW9cnSLRTc",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-19T11:05:05Z",
-    "peak": 20,
-    "has_viewers": true,
-    "title": "Persus stream",
-    "thumb": "https://i.ytimg.com/vi/wRW9cnSLRTc/maxresdefault_live.jpg",
-    "viewers": 0
+    "viewers": 972
    }
   },
   "ended": [
-   {
-    "vid": "y1M8zd1NsI8",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-17T17:50:40Z",
-    "peak": 1448,
-    "has_viewers": true,
-    "title": "Ким едет",
-    "thumb": "https://i.ytimg.com/vi/y1M8zd1NsI8/sddefault_live.jpg",
-    "viewers": 484,
-    "dur": "7 ч 49 мин"
-   },
    {
     "vid": "EbJSCf4bY54",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/DrsBMw9QYvU/maxresdefault_live.jpg",
     "viewers": 123,
     "dur": "38 мин"
+   },
+   {
+    "vid": "wRW9cnSLRTc",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-19T11:05:05Z",
+    "peak": 20,
+    "has_viewers": true,
+    "title": "Persus stream",
+    "thumb": "https://i.ytimg.com/vi/wRW9cnSLRTc/maxresdefault_live.jpg",
+    "viewers": 0,
+    "dur": "55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 995 👁 · 6 ч 17 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/wRW9cnSLRTc\">Ахиллес</a></b> · 0 👁 · 40 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 972 👁 · 6 ч 32 мин\n└ Тусовка",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
