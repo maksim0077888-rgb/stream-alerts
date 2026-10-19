@@ -50,33 +50,21 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 131
+    "viewers": 73
    },
-   "MiW5t2y65q8": {
-    "vid": "MiW5t2y65q8",
+   "H0fqnWa_TJA": {
+    "vid": "H0fqnWa_TJA",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
-    "start": "2026-10-18T19:05:36Z",
-    "peak": 1863,
+    "start": "2026-10-19T05:27:51Z",
+    "peak": 85,
     "has_viewers": true,
     "title": "Тусовка",
-    "thumb": "https://i.ytimg.com/vi/MiW5t2y65q8/sddefault_live.jpg",
-    "viewers": 34
+    "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
+    "viewers": 85
    }
   },
   "ended": [
-   {
-    "vid": "-Aw4lP01OTs",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-10-17T13:30:54Z",
-    "peak": 4181,
-    "has_viewers": true,
-    "title": "Goys Come",
-    "thumb": "https://i.ytimg.com/vi/-Aw4lP01OTs/maxresdefault_live.jpg",
-    "viewers": 3578,
-    "dur": "3 ч 07 мин"
-   },
    {
     "vid": "U0ZqSMXc8Y0",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/oXccDU4g8ic/maxresdefault_live.jpg",
     "viewers": 127,
     "dur": "9 ч 33 мин"
+   },
+   {
+    "vid": "MiW5t2y65q8",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-18T19:05:36Z",
+    "peak": 1863,
+    "has_viewers": true,
+    "title": "Тусовка",
+    "thumb": "https://i.ytimg.com/vi/MiW5t2y65q8/sddefault_live.jpg",
+    "viewers": 34,
+    "dur": "10 ч 21 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 131 👁 · 15 ч 44 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/MiW5t2y65q8\">Дон Грязь</a></b> · 34 👁 · 10 ч 09 мин\n└ Тусовка",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 85 👁 · 2 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 73 👁 · 15 ч 59 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
