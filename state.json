@@ -41,65 +41,41 @@
  "board": {
   "msg": 107,
   "streams": {
-   "-V8uzh9o2NI": {
-    "vid": "-V8uzh9o2NI",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-18T13:30:49Z",
-    "peak": 172,
-    "has_viewers": true,
-    "title": "Persus stream",
-    "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 43
-   },
    "H0fqnWa_TJA": {
     "vid": "H0fqnWa_TJA",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-19T05:27:51Z",
-    "peak": 787,
+    "peak": 811,
     "has_viewers": true,
     "title": "Тусовка",
     "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 787
+    "viewers": 811
    },
-   "Sp4KckGR8SY": {
-    "vid": "Sp4KckGR8SY",
+   "wRW9cnSLRTc": {
+    "vid": "wRW9cnSLRTc",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-19T11:05:05Z",
+    "peak": 20,
+    "has_viewers": true,
+    "title": "Persus stream",
+    "thumb": "https://i.ytimg.com/vi/wRW9cnSLRTc/maxresdefault_live.jpg",
+    "viewers": 20
+   },
+   "DrsBMw9QYvU": {
+    "vid": "DrsBMw9QYvU",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
     "name": "Don Simon",
-    "start": "2026-10-19T09:32:13Z",
-    "peak": 149,
+    "start": "2026-10-19T11:05:13Z",
+    "peak": 63,
     "has_viewers": true,
     "title": "= Дон Симон - Погнали=",
-    "thumb": "https://i.ytimg.com/vi/Sp4KckGR8SY/maxresdefault_live.jpg",
-    "viewers": 132
+    "thumb": "https://i.ytimg.com/vi/DrsBMw9QYvU/maxresdefault_live.jpg",
+    "viewers": 63
    }
   },
   "ended": [
-   {
-    "vid": "U0ZqSMXc8Y0",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-17T16:36:14Z",
-    "peak": 1951,
-    "has_viewers": true,
-    "title": "Ким едет",
-    "thumb": "https://i.ytimg.com/vi/U0ZqSMXc8Y0/sddefault_live.jpg",
-    "viewers": 518,
-    "dur": "1 ч 13 мин"
-   },
-   {
-    "vid": "FJD4bYbM2YU",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-17T16:34:33Z",
-    "peak": 11,
-    "has_viewers": true,
-    "title": "для девочек и не только",
-    "thumb": "https://i.ytimg.com/vi/FJD4bYbM2YU/maxresdefault_live.jpg",
-    "viewers": 5,
-    "dur": "2 ч 40 мин"
-   },
    {
     "vid": "ahdCrbKPDNU",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +231,33 @@
     "thumb": "https://i.ytimg.com/vi/MiW5t2y65q8/sddefault_live.jpg",
     "viewers": 34,
     "dur": "10 ч 21 мин"
+   },
+   {
+    "vid": "-V8uzh9o2NI",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-18T13:30:49Z",
+    "peak": 172,
+    "has_viewers": true,
+    "title": "Persus stream",
+    "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
+    "viewers": 43,
+    "dur": "21 ч 33 мин"
+   },
+   {
+    "vid": "Sp4KckGR8SY",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-10-19T09:32:13Z",
+    "peak": 149,
+    "has_viewers": true,
+    "title": "= Дон Симон - Погнали=",
+    "thumb": "https://i.ytimg.com/vi/Sp4KckGR8SY/maxresdefault_live.jpg",
+    "viewers": 132,
+    "dur": "1 ч 32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 787 👁 · 5 ч 32 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/Sp4KckGR8SY\">Don Simon</a></b> · 132 👁 · 1 ч 28 мин\n└ = Дон Симон - Погнали=\n\n<b><a href=\"https://youtu.be/-V8uzh9o2NI\">Ахиллес</a></b> · 43 👁 · 21 ч 29 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 811 👁 · 5 ч 40 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/DrsBMw9QYvU\">Don Simon</a></b> · 63 👁 · 2 мин\n└ = Дон Симон - Погнали=\n\n<b><a href=\"https://youtu.be/wRW9cnSLRTc\">Ахиллес</a></b> · 20 👁 · 3 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
