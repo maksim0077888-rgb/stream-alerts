@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "Тусовка",
     "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 1073
-   },
-   "zr7zD93mAcY": {
-    "vid": "zr7zD93mAcY",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-19T12:01:34Z",
-    "peak": 41,
-    "has_viewers": true,
-    "title": "Прямой эфир с Валентином Владимировичем",
-    "thumb": "https://i.ytimg.com/vi/zr7zD93mAcY/maxresdefault_live.jpg",
-    "viewers": 29
+    "viewers": 1013
    }
   },
   "ended": [
-   {
-    "vid": "a2Dal3Lzbhc",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-18T07:25:41Z",
-    "peak": 74,
-    "has_viewers": true,
-    "title": "Прямая трансляция ШКОЛА СУК",
-    "thumb": "https://i.ytimg.com/vi/a2Dal3Lzbhc/maxresdefault_live.jpg",
-    "viewers": 61,
-    "dur": "5 ч 12 мин"
-   },
    {
     "vid": "QFCkczbmGCE",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/3FH-7Teiajs/maxresdefault_live.jpg",
     "viewers": 5,
     "dur": "1 ч 01 мин"
+   },
+   {
+    "vid": "zr7zD93mAcY",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-19T12:01:34Z",
+    "peak": 41,
+    "has_viewers": true,
+    "title": "Прямой эфир с Валентином Владимировичем",
+    "thumb": "https://i.ytimg.com/vi/zr7zD93mAcY/maxresdefault_live.jpg",
+    "viewers": 29,
+    "dur": "2 ч 10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 1073 👁 · 8 ч 33 мин\n└ Тусовка\n\n<b><a href=\"https://youtu.be/zr7zD93mAcY\">Депутат</a></b> · 29 👁 · 1 ч 59 мин\n└ Прямой эфир с Валентином Владимировичем",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/H0fqnWa_TJA\">Дон Грязь</a></b> · 1013 👁 · 8 ч 47 мин\n└ Тусовка",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
