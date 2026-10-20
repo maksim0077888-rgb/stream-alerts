@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Еду брать 18 про макс",
     "thumb": "https://i.ytimg.com/vi/e2HdGuNcmME/sddefault_live.jpg",
-    "viewers": 9
+    "viewers": 10
    },
    "UsWaEqF7oT0": {
     "vid": "UsWaEqF7oT0",
@@ -61,18 +61,7 @@
     "has_viewers": true,
     "title": "кукинг",
     "thumb": "https://i.ytimg.com/vi/UsWaEqF7oT0/maxresdefault_live.jpg",
-    "viewers": 14
-   },
-   "BUhYVUTMpBY": {
-    "vid": "BUhYVUTMpBY",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-20T13:13:06Z",
-    "peak": 49,
-    "has_viewers": true,
-    "title": "Прямой эфир 20.10.2026",
-    "thumb": "https://i.ytimg.com/vi/BUhYVUTMpBY/maxresdefault_live.jpg",
-    "viewers": 31
+    "viewers": 19
    },
    "b5zcfzDZF9Y": {
     "vid": "b5zcfzDZF9Y",
@@ -83,22 +72,21 @@
     "has_viewers": true,
     "title": "Days Goys",
     "thumb": "https://i.ytimg.com/vi/b5zcfzDZF9Y/maxresdefault_live.jpg",
-    "viewers": 3710
+    "viewers": 3586
+   },
+   "W0wy38oBW4k": {
+    "vid": "W0wy38oBW4k",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-20T14:53:58Z",
+    "peak": 18,
+    "has_viewers": true,
+    "title": "готовка",
+    "thumb": "https://i.ytimg.com/vi/W0wy38oBW4k/maxresdefault_live.jpg",
+    "viewers": 18
    }
   },
   "ended": [
-   {
-    "vid": "DrsBMw9QYvU",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-19T11:05:13Z",
-    "peak": 123,
-    "has_viewers": true,
-    "title": "= Дон Симон - Погнали=",
-    "thumb": "https://i.ytimg.com/vi/DrsBMw9QYvU/maxresdefault_live.jpg",
-    "viewers": 123,
-    "dur": "38 мин"
-   },
    {
     "vid": "wRW9cnSLRTc",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/3pZ2OMzkC9I/maxresdefault_live.jpg",
     "viewers": 21,
     "dur": "3 ч 32 мин"
+   },
+   {
+    "vid": "BUhYVUTMpBY",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-20T13:13:06Z",
+    "peak": 49,
+    "has_viewers": true,
+    "title": "Прямой эфир 20.10.2026",
+    "thumb": "https://i.ytimg.com/vi/BUhYVUTMpBY/maxresdefault_live.jpg",
+    "viewers": 31,
+    "dur": "1 ч 43 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/b5zcfzDZF9Y\">ПАПИЧ</a></b> · 3710 👁 · 58 мин\n└ Days Goys\n\n<b><a href=\"https://youtu.be/BUhYVUTMpBY\">Депутат</a></b> · 31 👁 · 1 ч 32 мин\n└ Прямой эфир 20.10.2026\n\n<b><a href=\"https://youtu.be/UsWaEqF7oT0\">Школа Сук</a></b> · 14 👁 · 2 ч 39 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/e2HdGuNcmME\">Дон Грязь</a></b> · 9 👁 · 3 ч 59 мин\n└ Еду брать 18 про макс",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/b5zcfzDZF9Y\">ПАПИЧ</a></b> · 3586 👁 · 1 ч 13 мин\n└ Days Goys\n\n<b><a href=\"https://youtu.be/UsWaEqF7oT0\">Школа Сук</a></b> · 19 👁 · 2 ч 54 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/W0wy38oBW4k\">Ахиллес</a></b> · 18 👁 · 6 мин\n└ готовка\n\n<b><a href=\"https://youtu.be/e2HdGuNcmME\">Дон Грязь</a></b> · 10 👁 · 4 ч 14 мин\n└ Еду брать 18 про макс",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
