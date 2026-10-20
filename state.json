@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "_Djt_TKQcI0": {
-    "vid": "_Djt_TKQcI0",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-20T07:41:57Z",
-    "peak": 777,
-    "has_viewers": true,
-    "title": "Трэхнул Дыряну",
-    "thumb": "https://i.ytimg.com/vi/_Djt_TKQcI0/sddefault_live.jpg",
-    "viewers": 531
-   },
    "3pZ2OMzkC9I": {
     "vid": "3pZ2OMzkC9I",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "Persus Stream",
     "thumb": "https://i.ytimg.com/vi/3pZ2OMzkC9I/maxresdefault_live.jpg",
-    "viewers": 10
+    "viewers": 33
    }
   },
   "ended": [
-   {
-    "vid": "-V8uzh9o2NI",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-18T13:30:49Z",
-    "peak": 172,
-    "has_viewers": true,
-    "title": "Persus stream",
-    "thumb": "https://i.ytimg.com/vi/-V8uzh9o2NI/maxresdefault_live.jpg",
-    "viewers": 43,
-    "dur": "21 ч 33 мин"
-   },
    {
     "vid": "Sp4KckGR8SY",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/6cSfwIoom_0/sddefault_live.jpg",
     "viewers": 120,
     "dur": "12 мин"
+   },
+   {
+    "vid": "_Djt_TKQcI0",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-20T07:41:57Z",
+    "peak": 777,
+    "has_viewers": true,
+    "title": "Трэхнул Дыряну",
+    "thumb": "https://i.ytimg.com/vi/_Djt_TKQcI0/sddefault_live.jpg",
+    "viewers": 531,
+    "dur": "3 ч 01 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/_Djt_TKQcI0\">Дон Грязь</a></b> · 531 👁 · 2 ч 48 мин\n└ Трэхнул Дыряну\n\n<b><a href=\"https://youtu.be/3pZ2OMzkC9I\">Ахиллес</a></b> · 10 👁 · 1 ч 16 мин\n└ Persus Stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/3pZ2OMzkC9I\">Ахиллес</a></b> · 33 👁 · 1 ч 31 мин\n└ Persus Stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
