@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "3pZ2OMzkC9I": {
-    "vid": "3pZ2OMzkC9I",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-20T09:13:56Z",
-    "peak": 38,
-    "has_viewers": true,
-    "title": "Persus Stream",
-    "thumb": "https://i.ytimg.com/vi/3pZ2OMzkC9I/maxresdefault_live.jpg",
-    "viewers": 21
-   },
    "e2HdGuNcmME": {
     "vid": "e2HdGuNcmME",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -61,7 +50,7 @@
     "has_viewers": true,
     "title": "Еду брать 18 про макс",
     "thumb": "https://i.ytimg.com/vi/e2HdGuNcmME/sddefault_live.jpg",
-    "viewers": 14
+    "viewers": 16
    },
    "UsWaEqF7oT0": {
     "vid": "UsWaEqF7oT0",
@@ -76,18 +65,6 @@
    }
   },
   "ended": [
-   {
-    "vid": "Sp4KckGR8SY",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-19T09:32:13Z",
-    "peak": 149,
-    "has_viewers": true,
-    "title": "= Дон Симон - Погнали=",
-    "thumb": "https://i.ytimg.com/vi/Sp4KckGR8SY/maxresdefault_live.jpg",
-    "viewers": 132,
-    "dur": "1 ч 32 мин"
-   },
    {
     "vid": "DrsBMw9QYvU",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/_Djt_TKQcI0/sddefault_live.jpg",
     "viewers": 531,
     "dur": "3 ч 01 мин"
+   },
+   {
+    "vid": "3pZ2OMzkC9I",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-20T09:13:56Z",
+    "peak": 38,
+    "has_viewers": true,
+    "title": "Persus Stream",
+    "thumb": "https://i.ytimg.com/vi/3pZ2OMzkC9I/maxresdefault_live.jpg",
+    "viewers": 21,
+    "dur": "3 ч 32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/3pZ2OMzkC9I\">Ахиллес</a></b> · 21 👁 · 3 ч 31 мин\n└ Persus Stream\n\n<b><a href=\"https://youtu.be/e2HdGuNcmME\">Дон Грязь</a></b> · 14 👁 · 1 ч 59 мин\n└ Еду брать 18 про макс\n\n<b><a href=\"https://youtu.be/UsWaEqF7oT0\">Школа Сук</a></b> · 10 👁 · 39 мин\n└ кукинг",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/e2HdGuNcmME\">Дон Грязь</a></b> · 16 👁 · 2 ч 14 мин\n└ Еду брать 18 про макс\n\n<b><a href=\"https://youtu.be/UsWaEqF7oT0\">Школа Сук</a></b> · 10 👁 · 54 мин\n└ кукинг",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
