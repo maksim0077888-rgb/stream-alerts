@@ -52,31 +52,19 @@
     "thumb": "https://i.ytimg.com/vi/eaHlCZLaW7o/maxresdefault_live.jpg",
     "viewers": 0
    },
-   "olOpRB-L67k": {
-    "vid": "olOpRB-L67k",
+   "AkBXe2d8R5E": {
+    "vid": "AkBXe2d8R5E",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
-    "start": "2026-10-19T21:52:43Z",
-    "peak": 1705,
+    "start": "2026-10-20T00:54:03Z",
+    "peak": 695,
     "has_viewers": true,
     "title": "Мы тут",
-    "thumb": "https://i.ytimg.com/vi/olOpRB-L67k/sddefault_live.jpg",
-    "viewers": 1329
+    "thumb": "https://i.ytimg.com/vi/AkBXe2d8R5E/maxresdefault_live.jpg",
+    "viewers": 695
    }
   },
   "ended": [
-   {
-    "vid": "Y4r0oH9XxhY",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-18T16:53:17Z",
-    "peak": 1528,
-    "has_viewers": true,
-    "title": "Тусовка бешенная",
-    "thumb": "https://i.ytimg.com/vi/Y4r0oH9XxhY/maxresdefault_live.jpg",
-    "viewers": 1511,
-    "dur": "2 ч 11 мин"
-   },
    {
     "vid": "TlSXgZ3_fsA",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/nVDB6I6Bq1k/maxresdefault_live.jpg",
     "viewers": 173,
     "dur": "4 ч 09 мин"
+   },
+   {
+    "vid": "olOpRB-L67k",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-19T21:52:43Z",
+    "peak": 1705,
+    "has_viewers": true,
+    "title": "Мы тут",
+    "thumb": "https://i.ytimg.com/vi/olOpRB-L67k/sddefault_live.jpg",
+    "viewers": 1329,
+    "dur": "3 ч 08 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/olOpRB-L67k\">Дон Грязь</a></b> · 1329 👁 · 2 ч 52 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/eaHlCZLaW7o\">Ахиллес</a></b> · 0 👁 · 6 ч 48 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/AkBXe2d8R5E\">Дон Грязь</a></b> · 695 👁 · 6 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/eaHlCZLaW7o\">Ахиллес</a></b> · 0 👁 · 7 ч 04 мин\n└ persus",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
