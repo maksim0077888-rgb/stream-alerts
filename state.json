@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "e2HdGuNcmME": {
-    "vid": "e2HdGuNcmME",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-20T10:46:02Z",
-    "peak": 461,
-    "has_viewers": true,
-    "title": "Еду брать 18 про макс",
-    "thumb": "https://i.ytimg.com/vi/e2HdGuNcmME/sddefault_live.jpg",
-    "viewers": 4
-   },
    "UsWaEqF7oT0": {
     "vid": "UsWaEqF7oT0",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -61,33 +50,21 @@
     "has_viewers": true,
     "title": "кукинг",
     "thumb": "https://i.ytimg.com/vi/UsWaEqF7oT0/maxresdefault_live.jpg",
-    "viewers": 15
+    "viewers": 14
    },
    "tPNw6aMqIco": {
     "vid": "tPNw6aMqIco",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
     "name": "Ахиллес",
     "start": "2026-10-20T17:25:55Z",
-    "peak": 37,
+    "peak": 45,
     "has_viewers": true,
     "title": "persus",
     "thumb": "https://i.ytimg.com/vi/tPNw6aMqIco/maxresdefault_live.jpg",
-    "viewers": 37
+    "viewers": 45
    }
   },
   "ended": [
-   {
-    "vid": "zr7zD93mAcY",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-19T12:01:34Z",
-    "peak": 41,
-    "has_viewers": true,
-    "title": "Прямой эфир с Валентином Владимировичем",
-    "thumb": "https://i.ytimg.com/vi/zr7zD93mAcY/maxresdefault_live.jpg",
-    "viewers": 29,
-    "dur": "2 ч 10 мин"
-   },
    {
     "vid": "H0fqnWa_TJA",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/b5zcfzDZF9Y/maxresdefault_live.jpg",
     "viewers": 3473,
     "dur": "3 ч 04 мин"
+   },
+   {
+    "vid": "e2HdGuNcmME",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-20T10:46:02Z",
+    "peak": 461,
+    "has_viewers": true,
+    "title": "Еду брать 18 про макс",
+    "thumb": "https://i.ytimg.com/vi/e2HdGuNcmME/sddefault_live.jpg",
+    "viewers": 4,
+    "dur": "44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/tPNw6aMqIco\">Ахиллес</a></b> · 37 👁 · 19 мин\n└ persus\n\n<b><a href=\"https://youtu.be/UsWaEqF7oT0\">Школа Сук</a></b> · 15 👁 · 5 ч 39 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/e2HdGuNcmME\">Дон Грязь</a></b> · 4 👁 · 6 ч 59 мин\n└ Еду брать 18 про макс",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/tPNw6aMqIco\">Ахиллес</a></b> · 45 👁 · 34 мин\n└ persus\n\n<b><a href=\"https://youtu.be/UsWaEqF7oT0\">Школа Сук</a></b> · 14 👁 · 5 ч 54 мин\n└ кукинг",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
