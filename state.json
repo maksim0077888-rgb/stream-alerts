@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "Трэхнул Дыряну",
     "thumb": "https://i.ytimg.com/vi/_Djt_TKQcI0/sddefault_live.jpg",
-    "viewers": 669
+    "viewers": 614
+   },
+   "3pZ2OMzkC9I": {
+    "vid": "3pZ2OMzkC9I",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-20T09:13:56Z",
+    "peak": 3,
+    "has_viewers": true,
+    "title": "Persus Stream",
+    "thumb": "https://i.ytimg.com/vi/3pZ2OMzkC9I/maxresdefault_live.jpg",
+    "viewers": 3
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "12 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/_Djt_TKQcI0\">Дон Грязь</a></b> · 669 👁 · 1 ч 18 мин\n└ Трэхнул Дыряну",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/_Djt_TKQcI0\">Дон Грязь</a></b> · 614 👁 · 1 ч 33 мин\n└ Трэхнул Дыряну\n\n<b><a href=\"https://youtu.be/3pZ2OMzkC9I\">Ахиллес</a></b> · 3 👁 · 1 мин\n└ Persus Stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
