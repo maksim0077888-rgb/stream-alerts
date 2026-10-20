@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "eaHlCZLaW7o": {
-    "vid": "eaHlCZLaW7o",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-19T17:56:34Z",
-    "peak": 79,
-    "has_viewers": true,
-    "title": "persus",
-    "thumb": "https://i.ytimg.com/vi/eaHlCZLaW7o/maxresdefault_live.jpg",
-    "viewers": 0
-   },
    "AkBXe2d8R5E": {
     "vid": "AkBXe2d8R5E",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "Мы тут",
     "thumb": "https://i.ytimg.com/vi/AkBXe2d8R5E/maxresdefault_live.jpg",
-    "viewers": 761
+    "viewers": 791
    }
   },
   "ended": [
-   {
-    "vid": "TlSXgZ3_fsA",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-18T15:31:18Z",
-    "peak": 43,
-    "has_viewers": true,
-    "title": "Прямой эфир 18.10.2025",
-    "thumb": "https://i.ytimg.com/vi/TlSXgZ3_fsA/maxresdefault_live.jpg",
-    "viewers": 31,
-    "dur": "7 ч 10 мин"
-   },
    {
     "vid": "oXccDU4g8ic",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/olOpRB-L67k/sddefault_live.jpg",
     "viewers": 1329,
     "dur": "3 ч 08 мин"
+   },
+   {
+    "vid": "eaHlCZLaW7o",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-19T17:56:34Z",
+    "peak": 79,
+    "has_viewers": true,
+    "title": "persus",
+    "thumb": "https://i.ytimg.com/vi/eaHlCZLaW7o/maxresdefault_live.jpg",
+    "viewers": 0,
+    "dur": "1 ч 19 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/AkBXe2d8R5E\">Дон Грязь</a></b> · 761 👁 · 51 мин\n└ Мы тут\n\n<b><a href=\"https://youtu.be/eaHlCZLaW7o\">Ахиллес</a></b> · 0 👁 · 7 ч 48 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/AkBXe2d8R5E\">Дон Грязь</a></b> · 791 👁 · 1 ч 06 мин\n└ Мы тут",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
