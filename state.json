@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "UsWaEqF7oT0": {
-    "vid": "UsWaEqF7oT0",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-20T12:05:51Z",
-    "peak": 23,
-    "has_viewers": true,
-    "title": "кукинг",
-    "thumb": "https://i.ytimg.com/vi/UsWaEqF7oT0/maxresdefault_live.jpg",
-    "viewers": 13
-   },
    "tPNw6aMqIco": {
     "vid": "tPNw6aMqIco",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -72,22 +61,10 @@
     "has_viewers": true,
     "title": "Компы бархатные",
     "thumb": "https://i.ytimg.com/vi/tluQsPxDcUA/sddefault_live.jpg",
-    "viewers": 233
+    "viewers": 199
    }
   },
   "ended": [
-   {
-    "vid": "H0fqnWa_TJA",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-19T05:27:51Z",
-    "peak": 1111,
-    "has_viewers": true,
-    "title": "Тусовка",
-    "thumb": "https://i.ytimg.com/vi/H0fqnWa_TJA/sddefault_live.jpg",
-    "viewers": 1111,
-    "dur": "9 ч 27 мин"
-   },
    {
     "vid": "dWFlpyo2D7Q",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/e2HdGuNcmME/sddefault_live.jpg",
     "viewers": 4,
     "dur": "44 мин"
+   },
+   {
+    "vid": "UsWaEqF7oT0",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-20T12:05:51Z",
+    "peak": 23,
+    "has_viewers": true,
+    "title": "кукинг",
+    "thumb": "https://i.ytimg.com/vi/UsWaEqF7oT0/maxresdefault_live.jpg",
+    "viewers": 13,
+    "dur": "9 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/tluQsPxDcUA\">Дон Грязь</a></b> · 233 👁 · 2 ч 27 мин\n└ Компы бархатные\n\n<b><a href=\"https://youtu.be/UsWaEqF7oT0\">Школа Сук</a></b> · 13 👁 · 9 ч 24 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/tPNw6aMqIco\">Ахиллес</a></b> · 0 👁 · 4 ч 04 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/tluQsPxDcUA\">Дон Грязь</a></b> · 199 👁 · 2 ч 41 мин\n└ Компы бархатные\n\n<b><a href=\"https://youtu.be/tPNw6aMqIco\">Ахиллес</a></b> · 0 👁 · 4 ч 19 мин\n└ persus",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
