@@ -49,8 +49,8 @@
     "peak": 91,
     "has_viewers": true,
     "title": "Persus stream",
-    "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault.jpg?v=3d",
-    "viewers": 0
+    "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault_live.jpg",
+    "viewers": 3
    },
    "B2LNHVnM-1w": {
     "vid": "B2LNHVnM-1w",
@@ -72,56 +72,21 @@
     "has_viewers": true,
     "title": "Прямая трансляция УСАДЬБА СПБ",
     "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault_live.jpg",
-    "viewers": 948
+    "viewers": 1003
    },
-   "XYVg_4IHOTQ": {
-    "vid": "XYVg_4IHOTQ",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-21T17:53:35Z",
-    "peak": 597,
-    "has_viewers": true,
-    "title": "Бухич",
-    "thumb": "https://i.ytimg.com/vi/XYVg_4IHOTQ/maxresdefault_live.jpg",
-    "viewers": 597
-   },
-   "p4R4CT-RP-o": {
-    "vid": "p4R4CT-RP-o",
+   "1G1jvpq0_xk": {
+    "vid": "1G1jvpq0_xk",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
-    "start": "2026-10-21T18:07:49Z",
-    "peak": 192,
+    "start": "2026-10-21T18:21:44Z",
+    "peak": 30,
     "has_viewers": true,
     "title": "стрим с катей , полиной и соболь ждем",
-    "thumb": "https://i.ytimg.com/vi/p4R4CT-RP-o/maxresdefault.jpg?v=6ad8ff6b",
-    "viewers": 192
+    "thumb": "https://i.ytimg.com/vi/1G1jvpq0_xk/maxresdefault_live.jpg",
+    "viewers": 30
    }
   },
   "ended": [
-   {
-    "vid": "W0wy38oBW4k",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-20T14:53:58Z",
-    "peak": 34,
-    "has_viewers": true,
-    "title": "готовка",
-    "thumb": "https://i.ytimg.com/vi/W0wy38oBW4k/maxresdefault_live.jpg",
-    "viewers": 34,
-    "dur": "27 мин"
-   },
-   {
-    "vid": "b5zcfzDZF9Y",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-10-20T13:46:58Z",
-    "peak": 3789,
-    "has_viewers": true,
-    "title": "Days Goys",
-    "thumb": "https://i.ytimg.com/vi/b5zcfzDZF9Y/maxresdefault_live.jpg",
-    "viewers": 3473,
-    "dur": "3 ч 04 мин"
-   },
    {
     "vid": "e2HdGuNcmME",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -277,9 +242,33 @@
     "thumb": "https://i.ytimg.com/vi/O4iQMBn7aEo/maxresdefault_live.jpg",
     "viewers": 65,
     "dur": "20 мин"
+   },
+   {
+    "vid": "XYVg_4IHOTQ",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-21T17:53:35Z",
+    "peak": 597,
+    "has_viewers": true,
+    "title": "Бухич",
+    "thumb": "https://i.ytimg.com/vi/XYVg_4IHOTQ/maxresdefault_live.jpg",
+    "viewers": 597,
+    "dur": "32 мин"
+   },
+   {
+    "vid": "p4R4CT-RP-o",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-21T18:07:49Z",
+    "peak": 192,
+    "has_viewers": true,
+    "title": "стрим с катей , полиной и соболь ждем",
+    "thumb": "https://i.ytimg.com/vi/p4R4CT-RP-o/maxresdefault.jpg?v=6ad8ff6b",
+    "viewers": 192,
+    "dur": "22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 948 👁 · 3 ч 13 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/XYVg_4IHOTQ\">Дон Грязь</a></b> · 597 👁 · 21 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/p4R4CT-RP-o\">Рифляй</a></b> · 192 👁 · 7 мин\n└ стрим с катей , полиной и соболь ждем\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 4 👁 · 7 ч 11 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 8 ч 39 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 1003 👁 · 3 ч 28 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/1G1jvpq0_xk\">Рифляй</a></b> · 30 👁 · 8 мин\n└ стрим с катей , полиной и соболь ждем\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 4 👁 · 7 ч 26 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 3 👁 · 8 ч 54 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
