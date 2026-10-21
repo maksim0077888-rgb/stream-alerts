@@ -61,29 +61,40 @@
     "has_viewers": true,
     "title": "Прямая трансляция УСАДЬБА СПБ",
     "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault.jpg?v=3c",
-    "viewers": 236
+    "viewers": 113
    },
    "1G1jvpq0_xk": {
     "vid": "1G1jvpq0_xk",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-21T18:21:44Z",
-    "peak": 384,
+    "peak": 428,
     "has_viewers": true,
     "title": "стрим с катей , полиной и соболь ждем",
-    "thumb": "https://i.ytimg.com/vi/1G1jvpq0_xk/maxresdefault.jpg?v=13",
-    "viewers": 384
+    "thumb": "https://i.ytimg.com/vi/1G1jvpq0_xk/maxresdefault.jpg?v=16",
+    "viewers": 428
    },
    "z3pwY66sO6I": {
     "vid": "z3pwY66sO6I",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-21T18:43:17Z",
-    "peak": 21,
+    "peak": 53,
     "has_viewers": true,
     "title": "кака",
     "thumb": "https://i.ytimg.com/vi/z3pwY66sO6I/sddefault.jpg?v=6ad907bc",
-    "viewers": 21
+    "viewers": 53
+   },
+   "djShiYEde3o": {
+    "vid": "djShiYEde3o",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-21T20:13:45Z",
+    "peak": 272,
+    "has_viewers": true,
+    "title": "Тусовка бешенная",
+    "thumb": "https://i.ytimg.com/vi/djShiYEde3o/maxresdefault.jpg?v=6ad91ceb",
+    "viewers": 272
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "57 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1G1jvpq0_xk\">Рифляй</a></b> · 384 👁 · 1 ч 39 мин\n└ стрим с катей , полиной и соболь ждем\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 236 👁 · 4 ч 58 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/z3pwY66sO6I\">Гундос</a></b> · 21 👁 · 1 ч 17 мин\n└ кака\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 10 ч 25 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/1G1jvpq0_xk\">Рифляй</a></b> · 428 👁 · 1 ч 53 мин\n└ стрим с катей , полиной и соболь ждем\n\n<b><a href=\"https://youtu.be/djShiYEde3o\">Дон Грязь</a></b> · 272 👁 · 1 мин\n└ Тусовка бешенная\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 113 👁 · 5 ч 13 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/z3pwY66sO6I\">Гундос</a></b> · 53 👁 · 1 ч 32 мин\n└ кака\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 10 ч 39 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
