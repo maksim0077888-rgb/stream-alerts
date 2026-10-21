@@ -52,42 +52,30 @@
     "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault.jpg?v=43",
     "viewers": 0
    },
-   "8PjgH_Fvf4w": {
-    "vid": "8PjgH_Fvf4w",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-21T20:33:43Z",
-    "peak": 2618,
-    "has_viewers": true,
-    "title": "Бухич",
-    "thumb": "https://i.ytimg.com/vi/8PjgH_Fvf4w/sddefault.jpg?v=6ad9219d",
-    "viewers": 2618
-   },
    "p88Q5HGdtXA": {
     "vid": "p88Q5HGdtXA",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-21T21:35:37Z",
-    "peak": 1079,
+    "peak": 2140,
     "has_viewers": true,
     "title": "едем к дону ?",
     "thumb": "https://i.ytimg.com/vi/p88Q5HGdtXA/maxresdefault.jpg?v=6ad93020",
-    "viewers": 1079
+    "viewers": 2140
+   },
+   "Y_86SxoXK2s": {
+    "vid": "Y_86SxoXK2s",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-21T22:56:39Z",
+    "peak": 342,
+    "has_viewers": true,
+    "title": "Бухич",
+    "thumb": "https://i.ytimg.com/vi/Y_86SxoXK2s/sddefault.jpg",
+    "viewers": 342
    }
   },
   "ended": [
-   {
-    "vid": "r-AbFmw9znA",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-21T11:08:26Z",
-    "peak": 1307,
-    "has_viewers": true,
-    "title": "Едем за 18 про макс",
-    "thumb": "https://i.ytimg.com/vi/r-AbFmw9znA/sddefault_live.jpg",
-    "viewers": 712,
-    "dur": "5 ч 45 мин"
-   },
    {
     "vid": "KLYEIidUrtg",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/J9oAM79hsyA/maxresdefault.jpg?v=13",
     "viewers": 76,
     "dur": "1 ч 53 мин"
+   },
+   {
+    "vid": "8PjgH_Fvf4w",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-21T20:33:43Z",
+    "peak": 2618,
+    "has_viewers": true,
+    "title": "Бухич",
+    "thumb": "https://i.ytimg.com/vi/8PjgH_Fvf4w/sddefault.jpg?v=6ad9219d",
+    "viewers": 2618,
+    "dur": "2 ч 27 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/8PjgH_Fvf4w\">Дон Грязь</a></b> · 2618 👁 · 2 ч 11 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/p88Q5HGdtXA\">Рифляй</a></b> · 1079 👁 · 1 ч 09 мин\n└ едем к дону ?\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 13 ч 09 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/p88Q5HGdtXA\">Рифляй</a></b> · 2140 👁 · 1 ч 25 мин\n└ едем к дону ?\n\n<b><a href=\"https://youtu.be/Y_86SxoXK2s\">Дон Грязь</a></b> · 342 👁 · 4 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 13 ч 25 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
