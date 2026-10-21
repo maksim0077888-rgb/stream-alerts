@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault_live.jpg",
     "viewers": 0
    },
-   "r-AbFmw9znA": {
-    "vid": "r-AbFmw9znA",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-21T11:08:26Z",
-    "peak": 1307,
-    "has_viewers": true,
-    "title": "Едем за 18 про макс",
-    "thumb": "https://i.ytimg.com/vi/r-AbFmw9znA/sddefault_live.jpg",
-    "viewers": 712
-   },
    "B2LNHVnM-1w": {
     "vid": "B2LNHVnM-1w",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "споров ресторан Володя Легенда и Бурсук",
     "thumb": "https://i.ytimg.com/vi/B2LNHVnM-1w/maxresdefault_live.jpg",
-    "viewers": 0
+    "viewers": 3
    },
    "KLYEIidUrtg": {
     "vid": "KLYEIidUrtg",
@@ -83,44 +72,32 @@
     "has_viewers": true,
     "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
     "thumb": "https://i.ytimg.com/vi/KLYEIidUrtg/maxresdefault_live.jpg",
-    "viewers": 150
+    "viewers": 200
    },
    "YBQAuXnFpXU": {
     "vid": "YBQAuXnFpXU",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-21T15:02:01Z",
-    "peak": 830,
+    "peak": 899,
     "has_viewers": true,
     "title": "Прямая трансляция УСАДЬБА СПБ",
     "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault_live.jpg",
-    "viewers": 830
+    "viewers": 899
    },
    "bg6MnaFlAVo": {
     "vid": "bg6MnaFlAVo",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-21T15:56:45Z",
-    "peak": 95,
+    "peak": 3876,
     "has_viewers": true,
     "title": "Крутая Туса",
     "thumb": "https://i.ytimg.com/vi/bg6MnaFlAVo/maxresdefault_live.jpg",
-    "viewers": 95
+    "viewers": 3876
    }
   },
   "ended": [
-   {
-    "vid": "AkBXe2d8R5E",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-20T00:54:03Z",
-    "peak": 1058,
-    "has_viewers": true,
-    "title": "Мы тут",
-    "thumb": "https://i.ytimg.com/vi/AkBXe2d8R5E/maxresdefault_live.jpg",
-    "viewers": 524,
-    "dur": "3 ч 08 мин"
-   },
    {
     "vid": "6cSfwIoom_0",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -288,9 +265,21 @@
     "thumb": "https://i.ytimg.com/vi/35pR60cU0i0/maxresdefault_live.jpg",
     "viewers": 3161,
     "dur": "2 ч 10 мин"
+   },
+   {
+    "vid": "r-AbFmw9znA",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-21T11:08:26Z",
+    "peak": 1307,
+    "has_viewers": true,
+    "title": "Едем за 18 про макс",
+    "thumb": "https://i.ytimg.com/vi/r-AbFmw9znA/sddefault_live.jpg",
+    "viewers": 712,
+    "dur": "5 ч 45 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 830 👁 · 1 ч 43 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/r-AbFmw9znA\">Дон Грязь</a></b> · 712 👁 · 5 ч 37 мин\n└ Едем за 18 про макс\n\n<b><a href=\"https://youtu.be/KLYEIidUrtg\">Рифляй</a></b> · 150 👁 · 2 ч 40 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/bg6MnaFlAVo\">Герман Ягодка</a></b> · 95 👁 · 48 мин\n└ Крутая Туса\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 7 ч 09 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 0 👁 · 5 ч 41 мин\n└ споров ресторан Володя Легенда и Бурсук",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/bg6MnaFlAVo\">Герман Ягодка</a></b> · 3876 👁 · 1 ч 04 мин\n└ Крутая Туса\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 899 👁 · 1 ч 58 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/KLYEIidUrtg\">Рифляй</a></b> · 200 👁 · 2 ч 55 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 3 👁 · 5 ч 56 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 7 ч 25 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
