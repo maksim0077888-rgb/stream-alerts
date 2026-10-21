@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault_live.jpg",
-    "viewers": 3
+    "viewers": 0
    },
    "r-AbFmw9znA": {
     "vid": "r-AbFmw9znA",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-21T11:08:26Z",
-    "peak": 1241,
+    "peak": 1307,
     "has_viewers": true,
     "title": "Едем за 18 про макс",
     "thumb": "https://i.ytimg.com/vi/r-AbFmw9znA/sddefault_live.jpg",
-    "viewers": 1213
+    "viewers": 1307
    },
    "B2LNHVnM-1w": {
     "vid": "B2LNHVnM-1w",
@@ -72,7 +72,7 @@
     "has_viewers": true,
     "title": "споров ресторан Володя Легенда и Бурсук",
     "thumb": "https://i.ytimg.com/vi/B2LNHVnM-1w/maxresdefault_live.jpg",
-    "viewers": 11
+    "viewers": 7
    },
    "KLYEIidUrtg": {
     "vid": "KLYEIidUrtg",
@@ -83,18 +83,29 @@
     "has_viewers": true,
     "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
     "thumb": "https://i.ytimg.com/vi/KLYEIidUrtg/maxresdefault_live.jpg",
-    "viewers": 243
+    "viewers": 197
    },
    "35pR60cU0i0": {
     "vid": "35pR60cU0i0",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-10-21T14:33:37Z",
-    "peak": 2355,
+    "peak": 2567,
     "has_viewers": true,
     "title": "Gays Days (микро-затычка)",
     "thumb": "https://i.ytimg.com/vi/35pR60cU0i0/maxresdefault_live.jpg",
-    "viewers": 2355
+    "viewers": 2567
+   },
+   "YBQAuXnFpXU": {
+    "vid": "YBQAuXnFpXU",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-21T15:02:01Z",
+    "peak": 406,
+    "has_viewers": true,
+    "title": "Прямая трансляция УСАДЬБА СПБ",
+    "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault_live.jpg",
+    "viewers": 406
    }
   },
   "ended": [
@@ -279,7 +290,7 @@
     "dur": "53 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/35pR60cU0i0\">ПАПИЧ</a></b> · 2355 👁 · 27 мин\n└ Gays Days (микро-затычка)\n\n<b><a href=\"https://youtu.be/r-AbFmw9znA\">Дон Грязь</a></b> · 1213 👁 · 3 ч 52 мин\n└ Едем за 18 про макс\n\n<b><a href=\"https://youtu.be/KLYEIidUrtg\">Рифляй</a></b> · 243 👁 · 55 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 11 👁 · 3 ч 56 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 3 👁 · 5 ч 25 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/35pR60cU0i0\">ПАПИЧ</a></b> · 2567 👁 · 41 мин\n└ Gays Days (микро-затычка)\n\n<b><a href=\"https://youtu.be/r-AbFmw9znA\">Дон Грязь</a></b> · 1307 👁 · 4 ч 07 мин\n└ Едем за 18 про макс\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 406 👁 · 13 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/KLYEIidUrtg\">Рифляй</a></b> · 197 👁 · 1 ч 10 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 7 👁 · 4 ч 11 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 5 ч 39 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
