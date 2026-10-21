@@ -61,55 +61,32 @@
     "has_viewers": true,
     "title": "споров ресторан Володя Легенда и Бурсук",
     "thumb": "https://i.ytimg.com/vi/B2LNHVnM-1w/maxresdefault_live.jpg",
-    "viewers": 0
+    "viewers": 1
    },
    "YBQAuXnFpXU": {
     "vid": "YBQAuXnFpXU",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-21T15:02:01Z",
-    "peak": 899,
+    "peak": 977,
     "has_viewers": true,
     "title": "Прямая трансляция УСАДЬБА СПБ",
     "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault_live.jpg",
-    "viewers": 894
-   },
-   "bg6MnaFlAVo": {
-    "vid": "bg6MnaFlAVo",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-21T15:56:45Z",
-    "peak": 3876,
-    "has_viewers": true,
-    "title": "Крутая Туса",
-    "thumb": "https://i.ytimg.com/vi/bg6MnaFlAVo/maxresdefault_live.jpg",
-    "viewers": 219
+    "viewers": 977
    },
    "Xr40B-jfMz8": {
     "vid": "Xr40B-jfMz8",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-21T17:10:58Z",
-    "peak": 257,
+    "peak": 363,
     "has_viewers": true,
     "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
     "thumb": "https://i.ytimg.com/vi/Xr40B-jfMz8/maxresdefault_live.jpg",
-    "viewers": 257
+    "viewers": 363
    }
   },
   "ended": [
-   {
-    "vid": "_Djt_TKQcI0",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-20T07:41:57Z",
-    "peak": 777,
-    "has_viewers": true,
-    "title": "Трэхнул Дыряну",
-    "thumb": "https://i.ytimg.com/vi/_Djt_TKQcI0/sddefault_live.jpg",
-    "viewers": 531,
-    "dur": "3 ч 01 мин"
-   },
    {
     "vid": "3pZ2OMzkC9I",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/KLYEIidUrtg/maxresdefault_live.jpg",
     "viewers": 200,
     "dur": "3 ч 10 мин"
+   },
+   {
+    "vid": "bg6MnaFlAVo",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-21T15:56:45Z",
+    "peak": 3876,
+    "has_viewers": true,
+    "title": "Крутая Туса",
+    "thumb": "https://i.ytimg.com/vi/bg6MnaFlAVo/maxresdefault_live.jpg",
+    "viewers": 219,
+    "dur": "1 ч 28 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 894 👁 · 2 ч 13 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/Xr40B-jfMz8\">Рифляй</a></b> · 257 👁 · 4 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/bg6MnaFlAVo\">Герман Ягодка</a></b> · 219 👁 · 1 ч 18 мин\n└ Крутая Туса\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 7 ч 39 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 0 👁 · 6 ч 11 мин\n└ споров ресторан Володя Легенда и Бурсук",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 977 👁 · 2 ч 28 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/Xr40B-jfMz8\">Рифляй</a></b> · 363 👁 · 19 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 1 👁 · 6 ч 26 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 7 ч 54 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
