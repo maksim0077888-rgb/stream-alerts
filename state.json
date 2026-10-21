@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault_live.jpg",
-    "viewers": 11
+    "viewers": 36
    },
    "r-AbFmw9znA": {
     "vid": "r-AbFmw9znA",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Едем за 18 про макс",
     "thumb": "https://i.ytimg.com/vi/r-AbFmw9znA/sddefault_live.jpg",
-    "viewers": 1209
+    "viewers": 1008
    },
    "B2LNHVnM-1w": {
     "vid": "B2LNHVnM-1w",
@@ -72,7 +72,18 @@
     "has_viewers": true,
     "title": "споров ресторан Володя Легенда и Бурсук",
     "thumb": "https://i.ytimg.com/vi/B2LNHVnM-1w/maxresdefault_live.jpg",
-    "viewers": 9
+    "viewers": 8
+   },
+   "FSuAsn5ZdFI": {
+    "vid": "FSuAsn5ZdFI",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-21T13:03:42Z",
+    "peak": 74,
+    "has_viewers": true,
+    "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
+    "thumb": "https://i.ytimg.com/vi/FSuAsn5ZdFI/maxresdefault_live.jpg",
+    "viewers": 74
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "1 ч 36 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/r-AbFmw9znA\">Дон Грязь</a></b> · 1209 👁 · 1 ч 52 мин\n└ Едем за 18 про макс\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 11 👁 · 3 ч 25 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 9 👁 · 1 ч 56 мин\n└ споров ресторан Володя Легенда и Бурсук",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/r-AbFmw9znA\">Дон Грязь</a></b> · 1008 👁 · 1 ч 59 мин\n└ Едем за 18 про макс\n\n<b><a href=\"https://youtu.be/FSuAsn5ZdFI\">Рифляй</a></b> · 74 👁 · 4 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 36 👁 · 3 ч 32 мин\n└ Persus stream\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 8 👁 · 2 ч 03 мин\n└ споров ресторан Володя Легенда и Бурсук",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
