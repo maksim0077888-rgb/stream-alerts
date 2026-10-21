@@ -61,18 +61,7 @@
     "has_viewers": true,
     "title": "Прямая трансляция УСАДЬБА СПБ",
     "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault.jpg?v=3c",
-    "viewers": 70
-   },
-   "z3pwY66sO6I": {
-    "vid": "z3pwY66sO6I",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-21T18:43:17Z",
-    "peak": 53,
-    "has_viewers": true,
-    "title": "кака",
-    "thumb": "https://i.ytimg.com/vi/z3pwY66sO6I/sddefault.jpg?v=6ad907bc",
-    "viewers": 20
+    "viewers": 48
    },
    "8PjgH_Fvf4w": {
     "vid": "8PjgH_Fvf4w",
@@ -83,7 +72,7 @@
     "has_viewers": true,
     "title": "Бухич",
     "thumb": "https://i.ytimg.com/vi/8PjgH_Fvf4w/sddefault.jpg?v=6ad9219d",
-    "viewers": 1289
+    "viewers": 1245
    },
    "J9oAM79hsyA": {
     "vid": "J9oAM79hsyA",
@@ -93,34 +82,33 @@
     "peak": 46,
     "has_viewers": true,
     "title": "что",
-    "thumb": "https://i.ytimg.com/vi/J9oAM79hsyA/maxresdefault.jpg?v=4",
-    "viewers": 46
+    "thumb": "https://i.ytimg.com/vi/J9oAM79hsyA/maxresdefault.jpg?v=6",
+    "viewers": 9
    },
    "0VMTFRY3VWA": {
     "vid": "0VMTFRY3VWA",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-21T20:52:37Z",
-    "peak": 303,
+    "peak": 369,
     "has_viewers": true,
     "title": "мама твоя ТВ",
-    "thumb": "https://i.ytimg.com/vi/0VMTFRY3VWA/maxresdefault.jpg?v=2",
-    "viewers": 303
+    "thumb": "https://i.ytimg.com/vi/0VMTFRY3VWA/maxresdefault.jpg?v=5",
+    "viewers": 369
+   },
+   "daC6ESEb34A": {
+    "vid": "daC6ESEb34A",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-21T21:03:58Z",
+    "peak": 5,
+    "has_viewers": true,
+    "title": "кака",
+    "thumb": "https://i.ytimg.com/vi/daC6ESEb34A/sddefault.jpg?v=6ad928af",
+    "viewers": 5
    }
   },
   "ended": [
-   {
-    "vid": "tPNw6aMqIco",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-20T17:25:55Z",
-    "peak": 62,
-    "has_viewers": true,
-    "title": "persus",
-    "thumb": "https://i.ytimg.com/vi/tPNw6aMqIco/maxresdefault_live.jpg",
-    "viewers": 0,
-    "dur": "3 ч 35 мин"
-   },
    {
     "vid": "2rFxdEvU_i4",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -288,9 +276,21 @@
     "thumb": "https://i.ytimg.com/vi/1G1jvpq0_xk/maxresdefault.jpg?v=1c",
     "viewers": 413,
     "dur": "2 ч 39 мин"
+   },
+   {
+    "vid": "z3pwY66sO6I",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-21T18:43:17Z",
+    "peak": 53,
+    "has_viewers": true,
+    "title": "кака",
+    "thumb": "https://i.ytimg.com/vi/z3pwY66sO6I/sddefault.jpg?v=6ad907bc",
+    "viewers": 20,
+    "dur": "2 ч 19 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/8PjgH_Fvf4w\">Дон Грязь</a></b> · 1289 👁 · 27 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/0VMTFRY3VWA\">Селянин</a></b> · 303 👁 · 8 мин\n└ мама твоя ТВ\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 70 👁 · 5 ч 58 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/J9oAM79hsyA\">Герман Ягодка</a></b> · 46 👁 · 18 мин\n└ что\n\n<b><a href=\"https://youtu.be/z3pwY66sO6I\">Гундос</a></b> · 20 👁 · 2 ч 17 мин\n└ кака\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 11 ч 25 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/8PjgH_Fvf4w\">Дон Грязь</a></b> · 1245 👁 · 41 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/0VMTFRY3VWA\">Селянин</a></b> · 369 👁 · 22 мин\n└ мама твоя ТВ\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 48 👁 · 6 ч 13 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/J9oAM79hsyA\">Герман Ягодка</a></b> · 9 👁 · 33 мин\n└ что\n\n<b><a href=\"https://youtu.be/daC6ESEb34A\">Гундос</a></b> · 5 👁 · 11 мин\n└ кака\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 11 ч 39 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
