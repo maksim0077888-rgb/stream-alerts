@@ -52,54 +52,19 @@
     "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault.jpg?v=43",
     "viewers": 0
    },
-   "p88Q5HGdtXA": {
-    "vid": "p88Q5HGdtXA",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-21T21:35:37Z",
-    "peak": 2140,
+   "lGwdEhRQNGw": {
+    "vid": "lGwdEhRQNGw",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-21T23:13:35Z",
+    "peak": 69,
     "has_viewers": true,
-    "title": "едем к дону ?",
-    "thumb": "https://i.ytimg.com/vi/p88Q5HGdtXA/maxresdefault.jpg?v=6ad93020",
-    "viewers": 2140
-   },
-   "Y_86SxoXK2s": {
-    "vid": "Y_86SxoXK2s",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-21T22:56:39Z",
-    "peak": 342,
-    "has_viewers": true,
-    "title": "Бухич",
-    "thumb": "https://i.ytimg.com/vi/Y_86SxoXK2s/sddefault.jpg",
-    "viewers": 342
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/lGwdEhRQNGw/sddefault.jpg",
+    "viewers": 69
    }
   },
   "ended": [
-   {
-    "vid": "KLYEIidUrtg",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-21T14:05:23Z",
-    "peak": 258,
-    "has_viewers": true,
-    "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
-    "thumb": "https://i.ytimg.com/vi/KLYEIidUrtg/maxresdefault_live.jpg",
-    "viewers": 200,
-    "dur": "3 ч 10 мин"
-   },
-   {
-    "vid": "bg6MnaFlAVo",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-21T15:56:45Z",
-    "peak": 3876,
-    "has_viewers": true,
-    "title": "Крутая Туса",
-    "thumb": "https://i.ytimg.com/vi/bg6MnaFlAVo/maxresdefault_live.jpg",
-    "viewers": 219,
-    "dur": "1 ч 28 мин"
-   },
    {
     "vid": "Xr40B-jfMz8",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -255,9 +220,33 @@
     "thumb": "https://i.ytimg.com/vi/8PjgH_Fvf4w/sddefault.jpg?v=6ad9219d",
     "viewers": 2618,
     "dur": "2 ч 27 мин"
+   },
+   {
+    "vid": "p88Q5HGdtXA",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-21T21:35:37Z",
+    "peak": 2140,
+    "has_viewers": true,
+    "title": "едем к дону ?",
+    "thumb": "https://i.ytimg.com/vi/p88Q5HGdtXA/maxresdefault.jpg?v=6ad93020",
+    "viewers": 2140,
+    "dur": "1 ч 26 мин"
+   },
+   {
+    "vid": "Y_86SxoXK2s",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-21T22:56:39Z",
+    "peak": 342,
+    "has_viewers": true,
+    "title": "Бухич",
+    "thumb": "https://i.ytimg.com/vi/Y_86SxoXK2s/sddefault.jpg",
+    "viewers": 342,
+    "dur": "8 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/p88Q5HGdtXA\">Рифляй</a></b> · 2140 👁 · 1 ч 25 мин\n└ едем к дону ?\n\n<b><a href=\"https://youtu.be/Y_86SxoXK2s\">Дон Грязь</a></b> · 342 👁 · 4 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 13 ч 25 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lGwdEhRQNGw\">Селянин</a></b> · 69 👁 · 1 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 13 ч 39 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
