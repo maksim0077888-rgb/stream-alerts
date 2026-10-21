@@ -41,31 +41,19 @@
  "board": {
   "msg": 107,
   "streams": {
-   "2rFxdEvU_i4": {
-    "vid": "2rFxdEvU_i4",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-21T06:14:17Z",
-    "peak": 422,
+   "pZwdU-jXW7Q": {
+    "vid": "pZwdU-jXW7Q",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-21T09:35:41Z",
+    "peak": 60,
     "has_viewers": true,
-    "title": "Приютил фанатку: любви все возрасты покорны",
-    "thumb": "https://i.ytimg.com/vi/2rFxdEvU_i4/maxresdefault_live.jpg",
-    "viewers": 422
+    "title": "Persus stream",
+    "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault_live.jpg",
+    "viewers": 60
    }
   },
   "ended": [
-   {
-    "vid": "VxhP66D1IQc",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-19T18:29:44Z",
-    "peak": 1713,
-    "has_viewers": true,
-    "title": "Селена Гомез у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/VxhP66D1IQc/sddefault_live.jpg",
-    "viewers": 1611,
-    "dur": "3 ч 22 мин"
-   },
    {
     "vid": "nVDB6I6Bq1k",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/tPNw6aMqIco/maxresdefault_live.jpg",
     "viewers": 0,
     "dur": "3 ч 35 мин"
+   },
+   {
+    "vid": "2rFxdEvU_i4",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-21T06:14:17Z",
+    "peak": 422,
+    "has_viewers": true,
+    "title": "Приютил фанатку: любви все возрасты покорны",
+    "thumb": "https://i.ytimg.com/vi/2rFxdEvU_i4/maxresdefault_live.jpg",
+    "viewers": 422,
+    "dur": "3 ч 30 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/2rFxdEvU_i4\">Герман Ягодка</a></b> · 422 👁 · 3 ч 16 мин\n└ Приютил фанатку: любви все возрасты покорны",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 60 👁 · 9 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
