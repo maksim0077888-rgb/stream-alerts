@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "споров ресторан Володя Легенда и Бурсук",
     "thumb": "https://i.ytimg.com/vi/B2LNHVnM-1w/maxresdefault_live.jpg",
-    "viewers": 4
+    "viewers": 1
    },
    "YBQAuXnFpXU": {
     "vid": "YBQAuXnFpXU",
@@ -72,7 +72,7 @@
     "has_viewers": true,
     "title": "Прямая трансляция УСАДЬБА СПБ",
     "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault_live.jpg",
-    "viewers": 1037
+    "viewers": 945
    },
    "Xr40B-jfMz8": {
     "vid": "Xr40B-jfMz8",
@@ -83,7 +83,29 @@
     "has_viewers": true,
     "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
     "thumb": "https://i.ytimg.com/vi/Xr40B-jfMz8/maxresdefault_live.jpg",
-    "viewers": 403
+    "viewers": 344
+   },
+   "XYVg_4IHOTQ": {
+    "vid": "XYVg_4IHOTQ",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-21T17:53:35Z",
+    "peak": 402,
+    "has_viewers": true,
+    "title": "Бухич",
+    "thumb": "https://i.ytimg.com/vi/XYVg_4IHOTQ/maxresdefault_live.jpg",
+    "viewers": 402
+   },
+   "O4iQMBn7aEo": {
+    "vid": "O4iQMBn7aEo",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-21T17:48:03Z",
+    "peak": 65,
+    "has_viewers": true,
+    "title": "рок",
+    "thumb": "https://i.ytimg.com/vi/O4iQMBn7aEo/maxresdefault_live.jpg",
+    "viewers": 65
    }
   },
   "ended": [
@@ -268,7 +290,7 @@
     "dur": "1 ч 28 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 1037 👁 · 2 ч 43 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/Xr40B-jfMz8\">Рифляй</a></b> · 403 👁 · 34 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 4 👁 · 6 ч 41 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 8 ч 09 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 945 👁 · 2 ч 58 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/XYVg_4IHOTQ\">Дон Грязь</a></b> · 402 👁 · 7 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/Xr40B-jfMz8\">Рифляй</a></b> · 344 👁 · 49 мин\n└ ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ\n\n<b><a href=\"https://youtu.be/O4iQMBn7aEo\">Герман Ягодка</a></b> · 65 👁 · 12 мин\n└ рок\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 1 👁 · 6 ч 56 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 8 ч 25 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
