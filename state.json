@@ -40,32 +40,8 @@
  "day": "2026-10-21",
  "board": {
   "msg": 107,
-  "streams": {
-   "tPNw6aMqIco": {
-    "vid": "tPNw6aMqIco",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-20T17:25:55Z",
-    "peak": 62,
-    "has_viewers": true,
-    "title": "persus",
-    "thumb": "https://i.ytimg.com/vi/tPNw6aMqIco/maxresdefault_live.jpg",
-    "viewers": 0
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "Yx9w84THbtE",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-19T15:21:57Z",
-    "peak": 14,
-    "has_viewers": true,
-    "title": "persus",
-    "thumb": "https://i.ytimg.com/vi/Yx9w84THbtE/maxresdefault_live.jpg",
-    "viewers": 0,
-    "dur": "2 ч 38 мин"
-   },
    {
     "vid": "VxhP66D1IQc",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/tluQsPxDcUA/sddefault_live.jpg",
     "viewers": 141,
     "dur": "6 ч 17 мин"
+   },
+   {
+    "vid": "tPNw6aMqIco",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-20T17:25:55Z",
+    "peak": 62,
+    "has_viewers": true,
+    "title": "persus",
+    "thumb": "https://i.ytimg.com/vi/tPNw6aMqIco/maxresdefault_live.jpg",
+    "viewers": 0,
+    "dur": "3 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/tPNw6aMqIco\">Ахиллес</a></b> · 0 👁 · 10 ч 19 мин\n└ persus",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
