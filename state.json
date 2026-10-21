@@ -50,55 +50,32 @@
     "has_viewers": true,
     "title": "Persus stream",
     "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault_live.jpg",
-    "viewers": 26
-   },
-   "cZbZvDM2EVM": {
-    "vid": "cZbZvDM2EVM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-21T09:52:17Z",
-    "peak": 883,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/cZbZvDM2EVM/maxresdefault_live.jpg",
-    "viewers": 883
+    "viewers": 47
    },
    "r-AbFmw9znA": {
     "vid": "r-AbFmw9znA",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-21T11:08:26Z",
-    "peak": 187,
+    "peak": 323,
     "has_viewers": true,
     "title": "Едем за 18 про макс",
     "thumb": "https://i.ytimg.com/vi/r-AbFmw9znA/sddefault_live.jpg",
-    "viewers": 187
+    "viewers": 323
    },
    "B2LNHVnM-1w": {
     "vid": "B2LNHVnM-1w",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-21T11:04:09Z",
-    "peak": 90,
+    "peak": 141,
     "has_viewers": true,
     "title": "споров ресторан Володя Легенда и Бурсук",
     "thumb": "https://i.ytimg.com/vi/B2LNHVnM-1w/maxresdefault_live.jpg",
-    "viewers": 90
+    "viewers": 141
    }
   },
   "ended": [
-   {
-    "vid": "nVDB6I6Bq1k",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-19T18:21:20Z",
-    "peak": 433,
-    "has_viewers": true,
-    "title": "Стрим с Катей",
-    "thumb": "https://i.ytimg.com/vi/nVDB6I6Bq1k/maxresdefault_live.jpg",
-    "viewers": 173,
-    "dur": "4 ч 09 мин"
-   },
    {
     "vid": "olOpRB-L67k",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/2rFxdEvU_i4/maxresdefault_live.jpg",
     "viewers": 422,
     "dur": "3 ч 30 мин"
+   },
+   {
+    "vid": "cZbZvDM2EVM",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-21T09:52:17Z",
+    "peak": 883,
+    "has_viewers": true,
+    "title": "Прямая трансляция УСАДЬБА СПБ",
+    "thumb": "https://i.ytimg.com/vi/cZbZvDM2EVM/maxresdefault_live.jpg",
+    "viewers": 883,
+    "dur": "1 ч 36 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/cZbZvDM2EVM\">Селянин</a></b> · 883 👁 · 1 ч 23 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/r-AbFmw9znA\">Дон Грязь</a></b> · 187 👁 · 7 мин\n└ Едем за 18 про макс\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 90 👁 · 11 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 26 👁 · 1 ч 39 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/r-AbFmw9znA\">Дон Грязь</a></b> · 323 👁 · 22 мин\n└ Едем за 18 про макс\n\n<b><a href=\"https://youtu.be/B2LNHVnM-1w\">Герман Ягодка</a></b> · 141 👁 · 26 мин\n└ споров ресторан Володя Легенда и Бурсук\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 47 👁 · 1 ч 54 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
