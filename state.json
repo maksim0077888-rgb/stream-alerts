@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault.jpg?v=43",
     "viewers": 0
    },
-   "YBQAuXnFpXU": {
-    "vid": "YBQAuXnFpXU",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-21T15:02:01Z",
-    "peak": 1227,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault.jpg?v=3c",
-    "viewers": 54
-   },
    "8PjgH_Fvf4w": {
     "vid": "8PjgH_Fvf4w",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -72,56 +61,32 @@
     "has_viewers": true,
     "title": "Бухич",
     "thumb": "https://i.ytimg.com/vi/8PjgH_Fvf4w/sddefault.jpg?v=6ad9219d",
-    "viewers": 1646
+    "viewers": 1370
    },
    "J9oAM79hsyA": {
     "vid": "J9oAM79hsyA",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-21T20:42:05Z",
-    "peak": 67,
+    "peak": 92,
     "has_viewers": true,
     "title": "что",
-    "thumb": "https://i.ytimg.com/vi/J9oAM79hsyA/maxresdefault.jpg?v=8",
-    "viewers": 67
+    "thumb": "https://i.ytimg.com/vi/J9oAM79hsyA/maxresdefault.jpg?v=b",
+    "viewers": 92
    },
-   "daC6ESEb34A": {
-    "vid": "daC6ESEb34A",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-21T21:03:58Z",
-    "peak": 14,
+   "p88Q5HGdtXA": {
+    "vid": "p88Q5HGdtXA",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-21T21:35:37Z",
+    "peak": 355,
     "has_viewers": true,
-    "title": "кака",
-    "thumb": "https://i.ytimg.com/vi/daC6ESEb34A/sddefault.jpg?v=6ad928af",
-    "viewers": 14
+    "title": "едем к дону ?",
+    "thumb": "https://i.ytimg.com/vi/p88Q5HGdtXA/maxresdefault.jpg?v=6ad93020",
+    "viewers": 355
    }
   },
   "ended": [
-   {
-    "vid": "cZbZvDM2EVM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-21T09:52:17Z",
-    "peak": 883,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/cZbZvDM2EVM/maxresdefault_live.jpg",
-    "viewers": 883,
-    "dur": "1 ч 36 мин"
-   },
-   {
-    "vid": "FSuAsn5ZdFI",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-21T13:03:42Z",
-    "peak": 118,
-    "has_viewers": true,
-    "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
-    "thumb": "https://i.ytimg.com/vi/FSuAsn5ZdFI/maxresdefault_live.jpg",
-    "viewers": 118,
-    "dur": "53 мин"
-   },
    {
     "vid": "35pR60cU0i0",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -277,9 +242,33 @@
     "thumb": "https://i.ytimg.com/vi/0VMTFRY3VWA/maxresdefault.jpg?v=5",
     "viewers": 369,
     "dur": "24 мин"
+   },
+   {
+    "vid": "YBQAuXnFpXU",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-21T15:02:01Z",
+    "peak": 1227,
+    "has_viewers": true,
+    "title": "Прямая трансляция УСАДЬБА СПБ",
+    "thumb": "https://i.ytimg.com/vi/YBQAuXnFpXU/maxresdefault.jpg?v=3c",
+    "viewers": 54,
+    "dur": "6 ч 31 мин"
+   },
+   {
+    "vid": "daC6ESEb34A",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-21T21:03:58Z",
+    "peak": 14,
+    "has_viewers": true,
+    "title": "кака",
+    "thumb": "https://i.ytimg.com/vi/daC6ESEb34A/sddefault.jpg?v=6ad928af",
+    "viewers": 14,
+    "dur": "29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/8PjgH_Fvf4w\">Дон Грязь</a></b> · 1646 👁 · 56 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/J9oAM79hsyA\">Герман Ягодка</a></b> · 67 👁 · 48 мин\n└ что\n\n<b><a href=\"https://youtu.be/YBQAuXnFpXU\">Селянин</a></b> · 54 👁 · 6 ч 28 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/daC6ESEb34A\">Гундос</a></b> · 14 👁 · 26 мин\n└ кака\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 11 ч 54 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/8PjgH_Fvf4w\">Дон Грязь</a></b> · 1370 👁 · 1 ч 11 мин\n└ Бухич\n\n<b><a href=\"https://youtu.be/p88Q5HGdtXA\">Рифляй</a></b> · 355 👁 · 9 мин\n└ едем к дону ?\n\n<b><a href=\"https://youtu.be/J9oAM79hsyA\">Герман Ягодка</a></b> · 92 👁 · 1 ч 03 мин\n└ что\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 12 ч 09 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
