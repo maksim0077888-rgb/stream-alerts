@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Проснулся, иду к Моче",
     "thumb": "https://i.ytimg.com/vi/EN-UPDA7xK8/sddefault.jpg?v=6ada1102",
-    "viewers": 923
+    "viewers": 905
    },
    "79nDU3VPgWk": {
     "vid": "79nDU3VPgWk",
@@ -63,42 +63,19 @@
     "thumb": "https://i.ytimg.com/vi/79nDU3VPgWk/maxresdefault.jpg?v=5",
     "viewers": 0
    },
-   "x4-I1tC8gxs": {
-    "vid": "x4-I1tC8gxs",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-22T18:58:05Z",
-    "peak": 13,
-    "has_viewers": true,
-    "title": "кукинг",
-    "thumb": "https://i.ytimg.com/vi/x4-I1tC8gxs/maxresdefault.jpg?v=18",
-    "viewers": 13
-   },
    "fLKc48UzaJo": {
     "vid": "fLKc48UzaJo",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-22T20:31:05Z",
-    "peak": 2119,
+    "peak": 2151,
     "has_viewers": true,
     "title": "отмечаем др, катя, соболь, вжлинк",
     "thumb": "https://i.ytimg.com/vi/fLKc48UzaJo/maxresdefault.jpg?v=6ada7281",
-    "viewers": 2119
+    "viewers": 2151
    }
   },
   "ended": [
-   {
-    "vid": "lGwdEhRQNGw",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-21T23:13:35Z",
-    "peak": 379,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/lGwdEhRQNGw/maxresdefault.jpg?v=1e",
-    "viewers": 155,
-    "dur": "2 ч 34 мин"
-   },
    {
     "vid": "pNJUwb2z2jc",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/w3ZFIDbRbIo/maxresdefault.jpg?v=13",
     "viewers": 529,
     "dur": "1 ч 39 мин"
+   },
+   {
+    "vid": "x4-I1tC8gxs",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-22T18:58:05Z",
+    "peak": 13,
+    "has_viewers": true,
+    "title": "кукинг",
+    "thumb": "https://i.ytimg.com/vi/x4-I1tC8gxs/maxresdefault.jpg?v=18",
+    "viewers": 13,
+    "dur": "2 ч 16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/fLKc48UzaJo\">Рифляй</a></b> · 2119 👁 · 29 мин\n└ отмечаем др, катя, соболь, вжлинк\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 923 👁 · 7 ч 25 мин\n└ Проснулся, иду к Моче\n\n<b><a href=\"https://youtu.be/x4-I1tC8gxs\">Школа Сук</a></b> · 13 👁 · 2 ч 02 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/79nDU3VPgWk\">Ахиллес</a></b> · 0 👁 · 6 ч 02 мин\n└ Persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/fLKc48UzaJo\">Рифляй</a></b> · 2151 👁 · 44 мин\n└ отмечаем др, катя, соболь, вжлинк\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 905 👁 · 7 ч 40 мин\n└ Проснулся, иду к Моче\n\n<b><a href=\"https://youtu.be/79nDU3VPgWk\">Ахиллес</a></b> · 0 👁 · 6 ч 17 мин\n└ Persus",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
