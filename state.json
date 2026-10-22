@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ",
     "thumb": "https://i.ytimg.com/vi/peQ0S1Unauk/maxresdefault.jpg?v=6ad9acce",
-    "viewers": 29
-   },
-   "-Mr22X-Danc": {
-    "vid": "-Mr22X-Danc",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-22T09:23:08Z",
-    "peak": 148,
-    "has_viewers": true,
-    "title": "= Дон Симон - На Связи=",
-    "thumb": "https://i.ytimg.com/vi/-Mr22X-Danc/maxresdefault.jpg?v=6ad9d5f3",
-    "viewers": 148
+    "viewers": 23
    },
    "dkqlffBmD88": {
     "vid": "dkqlffBmD88",
@@ -71,34 +60,22 @@
     "peak": 43,
     "has_viewers": true,
     "title": "кукинг",
-    "thumb": "https://i.ytimg.com/vi/dkqlffBmD88/maxresdefault.jpg?v=3",
-    "viewers": 43
+    "thumb": "https://i.ytimg.com/vi/dkqlffBmD88/maxresdefault.jpg?v=6",
+    "viewers": 38
    },
    "Vm-i1E-wG1g": {
     "vid": "Vm-i1E-wG1g",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-10-22T10:48:58Z",
-    "peak": 166,
+    "peak": 288,
     "has_viewers": true,
     "title": "Прямая трансляция flaco",
     "thumb": "https://i.ytimg.com/vi/Vm-i1E-wG1g/sddefault.jpg?v=6ad9ea5d",
-    "viewers": 166
+    "viewers": 288
    }
   },
   "ended": [
-   {
-    "vid": "1G1jvpq0_xk",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-21T18:21:44Z",
-    "peak": 428,
-    "has_viewers": true,
-    "title": "стрим с катей , полиной и соболь ждем",
-    "thumb": "https://i.ytimg.com/vi/1G1jvpq0_xk/maxresdefault.jpg?v=1c",
-    "viewers": 413,
-    "dur": "2 ч 39 мин"
-   },
    {
     "vid": "z3pwY66sO6I",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/L2FzH3OJR_E/maxresdefault.jpg?v=6ad9dc34",
     "viewers": 151,
     "dur": "4 ч 19 мин"
+   },
+   {
+    "vid": "-Mr22X-Danc",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-10-22T09:23:08Z",
+    "peak": 148,
+    "has_viewers": true,
+    "title": "= Дон Симон - На Связи=",
+    "thumb": "https://i.ytimg.com/vi/-Mr22X-Danc/maxresdefault.jpg?v=6ad9d5f3",
+    "viewers": 148,
+    "dur": "1 ч 51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/Vm-i1E-wG1g\">Ахиллес</a></b> · 166 👁 · 11 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/-Mr22X-Danc\">Don Simon</a></b> · 148 👁 · 1 ч 37 мин\n└ = Дон Симон - На Связи=\n\n<b><a href=\"https://youtu.be/dkqlffBmD88\">Школа Сук</a></b> · 43 👁 · 16 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/peQ0S1Unauk\">Федук</a></b> · 29 👁 · 4 ч 33 мин\n└ СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/Vm-i1E-wG1g\">Ахиллес</a></b> · 288 👁 · 26 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/dkqlffBmD88\">Школа Сук</a></b> · 38 👁 · 31 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/peQ0S1Unauk\">Федук</a></b> · 23 👁 · 4 ч 47 мин\n└ СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
