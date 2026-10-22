@@ -41,28 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "pZwdU-jXW7Q": {
-    "vid": "pZwdU-jXW7Q",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-21T09:35:41Z",
-    "peak": 91,
-    "has_viewers": true,
-    "title": "Persus stream",
-    "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault.jpg?v=43",
-    "viewers": 0
-   },
-   "lGwdEhRQNGw": {
-    "vid": "lGwdEhRQNGw",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-21T23:13:35Z",
-    "peak": 379,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/lGwdEhRQNGw/maxresdefault.jpg?v=1e",
-    "viewers": 155
-   },
    "YMITcFE6XbM": {
     "vid": "YMITcFE6XbM",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -71,8 +49,8 @@
     "peak": 788,
     "has_viewers": true,
     "title": "Отпустили",
-    "thumb": "https://i.ytimg.com/vi/YMITcFE6XbM/maxresdefault.jpg?v=10",
-    "viewers": 614
+    "thumb": "https://i.ytimg.com/vi/YMITcFE6XbM/maxresdefault.jpg?v=14",
+    "viewers": 659
    },
    "pNJUwb2z2jc": {
     "vid": "pNJUwb2z2jc",
@@ -83,34 +61,10 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/pNJUwb2z2jc/maxresdefault.jpg?v=6ad9659f",
-    "viewers": 92
+    "viewers": 84
    }
   },
   "ended": [
-   {
-    "vid": "Xr40B-jfMz8",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-21T17:10:58Z",
-    "peak": 403,
-    "has_viewers": true,
-    "title": "ПЕРВАЯ ВСТРЕЧА, СТРИМ ИЗ ЕЕ КВАРТИРЫ",
-    "thumb": "https://i.ytimg.com/vi/Xr40B-jfMz8/maxresdefault_live.jpg",
-    "viewers": 344,
-    "dur": "1 ч 02 мин"
-   },
-   {
-    "vid": "O4iQMBn7aEo",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-21T17:48:03Z",
-    "peak": 65,
-    "has_viewers": true,
-    "title": "рок",
-    "thumb": "https://i.ytimg.com/vi/O4iQMBn7aEo/maxresdefault_live.jpg",
-    "viewers": 65,
-    "dur": "20 мин"
-   },
    {
     "vid": "XYVg_4IHOTQ",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -266,9 +220,33 @@
     "thumb": "https://i.ytimg.com/vi/Y_86SxoXK2s/sddefault.jpg",
     "viewers": 342,
     "dur": "8 мин"
+   },
+   {
+    "vid": "pZwdU-jXW7Q",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-21T09:35:41Z",
+    "peak": 91,
+    "has_viewers": true,
+    "title": "Persus stream",
+    "thumb": "https://i.ytimg.com/vi/pZwdU-jXW7Q/maxresdefault.jpg?v=43",
+    "viewers": 0,
+    "dur": "9 ч 25 мин"
+   },
+   {
+    "vid": "lGwdEhRQNGw",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-21T23:13:35Z",
+    "peak": 379,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/lGwdEhRQNGw/maxresdefault.jpg?v=1e",
+    "viewers": 155,
+    "dur": "2 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/YMITcFE6XbM\">Дон Грязь</a></b> · 614 👁 · 1 ч 17 мин\n└ Отпустили\n\n<b><a href=\"https://youtu.be/lGwdEhRQNGw\">Селянин</a></b> · 155 👁 · 2 ч 31 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/pNJUwb2z2jc\">Рифляй</a></b> · 92 👁 · 21 мин\n└ тут\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 16 ч 09 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/YMITcFE6XbM\">Дон Грязь</a></b> · 659 👁 · 1 ч 33 мин\n└ Отпустили\n\n<b><a href=\"https://youtu.be/pNJUwb2z2jc\">Рифляй</a></b> · 84 👁 · 36 мин\n└ тут",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
