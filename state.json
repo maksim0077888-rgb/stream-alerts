@@ -37,7 +37,7 @@
   "https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g": "UCSVKrRZ6viFK3C9diKAkw6g",
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
- "day": "2026-10-21",
+ "day": "2026-10-22",
  "board": {
   "msg": 107,
   "streams": {
@@ -60,8 +60,8 @@
     "peak": 379,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/lGwdEhRQNGw/maxresdefault.jpg?v=6",
-    "viewers": 379
+    "thumb": "https://i.ytimg.com/vi/lGwdEhRQNGw/maxresdefault.jpg?v=9",
+    "viewers": 360
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "8 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lGwdEhRQNGw\">Селянин</a></b> · 379 👁 · 31 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 14 ч 09 мин\n└ Persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lGwdEhRQNGw\">Селянин</a></b> · 360 👁 · 47 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/pZwdU-jXW7Q\">Ахиллес</a></b> · 0 👁 · 14 ч 25 мин\n└ Persus stream",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
