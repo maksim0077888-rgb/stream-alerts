@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "dkqlffBmD88": {
-    "vid": "dkqlffBmD88",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-22T10:43:53Z",
-    "peak": 43,
-    "has_viewers": true,
-    "title": "кукинг",
-    "thumb": "https://i.ytimg.com/vi/dkqlffBmD88/maxresdefault.jpg?v=61",
-    "viewers": 18
-   },
    "EN-UPDA7xK8": {
     "vid": "EN-UPDA7xK8",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -61,7 +50,7 @@
     "has_viewers": true,
     "title": "Проснулся, иду к Моче",
     "thumb": "https://i.ytimg.com/vi/EN-UPDA7xK8/sddefault.jpg?v=6ada1102",
-    "viewers": 1003
+    "viewers": 1070
    },
    "79nDU3VPgWk": {
     "vid": "79nDU3VPgWk",
@@ -73,21 +62,20 @@
     "title": "Persus",
     "thumb": "https://i.ytimg.com/vi/79nDU3VPgWk/maxresdefault.jpg?v=5",
     "viewers": 1
+   },
+   "x4-I1tC8gxs": {
+    "vid": "x4-I1tC8gxs",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-22T18:58:05Z",
+    "peak": 5,
+    "has_viewers": true,
+    "title": "кукинг",
+    "thumb": "https://i.ytimg.com/vi/x4-I1tC8gxs/maxresdefault.jpg?v=1",
+    "viewers": 5
    }
   },
   "ended": [
-   {
-    "vid": "Y_86SxoXK2s",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-21T22:56:39Z",
-    "peak": 342,
-    "has_viewers": true,
-    "title": "Бухич",
-    "thumb": "https://i.ytimg.com/vi/Y_86SxoXK2s/sddefault.jpg",
-    "viewers": 342,
-    "dur": "8 мин"
-   },
    {
     "vid": "pZwdU-jXW7Q",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/qbvfQY3wfKw/maxresdefault.jpg?v=e",
     "viewers": 539,
     "dur": "1 ч 09 мин"
+   },
+   {
+    "vid": "dkqlffBmD88",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-22T10:43:53Z",
+    "peak": 43,
+    "has_viewers": true,
+    "title": "кукинг",
+    "thumb": "https://i.ytimg.com/vi/dkqlffBmD88/maxresdefault.jpg?v=61",
+    "viewers": 18,
+    "dur": "8 ч 13 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 1003 👁 · 5 ч 10 мин\n└ Проснулся, иду к Моче\n\n<b><a href=\"https://youtu.be/dkqlffBmD88\">Школа Сук</a></b> · 18 👁 · 8 ч 01 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/79nDU3VPgWk\">Ахиллес</a></b> · 1 👁 · 3 ч 47 мин\n└ Persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 1070 👁 · 5 ч 25 мин\n└ Проснулся, иду к Моче\n\n<b><a href=\"https://youtu.be/x4-I1tC8gxs\">Школа Сук</a></b> · 5 👁 · 2 мин\n└ кукинг\n\n<b><a href=\"https://youtu.be/79nDU3VPgWk\">Ахиллес</a></b> · 1 👁 · 4 ч 02 мин\n└ Persus",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
