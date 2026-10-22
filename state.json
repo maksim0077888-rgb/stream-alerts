@@ -40,32 +40,8 @@
  "day": "2026-10-22",
  "board": {
   "msg": 107,
-  "streams": {
-   "YMITcFE6XbM": {
-    "vid": "YMITcFE6XbM",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-22T00:27:31Z",
-    "peak": 788,
-    "has_viewers": true,
-    "title": "Отпустили",
-    "thumb": "https://i.ytimg.com/vi/YMITcFE6XbM/maxresdefault.jpg?v=2e",
-    "viewers": 756
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "p4R4CT-RP-o",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-21T18:07:49Z",
-    "peak": 192,
-    "has_viewers": true,
-    "title": "стрим с катей , полиной и соболь ждем",
-    "thumb": "https://i.ytimg.com/vi/p4R4CT-RP-o/maxresdefault.jpg?v=6ad8ff6b",
-    "viewers": 192,
-    "dur": "22 мин"
-   },
    {
     "vid": "B2LNHVnM-1w",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/pNJUwb2z2jc/maxresdefault.jpg?v=6ad9659f",
     "viewers": 68,
     "dur": "1 ч 06 мин"
+   },
+   {
+    "vid": "YMITcFE6XbM",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-22T00:27:31Z",
+    "peak": 788,
+    "has_viewers": true,
+    "title": "Отпустили",
+    "thumb": "https://i.ytimg.com/vi/YMITcFE6XbM/maxresdefault.jpg?v=2e",
+    "viewers": 756,
+    "dur": "3 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/YMITcFE6XbM\">Дон Грязь</a></b> · 756 👁 · 3 ч 47 мин\n└ Отпустили",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
