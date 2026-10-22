@@ -46,11 +46,22 @@
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-10-22T06:27:36Z",
-    "peak": 13,
+    "peak": 46,
     "has_viewers": true,
     "title": "СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ",
     "thumb": "https://i.ytimg.com/vi/peQ0S1Unauk/maxresdefault.jpg?v=6ad9acce",
-    "viewers": 13
+    "viewers": 46
+   },
+   "L2FzH3OJR_E": {
+    "vid": "L2FzH3OJR_E",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-22T06:40:56Z",
+    "peak": 46,
+    "has_viewers": true,
+    "title": "Прямая трансляция flaco",
+    "thumb": "https://i.ytimg.com/vi/L2FzH3OJR_E/maxresdefault.jpg?v=1",
+    "viewers": 46
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "3 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/peQ0S1Unauk\">Федук</a></b> · 13 👁 · 3 мин\n└ СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/peQ0S1Unauk\">Федук</a></b> · 46 👁 · 17 мин\n└ СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ\n\n<b><a href=\"https://youtu.be/L2FzH3OJR_E\">Ахиллес</a></b> · 46 👁 · 4 мин\n└ Прямая трансляция flaco",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
