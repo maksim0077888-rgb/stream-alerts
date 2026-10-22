@@ -40,7 +40,19 @@
  "day": "2026-10-22",
  "board": {
   "msg": 107,
-  "streams": {},
+  "streams": {
+   "peQ0S1Unauk": {
+    "vid": "peQ0S1Unauk",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-10-22T06:27:36Z",
+    "peak": 13,
+    "has_viewers": true,
+    "title": "СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ",
+    "thumb": "https://i.ytimg.com/vi/peQ0S1Unauk/maxresdefault.jpg?v=6ad9acce",
+    "viewers": 13
+   }
+  },
   "ended": [
    {
     "vid": "B2LNHVnM-1w",
@@ -223,7 +235,7 @@
     "dur": "3 ч 59 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/peQ0S1Unauk\">Федук</a></b> · 13 👁 · 3 мин\n└ СТРИМ С АЙФОНА 18 PRO MAX БУРГУНДИ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
