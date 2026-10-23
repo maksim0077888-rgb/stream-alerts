@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "WXM_xtyIZns": {
-    "vid": "WXM_xtyIZns",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-23T12:18:06Z",
-    "peak": 58,
-    "has_viewers": true,
-    "title": "Др Рифляя Стаса",
-    "thumb": "https://i.ytimg.com/vi/WXM_xtyIZns/maxresdefault.jpg?v=14",
-    "viewers": 0
-   },
    "rTXLPBqQZFI": {
     "vid": "rTXLPBqQZFI",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -60,8 +49,8 @@
     "peak": 609,
     "has_viewers": true,
     "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
-    "thumb": "https://i.ytimg.com/vi/rTXLPBqQZFI/maxresdefault.jpg?v=4c",
-    "viewers": 462
+    "thumb": "https://i.ytimg.com/vi/rTXLPBqQZFI/maxresdefault.jpg?v=4f",
+    "viewers": 358
    },
    "eleVKE9KVIs": {
     "vid": "eleVKE9KVIs",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 10
+    "viewers": 11
    },
    "OC-U14v9UQo": {
     "vid": "OC-U14v9UQo",
@@ -82,34 +71,22 @@
     "peak": 234,
     "has_viewers": true,
     "title": "ПИ",
-    "thumb": "https://i.ytimg.com/vi/OC-U14v9UQo/maxresdefault.jpg?v=1f",
-    "viewers": 173
+    "thumb": "https://i.ytimg.com/vi/OC-U14v9UQo/maxresdefault.jpg?v=22",
+    "viewers": 181
    },
    "BwOgzpIBXr8": {
     "vid": "BwOgzpIBXr8",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-23T20:28:20Z",
-    "peak": 1160,
+    "peak": 1271,
     "has_viewers": true,
     "title": "Туса жесткая",
-    "thumb": "https://i.ytimg.com/vi/BwOgzpIBXr8/maxresdefault.jpg?v=3",
-    "viewers": 1160
+    "thumb": "https://i.ytimg.com/vi/BwOgzpIBXr8/maxresdefault.jpg?v=6",
+    "viewers": 1271
    }
   },
   "ended": [
-   {
-    "vid": "fLKc48UzaJo",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-22T20:31:05Z",
-    "peak": 2585,
-    "has_viewers": true,
-    "title": "отмечаем др, катя, соболь, вжлинк",
-    "thumb": "https://i.ytimg.com/vi/fLKc48UzaJo/maxresdefault.jpg?v=6ada7281",
-    "viewers": 180,
-    "dur": "5 ч 53 мин"
-   },
    {
     "vid": "ocoQWsbhdEQ",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/M0roRX8WB_8/sddefault.jpg?v=6adb915f",
     "viewers": 1533,
     "dur": "3 ч 35 мин"
+   },
+   {
+    "vid": "WXM_xtyIZns",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-23T12:18:06Z",
+    "peak": 58,
+    "has_viewers": true,
+    "title": "Др Рифляя Стаса",
+    "thumb": "https://i.ytimg.com/vi/WXM_xtyIZns/maxresdefault.jpg?v=14",
+    "viewers": 0,
+    "dur": "1 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/BwOgzpIBXr8\">Дон Грязь</a></b> · 1160 👁 · 17 мин\n└ Туса жесткая\n\n<b><a href=\"https://youtu.be/rTXLPBqQZFI\">Гундос</a></b> · 462 👁 · 6 ч 27 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/OC-U14v9UQo\">Селянин</a></b> · 173 👁 · 2 ч 33 мин\n└ ПИ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 10 👁 · 3 ч 14 мин\n└ мини туса\n\n<b><a href=\"https://youtu.be/WXM_xtyIZns\">Ахиллес</a></b> · 0 👁 · 8 ч 27 мин\n└ Др Рифляя Стаса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/BwOgzpIBXr8\">Дон Грязь</a></b> · 1271 👁 · 32 мин\n└ Туса жесткая\n\n<b><a href=\"https://youtu.be/rTXLPBqQZFI\">Гундос</a></b> · 358 👁 · 6 ч 42 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/OC-U14v9UQo\">Селянин</a></b> · 181 👁 · 2 ч 48 мин\n└ ПИ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 11 👁 · 3 ч 29 мин\n└ мини туса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
