@@ -50,55 +50,43 @@
     "has_viewers": true,
     "title": "Др Рифляя Стаса",
     "thumb": "https://i.ytimg.com/vi/3RNbN9wUIhE/sddefault.jpg?v=6adafddd",
-    "viewers": 17
-   },
-   "Gz9ILl4yMJw": {
-    "vid": "Gz9ILl4yMJw",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T06:42:07Z",
-    "peak": 811,
-    "has_viewers": true,
-    "title": "тттт",
-    "thumb": "https://i.ytimg.com/vi/Gz9ILl4yMJw/maxresdefault.jpg?v=24",
-    "viewers": 650
+    "viewers": 19
    },
    "AQXfUEqGkFA": {
     "vid": "AQXfUEqGkFA",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-23T08:37:20Z",
-    "peak": 723,
+    "peak": 791,
     "has_viewers": true,
     "title": "Уборка у Маэстро, вечером телка и уличная конкретика",
     "thumb": "https://i.ytimg.com/vi/AQXfUEqGkFA/sddefault.jpg?v=6adb1cb6",
-    "viewers": 698
+    "viewers": 791
    },
    "3mvULcGTo18": {
     "vid": "3mvULcGTo18",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
     "name": "Don Simon",
     "start": "2026-10-23T09:33:40Z",
-    "peak": 88,
+    "peak": 107,
     "has_viewers": true,
     "title": "= Дон Симон - Пятница=",
     "thumb": "https://i.ytimg.com/vi/3mvULcGTo18/maxresdefault.jpg?v=6adb29eb",
-    "viewers": 88
+    "viewers": 107
+   },
+   "gPhqmFnVmBo": {
+    "vid": "gPhqmFnVmBo",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-23T09:53:21Z",
+    "peak": 307,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/gPhqmFnVmBo/maxresdefault.jpg?v=2",
+    "viewers": 307
    }
   },
   "ended": [
-   {
-    "vid": "gPB-GrORNbo",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-22T12:17:19Z",
-    "peak": 535,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/gPB-GrORNbo/maxresdefault.jpg?v=3",
-    "viewers": 535,
-    "dur": "24 мин"
-   },
    {
     "vid": "Vm-i1E-wG1g",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/EN-UPDA7xK8/sddefault.jpg?v=6ada1102",
     "viewers": 24,
     "dur": "19 ч 01 мин"
+   },
+   {
+    "vid": "Gz9ILl4yMJw",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-23T06:42:07Z",
+    "peak": 811,
+    "has_viewers": true,
+    "title": "тттт",
+    "thumb": "https://i.ytimg.com/vi/Gz9ILl4yMJw/maxresdefault.jpg?v=24",
+    "viewers": 650,
+    "dur": "3 ч 08 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AQXfUEqGkFA\">Дон Грязь</a></b> · 698 👁 · 1 ч 08 мин\n└ Уборка у Маэстро, вечером телка и уличная конкрет…\n\n<b><a href=\"https://youtu.be/Gz9ILl4yMJw\">Селянин</a></b> · 650 👁 · 3 ч 03 мин\n└ тттт\n\n<b><a href=\"https://youtu.be/3mvULcGTo18\">Don Simon</a></b> · 88 👁 · 11 мин\n└ = Дон Симон - Пятница=\n\n<b><a href=\"https://youtu.be/3RNbN9wUIhE\">Ахиллес</a></b> · 17 👁 · 3 ч 19 мин\n└ Др Рифляя Стаса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AQXfUEqGkFA\">Дон Грязь</a></b> · 791 👁 · 1 ч 23 мин\n└ Уборка у Маэстро, вечером телка и уличная конкрет…\n\n<b><a href=\"https://youtu.be/gPhqmFnVmBo\">Селянин</a></b> · 307 👁 · 7 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/3mvULcGTo18\">Don Simon</a></b> · 107 👁 · 27 мин\n└ = Дон Симон - Пятница=\n\n<b><a href=\"https://youtu.be/3RNbN9wUIhE\">Ахиллес</a></b> · 19 👁 · 3 ч 35 мин\n└ Др Рифляя Стаса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
