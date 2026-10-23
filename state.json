@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 16
+    "viewers": 9
    },
    "l1tJlr6rLF4": {
     "vid": "l1tJlr6rLF4",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
-    "viewers": 1100
+    "viewers": 979
    },
    "tFazRjIy7Kg": {
     "vid": "tFazRjIy7Kg",
@@ -71,34 +71,11 @@
     "peak": 160,
     "has_viewers": true,
     "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/tFazRjIy7Kg/maxresdefault.jpg?v=6",
+    "thumb": "https://i.ytimg.com/vi/tFazRjIy7Kg/maxresdefault.jpg?v=8",
     "viewers": 160
-   },
-   "6ocmB9MhyYM": {
-    "vid": "6ocmB9MhyYM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T22:40:17Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/6ocmB9MhyYM/sddefault.jpg",
-    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "3RNbN9wUIhE",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-23T06:25:43Z",
-    "peak": 102,
-    "has_viewers": true,
-    "title": "Др Рифляя Стаса",
-    "thumb": "https://i.ytimg.com/vi/3RNbN9wUIhE/sddefault.jpg?v=6adafddd",
-    "viewers": 1,
-    "dur": "5 ч 29 мин"
-   },
    {
     "vid": "3mvULcGTo18",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/7LBVo1FaaLA/maxresdefault.jpg?v=1",
     "viewers": 93,
     "dur": "20 мин"
+   },
+   {
+    "vid": "6ocmB9MhyYM",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-23T22:40:17Z",
+    "peak": 1,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/6ocmB9MhyYM/sddefault.jpg",
+    "viewers": 1,
+    "dur": "1 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 1100 👁 · 1 ч 24 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/tFazRjIy7Kg\">Селянин</a></b> · 160 👁 · 31 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 16 👁 · 5 ч 44 мин\n└ мини туса\n\n<b><a href=\"https://youtu.be/6ocmB9MhyYM\">Селянин</a></b> · 1 👁 · 35 мин\n└ ТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 979 👁 · 1 ч 32 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/tFazRjIy7Kg\">Селянин</a></b> · 160 👁 · 39 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 9 👁 · 5 ч 52 мин\n└ мини туса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
