@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 9
+    "viewers": 10
    },
    "l1tJlr6rLF4": {
     "vid": "l1tJlr6rLF4",
@@ -61,33 +61,10 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
-    "viewers": 1263
-   },
-   "7LBVo1FaaLA": {
-    "vid": "7LBVo1FaaLA",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T22:07:13Z",
-    "peak": 93,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/7LBVo1FaaLA/maxresdefault.jpg?v=1",
-    "viewers": 93
+    "viewers": 1197
    }
   },
   "ended": [
-   {
-    "vid": "gPhqmFnVmBo",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T09:53:21Z",
-    "peak": 557,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gPhqmFnVmBo/maxresdefault.jpg?v=12",
-    "viewers": 447,
-    "dur": "1 ч 35 мин"
-   },
    {
     "vid": "3RNbN9wUIhE",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/BwOgzpIBXr8/maxresdefault.jpg?v=f",
     "viewers": 1576,
     "dur": "1 ч 21 мин"
+   },
+   {
+    "vid": "7LBVo1FaaLA",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-23T22:07:13Z",
+    "peak": 93,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/7LBVo1FaaLA/maxresdefault.jpg?v=1",
+    "viewers": 93,
+    "dur": "20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 1263 👁 · 24 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/7LBVo1FaaLA\">Селянин</a></b> · 93 👁 · 8 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 9 👁 · 4 ч 44 мин\n└ мини туса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 1197 👁 · 39 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 10 👁 · 4 ч 59 мин\n└ мини туса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
