@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "HuJpChMd2bY": {
-    "vid": "HuJpChMd2bY",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T11:36:22Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/HuJpChMd2bY/maxresdefault.jpg?v=1",
-    "viewers": 0
-   },
    "WXM_xtyIZns": {
     "vid": "WXM_xtyIZns",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -71,45 +60,33 @@
     "peak": 576,
     "has_viewers": true,
     "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
-    "thumb": "https://i.ytimg.com/vi/rTXLPBqQZFI/maxresdefault.jpg?v=27",
-    "viewers": 510
+    "thumb": "https://i.ytimg.com/vi/rTXLPBqQZFI/maxresdefault.jpg?v=2a",
+    "viewers": 526
    },
    "M0roRX8WB_8": {
     "vid": "M0roRX8WB_8",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-23T16:55:04Z",
-    "peak": 1190,
+    "peak": 1277,
     "has_viewers": true,
     "title": "Тусовка жёсткая",
     "thumb": "https://i.ytimg.com/vi/M0roRX8WB_8/sddefault.jpg?v=6adb915f",
-    "viewers": 1190
+    "viewers": 1277
    },
    "eleVKE9KVIs": {
     "vid": "eleVKE9KVIs",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-23T17:31:03Z",
-    "peak": 137,
+    "peak": 221,
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 137
+    "viewers": 221
    }
   },
   "ended": [
-   {
-    "vid": "79nDU3VPgWk",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-22T14:57:53Z",
-    "peak": 17,
-    "has_viewers": true,
-    "title": "Persus",
-    "thumb": "https://i.ytimg.com/vi/79nDU3VPgWk/maxresdefault.jpg?v=5",
-    "viewers": 0,
-    "dur": "18 мин"
-   },
    {
     "vid": "cwzUkiDEKhM",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/I0_sKKVl9JU/maxresdefault.jpg?v=6adb8114",
     "viewers": 73,
     "dur": "1 ч 44 мин"
+   },
+   {
+    "vid": "HuJpChMd2bY",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-23T11:36:22Z",
+    "peak": 1,
+    "has_viewers": true,
+    "title": "Прямая трансляция УСАДЬБА СПБ",
+    "thumb": "https://i.ytimg.com/vi/HuJpChMd2bY/maxresdefault.jpg?v=1",
+    "viewers": 0,
+    "dur": "2 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/M0roRX8WB_8\">Дон Грязь</a></b> · 1190 👁 · 50 мин\n└ Тусовка жёсткая\n\n<b><a href=\"https://youtu.be/rTXLPBqQZFI\">Гундос</a></b> · 510 👁 · 3 ч 27 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 137 👁 · 14 мин\n└ мини туса\n\n<b><a href=\"https://youtu.be/HuJpChMd2bY\">Селянин</a></b> · 0 👁 · 6 ч 09 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/WXM_xtyIZns\">Ахиллес</a></b> · 0 👁 · 5 ч 27 мин\n└ Др Рифляя Стаса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/M0roRX8WB_8\">Дон Грязь</a></b> · 1277 👁 · 1 ч 05 мин\n└ Тусовка жёсткая\n\n<b><a href=\"https://youtu.be/rTXLPBqQZFI\">Гундос</a></b> · 526 👁 · 3 ч 42 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 221 👁 · 29 мин\n└ мини туса\n\n<b><a href=\"https://youtu.be/WXM_xtyIZns\">Ахиллес</a></b> · 0 👁 · 5 ч 42 мин\n└ Др Рифляя Стаса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
