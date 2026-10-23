@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "Проснулся, иду к Моче",
     "thumb": "https://i.ytimg.com/vi/EN-UPDA7xK8/sddefault.jpg?v=6ada1102",
-    "viewers": 109
-   },
-   "fLKc48UzaJo": {
-    "vid": "fLKc48UzaJo",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-22T20:31:05Z",
-    "peak": 2585,
-    "has_viewers": true,
-    "title": "отмечаем др, катя, соболь, вжлинк",
-    "thumb": "https://i.ytimg.com/vi/fLKc48UzaJo/maxresdefault.jpg?v=6ada7281",
-    "viewers": 180
+    "viewers": 124
    }
   },
   "ended": [
-   {
-    "vid": "EqDxgK-m9HQ",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-22T07:57:41Z",
-    "peak": 888,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/EqDxgK-m9HQ/maxresdefault.jpg?v=1f",
-    "viewers": 868,
-    "dur": "2 ч 43 мин"
-   },
    {
     "vid": "L2FzH3OJR_E",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/cwzUkiDEKhM/maxresdefault.jpg?v=19",
     "viewers": 191,
     "dur": "2 ч 16 мин"
+   },
+   {
+    "vid": "fLKc48UzaJo",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-22T20:31:05Z",
+    "peak": 2585,
+    "has_viewers": true,
+    "title": "отмечаем др, катя, соболь, вжлинк",
+    "thumb": "https://i.ytimg.com/vi/fLKc48UzaJo/maxresdefault.jpg?v=6ada7281",
+    "viewers": 180,
+    "dur": "5 ч 53 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/fLKc48UzaJo\">Рифляй</a></b> · 180 👁 · 5 ч 44 мин\n└ отмечаем др, катя, соболь, вжлинк\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 109 👁 · 12 ч 40 мин\n└ Проснулся, иду к Моче",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 124 👁 · 12 ч 55 мин\n└ Проснулся, иду к Моче",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
