@@ -37,7 +37,7 @@
   "https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g": "UCSVKrRZ6viFK3C9diKAkw6g",
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
- "day": "2026-10-22",
+ "day": "2026-10-23",
  "board": {
   "msg": 107,
   "streams": {
@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Проснулся, иду к Моче",
     "thumb": "https://i.ytimg.com/vi/EN-UPDA7xK8/sddefault.jpg?v=6ada1102",
-    "viewers": 696
+    "viewers": 648
    },
    "fLKc48UzaJo": {
     "vid": "fLKc48UzaJo",
@@ -61,33 +61,10 @@
     "has_viewers": true,
     "title": "отмечаем др, катя, соболь, вжлинк",
     "thumb": "https://i.ytimg.com/vi/fLKc48UzaJo/maxresdefault.jpg?v=6ada7281",
-    "viewers": 334
-   },
-   "cwzUkiDEKhM": {
-    "vid": "cwzUkiDEKhM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-22T21:42:22Z",
-    "peak": 320,
-    "has_viewers": true,
-    "title": "ТВ",
-    "thumb": "https://i.ytimg.com/vi/cwzUkiDEKhM/maxresdefault.jpg?v=19",
-    "viewers": 191
+    "viewers": 296
    }
   },
   "ended": [
-   {
-    "vid": "YMITcFE6XbM",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-22T00:27:31Z",
-    "peak": 788,
-    "has_viewers": true,
-    "title": "Отпустили",
-    "thumb": "https://i.ytimg.com/vi/YMITcFE6XbM/maxresdefault.jpg?v=2e",
-    "viewers": 756,
-    "dur": "3 ч 59 мин"
-   },
    {
     "vid": "EqDxgK-m9HQ",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/79nDU3VPgWk/maxresdefault.jpg?v=5",
     "viewers": 0,
     "dur": "18 мин"
+   },
+   {
+    "vid": "cwzUkiDEKhM",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-22T21:42:22Z",
+    "peak": 320,
+    "has_viewers": true,
+    "title": "ТВ",
+    "thumb": "https://i.ytimg.com/vi/cwzUkiDEKhM/maxresdefault.jpg?v=19",
+    "viewers": 191,
+    "dur": "2 ч 16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 696 👁 · 10 ч 10 мин\n└ Проснулся, иду к Моче\n\n<b><a href=\"https://youtu.be/fLKc48UzaJo\">Рифляй</a></b> · 334 👁 · 3 ч 14 мин\n└ отмечаем др, катя, соболь, вжлинк\n\n<b><a href=\"https://youtu.be/cwzUkiDEKhM\">Селянин</a></b> · 191 👁 · 2 ч 03 мин\n└ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 648 👁 · 10 ч 25 мин\n└ Проснулся, иду к Моче\n\n<b><a href=\"https://youtu.be/fLKc48UzaJo\">Рифляй</a></b> · 296 👁 · 3 ч 29 мин\n└ отмечаем др, катя, соболь, вжлинк",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
