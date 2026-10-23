@@ -60,30 +60,41 @@
     "peak": 576,
     "has_viewers": true,
     "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
-    "thumb": "https://i.ytimg.com/vi/rTXLPBqQZFI/maxresdefault.jpg?v=2a",
-    "viewers": 526
+    "thumb": "https://i.ytimg.com/vi/rTXLPBqQZFI/maxresdefault.jpg?v=2d",
+    "viewers": 488
    },
    "M0roRX8WB_8": {
     "vid": "M0roRX8WB_8",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-10-23T16:55:04Z",
-    "peak": 1277,
+    "peak": 1480,
     "has_viewers": true,
     "title": "Тусовка жёсткая",
     "thumb": "https://i.ytimg.com/vi/M0roRX8WB_8/sddefault.jpg?v=6adb915f",
-    "viewers": 1277
+    "viewers": 1480
    },
    "eleVKE9KVIs": {
     "vid": "eleVKE9KVIs",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-23T17:31:03Z",
-    "peak": 221,
+    "peak": 222,
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 221
+    "viewers": 222
+   },
+   "OC-U14v9UQo": {
+    "vid": "OC-U14v9UQo",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-23T18:12:22Z",
+    "peak": 55,
+    "has_viewers": true,
+    "title": "ПИ",
+    "thumb": "https://i.ytimg.com/vi/OC-U14v9UQo/sddefault.jpg",
+    "viewers": 55
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "2 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/M0roRX8WB_8\">Дон Грязь</a></b> · 1277 👁 · 1 ч 05 мин\n└ Тусовка жёсткая\n\n<b><a href=\"https://youtu.be/rTXLPBqQZFI\">Гундос</a></b> · 526 👁 · 3 ч 42 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 221 👁 · 29 мин\n└ мини туса\n\n<b><a href=\"https://youtu.be/WXM_xtyIZns\">Ахиллес</a></b> · 0 👁 · 5 ч 42 мин\n└ Др Рифляя Стаса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/M0roRX8WB_8\">Дон Грязь</a></b> · 1480 👁 · 1 ч 20 мин\n└ Тусовка жёсткая\n\n<b><a href=\"https://youtu.be/rTXLPBqQZFI\">Гундос</a></b> · 488 👁 · 3 ч 57 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 222 👁 · 44 мин\n└ мини туса\n\n<b><a href=\"https://youtu.be/OC-U14v9UQo\">Селянин</a></b> · 55 👁 · 3 мин\n└ ПИ\n\n<b><a href=\"https://youtu.be/WXM_xtyIZns\">Ахиллес</a></b> · 0 👁 · 5 ч 57 мин\n└ Др Рифляя Стаса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
