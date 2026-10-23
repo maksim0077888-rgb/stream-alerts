@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "EN-UPDA7xK8": {
-    "vid": "EN-UPDA7xK8",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-22T13:35:10Z",
-    "peak": 2805,
-    "has_viewers": true,
-    "title": "Проснулся, иду к Моче",
-    "thumb": "https://i.ytimg.com/vi/EN-UPDA7xK8/sddefault.jpg?v=6ada1102",
-    "viewers": 24
-   },
    "3RNbN9wUIhE": {
     "vid": "3RNbN9wUIhE",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -61,7 +50,7 @@
     "has_viewers": true,
     "title": "Др Рифляя Стаса",
     "thumb": "https://i.ytimg.com/vi/3RNbN9wUIhE/sddefault.jpg?v=6adafddd",
-    "viewers": 80
+    "viewers": 65
    },
    "Gz9ILl4yMJw": {
     "vid": "Gz9ILl4yMJw",
@@ -71,23 +60,22 @@
     "peak": 811,
     "has_viewers": true,
     "title": "тттт",
-    "thumb": "https://i.ytimg.com/vi/Gz9ILl4yMJw/maxresdefault.jpg?v=15",
-    "viewers": 811
+    "thumb": "https://i.ytimg.com/vi/Gz9ILl4yMJw/maxresdefault.jpg?v=18",
+    "viewers": 759
+   },
+   "AQXfUEqGkFA": {
+    "vid": "AQXfUEqGkFA",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-23T08:37:20Z",
+    "peak": 309,
+    "has_viewers": true,
+    "title": "Уборка у Маэстро, вечером телка и уличная конкретика",
+    "thumb": "https://i.ytimg.com/vi/AQXfUEqGkFA/sddefault.jpg?v=6adb1cb6",
+    "viewers": 309
    }
   },
   "ended": [
-   {
-    "vid": "-Mr22X-Danc",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-22T09:23:08Z",
-    "peak": 148,
-    "has_viewers": true,
-    "title": "= Дон Симон - На Связи=",
-    "thumb": "https://i.ytimg.com/vi/-Mr22X-Danc/maxresdefault.jpg?v=6ad9d5f3",
-    "viewers": 148,
-    "dur": "1 ч 51 мин"
-   },
    {
     "vid": "gPB-GrORNbo",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/ocoQWsbhdEQ/maxresdefault.jpg?v=2c",
     "viewers": 227,
     "dur": "4 ч 08 мин"
+   },
+   {
+    "vid": "EN-UPDA7xK8",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-10-22T13:35:10Z",
+    "peak": 2805,
+    "has_viewers": true,
+    "title": "Проснулся, иду к Моче",
+    "thumb": "https://i.ytimg.com/vi/EN-UPDA7xK8/sddefault.jpg?v=6ada1102",
+    "viewers": 24,
+    "dur": "19 ч 01 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/Gz9ILl4yMJw\">Селянин</a></b> · 811 👁 · 1 ч 48 мин\n└ тттт\n\n<b><a href=\"https://youtu.be/3RNbN9wUIhE\">Ахиллес</a></b> · 80 👁 · 2 ч 04 мин\n└ Др Рифляя Стаса\n\n<b><a href=\"https://youtu.be/EN-UPDA7xK8\">Дон Грязь</a></b> · 24 👁 · 18 ч 55 мин\n└ Проснулся, иду к Моче",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/Gz9ILl4yMJw\">Селянин</a></b> · 759 👁 · 2 ч 03 мин\n└ тттт\n\n<b><a href=\"https://youtu.be/AQXfUEqGkFA\">Дон Грязь</a></b> · 309 👁 · 8 мин\n└ Уборка у Маэстро, вечером телка и уличная конкрет…\n\n<b><a href=\"https://youtu.be/3RNbN9wUIhE\">Ахиллес</a></b> · 65 👁 · 2 ч 19 мин\n└ Др Рифляя Стаса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
