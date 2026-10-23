@@ -50,33 +50,21 @@
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 3
+    "viewers": 6
    },
-   "BwOgzpIBXr8": {
-    "vid": "BwOgzpIBXr8",
+   "l1tJlr6rLF4": {
+    "vid": "l1tJlr6rLF4",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
-    "start": "2026-10-23T20:28:20Z",
-    "peak": 1576,
+    "start": "2026-10-23T21:50:53Z",
+    "peak": 1074,
     "has_viewers": true,
-    "title": "Туса жесткая",
-    "thumb": "https://i.ytimg.com/vi/BwOgzpIBXr8/maxresdefault.jpg?v=f",
-    "viewers": 1576
+    "title": "Туса жёсткая",
+    "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
+    "viewers": 1074
    }
   },
   "ended": [
-   {
-    "vid": "Gz9ILl4yMJw",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T06:42:07Z",
-    "peak": 811,
-    "has_viewers": true,
-    "title": "тттт",
-    "thumb": "https://i.ytimg.com/vi/Gz9ILl4yMJw/maxresdefault.jpg?v=24",
-    "viewers": 650,
-    "dur": "3 ч 08 мин"
-   },
    {
     "vid": "gPhqmFnVmBo",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/OC-U14v9UQo/maxresdefault.jpg?v=28",
     "viewers": 247,
     "dur": "3 ч 25 мин"
+   },
+   {
+    "vid": "BwOgzpIBXr8",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-23T20:28:20Z",
+    "peak": 1576,
+    "has_viewers": true,
+    "title": "Туса жесткая",
+    "thumb": "https://i.ytimg.com/vi/BwOgzpIBXr8/maxresdefault.jpg?v=f",
+    "viewers": 1576,
+    "dur": "1 ч 21 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/BwOgzpIBXr8\">Дон Грязь</a></b> · 1576 👁 · 1 ч 17 мин\n└ Туса жесткая\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 3 👁 · 4 ч 14 мин\n└ мини туса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 1074 👁 · 9 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 6 👁 · 4 ч 29 мин\n└ мини туса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
