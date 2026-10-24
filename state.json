@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "УХ ТВ",
     "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=1d",
-    "viewers": 381
-   },
-   "O94Qa507DZU": {
-    "vid": "O94Qa507DZU",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-24T04:54:40Z",
-    "peak": 60,
-    "has_viewers": true,
-    "title": "Ддщ",
-    "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=19",
-    "viewers": 34
+    "viewers": 352
    },
    "LEsTrpc9nBg": {
     "vid": "LEsTrpc9nBg",
@@ -72,33 +61,21 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/LEsTrpc9nBg/maxresdefault.jpg?v=6adc4882",
-    "viewers": 13
+    "viewers": 15
    },
    "IgEun1XGS3M": {
     "vid": "IgEun1XGS3M",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-24T06:44:21Z",
-    "peak": 166,
+    "peak": 211,
     "has_viewers": true,
     "title": "Легкий Стрим",
-    "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=3",
-    "viewers": 166
+    "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=4",
+    "viewers": 211
    }
   },
   "ended": [
-   {
-    "vid": "I0_sKKVl9JU",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-23T15:45:34Z",
-    "peak": 321,
-    "has_viewers": true,
-    "title": "мини туса",
-    "thumb": "https://i.ytimg.com/vi/I0_sKKVl9JU/maxresdefault.jpg?v=6adb8114",
-    "viewers": 73,
-    "dur": "1 ч 44 мин"
-   },
    {
     "vid": "HuJpChMd2bY",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
     "viewers": 10,
     "dur": "5 ч 49 мин"
+   },
+   {
+    "vid": "O94Qa507DZU",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-24T04:54:40Z",
+    "peak": 60,
+    "has_viewers": true,
+    "title": "Ддщ",
+    "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=19",
+    "viewers": 34,
+    "dur": "2 ч 06 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/odXRcEdWly8\">Селянин</a></b> · 381 👁 · 2 ч 30 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 166 👁 · 16 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/O94Qa507DZU\">Ахиллес</a></b> · 34 👁 · 2 ч 06 мин\n└ Ддщ\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 13 👁 · 1 ч 04 мин\n└ Туса жёсткая",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/odXRcEdWly8\">Селянин</a></b> · 352 👁 · 2 ч 36 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 211 👁 · 22 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 15 👁 · 1 ч 10 мин\n└ Туса жёсткая",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
