@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "odXRcEdWly8": {
-    "vid": "odXRcEdWly8",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-24T04:30:33Z",
-    "peak": 436,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=33",
-    "viewers": 436
-   },
    "LEsTrpc9nBg": {
     "vid": "LEsTrpc9nBg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -61,33 +50,21 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/LEsTrpc9nBg/maxresdefault.jpg?v=6adc4882",
-    "viewers": 3
+    "viewers": 5
    },
    "IgEun1XGS3M": {
     "vid": "IgEun1XGS3M",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-24T06:44:21Z",
-    "peak": 251,
+    "peak": 262,
     "has_viewers": true,
     "title": "Легкий Стрим",
-    "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=18",
-    "viewers": 240
+    "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=1b",
+    "viewers": 262
    }
   },
   "ended": [
-   {
-    "vid": "HuJpChMd2bY",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T11:36:22Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/HuJpChMd2bY/maxresdefault.jpg?v=1",
-    "viewers": 0,
-    "dur": "2 мин"
-   },
    {
     "vid": "M0roRX8WB_8",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=19",
     "viewers": 34,
     "dur": "2 ч 06 мин"
+   },
+   {
+    "vid": "odXRcEdWly8",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-24T04:30:33Z",
+    "peak": 436,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=33",
+    "viewers": 436,
+    "dur": "4 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/odXRcEdWly8\">Селянин</a></b> · 436 👁 · 4 ч 14 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 240 👁 · 2 ч 01 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 3 👁 · 2 ч 49 мин\n└ Туса жёсткая",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 262 👁 · 2 ч 16 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 5 👁 · 3 ч 04 мин\n└ Туса жёсткая",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
