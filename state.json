@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/LEsTrpc9nBg/maxresdefault.jpg?v=6adc4882",
-    "viewers": 10
+    "viewers": 14
    },
    "IgEun1XGS3M": {
     "vid": "IgEun1XGS3M",
@@ -61,7 +61,29 @@
     "has_viewers": true,
     "title": "Легкий Стрим",
     "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=26",
-    "viewers": 91
+    "viewers": 25
+   },
+   "zEksyV8RvrI": {
+    "vid": "zEksyV8RvrI",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-24T10:03:28Z",
+    "peak": 2,
+    "has_viewers": true,
+    "title": "едет милиция",
+    "thumb": "https://i.ytimg.com/vi/zEksyV8RvrI/maxresdefault.jpg?v=1",
+    "viewers": 2
+   },
+   "aKL9Ztj_6T4": {
+    "vid": "aKL9Ztj_6T4",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-24T10:01:51Z",
+    "peak": 68,
+    "has_viewers": true,
+    "title": "Прямой эфир 24.10.2026",
+    "thumb": "https://i.ytimg.com/vi/aKL9Ztj_6T4/maxresdefault.jpg?v=6adc77ab",
+    "viewers": 68
    }
   },
   "ended": [
@@ -246,7 +268,7 @@
     "dur": "4 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 91 👁 · 3 ч 16 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 10 👁 · 4 ч 04 мин\n└ Туса жёсткая",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/aKL9Ztj_6T4\">Депутат</a></b> · 68 👁 · 13 мин\n└ Прямой эфир 24.10.2026\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 25 👁 · 3 ч 31 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 14 👁 · 4 ч 19 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/zEksyV8RvrI\">Герман Ягодка</a></b> · 2 👁 · 12 мин\n└ едет милиция",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
