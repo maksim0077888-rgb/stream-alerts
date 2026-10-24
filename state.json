@@ -49,8 +49,8 @@
     "peak": 367,
     "has_viewers": true,
     "title": "пополмшпашдуужжвдв",
-    "thumb": "https://i.ytimg.com/vi/YFg3GanJsz4/maxresdefault.jpg?v=5b",
-    "viewers": 33
+    "thumb": "https://i.ytimg.com/vi/YFg3GanJsz4/maxresdefault.jpg?v=5e",
+    "viewers": 34
    },
    "nHM1iN_miDE": {
     "vid": "nHM1iN_miDE",
@@ -60,8 +60,8 @@
     "peak": 966,
     "has_viewers": true,
     "title": "Уличная конкретика",
-    "thumb": "https://i.ytimg.com/vi/nHM1iN_miDE/maxresdefault.jpg?v=2e",
-    "viewers": 720
+    "thumb": "https://i.ytimg.com/vi/nHM1iN_miDE/maxresdefault.jpg?v=32",
+    "viewers": 590
    },
    "g1zmH92Qxvk": {
     "vid": "g1zmH92Qxvk",
@@ -72,33 +72,21 @@
     "has_viewers": true,
     "title": "стрим с училкой дона х***а",
     "thumb": "https://i.ytimg.com/vi/g1zmH92Qxvk/maxresdefault.jpg?v=6adce2bd",
-    "viewers": 193
+    "viewers": 183
    },
-   "2LTlSFIDHMI": {
-    "vid": "2LTlSFIDHMI",
+   "vg_H7bs2_mw": {
+    "vid": "vg_H7bs2_mw",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
-    "start": "2026-10-24T19:10:18Z",
-    "peak": 84,
+    "start": "2026-10-24T19:39:29Z",
+    "peak": 51,
     "has_viewers": true,
-    "title": "Еду в Гомель",
-    "thumb": "https://i.ytimg.com/vi/2LTlSFIDHMI/maxresdefault.jpg?v=4",
-    "viewers": 84
+    "title": "30к едем в Беларусь",
+    "thumb": "https://i.ytimg.com/vi/vg_H7bs2_mw/maxresdefault.jpg?v=1",
+    "viewers": 51
    }
   },
   "ended": [
-   {
-    "vid": "6ocmB9MhyYM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T22:40:17Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/6ocmB9MhyYM/sddefault.jpg",
-    "viewers": 1,
-    "dur": "1 мин"
-   },
    {
     "vid": "eleVKE9KVIs",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/RpDFSEUHWFM/maxresdefault.jpg?v=5",
     "viewers": 1,
     "dur": "4 ч 03 мин"
+   },
+   {
+    "vid": "2LTlSFIDHMI",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-24T19:10:18Z",
+    "peak": 84,
+    "has_viewers": true,
+    "title": "Еду в Гомель",
+    "thumb": "https://i.ytimg.com/vi/2LTlSFIDHMI/maxresdefault.jpg?v=4",
+    "viewers": 84,
+    "dur": "35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/nHM1iN_miDE\">Дон Грязь</a></b> · 720 👁 · 3 ч 43 мин\n└ Уличная конкретика\n\n<b><a href=\"https://youtu.be/g1zmH92Qxvk\">Рифляй</a></b> · 193 👁 · 2 ч 36 мин\n└ стрим с училкой дона х***а\n\n<b><a href=\"https://youtu.be/2LTlSFIDHMI\">Герман Ягодка</a></b> · 84 👁 · 20 мин\n└ Еду в Гомель\n\n<b><a href=\"https://youtu.be/YFg3GanJsz4\">Школа Сук</a></b> · 33 👁 · 7 ч 35 мин\n└ пополмшпашдуужжвдв",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/nHM1iN_miDE\">Дон Грязь</a></b> · 590 👁 · 3 ч 58 мин\n└ Уличная конкретика\n\n<b><a href=\"https://youtu.be/g1zmH92Qxvk\">Рифляй</a></b> · 183 👁 · 2 ч 51 мин\n└ стрим с училкой дона х***а\n\n<b><a href=\"https://youtu.be/vg_H7bs2_mw\">Герман Ягодка</a></b> · 51 👁 · 6 мин\n└ 30к едем в Беларусь\n\n<b><a href=\"https://youtu.be/YFg3GanJsz4\">Школа Сук</a></b> · 34 👁 · 7 ч 50 мин\n└ пополмшпашдуужжвдв",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
