@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 4
+    "viewers": 3
    },
    "l1tJlr6rLF4": {
     "vid": "l1tJlr6rLF4",
@@ -61,44 +61,21 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
-    "viewers": 835
+    "viewers": 738
    },
    "kYxCRYS9GuM": {
     "vid": "kYxCRYS9GuM",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-24T00:56:04Z",
-    "peak": 79,
+    "peak": 116,
     "has_viewers": true,
     "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
     "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
-    "viewers": 79
-   },
-   "6ocmB9MhyYM": {
-    "vid": "6ocmB9MhyYM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T22:40:17Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/6ocmB9MhyYM/sddefault.jpg",
-    "viewers": 1
+    "viewers": 116
    }
   },
   "ended": [
-   {
-    "vid": "LwGoFVCyoKI",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-23T12:22:34Z",
-    "peak": 509,
-    "has_viewers": true,
-    "title": "Х ТВ",
-    "thumb": "https://i.ytimg.com/vi/LwGoFVCyoKI/maxresdefault.jpg?v=17",
-    "viewers": 455,
-    "dur": "2 ч 14 мин"
-   },
    {
     "vid": "AQXfUEqGkFA",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/tFazRjIy7Kg/maxresdefault.jpg?v=1b",
     "viewers": 139,
     "dur": "2 ч 37 мин"
+   },
+   {
+    "vid": "6ocmB9MhyYM",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-23T22:40:17Z",
+    "peak": 1,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/6ocmB9MhyYM/sddefault.jpg",
+    "viewers": 1,
+    "dur": "1 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 835 👁 · 3 ч 39 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 79 👁 · 34 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 4 👁 · 7 ч 59 мин\n└ мини туса\n\n<b><a href=\"https://youtu.be/6ocmB9MhyYM\">Селянин</a></b> · 1 👁 · 2 ч 50 мин\n└ ТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 738 👁 · 3 ч 54 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 116 👁 · 49 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 3 👁 · 8 ч 14 мин\n└ мини туса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
