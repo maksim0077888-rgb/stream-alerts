@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "мини туса",
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 7
+    "viewers": 2
    },
    "l1tJlr6rLF4": {
     "vid": "l1tJlr6rLF4",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
-    "viewers": 856
+    "viewers": 810
    },
    "tFazRjIy7Kg": {
     "vid": "tFazRjIy7Kg",
@@ -71,8 +71,19 @@
     "peak": 164,
     "has_viewers": true,
     "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/tFazRjIy7Kg/maxresdefault.jpg?v=18",
-    "viewers": 143
+    "thumb": "https://i.ytimg.com/vi/tFazRjIy7Kg/maxresdefault.jpg?v=1b",
+    "viewers": 139
+   },
+   "kYxCRYS9GuM": {
+    "vid": "kYxCRYS9GuM",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-24T00:56:04Z",
+    "peak": 19,
+    "has_viewers": true,
+    "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
+    "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
+    "viewers": 19
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "1 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 856 👁 · 2 ч 54 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/tFazRjIy7Kg\">Селянин</a></b> · 143 👁 · 2 ч 01 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 7 👁 · 7 ч 14 мин\n└ мини туса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 810 👁 · 3 ч 09 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/tFazRjIy7Kg\">Селянин</a></b> · 139 👁 · 2 ч 16 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 19 👁 · 4 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 2 👁 · 7 ч 29 мин\n└ мини туса",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
