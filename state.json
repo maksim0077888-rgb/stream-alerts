@@ -41,27 +41,16 @@
  "board": {
   "msg": 107,
   "streams": {
-   "kYxCRYS9GuM": {
-    "vid": "kYxCRYS9GuM",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-24T00:56:04Z",
-    "peak": 158,
-    "has_viewers": true,
-    "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
-    "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
-    "viewers": 10
-   },
    "odXRcEdWly8": {
     "vid": "odXRcEdWly8",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-24T04:30:33Z",
-    "peak": 266,
+    "peak": 333,
     "has_viewers": true,
     "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=18",
-    "viewers": 266
+    "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=1b",
+    "viewers": 333
    },
    "O94Qa507DZU": {
     "vid": "O94Qa507DZU",
@@ -71,34 +60,33 @@
     "peak": 60,
     "has_viewers": true,
     "title": "Ддщ",
-    "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=13",
-    "viewers": 34
+    "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=16",
+    "viewers": 52
    },
    "LEsTrpc9nBg": {
     "vid": "LEsTrpc9nBg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-24T05:56:26Z",
-    "peak": 256,
+    "peak": 329,
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/LEsTrpc9nBg/maxresdefault.jpg?v=6adc4882",
-    "viewers": 251
+    "viewers": 329
+   },
+   "IgEun1XGS3M": {
+    "vid": "IgEun1XGS3M",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-24T06:44:21Z",
+    "peak": 33,
+    "has_viewers": true,
+    "title": "Легкий Стрим",
+    "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg",
+    "viewers": 33
    }
   },
   "ended": [
-   {
-    "vid": "rkc99S5dHwc",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-10-23T13:37:14Z",
-    "peak": 8973,
-    "has_viewers": true,
-    "title": "Аук за рулём (но без руля)",
-    "thumb": "https://i.ytimg.com/vi/rkc99S5dHwc/maxresdefault.jpg?v=30",
-    "viewers": 8560,
-    "dur": "4 ч 04 мин"
-   },
    {
     "vid": "I0_sKKVl9JU",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
     "viewers": 573,
     "dur": "8 ч 03 мин"
+   },
+   {
+    "vid": "kYxCRYS9GuM",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-24T00:56:04Z",
+    "peak": 158,
+    "has_viewers": true,
+    "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
+    "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
+    "viewers": 10,
+    "dur": "5 ч 49 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/odXRcEdWly8\">Селянин</a></b> · 266 👁 · 2 ч 00 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 251 👁 · 34 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/O94Qa507DZU\">Ахиллес</a></b> · 34 👁 · 1 ч 35 мин\n└ Ддщ\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 10 👁 · 5 ч 34 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/odXRcEdWly8\">Селянин</a></b> · 333 👁 · 2 ч 14 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 329 👁 · 49 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/O94Qa507DZU\">Ахиллес</a></b> · 52 👁 · 1 ч 50 мин\n└ Ддщ\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 33 👁 · 1 мин\n└ Легкий Стрим",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
