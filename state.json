@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "l1tJlr6rLF4": {
-    "vid": "l1tJlr6rLF4",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-10-23T21:50:53Z",
-    "peak": 1351,
-    "has_viewers": true,
-    "title": "Туса жёсткая",
-    "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
-    "viewers": 573
-   },
    "kYxCRYS9GuM": {
     "vid": "kYxCRYS9GuM",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -61,18 +50,18 @@
     "has_viewers": true,
     "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
     "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
-    "viewers": 4
+    "viewers": 5
    },
    "odXRcEdWly8": {
     "vid": "odXRcEdWly8",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-24T04:30:33Z",
-    "peak": 166,
+    "peak": 199,
     "has_viewers": true,
     "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=f",
-    "viewers": 166
+    "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=12",
+    "viewers": 199
    },
    "O94Qa507DZU": {
     "vid": "O94Qa507DZU",
@@ -82,23 +71,22 @@
     "peak": 49,
     "has_viewers": true,
     "title": "Ддщ",
-    "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=a",
-    "viewers": 49
+    "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=d",
+    "viewers": 46
+   },
+   "LEsTrpc9nBg": {
+    "vid": "LEsTrpc9nBg",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-24T05:56:26Z",
+    "peak": 141,
+    "has_viewers": true,
+    "title": "Туса жёсткая",
+    "thumb": "https://i.ytimg.com/vi/LEsTrpc9nBg/maxresdefault.jpg?v=6adc4882",
+    "viewers": 141
    }
   },
   "ended": [
-   {
-    "vid": "Vz5QGwGFa9c",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-23T14:19:25Z",
-    "peak": 243,
-    "has_viewers": true,
-    "title": "отмечаем др, катя, соболь, никита, вискас, 808, дрюс",
-    "thumb": "https://i.ytimg.com/vi/Vz5QGwGFa9c/maxresdefault.jpg?v=f",
-    "viewers": 2,
-    "dur": "3 ч 11 мин"
-   },
    {
     "vid": "rkc99S5dHwc",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
     "viewers": 3,
     "dur": "1 ч 24 мин"
+   },
+   {
+    "vid": "l1tJlr6rLF4",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-23T21:50:53Z",
+    "peak": 1351,
+    "has_viewers": true,
+    "title": "Туса жёсткая",
+    "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
+    "viewers": 573,
+    "dur": "8 ч 03 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 573 👁 · 7 ч 54 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/odXRcEdWly8\">Селянин</a></b> · 166 👁 · 1 ч 14 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/O94Qa507DZU\">Ахиллес</a></b> · 49 👁 · 50 мин\n└ Ддщ\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 4 👁 · 4 ч 49 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/odXRcEdWly8\">Селянин</a></b> · 199 👁 · 1 ч 30 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 141 👁 · 4 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/O94Qa507DZU\">Ахиллес</a></b> · 46 👁 · 1 ч 06 мин\n└ Ддщ\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 5 👁 · 5 ч 04 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
