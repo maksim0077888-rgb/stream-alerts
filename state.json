@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/LEsTrpc9nBg/maxresdefault.jpg?v=6adc4882",
-    "viewers": 5
+    "viewers": 7
    },
    "IgEun1XGS3M": {
     "vid": "IgEun1XGS3M",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Легкий Стрим",
     "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=26",
-    "viewers": 29
+    "viewers": 27
    },
    "zEksyV8RvrI": {
     "vid": "zEksyV8RvrI",
@@ -83,7 +83,18 @@
     "has_viewers": true,
     "title": "Прямой эфир 24.10.2026",
     "thumb": "https://i.ytimg.com/vi/aKL9Ztj_6T4/maxresdefault.jpg?v=6adc77ab",
-    "viewers": 106
+    "viewers": 40
+   },
+   "1fxnIwkow1Y": {
+    "vid": "1fxnIwkow1Y",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-24T10:48:25Z",
+    "peak": 306,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/1fxnIwkow1Y/maxresdefault.jpg?v=2",
+    "viewers": 306
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "4 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/aKL9Ztj_6T4\">Депутат</a></b> · 106 👁 · 43 мин\n└ Прямой эфир 24.10.2026\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 29 👁 · 4 ч 01 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 5 👁 · 4 ч 49 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/zEksyV8RvrI\">Герман Ягодка</a></b> · 1 👁 · 42 мин\n└ едет милиция",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/1fxnIwkow1Y\">Селянин</a></b> · 306 👁 · 12 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/aKL9Ztj_6T4\">Депутат</a></b> · 40 👁 · 58 мин\n└ Прямой эфир 24.10.2026\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 27 👁 · 4 ч 16 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 7 👁 · 5 ч 04 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/zEksyV8RvrI\">Герман Ягодка</a></b> · 1 👁 · 57 мин\n└ едет милиция",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
