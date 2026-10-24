@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "eleVKE9KVIs": {
-    "vid": "eleVKE9KVIs",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-23T17:31:03Z",
-    "peak": 237,
-    "has_viewers": true,
-    "title": "мини туса",
-    "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
-    "viewers": 3
-   },
    "l1tJlr6rLF4": {
     "vid": "l1tJlr6rLF4",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -61,33 +50,21 @@
     "has_viewers": true,
     "title": "Туса жёсткая",
     "thumb": "https://i.ytimg.com/vi/l1tJlr6rLF4/maxresdefault.jpg?v=6adbd6b4",
-    "viewers": 738
+    "viewers": 778
    },
    "kYxCRYS9GuM": {
     "vid": "kYxCRYS9GuM",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-24T00:56:04Z",
-    "peak": 116,
+    "peak": 158,
     "has_viewers": true,
     "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
     "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
-    "viewers": 116
+    "viewers": 158
    }
   },
   "ended": [
-   {
-    "vid": "AQXfUEqGkFA",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-23T08:37:20Z",
-    "peak": 1146,
-    "has_viewers": true,
-    "title": "Уборка у Маэстро, вечером телка и уличная конкретика",
-    "thumb": "https://i.ytimg.com/vi/AQXfUEqGkFA/sddefault.jpg?v=6adb1cb6",
-    "viewers": 93,
-    "dur": "8 ч 16 мин"
-   },
    {
     "vid": "Vz5QGwGFa9c",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/6ocmB9MhyYM/sddefault.jpg",
     "viewers": 1,
     "dur": "1 мин"
+   },
+   {
+    "vid": "eleVKE9KVIs",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-23T17:31:03Z",
+    "peak": 237,
+    "has_viewers": true,
+    "title": "мини туса",
+    "thumb": "https://i.ytimg.com/vi/eleVKE9KVIs/maxresdefault.jpg?v=6adb99ce",
+    "viewers": 3,
+    "dur": "1 ч 24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 738 👁 · 3 ч 54 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 116 👁 · 49 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ\n\n<b><a href=\"https://youtu.be/eleVKE9KVIs\">Рифляй</a></b> · 3 👁 · 8 ч 14 мин\n└ мини туса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/l1tJlr6rLF4\">Дон Грязь</a></b> · 778 👁 · 4 ч 02 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/kYxCRYS9GuM\">Гундос</a></b> · 158 👁 · 57 мин\n└ ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
