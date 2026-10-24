@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Легкий Стрим",
     "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=26",
-    "viewers": 27
+    "viewers": 26
    },
    "zEksyV8RvrI": {
     "vid": "zEksyV8RvrI",
@@ -72,44 +72,21 @@
     "has_viewers": true,
     "title": "едет милиция",
     "thumb": "https://i.ytimg.com/vi/zEksyV8RvrI/maxresdefault.jpg?v=1",
-    "viewers": 1
-   },
-   "aKL9Ztj_6T4": {
-    "vid": "aKL9Ztj_6T4",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-24T10:01:51Z",
-    "peak": 106,
-    "has_viewers": true,
-    "title": "Прямой эфир 24.10.2026",
-    "thumb": "https://i.ytimg.com/vi/aKL9Ztj_6T4/maxresdefault.jpg?v=6adc77ab",
-    "viewers": 40
+    "viewers": 0
    },
    "1fxnIwkow1Y": {
     "vid": "1fxnIwkow1Y",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-24T10:48:25Z",
-    "peak": 306,
+    "peak": 437,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/1fxnIwkow1Y/maxresdefault.jpg?v=2",
-    "viewers": 306
+    "thumb": "https://i.ytimg.com/vi/1fxnIwkow1Y/maxresdefault.jpg?v=5",
+    "viewers": 437
    }
   },
   "ended": [
-   {
-    "vid": "M0roRX8WB_8",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-10-23T16:55:04Z",
-    "peak": 1710,
-    "has_viewers": true,
-    "title": "Тусовка жёсткая",
-    "thumb": "https://i.ytimg.com/vi/M0roRX8WB_8/sddefault.jpg?v=6adb915f",
-    "viewers": 1533,
-    "dur": "3 ч 35 мин"
-   },
    {
     "vid": "WXM_xtyIZns",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/odXRcEdWly8/maxresdefault.jpg?v=33",
     "viewers": 436,
     "dur": "4 ч 22 мин"
+   },
+   {
+    "vid": "aKL9Ztj_6T4",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-24T10:01:51Z",
+    "peak": 106,
+    "has_viewers": true,
+    "title": "Прямой эфир 24.10.2026",
+    "thumb": "https://i.ytimg.com/vi/aKL9Ztj_6T4/maxresdefault.jpg?v=6adc77ab",
+    "viewers": 40,
+    "dur": "1 ч 13 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/1fxnIwkow1Y\">Селянин</a></b> · 306 👁 · 12 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/aKL9Ztj_6T4\">Депутат</a></b> · 40 👁 · 58 мин\n└ Прямой эфир 24.10.2026\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 27 👁 · 4 ч 16 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 7 👁 · 5 ч 04 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/zEksyV8RvrI\">Герман Ягодка</a></b> · 1 👁 · 57 мин\n└ едет милиция",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1fxnIwkow1Y\">Селянин</a></b> · 437 👁 · 27 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 26 👁 · 4 ч 31 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/LEsTrpc9nBg\">Дон Грязь</a></b> · 7 👁 · 5 ч 19 мин\n└ Туса жёсткая\n\n<b><a href=\"https://youtu.be/zEksyV8RvrI\">Герман Ягодка</a></b> · 0 👁 · 1 ч 12 мин\n└ едет милиция",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
