@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Легкий Стрим",
     "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=26",
-    "viewers": 4
+    "viewers": 2
    },
    "zEksyV8RvrI": {
     "vid": "zEksyV8RvrI",
@@ -72,7 +72,7 @@
     "has_viewers": true,
     "title": "Субботний эфир",
     "thumb": "https://i.ytimg.com/vi/C8vVMcDvt04/maxresdefault.jpg?v=6adc94d6",
-    "viewers": 27
+    "viewers": 35
    },
    "YFg3GanJsz4": {
     "vid": "YFg3GanJsz4",
@@ -82,8 +82,8 @@
     "peak": 367,
     "has_viewers": true,
     "title": "пополмшпашдуужжвдв",
-    "thumb": "https://i.ytimg.com/vi/YFg3GanJsz4/maxresdefault.jpg?v=2d",
-    "viewers": 150
+    "thumb": "https://i.ytimg.com/vi/YFg3GanJsz4/maxresdefault.jpg?v=31",
+    "viewers": 107
    },
    "RpDFSEUHWFM": {
     "vid": "RpDFSEUHWFM",
@@ -94,7 +94,7 @@
     "has_viewers": true,
     "title": "Всем отличного вечера",
     "thumb": "https://i.ytimg.com/vi/RpDFSEUHWFM/maxresdefault.jpg?v=5",
-    "viewers": 11
+    "viewers": 4
    },
    "fVNGw2KGRPc": {
     "vid": "fVNGw2KGRPc",
@@ -104,8 +104,19 @@
     "peak": 519,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/fVNGw2KGRPc/maxresdefault.jpg?v=7",
-    "viewers": 519
+    "thumb": "https://i.ytimg.com/vi/fVNGw2KGRPc/maxresdefault.jpg?v=a",
+    "viewers": 478
+   },
+   "nHM1iN_miDE": {
+    "vid": "nHM1iN_miDE",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-24T15:46:52Z",
+    "peak": 414,
+    "has_viewers": true,
+    "title": "Уличная конкретика",
+    "thumb": "https://i.ytimg.com/vi/nHM1iN_miDE/maxresdefault.jpg?v=3",
+    "viewers": 414
    }
   },
   "ended": [
@@ -290,7 +301,7 @@
     "dur": "1 ч 24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/fVNGw2KGRPc\">Селянин</a></b> · 519 👁 · 38 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/YFg3GanJsz4\">Школа Сук</a></b> · 150 👁 · 3 ч 50 мин\n└ пополмшпашдуужжвдв\n\n<b><a href=\"https://youtu.be/C8vVMcDvt04\">Депутат</a></b> · 27 👁 · 4 ч 17 мин\n└ Субботний эфир\n\n<b><a href=\"https://youtu.be/RpDFSEUHWFM\">Герман Ягодка</a></b> · 11 👁 · 39 мин\n└ Всем отличного вечера\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 4 👁 · 9 ч 01 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/zEksyV8RvrI\">Герман Ягодка</a></b> · 0 👁 · 5 ч 42 мин\n└ едет милиция",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 7</b>\n\n<b><a href=\"https://youtu.be/fVNGw2KGRPc\">Селянин</a></b> · 478 👁 · 53 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/nHM1iN_miDE\">Дон Грязь</a></b> · 414 👁 · 13 мин\n└ Уличная конкретика\n\n<b><a href=\"https://youtu.be/YFg3GanJsz4\">Школа Сук</a></b> · 107 👁 · 4 ч 05 мин\n└ пополмшпашдуужжвдв\n\n<b><a href=\"https://youtu.be/C8vVMcDvt04\">Депутат</a></b> · 35 👁 · 4 ч 32 мин\n└ Субботний эфир\n\n<b><a href=\"https://youtu.be/RpDFSEUHWFM\">Герман Ягодка</a></b> · 4 👁 · 55 мин\n└ Всем отличного вечера\n\n<b><a href=\"https://youtu.be/IgEun1XGS3M\">Герман Ягодка</a></b> · 2 👁 · 9 ч 16 мин\n└ Легкий Стрим\n\n<b><a href=\"https://youtu.be/zEksyV8RvrI\">Герман Ягодка</a></b> · 0 👁 · 5 ч 57 мин\n└ едет милиция",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
