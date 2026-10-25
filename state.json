@@ -52,42 +52,19 @@
     "thumb": "https://i.ytimg.com/vi/1LfFXB8N4hw/maxresdefault.jpg?v=32",
     "viewers": 6
    },
-   "K8E5kRp--2A": {
-    "vid": "K8E5kRp--2A",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-25T07:31:15Z",
-    "peak": 861,
-    "has_viewers": true,
-    "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/K8E5kRp--2A/maxresdefault.jpg?v=2a",
-    "viewers": 772
-   },
    "3PpdToUbvYE": {
     "vid": "3PpdToUbvYE",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-25T09:00:27Z",
-    "peak": 762,
+    "peak": 1086,
     "has_viewers": true,
     "title": "На охрану помойки",
-    "thumb": "https://i.ytimg.com/vi/3PpdToUbvYE/maxresdefault.jpg?v=18",
-    "viewers": 762
+    "thumb": "https://i.ytimg.com/vi/3PpdToUbvYE/maxresdefault.jpg?v=1b",
+    "viewers": 1086
    }
   },
   "ended": [
-   {
-    "vid": "1fxnIwkow1Y",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-24T10:48:25Z",
-    "peak": 709,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/1fxnIwkow1Y/maxresdefault.jpg?v=21",
-    "viewers": 660,
-    "dur": "2 ч 43 мин"
-   },
    {
     "vid": "RYnZp_v6-CU",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/do3uKZpneEA/maxresdefault.jpg?v=2",
     "viewers": 5,
     "dur": "31 мин"
+   },
+   {
+    "vid": "K8E5kRp--2A",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-25T07:31:15Z",
+    "peak": 861,
+    "has_viewers": true,
+    "title": "ИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/K8E5kRp--2A/maxresdefault.jpg?v=2a",
+    "viewers": 772,
+    "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/K8E5kRp--2A\">Селянин</a></b> · 772 👁 · 3 ч 29 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/3PpdToUbvYE\">Дон Грязь</a></b> · 762 👁 · 2 ч 00 мин\n└ На охрану помойки\n\n<b><a href=\"https://youtu.be/1LfFXB8N4hw\">Герман Ягодка</a></b> · 6 👁 · 9 ч 19 мин\n└ меня хотели отравить",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/3PpdToUbvYE\">Дон Грязь</a></b> · 1086 👁 · 2 ч 14 мин\n└ На охрану помойки\n\n<b><a href=\"https://youtu.be/1LfFXB8N4hw\">Герман Ягодка</a></b> · 6 👁 · 9 ч 34 мин\n└ меня хотели отравить",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
