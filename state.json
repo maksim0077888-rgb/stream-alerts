@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "YFg3GanJsz4": {
-    "vid": "YFg3GanJsz4",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-24T11:55:10Z",
-    "peak": 367,
-    "has_viewers": true,
-    "title": "пополмшпашдуужжвдв",
-    "thumb": "https://i.ytimg.com/vi/YFg3GanJsz4/maxresdefault.jpg?v=99",
-    "viewers": 13
-   },
    "nHM1iN_miDE": {
     "vid": "nHM1iN_miDE",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -60,23 +49,11 @@
     "peak": 1050,
     "has_viewers": true,
     "title": "Уличная конкретика",
-    "thumb": "https://i.ytimg.com/vi/nHM1iN_miDE/maxresdefault.jpg?v=6d",
-    "viewers": 716
+    "thumb": "https://i.ytimg.com/vi/nHM1iN_miDE/maxresdefault.jpg?v=6f",
+    "viewers": 145
    }
   },
   "ended": [
-   {
-    "vid": "kYxCRYS9GuM",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-24T00:56:04Z",
-    "peak": 158,
-    "has_viewers": true,
-    "title": "ВОЛОДЯ ТИММ У РУПЕРТХАУСЕ",
-    "thumb": "https://i.ytimg.com/vi/kYxCRYS9GuM/sddefault.jpg?v=6adc0218",
-    "viewers": 10,
-    "dur": "5 ч 49 мин"
-   },
    {
     "vid": "O94Qa507DZU",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/vg_H7bs2_mw/maxresdefault.jpg?v=22",
     "viewers": 194,
     "dur": "2 ч 59 мин"
+   },
+   {
+    "vid": "YFg3GanJsz4",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-24T11:55:10Z",
+    "peak": 367,
+    "has_viewers": true,
+    "title": "пополмшпашдуужжвдв",
+    "thumb": "https://i.ytimg.com/vi/YFg3GanJsz4/maxresdefault.jpg?v=99",
+    "viewers": 13,
+    "dur": "13 ч 05 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/nHM1iN_miDE\">Дон Грязь</a></b> · 716 👁 · 8 ч 58 мин\n└ Уличная конкретика\n\n<b><a href=\"https://youtu.be/YFg3GanJsz4\">Школа Сук</a></b> · 13 👁 · 12 ч 50 мин\n└ пополмшпашдуужжвдв",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/nHM1iN_miDE\">Дон Грязь</a></b> · 145 👁 · 9 ч 13 мин\n└ Уличная конкретика",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
