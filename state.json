@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "1LfFXB8N4hw": {
-    "vid": "1LfFXB8N4hw",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-25T01:41:10Z",
-    "peak": 308,
-    "has_viewers": true,
-    "title": "меня хотели отравить",
-    "thumb": "https://i.ytimg.com/vi/1LfFXB8N4hw/maxresdefault.jpg?v=32",
-    "viewers": 14
-   },
    "3PpdToUbvYE": {
     "vid": "3PpdToUbvYE",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -60,23 +49,11 @@
     "peak": 1553,
     "has_viewers": true,
     "title": "На охрану помойки",
-    "thumb": "https://i.ytimg.com/vi/3PpdToUbvYE/maxresdefault.jpg?v=2e",
-    "viewers": 1156
+    "thumb": "https://i.ytimg.com/vi/3PpdToUbvYE/maxresdefault.jpg?v=31",
+    "viewers": 1075
    }
   },
   "ended": [
-   {
-    "vid": "RYnZp_v6-CU",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-24T14:06:14Z",
-    "peak": 140,
-    "has_viewers": true,
-    "title": "ГОМ ДОС ДОС ГОМ ДОН ДОС",
-    "thumb": "https://i.ytimg.com/vi/RYnZp_v6-CU/maxresdefault.jpg?v=6adcbc5c",
-    "viewers": 66,
-    "dur": "1 ч 24 мин"
-   },
    {
     "vid": "fVNGw2KGRPc",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/K8E5kRp--2A/maxresdefault.jpg?v=2a",
     "viewers": 772,
     "dur": "3 ч 33 мин"
+   },
+   {
+    "vid": "1LfFXB8N4hw",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-25T01:41:10Z",
+    "peak": 308,
+    "has_viewers": true,
+    "title": "меня хотели отравить",
+    "thumb": "https://i.ytimg.com/vi/1LfFXB8N4hw/maxresdefault.jpg?v=32",
+    "viewers": 14,
+    "dur": "4 ч 15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/3PpdToUbvYE\">Дон Грязь</a></b> · 1156 👁 · 3 ч 44 мин\n└ На охрану помойки\n\n<b><a href=\"https://youtu.be/1LfFXB8N4hw\">Герман Ягодка</a></b> · 14 👁 · 11 ч 04 мин\n└ меня хотели отравить",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/3PpdToUbvYE\">Дон Грязь</a></b> · 1075 👁 · 4 ч 00 мин\n└ На охрану помойки",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
