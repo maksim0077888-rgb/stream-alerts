@@ -49,8 +49,8 @@
     "peak": 605,
     "has_viewers": true,
     "title": "ттттттТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/z7HOVVGO-_o/maxresdefault.jpg?v=2d",
-    "viewers": 387
+    "thumb": "https://i.ytimg.com/vi/z7HOVVGO-_o/maxresdefault.jpg?v=2f",
+    "viewers": 355
    },
    "IC9M-9z0Bew": {
     "vid": "IC9M-9z0Bew",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "куда попал не понятно",
     "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
-    "viewers": 134
+    "viewers": 126
    },
    "cjMwHRsdqM4": {
     "vid": "cjMwHRsdqM4",
@@ -72,33 +72,10 @@
     "has_viewers": true,
     "title": "Тёлка едет",
     "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
-    "viewers": 992
-   },
-   "7W4-Or66Z8c": {
-    "vid": "7W4-Or66Z8c",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-25T17:15:02Z",
-    "peak": 109,
-    "has_viewers": true,
-    "title": "НАШЕЛ ЖЕНУ",
-    "thumb": "https://i.ytimg.com/vi/7W4-Or66Z8c/maxresdefault.jpg?v=6ade3ef1",
-    "viewers": 109
+    "viewers": 1041
    }
   },
   "ended": [
-   {
-    "vid": "C8vVMcDvt04",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-24T11:28:12Z",
-    "peak": 68,
-    "has_viewers": true,
-    "title": "Субботний эфир",
-    "thumb": "https://i.ytimg.com/vi/C8vVMcDvt04/maxresdefault.jpg?v=6adc94d6",
-    "viewers": 46,
-    "dur": "5 ч 57 мин"
-   },
    {
     "vid": "RpDFSEUHWFM",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/3vSZekdgfFQ/maxresdefault.jpg?v=1b",
     "viewers": 87,
     "dur": "2 ч 26 мин"
+   },
+   {
+    "vid": "7W4-Or66Z8c",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-25T17:15:02Z",
+    "peak": 109,
+    "has_viewers": true,
+    "title": "НАШЕЛ ЖЕНУ",
+    "thumb": "https://i.ytimg.com/vi/7W4-Or66Z8c/maxresdefault.jpg?v=6ade3ef1",
+    "viewers": 109,
+    "dur": "1 ч 00 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 992 👁 · 1 ч 27 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/z7HOVVGO-_o\">Селянин</a></b> · 387 👁 · 3 ч 44 мин\n└ ттттттТУХ ТВ\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 134 👁 · 2 ч 13 мин\n└ куда попал не понятно\n\n<b><a href=\"https://youtu.be/7W4-Or66Z8c\">Ахиллес</a></b> · 109 👁 · 45 мин\n└ НАШЕЛ ЖЕНУ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1041 👁 · 1 ч 42 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/z7HOVVGO-_o\">Селянин</a></b> · 355 👁 · 3 ч 59 мин\n└ ттттттТУХ ТВ\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 126 👁 · 2 ч 28 мин\n└ куда попал не понятно",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
