@@ -50,44 +50,21 @@
     "has_viewers": true,
     "title": "куда попал не понятно",
     "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
-    "viewers": 123
+    "viewers": 120
    },
    "cjMwHRsdqM4": {
     "vid": "cjMwHRsdqM4",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-25T16:33:26Z",
-    "peak": 1357,
+    "peak": 1512,
     "has_viewers": true,
     "title": "Тёлка едет",
     "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
-    "viewers": 1357
-   },
-   "7n7RgEpRBoc": {
-    "vid": "7n7RgEpRBoc",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-25T19:03:29Z",
-    "peak": 489,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/7n7RgEpRBoc/maxresdefault.jpg?v=15",
-    "viewers": 281
+    "viewers": 1512
    }
   },
   "ended": [
-   {
-    "vid": "2LTlSFIDHMI",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-24T19:10:18Z",
-    "peak": 84,
-    "has_viewers": true,
-    "title": "Еду в Гомель",
-    "thumb": "https://i.ytimg.com/vi/2LTlSFIDHMI/maxresdefault.jpg?v=4",
-    "viewers": 84,
-    "dur": "35 мин"
-   },
    {
     "vid": "g1zmH92Qxvk",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/z7HOVVGO-_o/maxresdefault.jpg?v=32",
     "viewers": 346,
     "dur": "4 ч 24 мин"
+   },
+   {
+    "vid": "7n7RgEpRBoc",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-25T19:03:29Z",
+    "peak": 489,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/7n7RgEpRBoc/maxresdefault.jpg?v=15",
+    "viewers": 281,
+    "dur": "1 ч 48 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1357 👁 · 4 ч 12 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/7n7RgEpRBoc\">Селянин</a></b> · 281 👁 · 1 ч 41 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 123 👁 · 4 ч 58 мин\n└ куда попал не понятно",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1512 👁 · 4 ч 27 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 120 👁 · 5 ч 13 мин\n└ куда попал не понятно",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
