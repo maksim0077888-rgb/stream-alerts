@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "nHM1iN_miDE": {
-    "vid": "nHM1iN_miDE",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-24T15:46:52Z",
-    "peak": 1050,
-    "has_viewers": true,
-    "title": "Уличная конкретика",
-    "thumb": "https://i.ytimg.com/vi/nHM1iN_miDE/maxresdefault.jpg?v=6f",
-    "viewers": 13
-   },
    "1LfFXB8N4hw": {
     "vid": "1LfFXB8N4hw",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -61,33 +50,21 @@
     "has_viewers": true,
     "title": "меня хотели отравить",
     "thumb": "https://i.ytimg.com/vi/1LfFXB8N4hw/maxresdefault.jpg?v=32",
-    "viewers": 22
+    "viewers": 13
    },
    "l4xIfY_62MU": {
     "vid": "l4xIfY_62MU",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
     "name": "Депутат",
     "start": "2026-10-25T06:32:49Z",
-    "peak": 54,
+    "peak": 75,
     "has_viewers": true,
     "title": "Раннее Воскресное утро",
     "thumb": "https://i.ytimg.com/vi/l4xIfY_62MU/maxresdefault.jpg?v=6add9875",
-    "viewers": 54
+    "viewers": 75
    }
   },
   "ended": [
-   {
-    "vid": "O94Qa507DZU",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-24T04:54:40Z",
-    "peak": 60,
-    "has_viewers": true,
-    "title": "Ддщ",
-    "thumb": "https://i.ytimg.com/vi/O94Qa507DZU/maxresdefault.jpg?v=19",
-    "viewers": 34,
-    "dur": "2 ч 06 мин"
-   },
    {
     "vid": "odXRcEdWly8",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/YFg3GanJsz4/maxresdefault.jpg?v=99",
     "viewers": 13,
     "dur": "13 ч 05 мин"
+   },
+   {
+    "vid": "nHM1iN_miDE",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-24T15:46:52Z",
+    "peak": 1050,
+    "has_viewers": true,
+    "title": "Уличная конкретика",
+    "thumb": "https://i.ytimg.com/vi/nHM1iN_miDE/maxresdefault.jpg?v=6f",
+    "viewers": 13,
+    "dur": "9 ч 06 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/l4xIfY_62MU\">Депутат</a></b> · 54 👁 · 12 мин\n└ Раннее Воскресное утро\n\n<b><a href=\"https://youtu.be/1LfFXB8N4hw\">Герман Ягодка</a></b> · 22 👁 · 5 ч 04 мин\n└ меня хотели отравить\n\n<b><a href=\"https://youtu.be/nHM1iN_miDE\">Дон Грязь</a></b> · 13 👁 · 14 ч 58 мин\n└ Уличная конкретика",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/l4xIfY_62MU\">Депутат</a></b> · 75 👁 · 27 мин\n└ Раннее Воскресное утро\n\n<b><a href=\"https://youtu.be/1LfFXB8N4hw\">Герман Ягодка</a></b> · 13 👁 · 5 ч 19 мин\n└ меня хотели отравить",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
