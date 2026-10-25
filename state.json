@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "IC9M-9z0Bew": {
-    "vid": "IC9M-9z0Bew",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-25T15:47:22Z",
-    "peak": 191,
-    "has_viewers": true,
-    "title": "куда попал не понятно",
-    "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
-    "viewers": 162
-   },
    "cjMwHRsdqM4": {
     "vid": "cjMwHRsdqM4",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -61,33 +50,21 @@
     "has_viewers": true,
     "title": "Тёлка едет",
     "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
-    "viewers": 1340
+    "viewers": 1354
    },
    "sL46NcoRiyE": {
     "vid": "sL46NcoRiyE",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-25T22:44:40Z",
-    "peak": 4,
+    "peak": 78,
     "has_viewers": true,
     "title": "сосатээ тв",
-    "thumb": "https://i.ytimg.com/vi/sL46NcoRiyE/sddefault.jpg",
-    "viewers": 4
+    "thumb": "https://i.ytimg.com/vi/sL46NcoRiyE/maxresdefault.jpg?v=4",
+    "viewers": 78
    }
   },
   "ended": [
-   {
-    "vid": "g1zmH92Qxvk",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-24T16:54:29Z",
-    "peak": 257,
-    "has_viewers": true,
-    "title": "стрим с училкой дона х***а",
-    "thumb": "https://i.ytimg.com/vi/g1zmH92Qxvk/maxresdefault.jpg?v=6adce2bd",
-    "viewers": 161,
-    "dur": "3 ч 38 мин"
-   },
    {
     "vid": "vg_H7bs2_mw",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/7n7RgEpRBoc/maxresdefault.jpg?v=15",
     "viewers": 281,
     "dur": "1 ч 48 мин"
+   },
+   {
+    "vid": "IC9M-9z0Bew",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-25T15:47:22Z",
+    "peak": 191,
+    "has_viewers": true,
+    "title": "куда попал не понятно",
+    "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
+    "viewers": 162,
+    "dur": "7 ч 13 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1340 👁 · 6 ч 12 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 162 👁 · 6 ч 58 мин\n└ куда попал не понятно\n\n<b><a href=\"https://youtu.be/sL46NcoRiyE\">Селянин</a></b> · 4 👁 · 0 мин\n└ сосатээ тв",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1354 👁 · 6 ч 27 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/sL46NcoRiyE\">Селянин</a></b> · 78 👁 · 16 мин\n└ сосатээ тв",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
