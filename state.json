@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "z7HOVVGO-_o": {
-    "vid": "z7HOVVGO-_o",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-25T14:16:17Z",
-    "peak": 605,
-    "has_viewers": true,
-    "title": "ттттттТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/z7HOVVGO-_o/maxresdefault.jpg?v=32",
-    "viewers": 346
-   },
    "IC9M-9z0Bew": {
     "vid": "IC9M-9z0Bew",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -61,7 +50,7 @@
     "has_viewers": true,
     "title": "куда попал не понятно",
     "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
-    "viewers": 116
+    "viewers": 95
    },
    "cjMwHRsdqM4": {
     "vid": "cjMwHRsdqM4",
@@ -72,22 +61,10 @@
     "has_viewers": true,
     "title": "Тёлка едет",
     "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
-    "viewers": 1222
+    "viewers": 1015
    }
   },
   "ended": [
-   {
-    "vid": "RpDFSEUHWFM",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-24T15:05:32Z",
-    "peak": 256,
-    "has_viewers": true,
-    "title": "Всем отличного вечера",
-    "thumb": "https://i.ytimg.com/vi/RpDFSEUHWFM/maxresdefault.jpg?v=5",
-    "viewers": 1,
-    "dur": "4 ч 03 мин"
-   },
    {
     "vid": "2LTlSFIDHMI",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/7W4-Or66Z8c/maxresdefault.jpg?v=6ade3ef1",
     "viewers": 109,
     "dur": "1 ч 00 мин"
+   },
+   {
+    "vid": "z7HOVVGO-_o",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-25T14:16:17Z",
+    "peak": 605,
+    "has_viewers": true,
+    "title": "ттттттТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/z7HOVVGO-_o/maxresdefault.jpg?v=32",
+    "viewers": 346,
+    "dur": "4 ч 24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1222 👁 · 1 ч 57 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/z7HOVVGO-_o\">Селянин</a></b> · 346 👁 · 4 ч 14 мин\n└ ттттттТУХ ТВ\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 116 👁 · 2 ч 43 мин\n└ куда попал не понятно",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1015 👁 · 2 ч 12 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 95 👁 · 2 ч 58 мин\n└ куда попал не понятно",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
