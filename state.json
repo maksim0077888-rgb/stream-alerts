@@ -49,8 +49,8 @@
     "peak": 605,
     "has_viewers": true,
     "title": "ттттттТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/z7HOVVGO-_o/maxresdefault.jpg?v=1b",
-    "viewers": 528
+    "thumb": "https://i.ytimg.com/vi/z7HOVVGO-_o/maxresdefault.jpg?v=1d",
+    "viewers": 492
    },
    "3vSZekdgfFQ": {
     "vid": "3vSZekdgfFQ",
@@ -59,9 +59,9 @@
     "start": "2026-10-25T14:48:53Z",
     "peak": 91,
     "has_viewers": true,
-    "title": "❤️",
-    "thumb": "https://i.ytimg.com/vi/3vSZekdgfFQ/maxresdefault.jpg?v=14",
-    "viewers": 91
+    "title": "УМА ТУРМАН У МЕНЯ В СТУДИИ",
+    "thumb": "https://i.ytimg.com/vi/3vSZekdgfFQ/maxresdefault.jpg?v=18",
+    "viewers": 82
    },
    "IC9M-9z0Bew": {
     "vid": "IC9M-9z0Bew",
@@ -72,33 +72,21 @@
     "has_viewers": true,
     "title": "куда попал не понятно",
     "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
-    "viewers": 191
+    "viewers": 163
    },
-   "B14khl1Gvt8": {
-    "vid": "B14khl1Gvt8",
+   "cjMwHRsdqM4": {
+    "vid": "cjMwHRsdqM4",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
-    "start": "2026-10-25T16:28:06Z",
-    "peak": 220,
+    "start": "2026-10-25T16:33:26Z",
+    "peak": 606,
     "has_viewers": true,
     "title": "Тёлка едет",
-    "thumb": "https://i.ytimg.com/vi/B14khl1Gvt8/maxresdefault.jpg?v=1",
-    "viewers": 220
+    "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
+    "viewers": 606
    }
   },
   "ended": [
-   {
-    "vid": "IgEun1XGS3M",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-24T06:44:21Z",
-    "peak": 432,
-    "has_viewers": true,
-    "title": "Легкий Стрим",
-    "thumb": "https://i.ytimg.com/vi/IgEun1XGS3M/maxresdefault.jpg?v=26",
-    "viewers": 5,
-    "dur": "3 ч 13 мин"
-   },
    {
     "vid": "zEksyV8RvrI",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/3PpdToUbvYE/maxresdefault.jpg?v=59",
     "viewers": 920,
     "dur": "7 ч 27 мин"
+   },
+   {
+    "vid": "B14khl1Gvt8",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-25T16:28:06Z",
+    "peak": 220,
+    "has_viewers": true,
+    "title": "Тёлка едет",
+    "thumb": "https://i.ytimg.com/vi/B14khl1Gvt8/maxresdefault.jpg?v=1",
+    "viewers": 220,
+    "dur": "4 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/z7HOVVGO-_o\">Селянин</a></b> · 528 👁 · 2 ч 14 мин\n└ ттттттТУХ ТВ\n\n<b><a href=\"https://youtu.be/B14khl1Gvt8\">Дон Грязь</a></b> · 220 👁 · 2 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 191 👁 · 43 мин\n└ куда попал не понятно\n\n<b><a href=\"https://youtu.be/3vSZekdgfFQ\">Ахиллес</a></b> · 91 👁 · 1 ч 41 мин\n└ ❤️",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 606 👁 · 9 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/z7HOVVGO-_o\">Селянин</a></b> · 492 👁 · 2 ч 26 мин\n└ ттттттТУХ ТВ\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 163 👁 · 55 мин\n└ куда попал не понятно\n\n<b><a href=\"https://youtu.be/3vSZekdgfFQ\">Ахиллес</a></b> · 82 👁 · 1 ч 54 мин\n└ УМА ТУРМАН У МЕНЯ В СТУДИИ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
