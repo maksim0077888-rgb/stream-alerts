@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "куда попал не понятно",
     "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
-    "viewers": 100
+    "viewers": 78
    },
    "cjMwHRsdqM4": {
     "vid": "cjMwHRsdqM4",
@@ -61,7 +61,18 @@
     "has_viewers": true,
     "title": "Тёлка едет",
     "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
-    "viewers": 1199
+    "viewers": 1207
+   },
+   "7n7RgEpRBoc": {
+    "vid": "7n7RgEpRBoc",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-25T19:03:29Z",
+    "peak": 376,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/7n7RgEpRBoc/maxresdefault.jpg?v=3",
+    "viewers": 376
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "4 ч 24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1199 👁 · 2 ч 27 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 100 👁 · 3 ч 13 мин\n└ куда попал не понятно",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 1207 👁 · 2 ч 42 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/7n7RgEpRBoc\">Селянин</a></b> · 376 👁 · 11 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/IC9M-9z0Bew\">Рифляй</a></b> · 78 👁 · 3 ч 28 мин\n└ куда попал не понятно",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
