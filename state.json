@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 8
+    "viewers": 7
    },
    "gfJGY59OdGM": {
     "vid": "gfJGY59OdGM",
@@ -61,33 +61,10 @@
     "has_viewers": true,
     "title": "на вписке",
     "thumb": "https://i.ytimg.com/vi/gfJGY59OdGM/maxresdefault.jpg?v=6adf6a00",
-    "viewers": 226
-   },
-   "WjGaTLCdqyc": {
-    "vid": "WjGaTLCdqyc",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T17:15:28Z",
-    "peak": 858,
-    "has_viewers": true,
-    "title": "Гуляемся",
-    "thumb": "https://i.ytimg.com/vi/WjGaTLCdqyc/hqdefault.jpg?v=6adf8a9e",
-    "viewers": 858
+    "viewers": 225
    }
   },
   "ended": [
-   {
-    "vid": "cjMwHRsdqM4",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-25T16:33:26Z",
-    "peak": 1512,
-    "has_viewers": true,
-    "title": "Тёлка едет",
-    "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
-    "viewers": 764,
-    "dur": "9 ч 34 мин"
-   },
    {
     "vid": "1DeJIB-RKNo",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/9X3cJkm0lxo/maxresdefault.jpg?v=e",
     "viewers": 362,
     "dur": "1 ч 21 мин"
+   },
+   {
+    "vid": "WjGaTLCdqyc",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-26T17:15:28Z",
+    "peak": 858,
+    "has_viewers": true,
+    "title": "Гуляемся",
+    "thumb": "https://i.ytimg.com/vi/WjGaTLCdqyc/hqdefault.jpg?v=6adf8a9e",
+    "viewers": 858,
+    "dur": "28 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/WjGaTLCdqyc\">Дон Грязь</a></b> · 858 👁 · 15 мин\n└ Гуляемся\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 226 👁 · 2 ч 34 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 8 👁 · 10 ч 59 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 225 👁 · 2 ч 49 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 7 👁 · 11 ч 14 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
