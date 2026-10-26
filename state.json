@@ -50,55 +50,32 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 7
+    "viewers": 12
    },
    "gfJGY59OdGM": {
     "vid": "gfJGY59OdGM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-26T14:56:09Z",
-    "peak": 142,
+    "peak": 233,
     "has_viewers": true,
     "title": "на вписке",
     "thumb": "https://i.ytimg.com/vi/gfJGY59OdGM/maxresdefault.jpg?v=6adf6a00",
-    "viewers": 142
+    "viewers": 233
    },
    "9X3cJkm0lxo": {
     "vid": "9X3cJkm0lxo",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-26T16:04:36Z",
-    "peak": 323,
+    "peak": 362,
     "has_viewers": true,
     "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/9X3cJkm0lxo/maxresdefault.jpg?v=b",
-    "viewers": 269
-   },
-   "sfIb0VgYWcg": {
-    "vid": "sfIb0VgYWcg",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T16:40:23Z",
-    "peak": 843,
-    "has_viewers": true,
-    "title": "Гуляемся",
-    "thumb": "https://i.ytimg.com/vi/sfIb0VgYWcg/maxresdefault.jpg?v=3",
-    "viewers": 90
+    "thumb": "https://i.ytimg.com/vi/9X3cJkm0lxo/maxresdefault.jpg?v=e",
+    "viewers": 362
    }
   },
   "ended": [
-   {
-    "vid": "7n7RgEpRBoc",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-25T19:03:29Z",
-    "peak": 489,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/7n7RgEpRBoc/maxresdefault.jpg?v=15",
-    "viewers": 281,
-    "dur": "1 ч 48 мин"
-   },
    {
     "vid": "IC9M-9z0Bew",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/OyzgSEzQ_RM/hqdefault.jpg?v=6adf6ecc",
     "viewers": 1026,
     "dur": "1 ч 22 мин"
+   },
+   {
+    "vid": "sfIb0VgYWcg",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-26T16:40:23Z",
+    "peak": 843,
+    "has_viewers": true,
+    "title": "Гуляемся",
+    "thumb": "https://i.ytimg.com/vi/sfIb0VgYWcg/maxresdefault.jpg?v=3",
+    "viewers": 90,
+    "dur": "21 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/9X3cJkm0lxo\">Селянин</a></b> · 269 👁 · 56 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 142 👁 · 2 ч 04 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/sfIb0VgYWcg\">Дон Грязь</a></b> · 90 👁 · 20 мин\n└ Гуляемся\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 7 👁 · 10 ч 29 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/9X3cJkm0lxo\">Селянин</a></b> · 362 👁 · 1 ч 10 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 233 👁 · 2 ч 19 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 12 👁 · 10 ч 44 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
