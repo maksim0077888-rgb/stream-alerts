@@ -50,18 +50,29 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 7
+    "viewers": 13
    },
    "gfJGY59OdGM": {
     "vid": "gfJGY59OdGM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-26T14:56:09Z",
-    "peak": 233,
+    "peak": 234,
     "has_viewers": true,
     "title": "на вписке",
     "thumb": "https://i.ytimg.com/vi/gfJGY59OdGM/maxresdefault.jpg?v=6adf6a00",
-    "viewers": 225
+    "viewers": 234
+   },
+   "FEiv6Q0frJg": {
+    "vid": "FEiv6Q0frJg",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-26T17:56:41Z",
+    "peak": 489,
+    "has_viewers": true,
+    "title": "Гуляемся",
+    "thumb": "https://i.ytimg.com/vi/FEiv6Q0frJg/hqdefault.jpg?v=6adf944f",
+    "viewers": 489
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "28 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 225 👁 · 2 ч 49 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 7 👁 · 11 ч 14 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/FEiv6Q0frJg\">Дон Грязь</a></b> · 489 👁 · 4 мин\n└ Гуляемся\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 234 👁 · 3 ч 04 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 13 👁 · 11 ч 29 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
