@@ -50,55 +50,32 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 11
-   },
-   "AmFg9-HlYBM": {
-    "vid": "AmFg9-HlYBM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-26T14:21:57Z",
-    "peak": 710,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/AmFg9-HlYBM/maxresdefault.jpg?v=d",
-    "viewers": 710
+    "viewers": 12
    },
    "gfJGY59OdGM": {
     "vid": "gfJGY59OdGM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-26T14:56:09Z",
-    "peak": 109,
+    "peak": 126,
     "has_viewers": true,
     "title": "на вписке",
     "thumb": "https://i.ytimg.com/vi/gfJGY59OdGM/maxresdefault.jpg?v=6adf6a00",
-    "viewers": 109
+    "viewers": 126
    },
    "OyzgSEzQ_RM": {
     "vid": "OyzgSEzQ_RM",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-26T15:16:38Z",
-    "peak": 493,
+    "peak": 963,
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/OyzgSEzQ_RM/hqdefault.jpg?v=6adf6ecc",
-    "viewers": 493
+    "viewers": 963
    }
   },
   "ended": [
-   {
-    "vid": "7W4-Or66Z8c",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-25T17:15:02Z",
-    "peak": 109,
-    "has_viewers": true,
-    "title": "НАШЕЛ ЖЕНУ",
-    "thumb": "https://i.ytimg.com/vi/7W4-Or66Z8c/maxresdefault.jpg?v=6ade3ef1",
-    "viewers": 109,
-    "dur": "1 ч 00 мин"
-   },
    {
     "vid": "z7HOVVGO-_o",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/QrxtJp_4ODI/hqdefault.jpg?v=6adf6b62",
     "viewers": 439,
     "dur": "13 мин"
+   },
+   {
+    "vid": "AmFg9-HlYBM",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-26T14:21:57Z",
+    "peak": 710,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/AmFg9-HlYBM/maxresdefault.jpg?v=d",
+    "viewers": 710,
+    "dur": "1 ч 10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AmFg9-HlYBM\">Селянин</a></b> · 710 👁 · 1 ч 08 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/OyzgSEzQ_RM\">Дон Грязь</a></b> · 493 👁 · 14 мин\n└ тут\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 109 👁 · 34 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 11 👁 · 8 ч 59 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/OyzgSEzQ_RM\">Дон Грязь</a></b> · 963 👁 · 28 мин\n└ тут\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 126 👁 · 49 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 12 👁 · 9 ч 14 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
