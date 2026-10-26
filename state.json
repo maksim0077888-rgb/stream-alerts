@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 99
+    "viewers": 40
+   },
+   "t21X0l3ZhO8": {
+    "vid": "t21X0l3ZhO8",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-26T10:20:35Z",
+    "peak": 336,
+    "has_viewers": true,
+    "title": "ИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/t21X0l3ZhO8/maxresdefault.jpg?v=1",
+    "viewers": 336
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "4 ч 51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 99 👁 · 3 ч 44 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/t21X0l3ZhO8\">Селянин</a></b> · 336 👁 · 4 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 40 👁 · 3 ч 53 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
