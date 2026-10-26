@@ -50,29 +50,40 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 3
+    "viewers": 6
    },
    "QfqwmDDUhvQ": {
     "vid": "QfqwmDDUhvQ",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-26T20:13:25Z",
-    "peak": 1145,
+    "peak": 1230,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=9",
-    "viewers": 1145
+    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=c",
+    "viewers": 1230
    },
    "Gd2_qIUwc_Q": {
     "vid": "Gd2_qIUwc_Q",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-26T20:50:49Z",
-    "peak": 83,
+    "peak": 139,
     "has_viewers": true,
     "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/Gd2_qIUwc_Q/maxresdefault.jpg?v=1",
-    "viewers": 83
+    "thumb": "https://i.ytimg.com/vi/Gd2_qIUwc_Q/maxresdefault.jpg?v=4",
+    "viewers": 139
+   },
+   "bqTBwJxy-u0": {
+    "vid": "bqTBwJxy-u0",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-26T21:15:28Z",
+    "peak": 0,
+    "has_viewers": false,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/bqTBwJxy-u0/sddefault.jpg",
+    "viewers": 0
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "2 ч 10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 1145 👁 · 47 мин\n└ тут\n\n<b><a href=\"https://youtu.be/Gd2_qIUwc_Q\">Селянин</a></b> · 83 👁 · 9 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 3 👁 · 14 ч 29 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 1230 👁 · 1 ч 02 мин\n└ тут\n\n<b><a href=\"https://youtu.be/Gd2_qIUwc_Q\">Селянин</a></b> · 139 👁 · 24 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 6 👁 · 14 ч 44 мин\n└ ГРУСТЬ 200\n\n<b><a href=\"https://youtu.be/bqTBwJxy-u0\">Селянин</a></b> · 0 мин\n└ ПИТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
