@@ -50,44 +50,32 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 12
+    "viewers": 10
    },
    "96r8d0UXlAU": {
     "vid": "96r8d0UXlAU",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-26T12:44:54Z",
-    "peak": 720,
+    "peak": 919,
     "has_viewers": true,
     "title": "Тёлка вечером",
     "thumb": "https://i.ytimg.com/vi/96r8d0UXlAU/hqdefault.jpg?v=6adf4b3c",
-    "viewers": 720
+    "viewers": 919
    },
-   "w0hkq8WsNUk": {
-    "vid": "w0hkq8WsNUk",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-26T13:18:18Z",
-    "peak": 79,
+   "RoE95Ond-5w": {
+    "vid": "RoE95Ond-5w",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-26T13:35:46Z",
+    "peak": 39,
     "has_viewers": true,
-    "title": "= Дон Симон - А мы Идем Дальше=",
-    "thumb": "https://i.ytimg.com/vi/w0hkq8WsNUk/maxresdefault.jpg?v=6adf5310",
-    "viewers": 79
+    "title": "...",
+    "thumb": "https://i.ytimg.com/vi/RoE95Ond-5w/maxresdefault.jpg?v=2",
+    "viewers": 39
    }
   },
   "ended": [
-   {
-    "vid": "K8E5kRp--2A",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-25T07:31:15Z",
-    "peak": 861,
-    "has_viewers": true,
-    "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/K8E5kRp--2A/maxresdefault.jpg?v=2a",
-    "viewers": 772,
-    "dur": "3 ч 33 мин"
-   },
    {
     "vid": "1LfFXB8N4hw",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/A329_Q1yOOI/maxresdefault.jpg?v=6adf3739",
     "viewers": 48,
     "dur": "1 ч 58 мин"
+   },
+   {
+    "vid": "w0hkq8WsNUk",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-10-26T13:18:18Z",
+    "peak": 79,
+    "has_viewers": true,
+    "title": "= Дон Симон - А мы Идем Дальше=",
+    "thumb": "https://i.ytimg.com/vi/w0hkq8WsNUk/maxresdefault.jpg?v=6adf5310",
+    "viewers": 79,
+    "dur": "15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/96r8d0UXlAU\">Дон Грязь</a></b> · 720 👁 · 45 мин\n└ Тёлка вечером\n\n<b><a href=\"https://youtu.be/w0hkq8WsNUk\">Don Simon</a></b> · 79 👁 · 12 мин\n└ = Дон Симон - А мы Идем Дальше=\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 12 👁 · 6 ч 59 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/96r8d0UXlAU\">Дон Грязь</a></b> · 919 👁 · 1 ч 00 мин\n└ Тёлка вечером\n\n<b><a href=\"https://youtu.be/RoE95Ond-5w\">Ахиллес</a></b> · 39 👁 · 9 мин\n└ ...\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 10 👁 · 7 ч 14 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
