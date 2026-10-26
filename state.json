@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 8
+    "viewers": 10
    },
    "96r8d0UXlAU": {
     "vid": "96r8d0UXlAU",
@@ -61,18 +61,29 @@
     "has_viewers": true,
     "title": "Тёлка вечером",
     "thumb": "https://i.ytimg.com/vi/96r8d0UXlAU/hqdefault.jpg?v=6adf4b3c",
-    "viewers": 1024
+    "viewers": 679
    },
    "AmFg9-HlYBM": {
     "vid": "AmFg9-HlYBM",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-26T14:21:57Z",
-    "peak": 537,
+    "peak": 582,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/AmFg9-HlYBM/maxresdefault.jpg?v=4",
-    "viewers": 537
+    "thumb": "https://i.ytimg.com/vi/AmFg9-HlYBM/maxresdefault.jpg?v=7",
+    "viewers": 582
+   },
+   "gfJGY59OdGM": {
+    "vid": "gfJGY59OdGM",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-26T14:56:09Z",
+    "peak": 57,
+    "has_viewers": true,
+    "title": "на вписке",
+    "thumb": "https://i.ytimg.com/vi/gfJGY59OdGM/maxresdefault.jpg?v=6adf6a00",
+    "viewers": 57
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/96r8d0UXlAU\">Дон Грязь</a></b> · 1024 👁 · 2 ч 00 мин\n└ Тёлка вечером\n\n<b><a href=\"https://youtu.be/AmFg9-HlYBM\">Селянин</a></b> · 537 👁 · 23 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 8 👁 · 8 ч 14 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/96r8d0UXlAU\">Дон Грязь</a></b> · 679 👁 · 2 ч 15 мин\n└ Тёлка вечером\n\n<b><a href=\"https://youtu.be/AmFg9-HlYBM\">Селянин</a></b> · 582 👁 · 38 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 57 👁 · 4 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 10 👁 · 8 ч 29 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
