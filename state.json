@@ -60,34 +60,11 @@
     "peak": 1299,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=27",
-    "viewers": 1031
-   },
-   "bqTBwJxy-u0": {
-    "vid": "bqTBwJxy-u0",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-26T21:15:28Z",
-    "peak": 123,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/bqTBwJxy-u0/maxresdefault.jpg?v=1b",
-    "viewers": 68
+    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=2a",
+    "viewers": 986
    }
   },
   "ended": [
-   {
-    "vid": "t21X0l3ZhO8",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-26T10:20:35Z",
-    "peak": 651,
-    "has_viewers": true,
-    "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/t21X0l3ZhO8/maxresdefault.jpg?v=23",
-    "viewers": 324,
-    "dur": "2 ч 54 мин"
-   },
    {
     "vid": "A329_Q1yOOI",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/Gd2_qIUwc_Q/maxresdefault.jpg?v=4",
     "viewers": 139,
     "dur": "25 мин"
+   },
+   {
+    "vid": "bqTBwJxy-u0",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-26T21:15:28Z",
+    "peak": 123,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/bqTBwJxy-u0/maxresdefault.jpg?v=1b",
+    "viewers": 68,
+    "dur": "2 ч 15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 1031 👁 · 3 ч 17 мин\n└ тут\n\n<b><a href=\"https://youtu.be/bqTBwJxy-u0\">Селянин</a></b> · 68 👁 · 2 ч 15 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 3 👁 · 16 ч 59 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 986 👁 · 3 ч 32 мин\n└ тут\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 3 👁 · 17 ч 14 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
