@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 6
+    "viewers": 4
    },
    "QfqwmDDUhvQ": {
     "vid": "QfqwmDDUhvQ",
@@ -60,45 +60,22 @@
     "peak": 1230,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=c",
-    "viewers": 1230
-   },
-   "Gd2_qIUwc_Q": {
-    "vid": "Gd2_qIUwc_Q",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-26T20:50:49Z",
-    "peak": 139,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/Gd2_qIUwc_Q/maxresdefault.jpg?v=4",
-    "viewers": 139
+    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=f",
+    "viewers": 1181
    },
    "bqTBwJxy-u0": {
     "vid": "bqTBwJxy-u0",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-26T21:15:28Z",
-    "peak": 0,
-    "has_viewers": false,
+    "peak": 120,
+    "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/bqTBwJxy-u0/sddefault.jpg",
-    "viewers": 0
+    "thumb": "https://i.ytimg.com/vi/bqTBwJxy-u0/maxresdefault.jpg?v=3",
+    "viewers": 120
    }
   },
   "ended": [
-   {
-    "vid": "wblZAbPzEFE",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T11:28:46Z",
-    "peak": 107,
-    "has_viewers": true,
-    "title": "Тёлка вечером",
-    "thumb": "https://i.ytimg.com/vi/wblZAbPzEFE/hqdefault.jpg?v=6adf3965",
-    "viewers": 107,
-    "dur": "2 мин"
-   },
    {
     "vid": "t21X0l3ZhO8",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/FEiv6Q0frJg/hqdefault.jpg?v=6adf944f",
     "viewers": 1364,
     "dur": "2 ч 10 мин"
+   },
+   {
+    "vid": "Gd2_qIUwc_Q",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-26T20:50:49Z",
+    "peak": 139,
+    "has_viewers": true,
+    "title": "Прямая трансляция УСАДЬБА СПБ",
+    "thumb": "https://i.ytimg.com/vi/Gd2_qIUwc_Q/maxresdefault.jpg?v=4",
+    "viewers": 139,
+    "dur": "25 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 1230 👁 · 1 ч 02 мин\n└ тут\n\n<b><a href=\"https://youtu.be/Gd2_qIUwc_Q\">Селянин</a></b> · 139 👁 · 24 мин\n└ Прямая трансляция УСАДЬБА СПБ\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 6 👁 · 14 ч 44 мин\n└ ГРУСТЬ 200\n\n<b><a href=\"https://youtu.be/bqTBwJxy-u0\">Селянин</a></b> · 0 мин\n└ ПИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 1181 👁 · 1 ч 17 мин\n└ тут\n\n<b><a href=\"https://youtu.be/bqTBwJxy-u0\">Селянин</a></b> · 120 👁 · 15 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 4 👁 · 14 ч 59 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
