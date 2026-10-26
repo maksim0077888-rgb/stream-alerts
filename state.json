@@ -41,42 +41,30 @@
  "board": {
   "msg": 107,
   "streams": {
-   "cjMwHRsdqM4": {
-    "vid": "cjMwHRsdqM4",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-25T16:33:26Z",
-    "peak": 1512,
-    "has_viewers": true,
-    "title": "Тёлка едет",
-    "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
-    "viewers": 764
-   },
    "sL46NcoRiyE": {
     "vid": "sL46NcoRiyE",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-25T22:44:40Z",
-    "peak": 122,
+    "peak": 175,
     "has_viewers": true,
     "title": "сосатээ тв",
-    "thumb": "https://i.ytimg.com/vi/sL46NcoRiyE/maxresdefault.jpg?v=28",
-    "viewers": 105
+    "thumb": "https://i.ytimg.com/vi/sL46NcoRiyE/maxresdefault.jpg?v=29",
+    "viewers": 175
+   },
+   "1DeJIB-RKNo": {
+    "vid": "1DeJIB-RKNo",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-26T02:13:38Z",
+    "peak": 89,
+    "has_viewers": true,
+    "title": "Не впускают в хостел",
+    "thumb": "https://i.ytimg.com/vi/1DeJIB-RKNo/hqdefault.jpg?v=6adeb748",
+    "viewers": 89
    }
   },
   "ended": [
-   {
-    "vid": "vg_H7bs2_mw",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-24T19:39:29Z",
-    "peak": 197,
-    "has_viewers": true,
-    "title": "30к едем в Беларусь",
-    "thumb": "https://i.ytimg.com/vi/vg_H7bs2_mw/maxresdefault.jpg?v=22",
-    "viewers": 194,
-    "dur": "2 ч 59 мин"
-   },
    {
     "vid": "YFg3GanJsz4",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/IC9M-9z0Bew/maxresdefault.jpg?v=6ade2481",
     "viewers": 162,
     "dur": "7 ч 13 мин"
+   },
+   {
+    "vid": "cjMwHRsdqM4",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-25T16:33:26Z",
+    "peak": 1512,
+    "has_viewers": true,
+    "title": "Тёлка едет",
+    "thumb": "https://i.ytimg.com/vi/cjMwHRsdqM4/hqdefault.jpg?v=6ade2f4d",
+    "viewers": 764,
+    "dur": "9 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cjMwHRsdqM4\">Дон Грязь</a></b> · 764 👁 · 9 ч 27 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/sL46NcoRiyE\">Селянин</a></b> · 105 👁 · 3 ч 16 мин\n└ сосатээ тв",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/sL46NcoRiyE\">Селянин</a></b> · 175 👁 · 3 ч 30 мин\n└ сосатээ тв\n\n<b><a href=\"https://youtu.be/1DeJIB-RKNo\">Дон Грязь</a></b> · 89 👁 · 1 мин\n└ Не впускают в хостел",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
