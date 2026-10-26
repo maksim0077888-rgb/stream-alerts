@@ -50,29 +50,40 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 10
+    "viewers": 7
    },
    "96r8d0UXlAU": {
     "vid": "96r8d0UXlAU",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-26T12:44:54Z",
-    "peak": 919,
+    "peak": 985,
     "has_viewers": true,
     "title": "Тёлка вечером",
     "thumb": "https://i.ytimg.com/vi/96r8d0UXlAU/hqdefault.jpg?v=6adf4b3c",
-    "viewers": 919
+    "viewers": 985
    },
    "RoE95Ond-5w": {
     "vid": "RoE95Ond-5w",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-10-26T13:35:46Z",
-    "peak": 39,
+    "peak": 68,
     "has_viewers": true,
     "title": "...",
-    "thumb": "https://i.ytimg.com/vi/RoE95Ond-5w/maxresdefault.jpg?v=2",
-    "viewers": 39
+    "thumb": "https://i.ytimg.com/vi/RoE95Ond-5w/maxresdefault.jpg?v=5",
+    "viewers": 68
+   },
+   "iZRwGMdpBCY": {
+    "vid": "iZRwGMdpBCY",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-26T13:48:33Z",
+    "peak": 172,
+    "has_viewers": true,
+    "title": "ИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/iZRwGMdpBCY/maxresdefault.jpg?v=3",
+    "viewers": 172
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/96r8d0UXlAU\">Дон Грязь</a></b> · 919 👁 · 1 ч 00 мин\n└ Тёлка вечером\n\n<b><a href=\"https://youtu.be/RoE95Ond-5w\">Ахиллес</a></b> · 39 👁 · 9 мин\n└ ...\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 10 👁 · 7 ч 14 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/96r8d0UXlAU\">Дон Грязь</a></b> · 985 👁 · 1 ч 15 мин\n└ Тёлка вечером\n\n<b><a href=\"https://youtu.be/iZRwGMdpBCY\">Селянин</a></b> · 172 👁 · 12 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/RoE95Ond-5w\">Ахиллес</a></b> · 68 👁 · 25 мин\n└ ...\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 7 👁 · 7 ч 29 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
