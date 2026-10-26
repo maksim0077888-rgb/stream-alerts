@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 4
+    "viewers": 3
    },
    "QfqwmDDUhvQ": {
     "vid": "QfqwmDDUhvQ",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-26T20:13:25Z",
-    "peak": 290,
+    "peak": 951,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/hqdefault.jpg",
-    "viewers": 290
+    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=3",
+    "viewers": 951
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "2 ч 10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 290 👁 · 2 мин\n└ тут\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 4 👁 · 13 ч 44 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/QfqwmDDUhvQ\">Дон Грязь</a></b> · 951 👁 · 17 мин\n└ тут\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 3 👁 · 13 ч 59 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
