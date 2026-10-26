@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 17
+    "viewers": 11
    },
    "t21X0l3ZhO8": {
     "vid": "t21X0l3ZhO8",
@@ -60,8 +60,8 @@
     "peak": 651,
     "has_viewers": true,
     "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/t21X0l3ZhO8/maxresdefault.jpg?v=1a",
-    "viewers": 539
+    "thumb": "https://i.ytimg.com/vi/t21X0l3ZhO8/maxresdefault.jpg?v=1d",
+    "viewers": 499
    },
    "A329_Q1yOOI": {
     "vid": "A329_Q1yOOI",
@@ -72,7 +72,18 @@
     "has_viewers": true,
     "title": "= Дон Симон - А мы Идем Дальше=",
     "thumb": "https://i.ytimg.com/vi/A329_Q1yOOI/maxresdefault.jpg?v=6adf3739",
-    "viewers": 142
+    "viewers": 128
+   },
+   "96r8d0UXlAU": {
+    "vid": "96r8d0UXlAU",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-26T12:44:54Z",
+    "peak": 9,
+    "has_viewers": true,
+    "title": "Тёлка вечером",
+    "thumb": "https://i.ytimg.com/vi/96r8d0UXlAU/hqdefault.jpg?v=6adf4b3c",
+    "viewers": 9
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "2 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/t21X0l3ZhO8\">Селянин</a></b> · 539 👁 · 2 ч 10 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/A329_Q1yOOI\">Don Simon</a></b> · 142 👁 · 1 ч 11 мин\n└ = Дон Симон - А мы Идем Дальше=\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 17 👁 · 5 ч 59 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/t21X0l3ZhO8\">Селянин</a></b> · 499 👁 · 2 ч 24 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/A329_Q1yOOI\">Don Simon</a></b> · 128 👁 · 1 ч 25 мин\n└ = Дон Симон - А мы Идем Дальше=\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 11 👁 · 6 ч 14 мин\n└ ГРУСТЬ 200\n\n<b><a href=\"https://youtu.be/96r8d0UXlAU\">Дон Грязь</a></b> · 9 👁 · 0 мин\n└ Тёлка вечером",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
