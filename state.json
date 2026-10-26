@@ -40,7 +40,19 @@
  "day": "2026-10-26",
  "board": {
   "msg": 107,
-  "streams": {},
+  "streams": {
+   "8obxpjEyaMM": {
+    "vid": "8obxpjEyaMM",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-10-26T06:31:18Z",
+    "peak": 68,
+    "has_viewers": true,
+    "title": "ГРУСТЬ 200",
+    "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
+    "viewers": 68
+   }
+  },
   "ended": [
    {
     "vid": "l4xIfY_62MU",
@@ -223,7 +235,7 @@
     "dur": "4 ч 51 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 68 👁 · 14 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
