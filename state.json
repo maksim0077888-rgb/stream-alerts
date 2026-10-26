@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 12
+    "viewers": 2
    },
    "gfJGY59OdGM": {
     "vid": "gfJGY59OdGM",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "на вписке",
     "thumb": "https://i.ytimg.com/vi/gfJGY59OdGM/maxresdefault.jpg?v=6adf6a00",
-    "viewers": 70
+    "viewers": 123
    },
    "OyzgSEzQ_RM": {
     "vid": "OyzgSEzQ_RM",
@@ -72,7 +72,18 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/OyzgSEzQ_RM/hqdefault.jpg?v=6adf6ecc",
-    "viewers": 811
+    "viewers": 840
+   },
+   "9X3cJkm0lxo": {
+    "vid": "9X3cJkm0lxo",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-26T16:04:36Z",
+    "peak": 151,
+    "has_viewers": true,
+    "title": "ИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/9X3cJkm0lxo/maxresdefault.jpg?v=2",
+    "viewers": 151
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "1 ч 10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/OyzgSEzQ_RM\">Дон Грязь</a></b> · 811 👁 · 44 мин\n└ тут\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 70 👁 · 1 ч 04 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 12 👁 · 9 ч 29 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/OyzgSEzQ_RM\">Дон Грязь</a></b> · 840 👁 · 58 мин\n└ тут\n\n<b><a href=\"https://youtu.be/9X3cJkm0lxo\">Селянин</a></b> · 151 👁 · 10 мин\n└ ИТУХ ТВ\n\n<b><a href=\"https://youtu.be/gfJGY59OdGM\">Рифляй</a></b> · 123 👁 · 1 ч 19 мин\n└ на вписке\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 2 👁 · 9 ч 44 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
