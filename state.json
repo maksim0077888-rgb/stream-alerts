@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 4
+    "viewers": 0
    },
    "BXc25FBHSYU": {
     "vid": "BXc25FBHSYU",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-10-27T09:17:46Z",
-    "peak": 12,
+    "peak": 19,
     "has_viewers": true,
     "title": "ВО ВО",
     "thumb": "https://i.ytimg.com/vi/BXc25FBHSYU/maxresdefault.jpg?v=6ae06c0b",
-    "viewers": 12
+    "viewers": 19
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "4 ч 57 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/BXc25FBHSYU\">Федук</a></b> · 12 👁 · 12 мин\n└ ВО ВО\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 4 👁 · 26 ч 59 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/BXc25FBHSYU\">Федук</a></b> · 19 👁 · 27 мин\n└ ВО ВО\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 0 👁 · 27 ч 14 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
