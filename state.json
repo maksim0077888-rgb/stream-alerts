@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "tqEo2HFZYjU": {
-    "vid": "tqEo2HFZYjU",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-27T18:53:17Z",
-    "peak": 163,
-    "has_viewers": true,
-    "title": "ГДЕ СЕЙЧАС АБИДАЛЬ?",
-    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=2d",
-    "viewers": 22
-   },
    "f2iIIwG-69I": {
     "vid": "f2iIIwG-69I",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "Ким Кардашьян у меня в студии",
     "thumb": "https://i.ytimg.com/vi/f2iIIwG-69I/hqdefault.jpg?v=6ae0f9fc",
-    "viewers": 1177
+    "viewers": 1087
    }
   },
   "ended": [
-   {
-    "vid": "FEiv6Q0frJg",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T17:56:41Z",
-    "peak": 1364,
-    "has_viewers": true,
-    "title": "Гуляемся",
-    "thumb": "https://i.ytimg.com/vi/FEiv6Q0frJg/hqdefault.jpg?v=6adf944f",
-    "viewers": 1364,
-    "dur": "2 ч 10 мин"
-   },
    {
     "vid": "Gd2_qIUwc_Q",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/EVVeRVP2p78/maxresdefault.jpg?v=6ae1099a",
     "viewers": 8,
     "dur": "1 ч 43 мин"
+   },
+   {
+    "vid": "tqEo2HFZYjU",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-27T18:53:17Z",
+    "peak": 163,
+    "has_viewers": true,
+    "title": "ГДЕ СЕЙЧАС АБИДАЛЬ?",
+    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=2d",
+    "viewers": 22,
+    "dur": "3 ч 53 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 1177 👁 · 3 ч 22 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/tqEo2HFZYjU\">Гундос</a></b> · 22 👁 · 3 ч 52 мин\n└ ГДЕ СЕЙЧАС АБИДАЛЬ?",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 1087 👁 · 3 ч 38 мин\n└ Ким Кардашьян у меня в студии",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
