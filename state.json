@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
     "viewers": 4
    },
-   "4QNhv5kxSQk": {
-    "vid": "4QNhv5kxSQk",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-27T14:56:05Z",
-    "peak": 434,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=23",
-    "viewers": 193
-   },
    "0mnirp0HYuE": {
     "vid": "0mnirp0HYuE",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -72,33 +61,21 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/0mnirp0HYuE/maxresdefault.jpg?v=6ae0cc02",
-    "viewers": 18
+    "viewers": 15
    },
    "VTri4VQW6yQ": {
     "vid": "VTri4VQW6yQ",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-27T17:23:21Z",
-    "peak": 1234,
+    "peak": 1386,
     "has_viewers": true,
     "title": "Ким Кардашьян у меня в студии",
     "thumb": "https://i.ytimg.com/vi/VTri4VQW6yQ/hqdefault.jpg?v=6ae0ddff",
-    "viewers": 1234
+    "viewers": 1386
    }
   },
   "ended": [
-   {
-    "vid": "OyzgSEzQ_RM",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T15:16:38Z",
-    "peak": 1026,
-    "has_viewers": true,
-    "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/OyzgSEzQ_RM/hqdefault.jpg?v=6adf6ecc",
-    "viewers": 1026,
-    "dur": "1 ч 22 мин"
-   },
    {
     "vid": "sfIb0VgYWcg",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=6a",
     "viewers": 4117,
     "dur": "2 ч 57 мин"
+   },
+   {
+    "vid": "4QNhv5kxSQk",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-27T14:56:05Z",
+    "peak": 434,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=23",
+    "viewers": 193,
+    "dur": "2 ч 52 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/VTri4VQW6yQ\">Дон Грязь</a></b> · 1234 👁 · 22 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/4QNhv5kxSQk\">Селянин</a></b> · 193 👁 · 2 ч 49 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/0mnirp0HYuE\">Ахиллес</a></b> · 18 👁 · 1 ч 38 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 4 👁 · 3 ч 19 мин\n└ ВО ВО 2",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/VTri4VQW6yQ\">Дон Грязь</a></b> · 1386 👁 · 37 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/0mnirp0HYuE\">Ахиллес</a></b> · 15 👁 · 1 ч 53 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 4 👁 · 3 ч 34 мин\n└ ВО ВО 2",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
