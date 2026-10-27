@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "ГРУСТЬ 200",
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 1
+    "viewers": 0
    },
    "a9EXS6pEVU8": {
     "vid": "a9EXS6pEVU8",
@@ -60,8 +60,8 @@
     "peak": 8313,
     "has_viewers": true,
     "title": "( ° ͟ʖ °)",
-    "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=19",
-    "viewers": 7761
+    "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=23",
+    "viewers": 7644
    },
    "5LLNEhWTii4": {
     "vid": "5LLNEhWTii4",
@@ -72,18 +72,29 @@
     "has_viewers": true,
     "title": "ВО ВО 2",
     "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
-    "viewers": 18
+    "viewers": 24
    },
    "4QNhv5kxSQk": {
     "vid": "4QNhv5kxSQk",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-27T14:56:05Z",
-    "peak": 302,
+    "peak": 404,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=2",
-    "viewers": 302
+    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=5",
+    "viewers": 404
+   },
+   "oi5lNPcp79M": {
+    "vid": "oi5lNPcp79M",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-27T15:06:01Z",
+    "peak": 412,
+    "has_viewers": true,
+    "title": "тут",
+    "thumb": "https://i.ytimg.com/vi/oi5lNPcp79M/hqdefault.jpg?v=6ae0bdcf",
+    "viewers": 412
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "3 ч 25 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/a9EXS6pEVU8\">ПАПИЧ</a></b> · 7761 👁 · 41 мин\n└ ( ° ͟ʖ °)\n\n<b><a href=\"https://youtu.be/4QNhv5kxSQk\">Селянин</a></b> · 302 👁 · 4 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 18 👁 · 34 мин\n└ ВО ВО 2\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 1 👁 · 32 ч 29 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/a9EXS6pEVU8\">ПАПИЧ</a></b> · 7644 👁 · 56 мин\n└ ( ° ͟ʖ °)\n\n<b><a href=\"https://youtu.be/oi5lNPcp79M\">Дон Грязь</a></b> · 412 👁 · 9 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4QNhv5kxSQk\">Селянин</a></b> · 404 👁 · 19 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 24 👁 · 49 мин\n└ ВО ВО 2\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 0 👁 · 32 ч 44 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
