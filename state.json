@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
     "viewers": 0
    },
-   "BXc25FBHSYU": {
-    "vid": "BXc25FBHSYU",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-10-27T09:17:46Z",
-    "peak": 51,
-    "has_viewers": true,
-    "title": "ВО ВО",
-    "thumb": "https://i.ytimg.com/vi/BXc25FBHSYU/maxresdefault.jpg?v=6ae06c0b",
-    "viewers": 23
-   },
    "iBbNbTWPOTY": {
     "vid": "iBbNbTWPOTY",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -72,22 +61,10 @@
     "has_viewers": true,
     "title": "Прямой эфир 27.10.2026",
     "thumb": "https://i.ytimg.com/vi/iBbNbTWPOTY/maxresdefault.jpg?v=6ae06bf4",
-    "viewers": 193
+    "viewers": 203
    }
   },
   "ended": [
-   {
-    "vid": "w0hkq8WsNUk",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-10-26T13:18:18Z",
-    "peak": 79,
-    "has_viewers": true,
-    "title": "= Дон Симон - А мы Идем Дальше=",
-    "thumb": "https://i.ytimg.com/vi/w0hkq8WsNUk/maxresdefault.jpg?v=6adf5310",
-    "viewers": 79,
-    "dur": "15 мин"
-   },
    {
     "vid": "iZRwGMdpBCY",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=39",
     "viewers": 704,
     "dur": "4 ч 57 мин"
+   },
+   {
+    "vid": "BXc25FBHSYU",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-10-27T09:17:46Z",
+    "peak": 51,
+    "has_viewers": true,
+    "title": "ВО ВО",
+    "thumb": "https://i.ytimg.com/vi/BXc25FBHSYU/maxresdefault.jpg?v=6ae06c0b",
+    "viewers": 23,
+    "dur": "3 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/iBbNbTWPOTY\">Депутат</a></b> · 193 👁 · 1 ч 44 мин\n└ Прямой эфир 27.10.2026\n\n<b><a href=\"https://youtu.be/BXc25FBHSYU\">Федук</a></b> · 23 👁 · 3 ч 27 мин\n└ ВО ВО\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 0 👁 · 30 ч 14 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/iBbNbTWPOTY\">Депутат</a></b> · 203 👁 · 1 ч 59 мин\n└ Прямой эфир 27.10.2026\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 0 👁 · 30 ч 29 мин\n└ ГРУСТЬ 200",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
