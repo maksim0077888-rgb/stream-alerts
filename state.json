@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "8obxpjEyaMM": {
-    "vid": "8obxpjEyaMM",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-10-26T06:31:18Z",
-    "peak": 132,
-    "has_viewers": true,
-    "title": "ГРУСТЬ 200",
-    "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
-    "viewers": 0
-   },
    "a9EXS6pEVU8": {
     "vid": "a9EXS6pEVU8",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -60,8 +49,8 @@
     "peak": 8313,
     "has_viewers": true,
     "title": "( ° ͟ʖ °)",
-    "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=35",
-    "viewers": 7060
+    "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=3d",
+    "viewers": 7144
    },
    "5LLNEhWTii4": {
     "vid": "5LLNEhWTii4",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "ВО ВО 2",
     "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
-    "viewers": 5
+    "viewers": 4
    },
    "4QNhv5kxSQk": {
     "vid": "4QNhv5kxSQk",
@@ -82,19 +71,19 @@
     "peak": 434,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=b",
-    "viewers": 408
+    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=e",
+    "viewers": 366
    },
    "oi5lNPcp79M": {
     "vid": "oi5lNPcp79M",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-27T15:06:01Z",
-    "peak": 653,
+    "peak": 712,
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/oi5lNPcp79M/hqdefault.jpg?v=6ae0bdcf",
-    "viewers": 524
+    "viewers": 712
    },
    "jLIKFnolJ14": {
     "vid": "jLIKFnolJ14",
@@ -105,22 +94,10 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/jLIKFnolJ14/maxresdefault.jpg?v=6ae0c06d",
-    "viewers": 22
+    "viewers": 16
    }
   },
   "ended": [
-   {
-    "vid": "RoE95Ond-5w",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-26T13:35:46Z",
-    "peak": 68,
-    "has_viewers": true,
-    "title": "...",
-    "thumb": "https://i.ytimg.com/vi/RoE95Ond-5w/maxresdefault.jpg?v=b",
-    "viewers": 41,
-    "dur": "55 мин"
-   },
    {
     "vid": "96r8d0UXlAU",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -288,9 +265,21 @@
     "thumb": "https://i.ytimg.com/vi/iBbNbTWPOTY/maxresdefault.jpg?v=6ae06bf4",
     "viewers": 187,
     "dur": "3 ч 25 мин"
+   },
+   {
+    "vid": "8obxpjEyaMM",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-10-26T06:31:18Z",
+    "peak": 132,
+    "has_viewers": true,
+    "title": "ГРУСТЬ 200",
+    "thumb": "https://i.ytimg.com/vi/8obxpjEyaMM/maxresdefault.jpg?v=6adef3c2",
+    "viewers": 0,
+    "dur": "26 ч 41 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/a9EXS6pEVU8\">ПАПИЧ</a></b> · 7060 👁 · 1 ч 26 мин\n└ ( ° ͟ʖ °)\n\n<b><a href=\"https://youtu.be/oi5lNPcp79M\">Дон Грязь</a></b> · 524 👁 · 39 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4QNhv5kxSQk\">Селянин</a></b> · 408 👁 · 49 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/jLIKFnolJ14\">Ахиллес</a></b> · 22 👁 · 28 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 5 👁 · 1 ч 19 мин\n└ ВО ВО 2\n\n<b><a href=\"https://youtu.be/8obxpjEyaMM\">Федук</a></b> · 0 👁 · 33 ч 14 мин\n└ ГРУСТЬ 200",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/a9EXS6pEVU8\">ПАПИЧ</a></b> · 7144 👁 · 1 ч 41 мин\n└ ( ° ͟ʖ °)\n\n<b><a href=\"https://youtu.be/oi5lNPcp79M\">Дон Грязь</a></b> · 712 👁 · 54 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4QNhv5kxSQk\">Селянин</a></b> · 366 👁 · 1 ч 04 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/jLIKFnolJ14\">Ахиллес</a></b> · 16 👁 · 43 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 4 👁 · 1 ч 34 мин\n└ ВО ВО 2",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
