@@ -49,8 +49,8 @@
     "peak": 8313,
     "has_viewers": true,
     "title": "( ° ͟ʖ °)",
-    "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=57",
-    "viewers": 5955
+    "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=61",
+    "viewers": 5014
    },
    "5LLNEhWTii4": {
     "vid": "5LLNEhWTii4",
@@ -71,45 +71,22 @@
     "peak": 434,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=17",
-    "viewers": 190
-   },
-   "oi5lNPcp79M": {
-    "vid": "oi5lNPcp79M",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-27T15:06:01Z",
-    "peak": 937,
-    "has_viewers": true,
-    "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/oi5lNPcp79M/hqdefault.jpg?v=6ae0bdcf",
-    "viewers": 937
+    "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=1a",
+    "viewers": 288
    },
    "0mnirp0HYuE": {
     "vid": "0mnirp0HYuE",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-10-27T16:06:50Z",
-    "peak": 13,
+    "peak": 26,
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/0mnirp0HYuE/maxresdefault.jpg?v=6ae0cc02",
-    "viewers": 13
+    "viewers": 26
    }
   },
   "ended": [
-   {
-    "vid": "QrxtJp_4ODI",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T15:02:04Z",
-    "peak": 439,
-    "has_viewers": true,
-    "title": "Тут",
-    "thumb": "https://i.ytimg.com/vi/QrxtJp_4ODI/hqdefault.jpg?v=6adf6b62",
-    "viewers": 439,
-    "dur": "13 мин"
-   },
    {
     "vid": "AmFg9-HlYBM",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/jLIKFnolJ14/maxresdefault.jpg?v=6ae0c06d",
     "viewers": 16,
     "dur": "48 мин"
+   },
+   {
+    "vid": "oi5lNPcp79M",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-27T15:06:01Z",
+    "peak": 937,
+    "has_viewers": true,
+    "title": "тут",
+    "thumb": "https://i.ytimg.com/vi/oi5lNPcp79M/hqdefault.jpg?v=6ae0bdcf",
+    "viewers": 937,
+    "dur": "1 ч 50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/a9EXS6pEVU8\">ПАПИЧ</a></b> · 5955 👁 · 2 ч 26 мин\n└ ( ° ͟ʖ °)\n\n<b><a href=\"https://youtu.be/oi5lNPcp79M\">Дон Грязь</a></b> · 937 👁 · 1 ч 39 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4QNhv5kxSQk\">Селянин</a></b> · 190 👁 · 1 ч 49 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/0mnirp0HYuE\">Ахиллес</a></b> · 13 👁 · 38 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 3 👁 · 2 ч 19 мин\n└ ВО ВО 2",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/a9EXS6pEVU8\">ПАПИЧ</a></b> · 5014 👁 · 2 ч 41 мин\n└ ( ° ͟ʖ °)\n\n<b><a href=\"https://youtu.be/4QNhv5kxSQk\">Селянин</a></b> · 288 👁 · 2 ч 04 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/0mnirp0HYuE\">Ахиллес</a></b> · 26 👁 · 53 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 3 👁 · 2 ч 34 мин\n└ ВО ВО 2",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
