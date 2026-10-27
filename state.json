@@ -50,44 +50,32 @@
     "has_viewers": true,
     "title": "ВО ВО 2",
     "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
-    "viewers": 5
-   },
-   "VTri4VQW6yQ": {
-    "vid": "VTri4VQW6yQ",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-27T17:23:21Z",
-    "peak": 1562,
-    "has_viewers": true,
-    "title": "Ким Кардашьян у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/VTri4VQW6yQ/hqdefault.jpg?v=6ae0ddff",
-    "viewers": 1521
+    "viewers": 10
    },
    "tqEo2HFZYjU": {
     "vid": "tqEo2HFZYjU",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-10-27T18:53:17Z",
-    "peak": 87,
+    "peak": 110,
     "has_viewers": true,
     "title": "ГДЕ СЕЙЧАС АБИДАЛЬ?",
-    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=5",
-    "viewers": 87
+    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=7",
+    "viewers": 110
+   },
+   "f2iIIwG-69I": {
+    "vid": "f2iIIwG-69I",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-27T19:22:48Z",
+    "peak": 1065,
+    "has_viewers": true,
+    "title": "Ким Кардашьян у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/f2iIIwG-69I/hqdefault.jpg?v=6ae0f9fc",
+    "viewers": 1065
    }
   },
   "ended": [
-   {
-    "vid": "9X3cJkm0lxo",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-26T16:04:36Z",
-    "peak": 362,
-    "has_viewers": true,
-    "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/9X3cJkm0lxo/maxresdefault.jpg?v=e",
-    "viewers": 362,
-    "dur": "1 ч 21 мин"
-   },
    {
     "vid": "WjGaTLCdqyc",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/0mnirp0HYuE/maxresdefault.jpg?v=6ae0cc02",
     "viewers": 15,
     "dur": "2 ч 05 мин"
+   },
+   {
+    "vid": "VTri4VQW6yQ",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-27T17:23:21Z",
+    "peak": 1562,
+    "has_viewers": true,
+    "title": "Ким Кардашьян у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/VTri4VQW6yQ/hqdefault.jpg?v=6ae0ddff",
+    "viewers": 1521,
+    "dur": "1 ч 57 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/VTri4VQW6yQ\">Дон Грязь</a></b> · 1521 👁 · 1 ч 52 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/tqEo2HFZYjU\">Гундос</a></b> · 87 👁 · 22 мин\n└ ГДЕ СЕЙЧАС АБИДАЛЬ?\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 5 👁 · 4 ч 49 мин\n└ ВО ВО 2",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 1065 👁 · 7 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/tqEo2HFZYjU\">Гундос</a></b> · 110 👁 · 37 мин\n└ ГДЕ СЕЙЧАС АБИДАЛЬ?\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 10 👁 · 5 ч 04 мин\n└ ВО ВО 2",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
