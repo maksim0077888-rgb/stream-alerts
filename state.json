@@ -49,8 +49,8 @@
     "peak": 163,
     "has_viewers": true,
     "title": "ГДЕ СЕЙЧАС АБИДАЛЬ?",
-    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=25",
-    "viewers": 85
+    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=28",
+    "viewers": 66
    },
    "f2iIIwG-69I": {
     "vid": "f2iIIwG-69I",
@@ -61,33 +61,10 @@
     "has_viewers": true,
     "title": "Ким Кардашьян у меня в студии",
     "thumb": "https://i.ytimg.com/vi/f2iIIwG-69I/hqdefault.jpg?v=6ae0f9fc",
-    "viewers": 1637
-   },
-   "EVVeRVP2p78": {
-    "vid": "EVVeRVP2p78",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-27T20:29:35Z",
-    "peak": 12,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/EVVeRVP2p78/maxresdefault.jpg?v=6ae1099a",
-    "viewers": 8
+    "viewers": 1441
    }
   },
   "ended": [
-   {
-    "vid": "gfJGY59OdGM",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-26T14:56:09Z",
-    "peak": 234,
-    "has_viewers": true,
-    "title": "на вписке",
-    "thumb": "https://i.ytimg.com/vi/gfJGY59OdGM/maxresdefault.jpg?v=6adf6a00",
-    "viewers": 143,
-    "dur": "4 ч 18 мин"
-   },
    {
     "vid": "FEiv6Q0frJg",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
     "viewers": 0,
     "dur": "7 ч 34 мин"
+   },
+   {
+    "vid": "EVVeRVP2p78",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-27T20:29:35Z",
+    "peak": 12,
+    "has_viewers": true,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/EVVeRVP2p78/maxresdefault.jpg?v=6ae1099a",
+    "viewers": 8,
+    "dur": "1 ч 43 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 1637 👁 · 2 ч 37 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/tqEo2HFZYjU\">Гундос</a></b> · 85 👁 · 3 ч 07 мин\n└ ГДЕ СЕЙЧАС АБИДАЛЬ?\n\n<b><a href=\"https://youtu.be/EVVeRVP2p78\">Ахиллес</a></b> · 8 👁 · 1 ч 31 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 1441 👁 · 2 ч 52 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/tqEo2HFZYjU\">Гундос</a></b> · 66 👁 · 3 ч 22 мин\n└ ГДЕ СЕЙЧАС АБИДАЛЬ?",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
