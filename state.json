@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "ВО ВО 2",
     "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
-    "viewers": 4
-   },
-   "0mnirp0HYuE": {
-    "vid": "0mnirp0HYuE",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-27T16:06:50Z",
-    "peak": 40,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/0mnirp0HYuE/maxresdefault.jpg?v=6ae0cc02",
-    "viewers": 15
+    "viewers": 3
    },
    "VTri4VQW6yQ": {
     "vid": "VTri4VQW6yQ",
@@ -72,22 +61,10 @@
     "has_viewers": true,
     "title": "Ким Кардашьян у меня в студии",
     "thumb": "https://i.ytimg.com/vi/VTri4VQW6yQ/hqdefault.jpg?v=6ae0ddff",
-    "viewers": 1386
+    "viewers": 1385
    }
   },
   "ended": [
-   {
-    "vid": "sfIb0VgYWcg",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T16:40:23Z",
-    "peak": 843,
-    "has_viewers": true,
-    "title": "Гуляемся",
-    "thumb": "https://i.ytimg.com/vi/sfIb0VgYWcg/maxresdefault.jpg?v=3",
-    "viewers": 90,
-    "dur": "21 мин"
-   },
    {
     "vid": "9X3cJkm0lxo",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/4QNhv5kxSQk/maxresdefault.jpg?v=23",
     "viewers": 193,
     "dur": "2 ч 52 мин"
+   },
+   {
+    "vid": "0mnirp0HYuE",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-27T16:06:50Z",
+    "peak": 40,
+    "has_viewers": true,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/0mnirp0HYuE/maxresdefault.jpg?v=6ae0cc02",
+    "viewers": 15,
+    "dur": "2 ч 05 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/VTri4VQW6yQ\">Дон Грязь</a></b> · 1386 👁 · 37 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/0mnirp0HYuE\">Ахиллес</a></b> · 15 👁 · 1 ч 53 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 4 👁 · 3 ч 34 мин\n└ ВО ВО 2",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/VTri4VQW6yQ\">Дон Грязь</a></b> · 1385 👁 · 49 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 3 👁 · 3 ч 47 мин\n└ ВО ВО 2",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
