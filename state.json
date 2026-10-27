@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "5LLNEhWTii4": {
-    "vid": "5LLNEhWTii4",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-10-27T14:25:51Z",
-    "peak": 38,
-    "has_viewers": true,
-    "title": "ВО ВО 2",
-    "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
-    "viewers": 0
-   },
    "tqEo2HFZYjU": {
     "vid": "tqEo2HFZYjU",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -60,8 +49,8 @@
     "peak": 163,
     "has_viewers": true,
     "title": "ГДЕ СЕЙЧАС АБИДАЛЬ?",
-    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=22",
-    "viewers": 84
+    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=25",
+    "viewers": 85
    },
    "f2iIIwG-69I": {
     "vid": "f2iIIwG-69I",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "Ким Кардашьян у меня в студии",
     "thumb": "https://i.ytimg.com/vi/f2iIIwG-69I/hqdefault.jpg?v=6ae0f9fc",
-    "viewers": 1701
+    "viewers": 1637
    },
    "EVVeRVP2p78": {
     "vid": "EVVeRVP2p78",
@@ -83,22 +72,10 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/EVVeRVP2p78/maxresdefault.jpg?v=6ae1099a",
-    "viewers": 5
+    "viewers": 8
    }
   },
   "ended": [
-   {
-    "vid": "WjGaTLCdqyc",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T17:15:28Z",
-    "peak": 858,
-    "has_viewers": true,
-    "title": "Гуляемся",
-    "thumb": "https://i.ytimg.com/vi/WjGaTLCdqyc/hqdefault.jpg?v=6adf8a9e",
-    "viewers": 858,
-    "dur": "28 мин"
-   },
    {
     "vid": "gfJGY59OdGM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/VTri4VQW6yQ/hqdefault.jpg?v=6ae0ddff",
     "viewers": 1521,
     "dur": "1 ч 57 мин"
+   },
+   {
+    "vid": "5LLNEhWTii4",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-10-27T14:25:51Z",
+    "peak": 38,
+    "has_viewers": true,
+    "title": "ВО ВО 2",
+    "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
+    "viewers": 0,
+    "dur": "7 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 1701 👁 · 2 ч 22 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/tqEo2HFZYjU\">Гундос</a></b> · 84 👁 · 2 ч 52 мин\n└ ГДЕ СЕЙЧАС АБИДАЛЬ?\n\n<b><a href=\"https://youtu.be/EVVeRVP2p78\">Ахиллес</a></b> · 5 👁 · 1 ч 16 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/5LLNEhWTii4\">Федук</a></b> · 0 👁 · 7 ч 19 мин\n└ ВО ВО 2",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 1637 👁 · 2 ч 37 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/tqEo2HFZYjU\">Гундос</a></b> · 85 👁 · 3 ч 07 мин\n└ ГДЕ СЕЙЧАС АБИДАЛЬ?\n\n<b><a href=\"https://youtu.be/EVVeRVP2p78\">Ахиллес</a></b> · 8 👁 · 1 ч 31 мин\n└ flaco в прямом эфире!",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
