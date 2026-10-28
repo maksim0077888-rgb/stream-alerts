@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Шмара едет",
     "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
-    "viewers": 1990
+    "viewers": 1830
    },
    "OGog6JCEE7M": {
     "vid": "OGog6JCEE7M",
@@ -61,7 +61,18 @@
     "has_viewers": true,
     "title": "На Часик!",
     "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
-    "viewers": 2
+    "viewers": 4
+   },
+   "wog7oKItnko": {
+    "vid": "wog7oKItnko",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-28T19:58:42Z",
+    "peak": 34,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/wog7oKItnko/maxresdefault.jpg?v=1",
+    "viewers": 34
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "3 ч 43 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 1990 👁 · 3 ч 10 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 2 👁 · 1 ч 26 мин\n└ На Часик!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 1830 👁 · 3 ч 23 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/wog7oKItnko\">Селянин</a></b> · 34 👁 · 2 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 4 👁 · 1 ч 39 мин\n└ На Часик!",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
