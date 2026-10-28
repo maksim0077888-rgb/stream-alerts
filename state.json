@@ -49,8 +49,19 @@
     "peak": 427,
     "has_viewers": true,
     "title": "...",
-    "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=12",
-    "viewers": 427
+    "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=14",
+    "viewers": 338
+   },
+   "kNFBLNjMhwk": {
+    "vid": "kNFBLNjMhwk",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-28T11:19:19Z",
+    "peak": 238,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/kNFBLNjMhwk/maxresdefault.jpg?v=2",
+    "viewers": 238
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "7 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 427 👁 · 1 ч 27 мин\n└ ...",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 338 👁 · 1 ч 42 мин\n└ ...\n\n<b><a href=\"https://youtu.be/kNFBLNjMhwk\">Селянин</a></b> · 238 👁 · 11 мин\n└ ТУХ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
