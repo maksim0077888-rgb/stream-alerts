@@ -49,8 +49,8 @@
     "peak": 257,
     "has_viewers": true,
     "title": "тетю  ТВ",
-    "thumb": "https://i.ytimg.com/vi/QD0Kta8RVG0/maxresdefault.jpg?v=25",
-    "viewers": 153
+    "thumb": "https://i.ytimg.com/vi/QD0Kta8RVG0/maxresdefault.jpg?v=28",
+    "viewers": 121
    },
    "1HQslUieDeo": {
     "vid": "1HQslUieDeo",
@@ -61,7 +61,18 @@
     "has_viewers": true,
     "title": "Шмара едет",
     "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
-    "viewers": 2249
+    "viewers": 2261
+   },
+   "OGog6JCEE7M": {
+    "vid": "OGog6JCEE7M",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-28T18:20:50Z",
+    "peak": 97,
+    "has_viewers": true,
+    "title": "На Часик!",
+    "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
+    "viewers": 97
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "7 ч 38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 2249 👁 · 1 ч 38 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/QD0Kta8RVG0\">Селянин</a></b> · 153 👁 · 3 ч 06 мин\n└ тетю  ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 2261 👁 · 1 ч 53 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/QD0Kta8RVG0\">Селянин</a></b> · 121 👁 · 3 ч 22 мин\n└ тетю  ТВ\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 97 👁 · 9 мин\n└ На Часик!",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
