@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "АРТУМ ГОМ Я ИДУ ЗА ТОБОЙ",
     "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=6ae1f70c",
-    "viewers": 96
-   },
-   "6BHO2IrmGP8": {
-    "vid": "6BHO2IrmGP8",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-28T15:03:50Z",
-    "peak": 2208,
-    "has_viewers": true,
-    "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/6BHO2IrmGP8/maxresdefault.jpg?v=11",
-    "viewers": 967
+    "viewers": 116
    },
    "QD0Kta8RVG0": {
     "vid": "QD0Kta8RVG0",
@@ -71,23 +60,22 @@
     "peak": 257,
     "has_viewers": true,
     "title": "тетю  ТВ",
-    "thumb": "https://i.ytimg.com/vi/QD0Kta8RVG0/maxresdefault.jpg?v=10",
-    "viewers": 257
+    "thumb": "https://i.ytimg.com/vi/QD0Kta8RVG0/maxresdefault.jpg?v=13",
+    "viewers": 229
+   },
+   "1HQslUieDeo": {
+    "vid": "1HQslUieDeo",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-28T16:37:00Z",
+    "peak": 595,
+    "has_viewers": true,
+    "title": "Шмара едет",
+    "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
+    "viewers": 595
    }
   },
   "ended": [
-   {
-    "vid": "iBbNbTWPOTY",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-27T11:01:18Z",
-    "peak": 206,
-    "has_viewers": true,
-    "title": "Прямой эфир 27.10.2026",
-    "thumb": "https://i.ytimg.com/vi/iBbNbTWPOTY/maxresdefault.jpg?v=6ae06bf4",
-    "viewers": 187,
-    "dur": "3 ч 25 мин"
-   },
    {
     "vid": "8obxpjEyaMM",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/_S_Q3YCjGwA/hqdefault.jpg?v=6ae1f58d",
     "viewers": 1923,
     "dur": "1 ч 42 мин"
+   },
+   {
+    "vid": "6BHO2IrmGP8",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-28T15:03:50Z",
+    "peak": 2208,
+    "has_viewers": true,
+    "title": "тут",
+    "thumb": "https://i.ytimg.com/vi/6BHO2IrmGP8/maxresdefault.jpg?v=11",
+    "viewers": 967,
+    "dur": "1 ч 32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6BHO2IrmGP8\">Дон Грязь</a></b> · 967 👁 · 1 ч 26 мин\n└ тут\n\n<b><a href=\"https://youtu.be/QD0Kta8RVG0\">Селянин</a></b> · 257 👁 · 1 ч 22 мин\n└ тетю  ТВ\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 96 👁 · 6 ч 42 мин\n└ АРТУМ ГОМ Я ИДУ ЗА ТОБОЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 595 👁 · 8 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/QD0Kta8RVG0\">Селянин</a></b> · 229 👁 · 1 ч 36 мин\n└ тетю  ТВ\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 116 👁 · 6 ч 57 мин\n└ АРТУМ ГОМ Я ИДУ ЗА ТОБОЙ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
