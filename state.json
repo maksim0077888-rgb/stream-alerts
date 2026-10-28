@@ -49,34 +49,11 @@
     "peak": 427,
     "has_viewers": true,
     "title": "...",
-    "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=25",
-    "viewers": 370
-   },
-   "hDzLW_qRX2Y": {
-    "vid": "hDzLW_qRX2Y",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-28T12:00:28Z",
-    "peak": 70,
-    "has_viewers": true,
-    "title": "Прямой эфир 28.10.2026",
-    "thumb": "https://i.ytimg.com/vi/hDzLW_qRX2Y/maxresdefault.jpg?v=6ae1d72f",
-    "viewers": 70
+    "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=28",
+    "viewers": 424
    }
   },
   "ended": [
-   {
-    "vid": "QfqwmDDUhvQ",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-26T20:13:25Z",
-    "peak": 1299,
-    "has_viewers": true,
-    "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/QfqwmDDUhvQ/maxresdefault.jpg?v=39",
-    "viewers": 704,
-    "dur": "4 ч 57 мин"
-   },
    {
     "vid": "BXc25FBHSYU",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/kNFBLNjMhwk/maxresdefault.jpg?v=e",
     "viewers": 317,
     "dur": "1 ч 17 мин"
+   },
+   {
+    "vid": "hDzLW_qRX2Y",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-28T12:00:28Z",
+    "peak": 70,
+    "has_viewers": true,
+    "title": "Прямой эфир 28.10.2026",
+    "thumb": "https://i.ytimg.com/vi/hDzLW_qRX2Y/maxresdefault.jpg?v=6ae1d72f",
+    "viewers": 70,
+    "dur": "54 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 370 👁 · 2 ч 57 мин\n└ ...\n\n<b><a href=\"https://youtu.be/hDzLW_qRX2Y\">Депутат</a></b> · 70 👁 · 45 мин\n└ Прямой эфир 28.10.2026",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 424 👁 · 3 ч 12 мин\n└ ...",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
