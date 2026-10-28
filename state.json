@@ -40,7 +40,19 @@
  "day": "2026-10-28",
  "board": {
   "msg": 107,
-  "streams": {},
+  "streams": {
+   "dBAAofHs1gc": {
+    "vid": "dBAAofHs1gc",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-28T09:48:20Z",
+    "peak": 181,
+    "has_viewers": true,
+    "title": "...",
+    "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=3",
+    "viewers": 181
+   }
+  },
   "ended": [
    {
     "vid": "bqTBwJxy-u0",
@@ -223,7 +235,7 @@
     "dur": "7 ч 22 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 181 👁 · 12 мин\n└ ...",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
