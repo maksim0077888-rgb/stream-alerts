@@ -40,32 +40,8 @@
  "day": "2026-10-28",
  "board": {
   "msg": 107,
-  "streams": {
-   "f2iIIwG-69I": {
-    "vid": "f2iIIwG-69I",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-27T19:22:48Z",
-    "peak": 1970,
-    "has_viewers": true,
-    "title": "Ким Кардашьян у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/f2iIIwG-69I/hqdefault.jpg?v=6ae0f9fc",
-    "viewers": 568
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "Gd2_qIUwc_Q",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-26T20:50:49Z",
-    "peak": 139,
-    "has_viewers": true,
-    "title": "Прямая трансляция УСАДЬБА СПБ",
-    "thumb": "https://i.ytimg.com/vi/Gd2_qIUwc_Q/maxresdefault.jpg?v=4",
-    "viewers": 139,
-    "dur": "25 мин"
-   },
    {
     "vid": "bqTBwJxy-u0",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=2d",
     "viewers": 22,
     "dur": "3 ч 53 мин"
+   },
+   {
+    "vid": "f2iIIwG-69I",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-27T19:22:48Z",
+    "peak": 1970,
+    "has_viewers": true,
+    "title": "Ким Кардашьян у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/f2iIIwG-69I/hqdefault.jpg?v=6ae0f9fc",
+    "viewers": 568,
+    "dur": "7 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/f2iIIwG-69I\">Дон Грязь</a></b> · 568 👁 · 7 ч 07 мин\n└ Ким Кардашьян у меня в студии",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
