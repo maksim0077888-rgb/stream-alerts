@@ -49,19 +49,30 @@
     "peak": 427,
     "has_viewers": true,
     "title": "...",
-    "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=18",
-    "viewers": 338
+    "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=1b",
+    "viewers": 343
    },
    "kNFBLNjMhwk": {
     "vid": "kNFBLNjMhwk",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-28T11:19:19Z",
-    "peak": 303,
+    "peak": 350,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/kNFBLNjMhwk/maxresdefault.jpg?v=5",
-    "viewers": 303
+    "thumb": "https://i.ytimg.com/vi/kNFBLNjMhwk/maxresdefault.jpg?v=8",
+    "viewers": 350
+   },
+   "hDzLW_qRX2Y": {
+    "vid": "hDzLW_qRX2Y",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-10-28T12:00:28Z",
+    "peak": 5,
+    "has_viewers": true,
+    "title": "Прямой эфир 28.10.2026",
+    "thumb": "https://i.ytimg.com/vi/hDzLW_qRX2Y/maxresdefault.jpg?v=6ae1d72f",
+    "viewers": 5
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "7 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 338 👁 · 1 ч 57 мин\n└ ...\n\n<b><a href=\"https://youtu.be/kNFBLNjMhwk\">Селянин</a></b> · 303 👁 · 26 мин\n└ ТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/kNFBLNjMhwk\">Селянин</a></b> · 350 👁 · 41 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 343 👁 · 2 ч 12 мин\n└ ...\n\n<b><a href=\"https://youtu.be/hDzLW_qRX2Y\">Депутат</a></b> · 5 👁 · 0 мин\n└ Прямой эфир 28.10.2026",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
