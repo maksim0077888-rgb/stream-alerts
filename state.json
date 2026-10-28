@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Шмара едет",
     "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
-    "viewers": 1132
+    "viewers": 1128
    },
    "OGog6JCEE7M": {
     "vid": "OGog6JCEE7M",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "На Часик!",
     "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
-    "viewers": 2
+    "viewers": 0
    },
    "zfC1Jh3C6es": {
     "vid": "zfC1Jh3C6es",
@@ -72,7 +72,7 @@
     "has_viewers": true,
     "title": "едем в клуб ждем волка",
     "thumb": "https://i.ytimg.com/vi/zfC1Jh3C6es/maxresdefault.jpg?v=9",
-    "viewers": 7
+    "viewers": 3
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "1 ч 19 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 1132 👁 · 6 ч 08 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 7 👁 · 2 ч 37 мин\n└ едем в клуб ждем волка\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 2 👁 · 4 ч 24 мин\n└ На Часик!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 1128 👁 · 6 ч 23 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 3 👁 · 2 ч 52 мин\n└ едем в клуб ждем волка\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 0 👁 · 4 ч 40 мин\n└ На Часик!",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
