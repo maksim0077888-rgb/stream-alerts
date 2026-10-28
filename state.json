@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Шмара едет",
     "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
-    "viewers": 2049
+    "viewers": 1975
    },
    "OGog6JCEE7M": {
     "vid": "OGog6JCEE7M",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "На Часик!",
     "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
-    "viewers": 1
+    "viewers": 0
    },
    "wog7oKItnko": {
     "vid": "wog7oKItnko",
@@ -71,19 +71,19 @@
     "peak": 77,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/wog7oKItnko/maxresdefault.jpg?v=13",
-    "viewers": 66
+    "thumb": "https://i.ytimg.com/vi/wog7oKItnko/maxresdefault.jpg?v=1c",
+    "viewers": 77
    },
    "zfC1Jh3C6es": {
     "vid": "zfC1Jh3C6es",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-28T20:07:54Z",
-    "peak": 72,
+    "peak": 75,
     "has_viewers": true,
     "title": "едем в клуб ждем волка",
-    "thumb": "https://i.ytimg.com/vi/zfC1Jh3C6es/maxresdefault.jpg?v=4",
-    "viewers": 72
+    "thumb": "https://i.ytimg.com/vi/zfC1Jh3C6es/maxresdefault.jpg?v=7",
+    "viewers": 75
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "3 ч 43 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 2049 👁 · 3 ч 53 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 72 👁 · 22 мин\n└ едем в клуб ждем волка\n\n<b><a href=\"https://youtu.be/wog7oKItnko\">Селянин</a></b> · 66 👁 · 31 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 1 👁 · 2 ч 09 мин\n└ На Часик!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 1975 👁 · 4 ч 08 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/wog7oKItnko\">Селянин</a></b> · 77 👁 · 46 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 75 👁 · 37 мин\n└ едем в клуб ждем волка\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 0 👁 · 2 ч 24 мин\n└ На Часик!",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
