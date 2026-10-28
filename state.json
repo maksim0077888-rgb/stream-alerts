@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Шмара едет",
     "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
-    "viewers": 1839
+    "viewers": 1755
    },
    "OGog6JCEE7M": {
     "vid": "OGog6JCEE7M",
@@ -61,18 +61,7 @@
     "has_viewers": true,
     "title": "На Часик!",
     "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
-    "viewers": 0
-   },
-   "wog7oKItnko": {
-    "vid": "wog7oKItnko",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-28T19:58:42Z",
-    "peak": 82,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/wog7oKItnko/maxresdefault.jpg?v=2e",
-    "viewers": 69
+    "viewers": 1
    },
    "zfC1Jh3C6es": {
     "vid": "zfC1Jh3C6es",
@@ -83,22 +72,10 @@
     "has_viewers": true,
     "title": "едем в клуб ждем волка",
     "thumb": "https://i.ytimg.com/vi/zfC1Jh3C6es/maxresdefault.jpg?v=9",
-    "viewers": 6
+    "viewers": 7
    }
   },
   "ended": [
-   {
-    "vid": "oi5lNPcp79M",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-27T15:06:01Z",
-    "peak": 937,
-    "has_viewers": true,
-    "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/oi5lNPcp79M/hqdefault.jpg?v=6ae0bdcf",
-    "viewers": 937,
-    "dur": "1 ч 50 мин"
-   },
    {
     "vid": "a9EXS6pEVU8",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/QD0Kta8RVG0/maxresdefault.jpg?v=2b",
     "viewers": 136,
     "dur": "3 ч 43 мин"
+   },
+   {
+    "vid": "wog7oKItnko",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-28T19:58:42Z",
+    "peak": 82,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/wog7oKItnko/maxresdefault.jpg?v=2e",
+    "viewers": 69,
+    "dur": "1 ч 19 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 1839 👁 · 4 ч 38 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/wog7oKItnko\">Селянин</a></b> · 69 👁 · 1 ч 16 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 6 👁 · 1 ч 07 мин\n└ едем в клуб ждем волка\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 0 👁 · 2 ч 54 мин\n└ На Часик!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 1755 👁 · 4 ч 53 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 7 👁 · 1 ч 22 мин\n└ едем в клуб ждем волка\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 1 👁 · 3 ч 09 мин\n└ На Часик!",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
