@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "АРТУМ ГОМ Я ИДУ ЗА ТОБОЙ",
     "thumb": "https://i.ytimg.com/vi/dBAAofHs1gc/maxresdefault.jpg?v=6ae1f70c",
-    "viewers": 268
-   },
-   "_S_Q3YCjGwA": {
-    "vid": "_S_Q3YCjGwA",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-28T13:16:06Z",
-    "peak": 2304,
-    "has_viewers": true,
-    "title": "Тёлка едет",
-    "thumb": "https://i.ytimg.com/vi/_S_Q3YCjGwA/hqdefault.jpg?v=6ae1f58d",
-    "viewers": 1923
+    "viewers": 286
    }
   },
   "ended": [
-   {
-    "vid": "BXc25FBHSYU",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-10-27T09:17:46Z",
-    "peak": 51,
-    "has_viewers": true,
-    "title": "ВО ВО",
-    "thumb": "https://i.ytimg.com/vi/BXc25FBHSYU/maxresdefault.jpg?v=6ae06c0b",
-    "viewers": 23,
-    "dur": "3 ч 29 мин"
-   },
    {
     "vid": "iBbNbTWPOTY",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/hDzLW_qRX2Y/maxresdefault.jpg?v=6ae1d72f",
     "viewers": 70,
     "dur": "54 мин"
+   },
+   {
+    "vid": "_S_Q3YCjGwA",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-28T13:16:06Z",
+    "peak": 2304,
+    "has_viewers": true,
+    "title": "Тёлка едет",
+    "thumb": "https://i.ytimg.com/vi/_S_Q3YCjGwA/hqdefault.jpg?v=6ae1f58d",
+    "viewers": 1923,
+    "dur": "1 ч 42 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/_S_Q3YCjGwA\">Дон Грязь</a></b> · 1923 👁 · 1 ч 29 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 268 👁 · 4 ч 57 мин\n└ АРТУМ ГОМ Я ИДУ ЗА ТОБОЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dBAAofHs1gc\">Ахиллес</a></b> · 286 👁 · 5 ч 12 мин\n└ АРТУМ ГОМ Я ИДУ ЗА ТОБОЙ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
