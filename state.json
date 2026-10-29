@@ -41,53 +41,41 @@
  "board": {
   "msg": 107,
   "streams": {
-   "OmwPzdeZNhY": {
-    "vid": "OmwPzdeZNhY",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-10-29T19:57:07Z",
-    "peak": 1414,
-    "has_viewers": true,
-    "title": "Тут",
-    "thumb": "https://i.ytimg.com/vi/OmwPzdeZNhY/maxresdefault.jpg?v=3",
-    "viewers": 1414
-   },
    "gJoX5bTJdLk": {
     "vid": "gJoX5bTJdLk",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-29T19:55:16Z",
-    "peak": 104,
+    "peak": 138,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=4",
-    "viewers": 95
+    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=7",
+    "viewers": 138
    },
    "vRlUE_dmpek": {
     "vid": "vRlUE_dmpek",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-29T19:57:54Z",
-    "peak": 47,
+    "peak": 49,
     "has_viewers": true,
     "title": "никита на связи",
     "thumb": "https://i.ytimg.com/vi/vRlUE_dmpek/maxresdefault.jpg?v=6ae3a539",
-    "viewers": 47
+    "viewers": 49
+   },
+   "A242CYxL5PQ": {
+    "vid": "A242CYxL5PQ",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T20:18:36Z",
+    "peak": 1533,
+    "has_viewers": true,
+    "title": "Тут",
+    "thumb": "https://i.ytimg.com/vi/A242CYxL5PQ/maxresdefault.jpg?v=6ae3aa12",
+    "viewers": 1533
    }
   },
   "ended": [
-   {
-    "vid": "zfC1Jh3C6es",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-28T20:07:54Z",
-    "peak": 75,
-    "has_viewers": true,
-    "title": "едем в клуб ждем волка",
-    "thumb": "https://i.ytimg.com/vi/zfC1Jh3C6es/maxresdefault.jpg?v=9",
-    "viewers": 3,
-    "dur": "48 мин"
-   },
    {
     "vid": "yFJFUx-7Foc",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/0TTLZiUfods/maxresdefault.jpg?v=6ae395b8",
     "viewers": 22,
     "dur": "1 ч 05 мин"
+   },
+   {
+    "vid": "OmwPzdeZNhY",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T19:57:07Z",
+    "peak": 1414,
+    "has_viewers": true,
+    "title": "Тут",
+    "thumb": "https://i.ytimg.com/vi/OmwPzdeZNhY/maxresdefault.jpg?v=3",
+    "viewers": 1414,
+    "dur": "33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/OmwPzdeZNhY\">Дон Грязь</a></b> · 1414 👁 · 18 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 95 👁 · 20 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/vRlUE_dmpek\">Рифляй</a></b> · 47 👁 · 17 мин\n└ никита на связи",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/A242CYxL5PQ\">Дон Грязь</a></b> · 1533 👁 · 12 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 138 👁 · 35 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/vRlUE_dmpek\">Рифляй</a></b> · 49 👁 · 32 мин\n└ никита на связи",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
