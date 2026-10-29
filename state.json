@@ -49,30 +49,30 @@
     "peak": 138,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=7",
-    "viewers": 138
+    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=a",
+    "viewers": 124
    },
    "vRlUE_dmpek": {
     "vid": "vRlUE_dmpek",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-29T19:57:54Z",
-    "peak": 49,
+    "peak": 58,
     "has_viewers": true,
     "title": "никита на связи",
     "thumb": "https://i.ytimg.com/vi/vRlUE_dmpek/maxresdefault.jpg?v=6ae3a539",
-    "viewers": 49
+    "viewers": 58
    },
    "A242CYxL5PQ": {
     "vid": "A242CYxL5PQ",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-29T20:18:36Z",
-    "peak": 1533,
+    "peak": 1542,
     "has_viewers": true,
     "title": "Тут",
     "thumb": "https://i.ytimg.com/vi/A242CYxL5PQ/maxresdefault.jpg?v=6ae3aa12",
-    "viewers": 1533
+    "viewers": 1542
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/A242CYxL5PQ\">Дон Грязь</a></b> · 1533 👁 · 12 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 138 👁 · 35 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/vRlUE_dmpek\">Рифляй</a></b> · 49 👁 · 32 мин\n└ никита на связи",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/A242CYxL5PQ\">Дон Грязь</a></b> · 1542 👁 · 26 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 124 👁 · 50 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/vRlUE_dmpek\">Рифляй</a></b> · 58 👁 · 47 мин\n└ никита на связи",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
