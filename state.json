@@ -41,42 +41,30 @@
  "board": {
   "msg": 107,
   "streams": {
-   "qwLyF4uvfug": {
-    "vid": "qwLyF4uvfug",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-29T02:58:57Z",
-    "peak": 148,
-    "has_viewers": true,
-    "title": "Дома",
-    "thumb": "https://i.ytimg.com/vi/qwLyF4uvfug/maxresdefault.jpg?v=11",
-    "viewers": 1
-   },
    "08DGsEl_DeU": {
     "vid": "08DGsEl_DeU",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-10-29T05:37:24Z",
-    "peak": 141,
+    "peak": 150,
     "has_viewers": true,
     "title": "Прямая трансляция flaco",
-    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=2b",
-    "viewers": 53
+    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=2e",
+    "viewers": 150
+   },
+   "zqno6fXkl0o": {
+    "vid": "zqno6fXkl0o",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-29T10:56:42Z",
+    "peak": 94,
+    "has_viewers": true,
+    "title": "ПИ",
+    "thumb": "https://i.ytimg.com/vi/zqno6fXkl0o/sddefault.jpg",
+    "viewers": 94
    }
   },
   "ended": [
-   {
-    "vid": "f2iIIwG-69I",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-27T19:22:48Z",
-    "peak": 1970,
-    "has_viewers": true,
-    "title": "Ким Кардашьян у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/f2iIIwG-69I/hqdefault.jpg?v=6ae0f9fc",
-    "viewers": 568,
-    "dur": "7 ч 22 мин"
-   },
    {
     "vid": "kNFBLNjMhwk",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/J29H4N6gLjU/maxresdefault.jpg?v=12",
     "viewers": 236,
     "dur": "1 ч 43 мин"
+   },
+   {
+    "vid": "qwLyF4uvfug",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T02:58:57Z",
+    "peak": 148,
+    "has_viewers": true,
+    "title": "Дома",
+    "thumb": "https://i.ytimg.com/vi/qwLyF4uvfug/maxresdefault.jpg?v=11",
+    "viewers": 1,
+    "dur": "1 ч 25 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 53 👁 · 5 ч 08 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 1 👁 · 7 ч 46 мин\n└ Дома",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 150 👁 · 5 ч 23 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/zqno6fXkl0o\">Селянин</a></b> · 94 👁 · 4 мин\n└ ПИ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
