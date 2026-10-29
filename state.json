@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "все в очко",
     "thumb": "https://i.ytimg.com/vi/k9RcfgKR6yo/maxresdefault.jpg?v=6ae3b2c7",
-    "viewers": 35
-   },
-   "iih0r_Qh3DQ": {
-    "vid": "iih0r_Qh3DQ",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-10-29T21:16:54Z",
-    "peak": 1723,
-    "has_viewers": true,
-    "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/iih0r_Qh3DQ/maxresdefault.jpg?v=6ae3b7bd",
-    "viewers": 1289
+    "viewers": 47
    }
   },
   "ended": [
-   {
-    "vid": "08DGsEl_DeU",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-29T05:37:24Z",
-    "peak": 568,
-    "has_viewers": true,
-    "title": "Прямая трансляция flaco",
-    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=34",
-    "viewers": 556,
-    "dur": "5 ч 53 мин"
-   },
    {
     "vid": "zqno6fXkl0o",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=24",
     "viewers": 69,
     "dur": "3 ч 04 мин"
+   },
+   {
+    "vid": "iih0r_Qh3DQ",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T21:16:54Z",
+    "peak": 1723,
+    "has_viewers": true,
+    "title": "тут",
+    "thumb": "https://i.ytimg.com/vi/iih0r_Qh3DQ/maxresdefault.jpg?v=6ae3b7bd",
+    "viewers": 1289,
+    "dur": "1 ч 50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/iih0r_Qh3DQ\">Дон Грязь</a></b> · 1289 👁 · 1 ч 43 мин\n└ тут\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 35 👁 · 2 ч 05 мин\n└ все в очко",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 47 👁 · 2 ч 19 мин\n└ все в очко",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
