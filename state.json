@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Дома",
     "thumb": "https://i.ytimg.com/vi/qwLyF4uvfug/maxresdefault.jpg?v=11",
-    "viewers": 2
+    "viewers": 5
    },
    "08DGsEl_DeU": {
     "vid": "08DGsEl_DeU",
@@ -60,34 +60,11 @@
     "peak": 141,
     "has_viewers": true,
     "title": "Прямая трансляция flaco",
-    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=16",
-    "viewers": 48
-   },
-   "J29H4N6gLjU": {
-    "vid": "J29H4N6gLjU",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-29T06:01:01Z",
-    "peak": 236,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/J29H4N6gLjU/maxresdefault.jpg?v=12",
-    "viewers": 236
+    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=19",
+    "viewers": 41
    }
   },
   "ended": [
-   {
-    "vid": "tqEo2HFZYjU",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-27T18:53:17Z",
-    "peak": 163,
-    "has_viewers": true,
-    "title": "ГДЕ СЕЙЧАС АБИДАЛЬ?",
-    "thumb": "https://i.ytimg.com/vi/tqEo2HFZYjU/maxresdefault.jpg?v=2d",
-    "viewers": 22,
-    "dur": "3 ч 53 мин"
-   },
    {
     "vid": "f2iIIwG-69I",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/UTX-W7QFlww/sddefault.jpg",
     "viewers": 1,
     "dur": "0 мин"
+   },
+   {
+    "vid": "J29H4N6gLjU",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-29T06:01:01Z",
+    "peak": 236,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/J29H4N6gLjU/maxresdefault.jpg?v=12",
+    "viewers": 236,
+    "dur": "1 ч 43 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/J29H4N6gLjU\">Селянин</a></b> · 236 👁 · 1 ч 29 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 48 👁 · 1 ч 53 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 2 👁 · 4 ч 31 мин\n└ Дома",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 41 👁 · 2 ч 08 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 5 👁 · 4 ч 46 мин\n└ Дома",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
