@@ -49,8 +49,8 @@
     "peak": 138,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=10",
-    "viewers": 131
+    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=13",
+    "viewers": 90
    },
    "k9RcfgKR6yo": {
     "vid": "k9RcfgKR6yo",
@@ -61,33 +61,21 @@
     "has_viewers": true,
     "title": "все в очко",
     "thumb": "https://i.ytimg.com/vi/k9RcfgKR6yo/maxresdefault.jpg?v=6ae3b2c7",
-    "viewers": 75
+    "viewers": 46
    },
-   "wB8dQyL2UFE": {
-    "vid": "wB8dQyL2UFE",
+   "iih0r_Qh3DQ": {
+    "vid": "iih0r_Qh3DQ",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
-    "start": "2026-10-29T21:11:29Z",
-    "peak": 137,
+    "start": "2026-10-29T21:16:54Z",
+    "peak": 1722,
     "has_viewers": true,
-    "title": "Тут",
-    "thumb": "https://i.ytimg.com/vi/wB8dQyL2UFE/maxresdefault.jpg?v=6ae3b677",
-    "viewers": 137
+    "title": "тут",
+    "thumb": "https://i.ytimg.com/vi/iih0r_Qh3DQ/maxresdefault.jpg?v=6ae3b7bd",
+    "viewers": 1722
    }
   },
   "ended": [
-   {
-    "vid": "J29H4N6gLjU",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-29T06:01:01Z",
-    "peak": 236,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/J29H4N6gLjU/maxresdefault.jpg?v=12",
-    "viewers": 236,
-    "dur": "1 ч 43 мин"
-   },
    {
     "vid": "qwLyF4uvfug",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/A242CYxL5PQ/maxresdefault.jpg?v=6ae3aa12",
     "viewers": 1363,
     "dur": "52 мин"
+   },
+   {
+    "vid": "wB8dQyL2UFE",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T21:11:29Z",
+    "peak": 137,
+    "has_viewers": true,
+    "title": "Тут",
+    "thumb": "https://i.ytimg.com/vi/wB8dQyL2UFE/maxresdefault.jpg?v=6ae3b677",
+    "viewers": 137,
+    "dur": "5 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/wB8dQyL2UFE\">Дон Грязь</a></b> · 137 👁 · 4 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 131 👁 · 1 ч 20 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 75 👁 · 19 мин\n└ все в очко",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/iih0r_Qh3DQ\">Дон Грязь</a></b> · 1722 👁 · 13 мин\n└ тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 90 👁 · 1 ч 35 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 46 👁 · 34 мин\n└ все в очко",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
