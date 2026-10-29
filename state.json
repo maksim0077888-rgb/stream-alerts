@@ -37,7 +37,7 @@
   "https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g": "UCSVKrRZ6viFK3C9diKAkw6g",
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
- "day": "2026-10-28",
+ "day": "2026-10-29",
  "board": {
   "msg": 107,
   "streams": {
@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "Шмара едет",
     "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
-    "viewers": 856
+    "viewers": 817
    },
    "OGog6JCEE7M": {
     "vid": "OGog6JCEE7M",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "На Часик!",
     "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
-    "viewers": 2
+    "viewers": 1
    },
    "zfC1Jh3C6es": {
     "vid": "zfC1Jh3C6es",
@@ -73,32 +73,9 @@
     "title": "едем в клуб ждем волка",
     "thumb": "https://i.ytimg.com/vi/zfC1Jh3C6es/maxresdefault.jpg?v=9",
     "viewers": 2
-   },
-   "iSSuJk9PIHU": {
-    "vid": "iSSuJk9PIHU",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-28T23:36:34Z",
-    "peak": 33,
-    "has_viewers": true,
-    "title": "поговорим",
-    "thumb": "https://i.ytimg.com/vi/iSSuJk9PIHU/maxresdefault.jpg?v=4",
-    "viewers": 30
    }
   },
   "ended": [
-   {
-    "vid": "a9EXS6pEVU8",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-10-27T14:18:56Z",
-    "peak": 8313,
-    "has_viewers": true,
-    "title": "( ° ͟ʖ °)",
-    "thumb": "https://i.ytimg.com/vi/a9EXS6pEVU8/maxresdefault.jpg?v=6a",
-    "viewers": 4117,
-    "dur": "2 ч 57 мин"
-   },
    {
     "vid": "4QNhv5kxSQk",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/wog7oKItnko/maxresdefault.jpg?v=2e",
     "viewers": 69,
     "dur": "1 ч 19 мин"
+   },
+   {
+    "vid": "iSSuJk9PIHU",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-28T23:36:34Z",
+    "peak": 33,
+    "has_viewers": true,
+    "title": "поговорим",
+    "thumb": "https://i.ytimg.com/vi/iSSuJk9PIHU/maxresdefault.jpg?v=4",
+    "viewers": 30,
+    "dur": "23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 856 👁 · 7 ч 20 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/iSSuJk9PIHU\">Герман Ягодка</a></b> · 30 👁 · 21 мин\n└ поговорим\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 2 👁 · 5 ч 36 мин\n└ На Часик!\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 2 👁 · 3 ч 49 мин\n└ едем в клуб ждем волка",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 817 👁 · 7 ч 23 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 2 👁 · 3 ч 52 мин\n└ едем в клуб ждем волка\n\n<b><a href=\"https://youtu.be/OGog6JCEE7M\">Герман Ягодка</a></b> · 1 👁 · 5 ч 40 мин\n└ На Часик!",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
