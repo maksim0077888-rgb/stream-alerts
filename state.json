@@ -49,19 +49,8 @@
     "peak": 138,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=a",
-    "viewers": 124
-   },
-   "vRlUE_dmpek": {
-    "vid": "vRlUE_dmpek",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-10-29T19:57:54Z",
-    "peak": 58,
-    "has_viewers": true,
-    "title": "никита на связи",
-    "thumb": "https://i.ytimg.com/vi/vRlUE_dmpek/maxresdefault.jpg?v=6ae3a539",
-    "viewers": 58
+    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=d",
+    "viewers": 110
    },
    "A242CYxL5PQ": {
     "vid": "A242CYxL5PQ",
@@ -72,22 +61,21 @@
     "has_viewers": true,
     "title": "Тут",
     "thumb": "https://i.ytimg.com/vi/A242CYxL5PQ/maxresdefault.jpg?v=6ae3aa12",
-    "viewers": 1542
+    "viewers": 1363
+   },
+   "k9RcfgKR6yo": {
+    "vid": "k9RcfgKR6yo",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-29T20:55:44Z",
+    "peak": 31,
+    "has_viewers": true,
+    "title": "все в очко",
+    "thumb": "https://i.ytimg.com/vi/k9RcfgKR6yo/maxresdefault.jpg?v=6ae3b2c7",
+    "viewers": 31
    }
   },
   "ended": [
-   {
-    "vid": "yFJFUx-7Foc",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-29T04:59:07Z",
-    "peak": 16,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/yFJFUx-7Foc/maxresdefault.jpg?v=6ae2d27e",
-    "viewers": 16,
-    "dur": "12 мин"
-   },
    {
     "vid": "UTX-W7QFlww",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/OmwPzdeZNhY/maxresdefault.jpg?v=3",
     "viewers": 1414,
     "dur": "33 мин"
+   },
+   {
+    "vid": "vRlUE_dmpek",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-10-29T19:57:54Z",
+    "peak": 58,
+    "has_viewers": true,
+    "title": "никита на связи",
+    "thumb": "https://i.ytimg.com/vi/vRlUE_dmpek/maxresdefault.jpg?v=6ae3a539",
+    "viewers": 58,
+    "dur": "56 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/A242CYxL5PQ\">Дон Грязь</a></b> · 1542 👁 · 26 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 124 👁 · 50 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/vRlUE_dmpek\">Рифляй</a></b> · 58 👁 · 47 мин\n└ никита на связи",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/A242CYxL5PQ\">Дон Грязь</a></b> · 1363 👁 · 42 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 110 👁 · 1 ч 05 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 31 👁 · 5 мин\n└ все в очко",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
