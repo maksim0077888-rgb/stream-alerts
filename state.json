@@ -49,45 +49,33 @@
     "peak": 138,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=d",
-    "viewers": 110
-   },
-   "A242CYxL5PQ": {
-    "vid": "A242CYxL5PQ",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-10-29T20:18:36Z",
-    "peak": 1542,
-    "has_viewers": true,
-    "title": "Тут",
-    "thumb": "https://i.ytimg.com/vi/A242CYxL5PQ/maxresdefault.jpg?v=6ae3aa12",
-    "viewers": 1363
+    "thumb": "https://i.ytimg.com/vi/gJoX5bTJdLk/maxresdefault.jpg?v=10",
+    "viewers": 131
    },
    "k9RcfgKR6yo": {
     "vid": "k9RcfgKR6yo",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-29T20:55:44Z",
-    "peak": 31,
+    "peak": 75,
     "has_viewers": true,
     "title": "все в очко",
     "thumb": "https://i.ytimg.com/vi/k9RcfgKR6yo/maxresdefault.jpg?v=6ae3b2c7",
-    "viewers": 31
+    "viewers": 75
+   },
+   "wB8dQyL2UFE": {
+    "vid": "wB8dQyL2UFE",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T21:11:29Z",
+    "peak": 137,
+    "has_viewers": true,
+    "title": "Тут",
+    "thumb": "https://i.ytimg.com/vi/wB8dQyL2UFE/maxresdefault.jpg?v=6ae3b677",
+    "viewers": 137
    }
   },
   "ended": [
-   {
-    "vid": "UTX-W7QFlww",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-29T06:00:23Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/UTX-W7QFlww/sddefault.jpg",
-    "viewers": 1,
-    "dur": "0 мин"
-   },
    {
     "vid": "J29H4N6gLjU",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/vRlUE_dmpek/maxresdefault.jpg?v=6ae3a539",
     "viewers": 58,
     "dur": "56 мин"
+   },
+   {
+    "vid": "A242CYxL5PQ",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T20:18:36Z",
+    "peak": 1542,
+    "has_viewers": true,
+    "title": "Тут",
+    "thumb": "https://i.ytimg.com/vi/A242CYxL5PQ/maxresdefault.jpg?v=6ae3aa12",
+    "viewers": 1363,
+    "dur": "52 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/A242CYxL5PQ\">Дон Грязь</a></b> · 1363 👁 · 42 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 110 👁 · 1 ч 05 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 31 👁 · 5 мин\n└ все в очко",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/wB8dQyL2UFE\">Дон Грязь</a></b> · 137 👁 · 4 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/gJoX5bTJdLk\">Селянин</a></b> · 131 👁 · 1 ч 20 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 75 👁 · 19 мин\n└ все в очко",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
