@@ -49,19 +49,8 @@
     "peak": 1742,
     "has_viewers": true,
     "title": "уборка у маэстро",
-    "thumb": "https://i.ytimg.com/vi/MbW2ZZmktRQ/maxresdefault.jpg?v=2a",
-    "viewers": 1168
-   },
-   "EGli9tDgVxQ": {
-    "vid": "EGli9tDgVxQ",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-10-29T13:34:49Z",
-    "peak": 11075,
-    "has_viewers": true,
-    "title": "АУКционыч (Я НИКОГДА НЕ ПОДКЛЮЧУ РУЛЬ!!!)",
-    "thumb": "https://i.ytimg.com/vi/EGli9tDgVxQ/maxresdefault.jpg?v=29",
-    "viewers": 11075
+    "thumb": "https://i.ytimg.com/vi/MbW2ZZmktRQ/maxresdefault.jpg?v=2d",
+    "viewers": 1190
    },
    "vOn7ZYkrG5I": {
     "vid": "vOn7ZYkrG5I",
@@ -72,22 +61,10 @@
     "has_viewers": true,
     "title": "в гостях прекрасная миледи",
     "thumb": "https://i.ytimg.com/vi/vOn7ZYkrG5I/maxresdefault.jpg?v=6ae370fc",
-    "viewers": 142
+    "viewers": 84
    }
   },
   "ended": [
-   {
-    "vid": "QD0Kta8RVG0",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-28T15:08:41Z",
-    "peak": 257,
-    "has_viewers": true,
-    "title": "тетю  ТВ",
-    "thumb": "https://i.ytimg.com/vi/QD0Kta8RVG0/maxresdefault.jpg?v=2b",
-    "viewers": 136,
-    "dur": "3 ч 43 мин"
-   },
    {
     "vid": "wog7oKItnko",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/VB2gSzWnuSM/maxresdefault.jpg?v=f",
     "viewers": 4,
     "dur": "1 ч 43 мин"
+   },
+   {
+    "vid": "EGli9tDgVxQ",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-10-29T13:34:49Z",
+    "peak": 11075,
+    "has_viewers": true,
+    "title": "АУКционыч (Я НИКОГДА НЕ ПОДКЛЮЧУ РУЛЬ!!!)",
+    "thumb": "https://i.ytimg.com/vi/EGli9tDgVxQ/maxresdefault.jpg?v=29",
+    "viewers": 11075,
+    "dur": "3 ч 37 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EGli9tDgVxQ\">ПАПИЧ</a></b> · 11075 👁 · 3 ч 26 мин\n└ АУКционыч (Я НИКОГДА НЕ ПОДКЛЮЧУ РУЛЬ!!!)\n\n<b><a href=\"https://youtu.be/MbW2ZZmktRQ\">Дон Грязь</a></b> · 1168 👁 · 3 ч 17 мин\n└ уборка у маэстро\n\n<b><a href=\"https://youtu.be/vOn7ZYkrG5I\">Рифляй</a></b> · 142 👁 · 46 мин\n└ в гостях прекрасная миледи",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MbW2ZZmktRQ\">Дон Грязь</a></b> · 1190 👁 · 3 ч 32 мин\n└ уборка у маэстро\n\n<b><a href=\"https://youtu.be/vOn7ZYkrG5I\">Рифляй</a></b> · 84 👁 · 1 ч 01 мин\n└ в гостях прекрасная миледи",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
