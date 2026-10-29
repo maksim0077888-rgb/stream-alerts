@@ -41,42 +41,30 @@
  "board": {
   "msg": 107,
   "streams": {
-   "MbW2ZZmktRQ": {
-    "vid": "MbW2ZZmktRQ",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-29T13:43:09Z",
-    "peak": 1742,
-    "has_viewers": true,
-    "title": "уборка у маэстро",
-    "thumb": "https://i.ytimg.com/vi/MbW2ZZmktRQ/maxresdefault.jpg?v=30",
-    "viewers": 1165
-   },
    "vOn7ZYkrG5I": {
     "vid": "vOn7ZYkrG5I",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-10-29T16:13:51Z",
-    "peak": 152,
+    "peak": 172,
     "has_viewers": true,
     "title": "в гостях прекрасная миледи",
     "thumb": "https://i.ytimg.com/vi/vOn7ZYkrG5I/maxresdefault.jpg?v=6ae370fc",
-    "viewers": 143
+    "viewers": 172
+   },
+   "Ja3aLYZU0TA": {
+    "vid": "Ja3aLYZU0TA",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T17:44:54Z",
+    "peak": 65,
+    "has_viewers": true,
+    "title": "Бритни Спирт у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/Ja3aLYZU0TA/hqdefault.jpg?v=6ae3860b",
+    "viewers": 65
    }
   },
   "ended": [
-   {
-    "vid": "wog7oKItnko",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-28T19:58:42Z",
-    "peak": 82,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/wog7oKItnko/maxresdefault.jpg?v=2e",
-    "viewers": 69,
-    "dur": "1 ч 19 мин"
-   },
    {
     "vid": "iSSuJk9PIHU",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/EGli9tDgVxQ/maxresdefault.jpg?v=29",
     "viewers": 11075,
     "dur": "3 ч 37 мин"
+   },
+   {
+    "vid": "MbW2ZZmktRQ",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T13:43:09Z",
+    "peak": 1742,
+    "has_viewers": true,
+    "title": "уборка у маэстро",
+    "thumb": "https://i.ytimg.com/vi/MbW2ZZmktRQ/maxresdefault.jpg?v=30",
+    "viewers": 1165,
+    "dur": "4 ч 01 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MbW2ZZmktRQ\">Дон Грязь</a></b> · 1165 👁 · 3 ч 47 мин\n└ уборка у маэстро\n\n<b><a href=\"https://youtu.be/vOn7ZYkrG5I\">Рифляй</a></b> · 143 👁 · 1 ч 16 мин\n└ в гостях прекрасная миледи",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/vOn7ZYkrG5I\">Рифляй</a></b> · 172 👁 · 1 ч 31 мин\n└ в гостях прекрасная миледи\n\n<b><a href=\"https://youtu.be/Ja3aLYZU0TA\">Дон Грязь</a></b> · 65 👁 · 0 мин\n└ Бритни Спирт у меня в студии",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
