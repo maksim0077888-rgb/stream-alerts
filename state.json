@@ -41,31 +41,30 @@
  "board": {
   "msg": 107,
   "streams": {
-   "zqno6fXkl0o": {
-    "vid": "zqno6fXkl0o",
+   "HenOL1m-b-U": {
+    "vid": "HenOL1m-b-U",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T12:42:40Z",
+    "peak": 148,
+    "has_viewers": true,
+    "title": "Тёлка едет",
+    "thumb": "https://i.ytimg.com/vi/HenOL1m-b-U/hqdefault.jpg?v=6ae33f36",
+    "viewers": 148
+   },
+   "bsPwo-JHoqs": {
+    "vid": "bsPwo-JHoqs",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
-    "start": "2026-10-29T10:56:42Z",
-    "peak": 354,
+    "start": "2026-10-29T12:35:24Z",
+    "peak": 142,
     "has_viewers": true,
-    "title": "ПИ",
-    "thumb": "https://i.ytimg.com/vi/zqno6fXkl0o/maxresdefault.jpg?v=12",
-    "viewers": 354
+    "title": "ТВ",
+    "thumb": "https://i.ytimg.com/vi/bsPwo-JHoqs/maxresdefault.jpg?v=6",
+    "viewers": 142
    }
   },
   "ended": [
-   {
-    "vid": "hDzLW_qRX2Y",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-10-28T12:00:28Z",
-    "peak": 70,
-    "has_viewers": true,
-    "title": "Прямой эфир 28.10.2026",
-    "thumb": "https://i.ytimg.com/vi/hDzLW_qRX2Y/maxresdefault.jpg?v=6ae1d72f",
-    "viewers": 70,
-    "dur": "54 мин"
-   },
    {
     "vid": "_S_Q3YCjGwA",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -233,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=34",
     "viewers": 556,
     "dur": "5 ч 53 мин"
+   },
+   {
+    "vid": "zqno6fXkl0o",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-29T10:56:42Z",
+    "peak": 354,
+    "has_viewers": true,
+    "title": "ПИ",
+    "thumb": "https://i.ytimg.com/vi/zqno6fXkl0o/maxresdefault.jpg?v=12",
+    "viewers": 354,
+    "dur": "1 ч 36 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/zqno6fXkl0o\">Селянин</a></b> · 354 👁 · 1 ч 33 мин\n└ ПИ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/HenOL1m-b-U\">Дон Грязь</a></b> · 148 👁 · 2 мин\n└ Тёлка едет\n\n<b><a href=\"https://youtu.be/bsPwo-JHoqs\">Селянин</a></b> · 142 👁 · 10 мин\n└ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
