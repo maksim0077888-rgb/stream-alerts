@@ -50,44 +50,32 @@
     "has_viewers": true,
     "title": "Дома",
     "thumb": "https://i.ytimg.com/vi/qwLyF4uvfug/maxresdefault.jpg?v=11",
-    "viewers": 3
+    "viewers": 1
    },
    "08DGsEl_DeU": {
     "vid": "08DGsEl_DeU",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-10-29T05:37:24Z",
-    "peak": 117,
+    "peak": 134,
     "has_viewers": true,
     "title": "Прямая трансляция flaco",
-    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=4",
-    "viewers": 117
+    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=7",
+    "viewers": 134
    },
-   "UTX-W7QFlww": {
-    "vid": "UTX-W7QFlww",
+   "J29H4N6gLjU": {
+    "vid": "J29H4N6gLjU",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
-    "start": "2026-10-29T06:00:23Z",
-    "peak": 1,
+    "start": "2026-10-29T06:01:01Z",
+    "peak": 84,
     "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/UTX-W7QFlww/sddefault.jpg",
-    "viewers": 1
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/J29H4N6gLjU/maxresdefault.jpg?v=3",
+    "viewers": 84
    }
   },
   "ended": [
-   {
-    "vid": "EVVeRVP2p78",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-27T20:29:35Z",
-    "peak": 12,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/EVVeRVP2p78/maxresdefault.jpg?v=6ae1099a",
-    "viewers": 8,
-    "dur": "1 ч 43 мин"
-   },
    {
     "vid": "tqEo2HFZYjU",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/yFJFUx-7Foc/maxresdefault.jpg?v=6ae2d27e",
     "viewers": 16,
     "dur": "12 мин"
+   },
+   {
+    "vid": "UTX-W7QFlww",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-29T06:00:23Z",
+    "peak": 1,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/UTX-W7QFlww/sddefault.jpg",
+    "viewers": 1,
+    "dur": "0 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 117 👁 · 23 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 3 👁 · 3 ч 01 мин\n└ Дома\n\n<b><a href=\"https://youtu.be/UTX-W7QFlww\">Селянин</a></b> · 1 👁 · 0 мин\n└ ТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 134 👁 · 38 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/J29H4N6gLjU\">Селянин</a></b> · 84 👁 · 14 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 1 👁 · 3 ч 16 мин\n└ Дома",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
