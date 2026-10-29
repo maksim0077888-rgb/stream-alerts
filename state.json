@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "Ja3aLYZU0TA": {
-    "vid": "Ja3aLYZU0TA",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-29T17:44:54Z",
-    "peak": 2018,
-    "has_viewers": true,
-    "title": "Бритни Спирт у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/Ja3aLYZU0TA/hqdefault.jpg?v=6ae3860b",
-    "viewers": 2018
-   },
    "0TTLZiUfods": {
     "vid": "0TTLZiUfods",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "как дела ?",
     "thumb": "https://i.ytimg.com/vi/0TTLZiUfods/maxresdefault.jpg?v=6ae395b8",
-    "viewers": 47
+    "viewers": 22
    }
   },
   "ended": [
-   {
-    "vid": "OGog6JCEE7M",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-28T18:20:50Z",
-    "peak": 97,
-    "has_viewers": true,
-    "title": "На Часик!",
-    "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
-    "viewers": 1,
-    "dur": "10 мин"
-   },
    {
     "vid": "1HQslUieDeo",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/vOn7ZYkrG5I/maxresdefault.jpg?v=6ae370fc",
     "viewers": 104,
     "dur": "2 ч 36 мин"
+   },
+   {
+    "vid": "Ja3aLYZU0TA",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-29T17:44:54Z",
+    "peak": 2018,
+    "has_viewers": true,
+    "title": "Бритни Спирт у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/Ja3aLYZU0TA/hqdefault.jpg?v=6ae3860b",
+    "viewers": 2018,
+    "dur": "2 ч 00 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Ja3aLYZU0TA\">Дон Грязь</a></b> · 2018 👁 · 1 ч 45 мин\n└ Бритни Спирт у меня в студии\n\n<b><a href=\"https://youtu.be/0TTLZiUfods\">Рифляй</a></b> · 47 👁 · 38 мин\n└ как дела ?",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/0TTLZiUfods\">Рифляй</a></b> · 22 👁 · 53 мин\n└ как дела ?",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
