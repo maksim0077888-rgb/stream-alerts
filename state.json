@@ -49,30 +49,30 @@
     "peak": 236,
     "has_viewers": true,
     "title": "ТВ",
-    "thumb": "https://i.ytimg.com/vi/bsPwo-JHoqs/maxresdefault.jpg?v=2a",
-    "viewers": 140
+    "thumb": "https://i.ytimg.com/vi/bsPwo-JHoqs/maxresdefault.jpg?v=33",
+    "viewers": 153
    },
    "MbW2ZZmktRQ": {
     "vid": "MbW2ZZmktRQ",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
     "name": "Дон Грязь",
     "start": "2026-10-29T13:43:09Z",
-    "peak": 148,
+    "peak": 1483,
     "has_viewers": true,
     "title": "уборка у маэстро",
-    "thumb": "https://i.ytimg.com/vi/MbW2ZZmktRQ/hqdefault.jpg",
-    "viewers": 148
+    "thumb": "https://i.ytimg.com/vi/MbW2ZZmktRQ/maxresdefault.jpg?v=4",
+    "viewers": 1483
    },
    "EGli9tDgVxQ": {
     "vid": "EGli9tDgVxQ",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-10-29T13:34:49Z",
-    "peak": 4794,
+    "peak": 6329,
     "has_viewers": true,
     "title": "АУКционыч (Я НИКОГДА НЕ ПОДКЛЮЧУ РУЛЬ!!!)",
-    "thumb": "https://i.ytimg.com/vi/EGli9tDgVxQ/maxresdefault.jpg?v=2",
-    "viewers": 4794
+    "thumb": "https://i.ytimg.com/vi/EGli9tDgVxQ/maxresdefault.jpg?v=5",
+    "viewers": 6329
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EGli9tDgVxQ\">ПАПИЧ</a></b> · 4794 👁 · 10 мин\n└ АУКционыч (Я НИКОГДА НЕ ПОДКЛЮЧУ РУЛЬ!!!)\n\n<b><a href=\"https://youtu.be/MbW2ZZmktRQ\">Дон Грязь</a></b> · 148 👁 · 2 мин\n└ уборка у маэстро\n\n<b><a href=\"https://youtu.be/bsPwo-JHoqs\">Селянин</a></b> · 140 👁 · 1 ч 10 мин\n└ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EGli9tDgVxQ\">ПАПИЧ</a></b> · 6329 👁 · 26 мин\n└ АУКционыч (Я НИКОГДА НЕ ПОДКЛЮЧУ РУЛЬ!!!)\n\n<b><a href=\"https://youtu.be/MbW2ZZmktRQ\">Дон Грязь</a></b> · 1483 👁 · 17 мин\n└ уборка у маэстро\n\n<b><a href=\"https://youtu.be/bsPwo-JHoqs\">Селянин</a></b> · 153 👁 · 1 ч 25 мин\n└ ТВ",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
