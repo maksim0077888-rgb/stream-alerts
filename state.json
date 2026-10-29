@@ -41,17 +41,6 @@
  "board": {
   "msg": 107,
   "streams": {
-   "1HQslUieDeo": {
-    "vid": "1HQslUieDeo",
-    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
-    "name": "Дон Грязь",
-    "start": "2026-10-28T16:37:00Z",
-    "peak": 19497,
-    "has_viewers": true,
-    "title": "Шмара едет",
-    "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
-    "viewers": 103
-   },
    "zfC1Jh3C6es": {
     "vid": "zfC1Jh3C6es",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -65,18 +54,6 @@
    }
   },
   "ended": [
-   {
-    "vid": "0mnirp0HYuE",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-27T16:06:50Z",
-    "peak": 40,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/0mnirp0HYuE/maxresdefault.jpg?v=6ae0cc02",
-    "viewers": 15,
-    "dur": "2 ч 05 мин"
-   },
    {
     "vid": "VTri4VQW6yQ",
     "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/OGog6JCEE7M/maxresdefault.jpg?v=2",
     "viewers": 1,
     "dur": "10 мин"
+   },
+   {
+    "vid": "1HQslUieDeo",
+    "cid": "UCEGkf3wJTjcDX97lG-O1jlg",
+    "name": "Дон Грязь",
+    "start": "2026-10-28T16:37:00Z",
+    "peak": 19497,
+    "has_viewers": true,
+    "title": "Шмара едет",
+    "thumb": "https://i.ytimg.com/vi/1HQslUieDeo/hqdefault.jpg?v=6ae224a1",
+    "viewers": 103,
+    "dur": "9 ч 51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/1HQslUieDeo\">Дон Грязь</a></b> · 103 👁 · 9 ч 38 мин\n└ Шмара едет\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 4 👁 · 6 ч 07 мин\n└ едем в клуб ждем волка",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/zfC1Jh3C6es\">Герман Ягодка</a></b> · 4 👁 · 6 ч 22 мин\n└ едем в клуб ждем волка",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
