@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "Дома",
     "thumb": "https://i.ytimg.com/vi/qwLyF4uvfug/maxresdefault.jpg?v=11",
-    "viewers": 6
-   },
-   "yFJFUx-7Foc": {
-    "vid": "yFJFUx-7Foc",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-29T04:59:07Z",
-    "peak": 16,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/yFJFUx-7Foc/maxresdefault.jpg?v=6ae2d27e",
-    "viewers": 16
+    "viewers": 7
    }
   },
   "ended": [
-   {
-    "vid": "5LLNEhWTii4",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-10-27T14:25:51Z",
-    "peak": 38,
-    "has_viewers": true,
-    "title": "ВО ВО 2",
-    "thumb": "https://i.ytimg.com/vi/5LLNEhWTii4/maxresdefault.jpg?v=6ae0b463",
-    "viewers": 0,
-    "dur": "7 ч 34 мин"
-   },
    {
     "vid": "EVVeRVP2p78",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/zfC1Jh3C6es/maxresdefault.jpg?v=9",
     "viewers": 3,
     "dur": "48 мин"
+   },
+   {
+    "vid": "yFJFUx-7Foc",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-29T04:59:07Z",
+    "peak": 16,
+    "has_viewers": true,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/yFJFUx-7Foc/maxresdefault.jpg?v=6ae2d27e",
+    "viewers": 16,
+    "dur": "12 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/yFJFUx-7Foc\">Ахиллес</a></b> · 16 👁 · 1 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 6 👁 · 2 ч 01 мин\n└ Дома",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 7 👁 · 2 ч 16 мин\n└ Дома",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
