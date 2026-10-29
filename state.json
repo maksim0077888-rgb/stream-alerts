@@ -50,29 +50,29 @@
     "has_viewers": true,
     "title": "Дома",
     "thumb": "https://i.ytimg.com/vi/qwLyF4uvfug/maxresdefault.jpg?v=11",
-    "viewers": 1
+    "viewers": 5
    },
    "08DGsEl_DeU": {
     "vid": "08DGsEl_DeU",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-10-29T05:37:24Z",
-    "peak": 134,
+    "peak": 140,
     "has_viewers": true,
     "title": "Прямая трансляция flaco",
-    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=7",
-    "viewers": 134
+    "thumb": "https://i.ytimg.com/vi/08DGsEl_DeU/maxresdefault.jpg?v=a",
+    "viewers": 140
    },
    "J29H4N6gLjU": {
     "vid": "J29H4N6gLjU",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-10-29T06:01:01Z",
-    "peak": 84,
+    "peak": 118,
     "has_viewers": true,
     "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/J29H4N6gLjU/maxresdefault.jpg?v=3",
-    "viewers": 84
+    "thumb": "https://i.ytimg.com/vi/J29H4N6gLjU/maxresdefault.jpg?v=6",
+    "viewers": 118
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "0 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 134 👁 · 38 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/J29H4N6gLjU\">Селянин</a></b> · 84 👁 · 14 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 1 👁 · 3 ч 16 мин\n└ Дома",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/08DGsEl_DeU\">Ахиллес</a></b> · 140 👁 · 53 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/J29H4N6gLjU\">Селянин</a></b> · 118 👁 · 29 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/qwLyF4uvfug\">Дон Грязь</a></b> · 5 👁 · 3 ч 31 мин\n└ Дома",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
