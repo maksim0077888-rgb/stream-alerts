@@ -38,5 +38,24 @@
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
  "day": "2026-10-30",
- "board": null
+ "board": {
+  "msg": 119,
+  "streams": {
+   "V_SBPs-jkYo": {
+    "vid": "V_SBPs-jkYo",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-30T08:50:34Z",
+    "peak": 40,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=1",
+    "viewers": 40
+   }
+  },
+  "ended": [],
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 40 👁 · 3 мин\n└ ПИТУХ ТВ",
+  "kind": "text",
+  "created": "2026-10-30T08:53:41.027717+00:00"
+ }
 }
