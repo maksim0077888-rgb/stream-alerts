@@ -49,8 +49,19 @@
     "peak": 404,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=21",
-    "viewers": 317
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=23",
+    "viewers": 301
+   },
+   "rxKBD_PdauE": {
+    "vid": "rxKBD_PdauE",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-10-30T11:43:30Z",
+    "peak": 49,
+    "has_viewers": true,
+    "title": "= Дон Симон - Погнали=",
+    "thumb": "https://i.ytimg.com/vi/rxKBD_PdauE/maxresdefault.jpg?v=6ae482d8",
+    "viewers": 49
    }
   },
   "ended": [
@@ -67,7 +78,7 @@
     "dur": "32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 317 👁 · 2 ч 40 мин\n└ ПИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 301 👁 · 2 ч 54 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/rxKBD_PdauE\">Don Simon</a></b> · 49 👁 · 2 мин\n└ = Дон Симон - Погнали=",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
