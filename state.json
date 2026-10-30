@@ -49,19 +49,30 @@
     "peak": 404,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=4c",
-    "viewers": 300
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=4f",
+    "viewers": 265
    },
-   "2TddsQ71OQw": {
-    "vid": "2TddsQ71OQw",
+   "cL6jWy18RlI": {
+    "vid": "cL6jWy18RlI",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-30T15:02:07Z",
+    "peak": 13,
+    "has_viewers": true,
+    "title": "ГДЕ СЕЙЧАС ЙОШКА ГВАРДОЛ?",
+    "thumb": "https://i.ytimg.com/vi/cL6jWy18RlI/sddefault.jpg?v=6ae4b166",
+    "viewers": 13
+   },
+   "V0pOg9Kp3wA": {
+    "vid": "V0pOg9Kp3wA",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
-    "start": "2026-10-30T13:53:12Z",
-    "peak": 94,
+    "start": "2026-10-30T15:10:39Z",
+    "peak": 25,
     "has_viewers": true,
     "title": "СТЕША СТРИМ",
-    "thumb": "https://i.ytimg.com/vi/2TddsQ71OQw/maxresdefault.jpg?v=9",
-    "viewers": 44
+    "thumb": "https://i.ytimg.com/vi/V0pOg9Kp3wA/maxresdefault.jpg?v=6ae4b365",
+    "viewers": 25
    }
   },
   "ended": [
@@ -88,9 +99,21 @@
     "thumb": "https://i.ytimg.com/vi/rxKBD_PdauE/maxresdefault.jpg?v=6ae482d8",
     "viewers": 145,
     "dur": "1 ч 55 мин"
+   },
+   {
+    "vid": "2TddsQ71OQw",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-30T13:53:12Z",
+    "peak": 94,
+    "has_viewers": true,
+    "title": "СТЕША СТРИМ",
+    "thumb": "https://i.ytimg.com/vi/2TddsQ71OQw/maxresdefault.jpg?v=9",
+    "viewers": 44,
+    "dur": "1 ч 16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 300 👁 · 6 ч 10 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/2TddsQ71OQw\">Ахиллес</a></b> · 44 👁 · 1 ч 07 мин\n└ СТЕША СТРИМ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 265 👁 · 6 ч 24 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/V0pOg9Kp3wA\">Ахиллес</a></b> · 25 👁 · 4 мин\n└ СТЕША СТРИМ\n\n<b><a href=\"https://youtu.be/cL6jWy18RlI\">Гундос</a></b> · 13 👁 · 13 мин\n└ ГДЕ СЕЙЧАС ЙОШКА ГВАРДОЛ?",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
