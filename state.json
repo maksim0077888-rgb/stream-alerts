@@ -49,19 +49,8 @@
     "peak": 404,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=61",
-    "viewers": 223
-   },
-   "V0pOg9Kp3wA": {
-    "vid": "V0pOg9Kp3wA",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-30T15:10:39Z",
-    "peak": 51,
-    "has_viewers": true,
-    "title": "СТЕША СТРИМ",
-    "thumb": "https://i.ytimg.com/vi/V0pOg9Kp3wA/maxresdefault.jpg?v=6ae4b365",
-    "viewers": 27
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=64",
+    "viewers": 195
    },
    "Jb3dw8gqFPU": {
     "vid": "Jb3dw8gqFPU",
@@ -71,19 +60,19 @@
     "peak": 209,
     "has_viewers": true,
     "title": "хх",
-    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=12",
-    "viewers": 154
+    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=15",
+    "viewers": 74
    },
    "uhMRg3dwwRg": {
     "vid": "uhMRg3dwwRg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-30T16:44:07Z",
-    "peak": 97,
+    "peak": 846,
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
-    "viewers": 97
+    "viewers": 846
    }
   },
   "ended": [
@@ -134,9 +123,21 @@
     "thumb": "https://i.ytimg.com/vi/cL6jWy18RlI/sddefault.jpg?v=6ae4b166",
     "viewers": 13,
     "dur": "14 мин"
+   },
+   {
+    "vid": "V0pOg9Kp3wA",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-30T15:10:39Z",
+    "peak": 51,
+    "has_viewers": true,
+    "title": "СТЕША СТРИМ",
+    "thumb": "https://i.ytimg.com/vi/V0pOg9Kp3wA/maxresdefault.jpg?v=6ae4b365",
+    "viewers": 27,
+    "dur": "1 ч 50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 223 👁 · 7 ч 54 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/Jb3dw8gqFPU\">Гундос</a></b> · 154 👁 · 1 ч 28 мин\n└ хх\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 97 👁 · 1 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V0pOg9Kp3wA\">Ахиллес</a></b> · 27 👁 · 1 ч 34 мин\n└ СТЕША СТРИМ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 846 👁 · 16 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 195 👁 · 8 ч 10 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/Jb3dw8gqFPU\">Гундос</a></b> · 74 👁 · 1 ч 44 мин\n└ хх",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
