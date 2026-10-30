@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "все в очко",
     "thumb": "https://i.ytimg.com/vi/k9RcfgKR6yo/maxresdefault.jpg?v=6ae3b2c7",
-    "viewers": 4
+    "viewers": 2
+   },
+   "r4m47QcoPR8": {
+    "vid": "r4m47QcoPR8",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-30T05:35:24Z",
+    "peak": 64,
+    "has_viewers": true,
+    "title": "Прямая трансляция flaco",
+    "thumb": "https://i.ytimg.com/vi/r4m47QcoPR8/maxresdefault.jpg?v=1",
+    "viewers": 64
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "1 ч 50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 4 👁 · 8 ч 34 мин\n└ все в очко",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/r4m47QcoPR8\">Ахиллес</a></b> · 64 👁 · 10 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/k9RcfgKR6yo\">Рифляй</a></b> · 2 👁 · 8 ч 49 мин\n└ все в очко",
   "created": "2026-10-15T12:30:41.468349+00:00",
   "kind": "text",
   "pic": "https://i.ytimg.com/vi/MlnBtvf6UTc/sddefault_live.jpg"
