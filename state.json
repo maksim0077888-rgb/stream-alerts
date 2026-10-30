@@ -49,8 +49,8 @@
     "peak": 404,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=67",
-    "viewers": 161
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=6a",
+    "viewers": 126
    },
    "Jb3dw8gqFPU": {
     "vid": "Jb3dw8gqFPU",
@@ -60,19 +60,19 @@
     "peak": 209,
     "has_viewers": true,
     "title": "хх",
-    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=18",
-    "viewers": 46
+    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=1a",
+    "viewers": 6
    },
    "uhMRg3dwwRg": {
     "vid": "uhMRg3dwwRg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-30T16:44:07Z",
-    "peak": 1298,
+    "peak": 1447,
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
-    "viewers": 1298
+    "viewers": 1447
    }
   },
   "ended": [
@@ -137,7 +137,7 @@
     "dur": "1 ч 50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 1298 👁 · 31 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 161 👁 · 8 ч 24 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/Jb3dw8gqFPU\">Гундос</a></b> · 46 👁 · 1 ч 58 мин\n└ хх",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 1447 👁 · 46 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 126 👁 · 8 ч 40 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/Jb3dw8gqFPU\">Гундос</a></b> · 6 👁 · 2 ч 13 мин\n└ хх",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
