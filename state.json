@@ -49,19 +49,8 @@
     "peak": 404,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=79",
-    "viewers": 123
-   },
-   "Jb3dw8gqFPU": {
-    "vid": "Jb3dw8gqFPU",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-10-30T15:16:45Z",
-    "peak": 209,
-    "has_viewers": true,
-    "title": "хх",
-    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=1d",
-    "viewers": 6
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=7c",
+    "viewers": 121
    },
    "uhMRg3dwwRg": {
     "vid": "uhMRg3dwwRg",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
-    "viewers": 859
+    "viewers": 571
    },
    "79C7BpngI10": {
     "vid": "79C7BpngI10",
@@ -82,8 +71,19 @@
     "peak": 26,
     "has_viewers": true,
     "title": "СТЕША СТРИМ",
-    "thumb": "https://i.ytimg.com/vi/79C7BpngI10/maxresdefault.jpg?v=5",
-    "viewers": 26
+    "thumb": "https://i.ytimg.com/vi/79C7BpngI10/maxresdefault.jpg?v=8",
+    "viewers": 2
+   },
+   "-JfE_gxiwes": {
+    "vid": "-JfE_gxiwes",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-30T18:59:01Z",
+    "peak": 6,
+    "has_viewers": true,
+    "title": "ГДЕ ЩА ЭРИК АБИДАЛЬ",
+    "thumb": "https://i.ytimg.com/vi/-JfE_gxiwes/maxresdefault.jpg?v=6ae4e8eb",
+    "viewers": 6
    }
   },
   "ended": [
@@ -146,9 +146,21 @@
     "thumb": "https://i.ytimg.com/vi/V0pOg9Kp3wA/maxresdefault.jpg?v=6ae4b365",
     "viewers": 27,
     "dur": "1 ч 50 мин"
+   },
+   {
+    "vid": "Jb3dw8gqFPU",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-10-30T15:16:45Z",
+    "peak": 209,
+    "has_viewers": true,
+    "title": "хх",
+    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=1d",
+    "viewers": 6,
+    "dur": "3 ч 41 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 859 👁 · 2 ч 01 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 123 👁 · 9 ч 54 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/79C7BpngI10\">Ахиллес</a></b> · 26 👁 · 26 мин\n└ СТЕША СТРИМ\n\n<b><a href=\"https://youtu.be/Jb3dw8gqFPU\">Гундос</a></b> · 6 👁 · 3 ч 28 мин\n└ хх",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 571 👁 · 2 ч 16 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 121 👁 · 10 ч 10 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/-JfE_gxiwes\">Гундос</a></b> · 6 👁 · 1 мин\n└ ГДЕ ЩА ЭРИК АБИДАЛЬ\n\n<b><a href=\"https://youtu.be/79C7BpngI10\">Ахиллес</a></b> · 2 👁 · 41 мин\n└ СТЕША СТРИМ",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
