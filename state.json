@@ -49,8 +49,8 @@
     "peak": 404,
     "has_viewers": true,
     "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=5e",
-    "viewers": 236
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=61",
+    "viewers": 223
    },
    "V0pOg9Kp3wA": {
     "vid": "V0pOg9Kp3wA",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "СТЕША СТРИМ",
     "thumb": "https://i.ytimg.com/vi/V0pOg9Kp3wA/maxresdefault.jpg?v=6ae4b365",
-    "viewers": 51
+    "viewers": 27
    },
    "Jb3dw8gqFPU": {
     "vid": "Jb3dw8gqFPU",
@@ -71,8 +71,19 @@
     "peak": 209,
     "has_viewers": true,
     "title": "хх",
-    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=f",
-    "viewers": 209
+    "thumb": "https://i.ytimg.com/vi/Jb3dw8gqFPU/maxresdefault.jpg?v=12",
+    "viewers": 154
+   },
+   "uhMRg3dwwRg": {
+    "vid": "uhMRg3dwwRg",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-30T16:44:07Z",
+    "peak": 97,
+    "has_viewers": true,
+    "title": "тут",
+    "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
+    "viewers": 97
    }
   },
   "ended": [
@@ -125,7 +136,7 @@
     "dur": "14 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 236 👁 · 7 ч 40 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/Jb3dw8gqFPU\">Гундос</a></b> · 209 👁 · 1 ч 13 мин\n└ хх\n\n<b><a href=\"https://youtu.be/V0pOg9Kp3wA\">Ахиллес</a></b> · 51 👁 · 1 ч 20 мин\n└ СТЕША СТРИМ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 223 👁 · 7 ч 54 мин\n└ ПИТУХ ТВ\n\n<b><a href=\"https://youtu.be/Jb3dw8gqFPU\">Гундос</a></b> · 154 👁 · 1 ч 28 мин\n└ хх\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 97 👁 · 1 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V0pOg9Kp3wA\">Ахиллес</a></b> · 27 👁 · 1 ч 34 мин\n└ СТЕША СТРИМ",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
