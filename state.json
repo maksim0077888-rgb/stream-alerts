@@ -41,27 +41,16 @@
  "board": {
   "msg": 119,
   "streams": {
-   "V_SBPs-jkYo": {
-    "vid": "V_SBPs-jkYo",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-30T08:50:34Z",
-    "peak": 404,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=94",
-    "viewers": 102
-   },
    "uhMRg3dwwRg": {
     "vid": "uhMRg3dwwRg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-30T16:44:07Z",
-    "peak": 1671,
+    "peak": 1755,
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
-    "viewers": 1671
+    "viewers": 1755
    }
   },
   "ended": [
@@ -160,9 +149,21 @@
     "thumb": "https://i.ytimg.com/vi/79C7BpngI10/maxresdefault.jpg?v=b",
     "viewers": 1,
     "dur": "1 ч 43 мин"
+   },
+   {
+    "vid": "V_SBPs-jkYo",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-30T08:50:34Z",
+    "peak": 404,
+    "has_viewers": true,
+    "title": "ПИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=94",
+    "viewers": 102,
+    "dur": "12 ч 11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 1671 👁 · 4 ч 16 мин\n└ тут\n\n<b><a href=\"https://youtu.be/V_SBPs-jkYo\">Селянин</a></b> · 102 👁 · 12 ч 10 мин\n└ ПИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 1755 👁 · 4 ч 31 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
