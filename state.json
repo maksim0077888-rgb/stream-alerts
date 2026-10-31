@@ -60,8 +60,8 @@
     "peak": 486,
     "has_viewers": true,
     "title": "Покушаем! Стрим с Розыгрышом!",
-    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=35",
-    "viewers": 252
+    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=38",
+    "viewers": 247
    },
    "t0HZA7u0xRk": {
     "vid": "t0HZA7u0xRk",
@@ -71,7 +71,7 @@
     "peak": 74,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=37",
+    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=3a",
     "viewers": 32
    },
    "4DUgjIsVqMc": {
@@ -82,30 +82,19 @@
     "peak": 97,
     "has_viewers": true,
     "title": "ЕМ ЛУК ЗА ДОНАТ",
-    "thumb": "https://i.ytimg.com/vi/4DUgjIsVqMc/maxresdefault.jpg?v=1a",
-    "viewers": 59
+    "thumb": "https://i.ytimg.com/vi/4DUgjIsVqMc/maxresdefault.jpg?v=1d",
+    "viewers": 65
    },
    "SFebyqEzqeU": {
     "vid": "SFebyqEzqeU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-31T15:22:16Z",
-    "peak": 559,
+    "peak": 618,
     "has_viewers": true,
     "title": "Хеллуин в центре",
     "thumb": "https://i.ytimg.com/vi/SFebyqEzqeU/maxresdefault.jpg?v=6ae6079e",
-    "viewers": 545
-   },
-   "7EIydhBCR7s": {
-    "vid": "7EIydhBCR7s",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-31T15:45:29Z",
-    "peak": 52,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/7EIydhBCR7s/maxresdefault.jpg?v=3",
-    "viewers": 52
+    "viewers": 618
    }
   },
   "ended": [
@@ -252,9 +241,21 @@
     "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=37",
     "viewers": 138,
     "dur": "4 ч 42 мин"
+   },
+   {
+    "vid": "7EIydhBCR7s",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-31T15:45:29Z",
+    "peak": 52,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/7EIydhBCR7s/maxresdefault.jpg?v=3",
+    "viewers": 52,
+    "dur": "25 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 6</b>\n\n<b><a href=\"https://youtu.be/SFebyqEzqeU\">Дон Грязь</a></b> · 545 👁 · 38 мин\n└ Хеллуин в центре\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 252 👁 · 4 ч 30 мин\n└ Покушаем! Стрим с Розыгрышом!\n\n<b><a href=\"https://youtu.be/4DUgjIsVqMc\">Ахиллес</a></b> · 59 👁 · 2 ч 01 мин\n└ ЕМ ЛУК ЗА ДОНАТ\n\n<b><a href=\"https://youtu.be/7EIydhBCR7s\">Селянин</a></b> · 52 👁 · 15 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 32 👁 · 4 ч 34 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 0 👁 · 4 ч 56 мин\n└ Persus Stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/SFebyqEzqeU\">Дон Грязь</a></b> · 618 👁 · 53 мин\n└ Хеллуин в центре\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 247 👁 · 4 ч 45 мин\n└ Покушаем! Стрим с Розыгрышом!\n\n<b><a href=\"https://youtu.be/4DUgjIsVqMc\">Ахиллес</a></b> · 65 👁 · 2 ч 16 мин\n└ ЕМ ЛУК ЗА ДОНАТ\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 32 👁 · 4 ч 48 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 0 👁 · 5 ч 10 мин\n└ Persus Stream",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
