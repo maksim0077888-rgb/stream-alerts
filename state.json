@@ -41,28 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "x3BmKAedU6c": {
-    "vid": "x3BmKAedU6c",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-31T11:04:32Z",
-    "peak": 35,
-    "has_viewers": true,
-    "title": "Persus Stream",
-    "thumb": "https://i.ytimg.com/vi/x3BmKAedU6c/maxresdefault.jpg?v=8",
-    "viewers": 0
-   },
-   "HJS43iBIL2c": {
-    "vid": "HJS43iBIL2c",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-31T11:30:15Z",
-    "peak": 486,
-    "has_viewers": true,
-    "title": "Покушаем! Стрим с Розыгрышом!",
-    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=3e",
-    "viewers": 237
-   },
    "t0HZA7u0xRk": {
     "vid": "t0HZA7u0xRk",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -71,8 +49,8 @@
     "peak": 74,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=40",
-    "viewers": 24
+    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=43",
+    "viewers": 20
    },
    "4DUgjIsVqMc": {
     "vid": "4DUgjIsVqMc",
@@ -82,19 +60,19 @@
     "peak": 97,
     "has_viewers": true,
     "title": "Пока так",
-    "thumb": "https://i.ytimg.com/vi/4DUgjIsVqMc/maxresdefault.jpg?v=23",
-    "viewers": 29
+    "thumb": "https://i.ytimg.com/vi/4DUgjIsVqMc/maxresdefault.jpg?v=24",
+    "viewers": 3
    },
    "SFebyqEzqeU": {
     "vid": "SFebyqEzqeU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-31T15:22:16Z",
-    "peak": 987,
+    "peak": 1051,
     "has_viewers": true,
     "title": "Хеллуин в центре",
     "thumb": "https://i.ytimg.com/vi/SFebyqEzqeU/maxresdefault.jpg?v=6ae6079e",
-    "viewers": 987
+    "viewers": 1051
    }
   },
   "ended": [
@@ -253,9 +231,33 @@
     "thumb": "https://i.ytimg.com/vi/7EIydhBCR7s/maxresdefault.jpg?v=3",
     "viewers": 52,
     "dur": "25 мин"
+   },
+   {
+    "vid": "x3BmKAedU6c",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-10-31T11:04:32Z",
+    "peak": 35,
+    "has_viewers": true,
+    "title": "Persus Stream",
+    "thumb": "https://i.ytimg.com/vi/x3BmKAedU6c/maxresdefault.jpg?v=8",
+    "viewers": 0,
+    "dur": "5 ч 54 мин"
+   },
+   {
+    "vid": "HJS43iBIL2c",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-31T11:30:15Z",
+    "peak": 486,
+    "has_viewers": true,
+    "title": "Покушаем! Стрим с Розыгрышом!",
+    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=3e",
+    "viewers": 237,
+    "dur": "5 ч 26 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/SFebyqEzqeU\">Дон Грязь</a></b> · 987 👁 · 1 ч 23 мин\n└ Хеллуин в центре\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 237 👁 · 5 ч 15 мин\n└ Покушаем! Стрим с Розыгрышом!\n\n<b><a href=\"https://youtu.be/4DUgjIsVqMc\">Ахиллес</a></b> · 29 👁 · 2 ч 46 мин\n└ Пока так\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 24 👁 · 5 ч 18 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 0 👁 · 5 ч 40 мин\n└ Persus Stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/SFebyqEzqeU\">Дон Грязь</a></b> · 1051 👁 · 1 ч 38 мин\n└ Хеллуин в центре\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 20 👁 · 5 ч 34 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/4DUgjIsVqMc\">Ахиллес</a></b> · 3 👁 · 3 ч 01 мин\n└ Пока так",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
