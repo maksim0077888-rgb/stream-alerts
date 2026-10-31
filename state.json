@@ -49,8 +49,8 @@
     "peak": 74,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=58",
-    "viewers": 16
+    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=5b",
+    "viewers": 9
    },
    "MRC902Bzyxk": {
     "vid": "MRC902Bzyxk",
@@ -60,19 +60,19 @@
     "peak": 87,
     "has_viewers": true,
     "title": "Вечерний стрим",
-    "thumb": "https://i.ytimg.com/vi/MRC902Bzyxk/maxresdefault.jpg?v=14",
-    "viewers": 44
+    "thumb": "https://i.ytimg.com/vi/MRC902Bzyxk/maxresdefault.jpg?v=18",
+    "viewers": 38
    },
    "VQD_KnCFgr4": {
     "vid": "VQD_KnCFgr4",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-31T18:35:21Z",
-    "peak": 804,
+    "peak": 6796,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/VQD_KnCFgr4/maxresdefault.jpg?v=2",
-    "viewers": 804
+    "thumb": "https://i.ytimg.com/vi/VQD_KnCFgr4/maxresdefault.jpg?v=5",
+    "viewers": 6796
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "3 ч 00 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/VQD_KnCFgr4\">Дон Грязь</a></b> · 804 👁 · 10 мин\n└ тут\n\n<b><a href=\"https://youtu.be/MRC902Bzyxk\">Ахиллес</a></b> · 44 👁 · 1 ч 43 мин\n└ Вечерний стрим\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 16 👁 · 7 ч 18 мин\n└ ХЭЛЛУИН",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/VQD_KnCFgr4\">Дон Грязь</a></b> · 6796 👁 · 25 мин\n└ тут\n\n<b><a href=\"https://youtu.be/MRC902Bzyxk\">Ахиллес</a></b> · 38 👁 · 1 ч 58 мин\n└ Вечерний стрим\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 9 👁 · 7 ч 34 мин\n└ ХЭЛЛУИН",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
