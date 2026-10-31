@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
-    "viewers": 237
-   },
-   "7d03Qa8Fq68": {
-    "vid": "7d03Qa8Fq68",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-31T02:04:25Z",
-    "peak": 76,
-    "has_viewers": true,
-    "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/7d03Qa8Fq68/maxresdefault.jpg?v=11",
-    "viewers": 76
+    "viewers": 185
    }
   },
   "ended": [
@@ -172,9 +161,21 @@
     "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=94",
     "viewers": 102,
     "dur": "12 ч 11 мин"
+   },
+   {
+    "vid": "7d03Qa8Fq68",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-31T02:04:25Z",
+    "peak": 76,
+    "has_viewers": true,
+    "title": "ИТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/7d03Qa8Fq68/maxresdefault.jpg?v=11",
+    "viewers": 76,
+    "dur": "1 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 237 👁 · 10 ч 46 мин\n└ тут\n\n<b><a href=\"https://youtu.be/7d03Qa8Fq68\">Селянин</a></b> · 76 👁 · 1 ч 26 мин\n└ ИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 185 👁 · 11 ч 01 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
