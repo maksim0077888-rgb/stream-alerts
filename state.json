@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Вечерний стрим",
     "thumb": "https://i.ytimg.com/vi/qxfK31_e_Hs/maxresdefault.jpg?v=5",
-    "viewers": 2
+    "viewers": 0
    },
    "4eHjgmFOBOA": {
     "vid": "4eHjgmFOBOA",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-10-31T20:01:12Z",
-    "peak": 14,
+    "peak": 25,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=14",
-    "viewers": 6
+    "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=17",
+    "viewers": 25
    },
    "lu1kKDjOBIQ": {
     "vid": "lu1kKDjOBIQ",
@@ -72,7 +72,18 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
-    "viewers": 3376
+    "viewers": 1192
+   },
+   "hszoS3mAaGc": {
+    "vid": "hszoS3mAaGc",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-31T21:52:15Z",
+    "peak": 38,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/hszoS3mAaGc/maxresdefault.jpg?v=2",
+    "viewers": 38
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "2 ч 03 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 3376 👁 · 1 ч 14 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4eHjgmFOBOA\">Школа Сук</a></b> · 6 👁 · 1 ч 44 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 2 👁 · 1 ч 59 мин\n└ Вечерний стрим",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 1192 👁 · 1 ч 29 мин\n└ тут\n\n<b><a href=\"https://youtu.be/hszoS3mAaGc\">Селянин</a></b> · 38 👁 · 8 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/4eHjgmFOBOA\">Школа Сук</a></b> · 25 👁 · 1 ч 59 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 0 👁 · 2 ч 14 мин\n└ Вечерний стрим",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
