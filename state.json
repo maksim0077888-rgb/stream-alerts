@@ -49,19 +49,41 @@
     "peak": 392,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=19",
-    "viewers": 392
+    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=1c",
+    "viewers": 376
    },
    "x3BmKAedU6c": {
     "vid": "x3BmKAedU6c",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
     "name": "Ахиллес",
     "start": "2026-10-31T11:04:32Z",
-    "peak": 6,
+    "peak": 35,
     "has_viewers": true,
     "title": "Persus Stream",
-    "thumb": "https://i.ytimg.com/vi/x3BmKAedU6c/maxresdefault.jpg",
-    "viewers": 6
+    "thumb": "https://i.ytimg.com/vi/x3BmKAedU6c/maxresdefault.jpg?v=2",
+    "viewers": 35
+   },
+   "HJS43iBIL2c": {
+    "vid": "HJS43iBIL2c",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-10-31T11:30:15Z",
+    "peak": 0,
+    "has_viewers": false,
+    "title": "Покушаем! Стрим с Розыгрышом!",
+    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg",
+    "viewers": 0
+   },
+   "t0HZA7u0xRk": {
+    "vid": "t0HZA7u0xRk",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-31T11:26:35Z",
+    "peak": 14,
+    "has_viewers": true,
+    "title": "ХЭЛЛУИН",
+    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=1",
+    "viewers": 14
    }
   },
   "ended": [
@@ -198,7 +220,7 @@
     "dur": "17 ч 44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/gSkquhRJGtE\">Селянин</a></b> · 392 👁 · 2 ч 03 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 6 👁 · 10 мин\n└ Persus Stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/gSkquhRJGtE\">Селянин</a></b> · 376 👁 · 2 ч 18 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 35 👁 · 26 мин\n└ Persus Stream\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 14 👁 · 4 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 0 мин\n└ Покушаем! Стрим с Розыгрышом!",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
