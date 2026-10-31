@@ -49,8 +49,8 @@
     "peak": 74,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=49",
-    "viewers": 19
+    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=4a",
+    "viewers": 18
    },
    "4DUgjIsVqMc": {
     "vid": "4DUgjIsVqMc",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "Пока так",
     "thumb": "https://i.ytimg.com/vi/4DUgjIsVqMc/maxresdefault.jpg?v=24",
-    "viewers": 4
+    "viewers": 3
    },
    "SFebyqEzqeU": {
     "vid": "SFebyqEzqeU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-10-31T15:22:16Z",
-    "peak": 1104,
+    "peak": 1117,
     "has_viewers": true,
     "title": "Хеллуин в центре",
     "thumb": "https://i.ytimg.com/vi/SFebyqEzqeU/maxresdefault.jpg?v=6ae6079e",
-    "viewers": 1104
+    "viewers": 1117
    },
    "MRC902Bzyxk": {
     "vid": "MRC902Bzyxk",
@@ -82,8 +82,8 @@
     "peak": 18,
     "has_viewers": true,
     "title": "Вечерний стрим",
-    "thumb": "https://i.ytimg.com/vi/MRC902Bzyxk/maxresdefault.jpg?v=6",
-    "viewers": 18
+    "thumb": "https://i.ytimg.com/vi/MRC902Bzyxk/maxresdefault.jpg?v=7",
+    "viewers": 12
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "5 ч 26 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/SFebyqEzqeU\">Дон Грязь</a></b> · 1104 👁 · 2 ч 08 мин\n└ Хеллуин в центре\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 19 👁 · 6 ч 04 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/MRC902Bzyxk\">Ахиллес</a></b> · 18 👁 · 28 мин\n└ Вечерний стрим\n\n<b><a href=\"https://youtu.be/4DUgjIsVqMc\">Ахиллес</a></b> · 4 👁 · 3 ч 31 мин\n└ Пока так",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/SFebyqEzqeU\">Дон Грязь</a></b> · 1117 👁 · 2 ч 14 мин\n└ Хеллуин в центре\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 18 👁 · 6 ч 09 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/MRC902Bzyxk\">Ахиллес</a></b> · 12 👁 · 33 мин\n└ Вечерний стрим\n\n<b><a href=\"https://youtu.be/4DUgjIsVqMc\">Ахиллес</a></b> · 3 👁 · 3 ч 36 мин\n└ Пока так",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
