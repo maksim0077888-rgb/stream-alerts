@@ -49,8 +49,8 @@
     "peak": 392,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=25",
-    "viewers": 210
+    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=28",
+    "viewers": 189
    },
    "x3BmKAedU6c": {
     "vid": "x3BmKAedU6c",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "Persus Stream",
     "thumb": "https://i.ytimg.com/vi/x3BmKAedU6c/maxresdefault.jpg?v=8",
-    "viewers": 2
+    "viewers": 0
    },
    "HJS43iBIL2c": {
     "vid": "HJS43iBIL2c",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-31T11:30:15Z",
-    "peak": 325,
+    "peak": 385,
     "has_viewers": true,
     "title": "Покушаем! Стрим с Розыгрышом!",
-    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=9",
-    "viewers": 325
+    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=d",
+    "viewers": 385
    },
    "t0HZA7u0xRk": {
     "vid": "t0HZA7u0xRk",
@@ -82,8 +82,8 @@
     "peak": 73,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=a",
-    "viewers": 73
+    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=c",
+    "viewers": 70
    }
   },
   "ended": [
@@ -220,7 +220,7 @@
     "dur": "17 ч 44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 325 👁 · 45 мин\n└ Покушаем! Стрим с Розыгрышом!\n\n<b><a href=\"https://youtu.be/gSkquhRJGtE\">Селянин</a></b> · 210 👁 · 3 ч 03 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 73 👁 · 48 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 2 👁 · 1 ч 11 мин\n└ Persus Stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 385 👁 · 1 ч 00 мин\n└ Покушаем! Стрим с Розыгрышом!\n\n<b><a href=\"https://youtu.be/gSkquhRJGtE\">Селянин</a></b> · 189 👁 · 3 ч 19 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 70 👁 · 1 ч 04 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 0 👁 · 1 ч 26 мин\n└ Persus Stream",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
