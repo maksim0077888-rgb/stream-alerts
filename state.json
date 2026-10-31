@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
-    "viewers": 622
+    "viewers": 695
    },
    "gSkquhRJGtE": {
     "vid": "gSkquhRJGtE",
@@ -60,8 +60,8 @@
     "peak": 108,
     "has_viewers": true,
     "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=4",
-    "viewers": 108
+    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=6",
+    "viewers": 107
    }
   },
   "ended": [
@@ -186,7 +186,7 @@
     "dur": "1 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 622 👁 · 16 ч 46 мин\n└ тут\n\n<b><a href=\"https://youtu.be/gSkquhRJGtE\">Селянин</a></b> · 108 👁 · 19 мин\n└ ТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 695 👁 · 17 ч 01 мин\n└ тут\n\n<b><a href=\"https://youtu.be/gSkquhRJGtE\">Селянин</a></b> · 107 👁 · 33 мин\n└ ТУХ ТВ",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
