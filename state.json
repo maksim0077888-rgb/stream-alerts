@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
-    "viewers": 291
+    "viewers": 211
    },
    "7d03Qa8Fq68": {
     "vid": "7d03Qa8Fq68",
@@ -60,8 +60,8 @@
     "peak": 67,
     "has_viewers": true,
     "title": "ИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/7d03Qa8Fq68/maxresdefault.jpg?v=5",
-    "viewers": 67
+    "thumb": "https://i.ytimg.com/vi/7d03Qa8Fq68/maxresdefault.jpg?v=8",
+    "viewers": 54
    }
   },
   "ended": [
@@ -174,7 +174,7 @@
     "dur": "12 ч 11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 291 👁 · 9 ч 46 мин\n└ тут\n\n<b><a href=\"https://youtu.be/7d03Qa8Fq68\">Селянин</a></b> · 67 👁 · 26 мин\n└ ИТУХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/uhMRg3dwwRg\">Дон Грязь</a></b> · 211 👁 · 10 ч 01 мин\n└ тут\n\n<b><a href=\"https://youtu.be/7d03Qa8Fq68\">Селянин</a></b> · 54 👁 · 41 мин\n└ ИТУХ ТВ",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
