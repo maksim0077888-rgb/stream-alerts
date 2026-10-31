@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "gSkquhRJGtE": {
-    "vid": "gSkquhRJGtE",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-31T09:11:39Z",
-    "peak": 392,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=37",
-    "viewers": 138
-   },
    "x3BmKAedU6c": {
     "vid": "x3BmKAedU6c",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -68,11 +57,11 @@
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-10-31T11:30:15Z",
-    "peak": 444,
+    "peak": 486,
     "has_viewers": true,
     "title": "Покушаем! Стрим с Розыгрышом!",
-    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=1b",
-    "viewers": 431
+    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=1e",
+    "viewers": 486
    },
    "t0HZA7u0xRk": {
     "vid": "t0HZA7u0xRk",
@@ -82,8 +71,19 @@
     "peak": 73,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=1d",
-    "viewers": 60
+    "thumb": "https://i.ytimg.com/vi/t0HZA7u0xRk/maxresdefault.jpg?v=20",
+    "viewers": 59
+   },
+   "4DUgjIsVqMc": {
+    "vid": "4DUgjIsVqMc",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-10-31T13:59:18Z",
+    "peak": 15,
+    "has_viewers": true,
+    "title": "Прямая трансляция flaco",
+    "thumb": "https://i.ytimg.com/vi/4DUgjIsVqMc/maxresdefault.jpg?v=1",
+    "viewers": 15
    }
   },
   "ended": [
@@ -218,9 +218,21 @@
     "thumb": "https://i.ytimg.com/vi/uhMRg3dwwRg/maxresdefault.jpg?v=6ae4c94c",
     "viewers": 671,
     "dur": "17 ч 44 мин"
+   },
+   {
+    "vid": "gSkquhRJGtE",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-31T09:11:39Z",
+    "peak": 392,
+    "has_viewers": true,
+    "title": "ТУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=37",
+    "viewers": 138,
+    "dur": "4 ч 42 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 431 👁 · 2 ч 15 мин\n└ Покушаем! Стрим с Розыгрышом!\n\n<b><a href=\"https://youtu.be/gSkquhRJGtE\">Селянин</a></b> · 138 👁 · 4 ч 33 мин\n└ ТУХ ТВ\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 60 👁 · 2 ч 18 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 0 👁 · 2 ч 40 мин\n└ Persus Stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/HJS43iBIL2c\">Герман Ягодка</a></b> · 486 👁 · 2 ч 30 мин\n└ Покушаем! Стрим с Розыгрышом!\n\n<b><a href=\"https://youtu.be/t0HZA7u0xRk\">Школа Сук</a></b> · 59 👁 · 2 ч 34 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/4DUgjIsVqMc\">Ахиллес</a></b> · 15 👁 · 1 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/x3BmKAedU6c\">Ахиллес</a></b> · 0 👁 · 2 ч 56 мин\n└ Persus Stream",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
