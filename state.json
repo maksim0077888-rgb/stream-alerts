@@ -37,7 +37,7 @@
   "https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g": "UCSVKrRZ6viFK3C9diKAkw6g",
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
- "day": "2026-10-31",
+ "day": "2026-11-01",
  "board": {
   "msg": 119,
   "streams": {
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
     "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=2f",
-    "viewers": 14
+    "viewers": 12
    },
    "lu1kKDjOBIQ": {
     "vid": "lu1kKDjOBIQ",
@@ -72,7 +72,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
-    "viewers": 986
+    "viewers": 997
    },
    "hszoS3mAaGc": {
     "vid": "hszoS3mAaGc",
@@ -83,7 +83,7 @@
     "has_viewers": true,
     "title": "УХ ТВ",
     "thumb": "https://i.ytimg.com/vi/hszoS3mAaGc/maxresdefault.jpg?v=1a",
-    "viewers": 45
+    "viewers": 10
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "2 ч 03 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 986 👁 · 3 ч 28 мин\n└ тут\n\n<b><a href=\"https://youtu.be/hszoS3mAaGc\">Селянин</a></b> · 45 👁 · 2 ч 07 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/4eHjgmFOBOA\">Школа Сук</a></b> · 14 👁 · 3 ч 58 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 0 👁 · 4 ч 13 мин\n└ Вечерний стрим",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 997 👁 · 3 ч 29 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4eHjgmFOBOA\">Школа Сук</a></b> · 12 👁 · 3 ч 59 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/hszoS3mAaGc\">Селянин</a></b> · 10 👁 · 2 ч 08 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 0 👁 · 4 ч 14 мин\n└ Вечерний стрим",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
