@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
-    "viewers": 13
+    "viewers": 10
    },
    "tzAzaJRKuw0": {
     "vid": "tzAzaJRKuw0",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
     "name": "Ахиллес",
     "start": "2026-11-01T05:11:59Z",
-    "peak": 57,
+    "peak": 74,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=5",
-    "viewers": 57
+    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=6",
+    "viewers": 74
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "4 ч 01 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 57 👁 · 18 мин\n└ тут\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 13 👁 · 8 ч 59 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 74 👁 · 27 мин\n└ тут\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 10 👁 · 9 ч 08 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
