@@ -49,8 +49,8 @@
     "peak": 111,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=29",
-    "viewers": 5
+    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=2b",
+    "viewers": 18
    },
    "bElDqNVyIOM": {
     "vid": "bElDqNVyIOM",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 4536
+    "viewers": 3078
    },
    "Edu1fpdFUKU": {
     "vid": "Edu1fpdFUKU",
@@ -71,45 +71,22 @@
     "peak": 30,
     "has_viewers": true,
     "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=2f",
-    "viewers": 30
-   },
-   "CyXj-LD2O-w": {
-    "vid": "CyXj-LD2O-w",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-01T12:20:47Z",
-    "peak": 237,
-    "has_viewers": true,
-    "title": "ДР",
-    "thumb": "https://i.ytimg.com/vi/CyXj-LD2O-w/maxresdefault.jpg?v=6ae72d7a",
-    "viewers": 237
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=32",
+    "viewers": 20
    },
    "C0G0P23XIj4": {
     "vid": "C0G0P23XIj4",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-01T14:10:05Z",
-    "peak": 2603,
+    "peak": 3227,
     "has_viewers": true,
     "title": "GOWнище до конца!!!",
-    "thumb": "https://i.ytimg.com/vi/C0G0P23XIj4/maxresdefault.jpg?v=1",
-    "viewers": 2603
+    "thumb": "https://i.ytimg.com/vi/C0G0P23XIj4/maxresdefault.jpg?v=4",
+    "viewers": 3227
    }
   },
   "ended": [
-   {
-    "vid": "HJS43iBIL2c",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-10-31T11:30:15Z",
-    "peak": 486,
-    "has_viewers": true,
-    "title": "Покушаем! Стрим с Розыгрышом!",
-    "thumb": "https://i.ytimg.com/vi/HJS43iBIL2c/maxresdefault.jpg?v=3e",
-    "viewers": 237,
-    "dur": "5 ч 26 мин"
-   },
    {
     "vid": "4DUgjIsVqMc",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/wGMGHXGcJpA/maxresdefault.jpg?v=1",
     "viewers": 12,
     "dur": "9 мин"
+   },
+   {
+    "vid": "CyXj-LD2O-w",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-11-01T12:20:47Z",
+    "peak": 237,
+    "has_viewers": true,
+    "title": "ДР",
+    "thumb": "https://i.ytimg.com/vi/CyXj-LD2O-w/maxresdefault.jpg?v=6ae72d7a",
+    "viewers": 237,
+    "dur": "1 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 4536 👁 · 4 ч 34 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/C0G0P23XIj4\">ПАПИЧ</a></b> · 2603 👁 · 5 мин\n└ GOWнище до конца!!!\n\n<b><a href=\"https://youtu.be/CyXj-LD2O-w\">Депутат</a></b> · 237 👁 · 1 ч 54 мин\n└ ДР\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 30 👁 · 3 ч 54 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 5 👁 · 9 ч 03 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/C0G0P23XIj4\">ПАПИЧ</a></b> · 3227 👁 · 20 мин\n└ GOWнище до конца!!!\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 3078 👁 · 4 ч 49 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 20 👁 · 4 ч 09 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 18 👁 · 9 ч 18 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
