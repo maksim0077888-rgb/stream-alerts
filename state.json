@@ -49,8 +49,8 @@
     "peak": 111,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=2b",
-    "viewers": 18
+    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=2e",
+    "viewers": 12
    },
    "bElDqNVyIOM": {
     "vid": "bElDqNVyIOM",
@@ -61,29 +61,29 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 3078
+    "viewers": 1211
    },
    "Edu1fpdFUKU": {
     "vid": "Edu1fpdFUKU",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-01T10:21:37Z",
-    "peak": 30,
+    "peak": 31,
     "has_viewers": true,
     "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=32",
-    "viewers": 20
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=35",
+    "viewers": 31
    },
    "C0G0P23XIj4": {
     "vid": "C0G0P23XIj4",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-01T14:10:05Z",
-    "peak": 3227,
+    "peak": 3486,
     "has_viewers": true,
     "title": "GOWнище до конца!!!",
-    "thumb": "https://i.ytimg.com/vi/C0G0P23XIj4/maxresdefault.jpg?v=4",
-    "viewers": 3227
+    "thumb": "https://i.ytimg.com/vi/C0G0P23XIj4/maxresdefault.jpg?v=7",
+    "viewers": 3486
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "1 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/C0G0P23XIj4\">ПАПИЧ</a></b> · 3227 👁 · 20 мин\n└ GOWнище до конца!!!\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 3078 👁 · 4 ч 49 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 20 👁 · 4 ч 09 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 18 👁 · 9 ч 18 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/C0G0P23XIj4\">ПАПИЧ</a></b> · 3486 👁 · 35 мин\n└ GOWнище до конца!!!\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 1211 👁 · 5 ч 04 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 31 👁 · 4 ч 23 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 12 👁 · 9 ч 33 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
