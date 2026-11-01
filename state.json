@@ -49,19 +49,19 @@
     "peak": 111,
     "has_viewers": true,
     "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=25",
-    "viewers": 11
+    "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=26",
+    "viewers": 5
    },
    "rwdABc-uYT8": {
     "vid": "rwdABc-uYT8",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-01T08:01:51Z",
-    "peak": 243,
+    "peak": 277,
     "has_viewers": true,
     "title": "Прямая трансляция flaco",
-    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=8",
-    "viewers": 243
+    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=b",
+    "viewers": 277
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 243 👁 · 43 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 11 👁 · 3 ч 33 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 277 👁 · 58 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 5 👁 · 3 ч 48 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
