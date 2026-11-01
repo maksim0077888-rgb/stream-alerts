@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "lu1kKDjOBIQ": {
-    "vid": "lu1kKDjOBIQ",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-10-31T20:30:50Z",
-    "peak": 3501,
-    "has_viewers": true,
-    "title": "тут",
-    "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
-    "viewers": 12
-   },
    "tzAzaJRKuw0": {
     "vid": "tzAzaJRKuw0",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=14",
-    "viewers": 66
+    "viewers": 16
    }
   },
   "ended": [
-   {
-    "vid": "gSkquhRJGtE",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-31T09:11:39Z",
-    "peak": 392,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/gSkquhRJGtE/maxresdefault.jpg?v=37",
-    "viewers": 138,
-    "dur": "4 ч 42 мин"
-   },
    {
     "vid": "7EIydhBCR7s",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/90wTxhv0S5Y/maxresdefault.jpg?v=14",
     "viewers": 1,
     "dur": "4 ч 01 мин"
+   },
+   {
+    "vid": "lu1kKDjOBIQ",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-10-31T20:30:50Z",
+    "peak": 3501,
+    "has_viewers": true,
+    "title": "тут",
+    "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
+    "viewers": 12,
+    "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 66 👁 · 1 ч 33 мин\n└ тут\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 12 👁 · 10 ч 14 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 16 👁 · 1 ч 48 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
