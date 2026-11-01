@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=5e",
-    "viewers": 2
+    "viewers": 1
    },
    "bElDqNVyIOM": {
     "vid": "bElDqNVyIOM",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 1176
+    "viewers": 1239
    },
    "Edu1fpdFUKU": {
     "vid": "Edu1fpdFUKU",
@@ -71,8 +71,8 @@
     "peak": 39,
     "has_viewers": true,
     "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=6b",
-    "viewers": 26
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=6e",
+    "viewers": 31
    },
    "CZSpHJp3ukQ": {
     "vid": "CZSpHJp3ukQ",
@@ -83,7 +83,7 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/CZSpHJp3ukQ/maxresdefault.jpg?v=6ae7716f",
-    "viewers": 18
+    "viewers": 9
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "3 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 1176 👁 · 9 ч 34 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 26 👁 · 8 ч 53 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/CZSpHJp3ukQ\">Ахиллес</a></b> · 18 👁 · 2 ч 09 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 2 👁 · 14 ч 03 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 1239 👁 · 9 ч 49 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 31 👁 · 9 ч 09 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/CZSpHJp3ukQ\">Ахиллес</a></b> · 9 👁 · 2 ч 24 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 1 👁 · 14 ч 18 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
