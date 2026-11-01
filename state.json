@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=26",
     "viewers": 0
    },
-   "rwdABc-uYT8": {
-    "vid": "rwdABc-uYT8",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-01T08:01:51Z",
-    "peak": 287,
-    "has_viewers": true,
-    "title": "ГОМ, МЫ ЖДЕМ ТЕБЯ",
-    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=42",
-    "viewers": 198
-   },
    "bElDqNVyIOM": {
     "vid": "bElDqNVyIOM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "Уборка, вечером тёлка",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 897
+    "viewers": 1025
    },
    "Edu1fpdFUKU": {
     "vid": "Edu1fpdFUKU",
@@ -82,7 +71,7 @@
     "peak": 25,
     "has_viewers": true,
     "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=26",
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=29",
     "viewers": 24
    },
    "CyXj-LD2O-w": {
@@ -94,22 +83,10 @@
     "has_viewers": true,
     "title": "ДР",
     "thumb": "https://i.ytimg.com/vi/CyXj-LD2O-w/maxresdefault.jpg?v=6ae72d7a",
-    "viewers": 88
+    "viewers": 80
    }
   },
   "ended": [
-   {
-    "vid": "7EIydhBCR7s",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-31T15:45:29Z",
-    "peak": 52,
-    "has_viewers": true,
-    "title": "ТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/7EIydhBCR7s/maxresdefault.jpg?v=3",
-    "viewers": 52,
-    "dur": "25 мин"
-   },
    {
     "vid": "x3BmKAedU6c",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
     "viewers": 12,
     "dur": "3 ч 33 мин"
+   },
+   {
+    "vid": "rwdABc-uYT8",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-01T08:01:51Z",
+    "peak": 287,
+    "has_viewers": true,
+    "title": "ГОМ, МЫ ЖДЕМ ТЕБЯ",
+    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=42",
+    "viewers": 198,
+    "dur": "5 ч 40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 897 👁 · 3 ч 49 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 198 👁 · 5 ч 28 мин\n└ ГОМ, МЫ ЖДЕМ ТЕБЯ\n\n<b><a href=\"https://youtu.be/CyXj-LD2O-w\">Депутат</a></b> · 88 👁 · 1 ч 09 мин\n└ ДР\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 24 👁 · 3 ч 09 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 0 👁 · 8 ч 18 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 1025 👁 · 4 ч 04 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/CyXj-LD2O-w\">Депутат</a></b> · 80 👁 · 1 ч 24 мин\n└ ДР\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 24 👁 · 3 ч 23 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 0 👁 · 8 ч 33 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
