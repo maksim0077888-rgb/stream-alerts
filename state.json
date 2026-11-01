@@ -60,7 +60,7 @@
     "peak": 25,
     "has_viewers": true,
     "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=2f",
+    "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=32",
     "viewers": 12
    },
    "lu1kKDjOBIQ": {
@@ -72,33 +72,10 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
-    "viewers": 997
-   },
-   "hszoS3mAaGc": {
-    "vid": "hszoS3mAaGc",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-31T21:52:15Z",
-    "peak": 82,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/hszoS3mAaGc/maxresdefault.jpg?v=1a",
-    "viewers": 10
+    "viewers": 121
    }
   },
   "ended": [
-   {
-    "vid": "79C7BpngI10",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-10-30T18:19:09Z",
-    "peak": 26,
-    "has_viewers": true,
-    "title": "СТЕША СТРИМ",
-    "thumb": "https://i.ytimg.com/vi/79C7BpngI10/maxresdefault.jpg?v=b",
-    "viewers": 1,
-    "dur": "1 ч 43 мин"
-   },
    {
     "vid": "V_SBPs-jkYo",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/L4xKkMczFJM/maxresdefault.jpg?v=17",
     "viewers": 291,
     "dur": "2 ч 03 мин"
+   },
+   {
+    "vid": "hszoS3mAaGc",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-10-31T21:52:15Z",
+    "peak": 82,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/hszoS3mAaGc/maxresdefault.jpg?v=1a",
+    "viewers": 10,
+    "dur": "2 ч 07 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 997 👁 · 3 ч 29 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4eHjgmFOBOA\">Школа Сук</a></b> · 12 👁 · 3 ч 59 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/hszoS3mAaGc\">Селянин</a></b> · 10 👁 · 2 ч 08 мин\n└ УХ ТВ\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 0 👁 · 4 ч 14 мин\n└ Вечерний стрим",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 121 👁 · 3 ч 44 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4eHjgmFOBOA\">Школа Сук</a></b> · 12 👁 · 4 ч 14 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 0 👁 · 4 ч 29 мин\n└ Вечерний стрим",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
