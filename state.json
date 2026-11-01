@@ -60,19 +60,19 @@
     "peak": 287,
     "has_viewers": true,
     "title": "ГОМ, МЫ ЖДЕМ ТЕБЯ",
-    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=32",
-    "viewers": 203
+    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=35",
+    "viewers": 233
    },
    "bElDqNVyIOM": {
     "vid": "bElDqNVyIOM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-01T09:41:28Z",
-    "peak": 930,
+    "peak": 1024,
     "has_viewers": true,
     "title": "Гуляемся дальше",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 930
+    "viewers": 1024
    },
    "Edu1fpdFUKU": {
     "vid": "Edu1fpdFUKU",
@@ -82,8 +82,19 @@
     "peak": 23,
     "has_viewers": true,
     "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=16",
-    "viewers": 19
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=19",
+    "viewers": 17
+   },
+   "CyXj-LD2O-w": {
+    "vid": "CyXj-LD2O-w",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-11-01T12:20:47Z",
+    "peak": 90,
+    "has_viewers": true,
+    "title": "ДР",
+    "thumb": "https://i.ytimg.com/vi/CyXj-LD2O-w/maxresdefault.jpg?v=6ae72d7a",
+    "viewers": 90
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 930 👁 · 2 ч 34 мин\n└ Гуляемся дальше\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 203 👁 · 4 ч 13 мин\n└ ГОМ, МЫ ЖДЕМ ТЕБЯ\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 19 👁 · 1 ч 53 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 0 👁 · 7 ч 03 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 1024 👁 · 2 ч 49 мин\n└ Гуляемся дальше\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 233 👁 · 4 ч 28 мин\n└ ГОМ, МЫ ЖДЕМ ТЕБЯ\n\n<b><a href=\"https://youtu.be/CyXj-LD2O-w\">Депутат</a></b> · 90 👁 · 9 мин\n└ ДР\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 17 👁 · 2 ч 09 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 0 👁 · 7 ч 18 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
