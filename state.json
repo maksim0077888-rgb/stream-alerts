@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=26",
-    "viewers": 1
+    "viewers": 0
    },
    "rwdABc-uYT8": {
     "vid": "rwdABc-uYT8",
@@ -59,9 +59,9 @@
     "start": "2026-11-01T08:01:51Z",
     "peak": 287,
     "has_viewers": true,
-    "title": "ЕДУ К ПОЛУДАУНУ",
-    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=23",
-    "viewers": 256
+    "title": "ГОМ, МЫ ЖДЕМ ТЕБЯ",
+    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=26",
+    "viewers": 228
    },
    "bElDqNVyIOM": {
     "vid": "bElDqNVyIOM",
@@ -72,18 +72,18 @@
     "has_viewers": true,
     "title": "Гуляемся дальше",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 692
+    "viewers": 606
    },
    "Edu1fpdFUKU": {
     "vid": "Edu1fpdFUKU",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-01T10:21:37Z",
-    "peak": 13,
+    "peak": 14,
     "has_viewers": true,
     "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=7",
-    "viewers": 12
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=a",
+    "viewers": 14
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 692 👁 · 1 ч 19 мин\n└ Гуляемся дальше\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 256 👁 · 2 ч 58 мин\n└ ЕДУ К ПОЛУДАУНУ\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 12 👁 · 39 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 1 👁 · 5 ч 48 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 606 👁 · 1 ч 34 мин\n└ Гуляемся дальше\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 228 👁 · 3 ч 13 мин\n└ ГОМ, МЫ ЖДЕМ ТЕБЯ\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 14 👁 · 53 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 0 👁 · 6 ч 03 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
