@@ -59,9 +59,20 @@
     "start": "2026-11-01T08:01:51Z",
     "peak": 287,
     "has_viewers": true,
-    "title": "Прямая трансляция flaco",
-    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=11",
-    "viewers": 287
+    "title": "ЕДУ К ПОЛУДАУНУ",
+    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=14",
+    "viewers": 274
+   },
+   "bElDqNVyIOM": {
+    "vid": "bElDqNVyIOM",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-01T09:41:28Z",
+    "peak": 211,
+    "has_viewers": true,
+    "title": "Гуляемся дальше",
+    "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
+    "viewers": 211
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 287 👁 · 1 ч 28 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 3 👁 · 4 ч 18 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 274 👁 · 1 ч 43 мин\n└ ЕДУ К ПОЛУДАУНУ\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 211 👁 · 4 мин\n└ Гуляемся дальше\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 3 👁 · 4 ч 33 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
