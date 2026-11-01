@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
-    "viewers": 31
+    "viewers": 29
    },
    "90wTxhv0S5Y": {
     "vid": "90wTxhv0S5Y",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "persus stream",
     "thumb": "https://i.ytimg.com/vi/90wTxhv0S5Y/maxresdefault.jpg?v=14",
-    "viewers": 0
+    "viewers": 1
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "5 ч 15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 31 👁 · 6 ч 59 мин\n└ тут\n\n<b><a href=\"https://youtu.be/90wTxhv0S5Y\">Ахиллес</a></b> · 0 👁 · 2 ч 22 мин\n└ persus stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 29 👁 · 7 ч 14 мин\n└ тут\n\n<b><a href=\"https://youtu.be/90wTxhv0S5Y\">Ахиллес</a></b> · 1 👁 · 2 ч 37 мин\n└ persus stream",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
