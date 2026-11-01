@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/tzAzaJRKuw0/maxresdefault.jpg?v=26",
-    "viewers": 2
+    "viewers": 1
    },
    "rwdABc-uYT8": {
     "vid": "rwdABc-uYT8",
@@ -60,19 +60,30 @@
     "peak": 287,
     "has_viewers": true,
     "title": "ЕДУ К ПОЛУДАУНУ",
-    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=1a",
-    "viewers": 261
+    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=1d",
+    "viewers": 212
    },
    "bElDqNVyIOM": {
     "vid": "bElDqNVyIOM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-01T09:41:28Z",
-    "peak": 408,
+    "peak": 628,
     "has_viewers": true,
     "title": "Гуляемся дальше",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 408
+    "viewers": 628
+   },
+   "Edu1fpdFUKU": {
+    "vid": "Edu1fpdFUKU",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-01T10:21:37Z",
+    "peak": 12,
+    "has_viewers": true,
+    "title": "ыыыыы",
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=1",
+    "viewers": 12
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 408 👁 · 34 мин\n└ Гуляемся дальше\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 261 👁 · 2 ч 13 мин\n└ ЕДУ К ПОЛУДАУНУ\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 2 👁 · 5 ч 03 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 628 👁 · 49 мин\n└ Гуляемся дальше\n\n<b><a href=\"https://youtu.be/rwdABc-uYT8\">Ахиллес</a></b> · 212 👁 · 2 ч 28 мин\n└ ЕДУ К ПОЛУДАУНУ\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 12 👁 · 9 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 1 👁 · 5 ч 18 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
