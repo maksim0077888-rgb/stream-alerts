@@ -57,22 +57,22 @@
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-01T09:41:28Z",
-    "peak": 1025,
+    "peak": 2378,
     "has_viewers": true,
     "title": "Уборка, вечером тёлка",
     "thumb": "https://i.ytimg.com/vi/bElDqNVyIOM/maxresdefault.jpg?v=6ae7093c",
-    "viewers": 1025
+    "viewers": 2378
    },
    "Edu1fpdFUKU": {
     "vid": "Edu1fpdFUKU",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-01T10:21:37Z",
-    "peak": 25,
+    "peak": 30,
     "has_viewers": true,
     "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=29",
-    "viewers": 24
+    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=2c",
+    "viewers": 30
    },
    "CyXj-LD2O-w": {
     "vid": "CyXj-LD2O-w",
@@ -83,7 +83,18 @@
     "has_viewers": true,
     "title": "ДР",
     "thumb": "https://i.ytimg.com/vi/CyXj-LD2O-w/maxresdefault.jpg?v=6ae72d7a",
-    "viewers": 80
+    "viewers": 75
+   },
+   "wGMGHXGcJpA": {
+    "vid": "wGMGHXGcJpA",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-01T13:56:06Z",
+    "peak": 12,
+    "has_viewers": true,
+    "title": "Прямая трансляция Persus",
+    "thumb": "https://i.ytimg.com/vi/wGMGHXGcJpA/maxresdefault.jpg?v=1",
+    "viewers": 12
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "5 ч 40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 1025 👁 · 4 ч 04 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/CyXj-LD2O-w\">Депутат</a></b> · 80 👁 · 1 ч 24 мин\n└ ДР\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 24 👁 · 3 ч 23 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 0 👁 · 8 ч 33 мин\n└ тут",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/bElDqNVyIOM\">Дон Грязь</a></b> · 2378 👁 · 4 ч 19 мин\n└ Уборка, вечером тёлка\n\n<b><a href=\"https://youtu.be/CyXj-LD2O-w\">Депутат</a></b> · 75 👁 · 1 ч 40 мин\n└ ДР\n\n<b><a href=\"https://youtu.be/Edu1fpdFUKU\">Школа Сук</a></b> · 30 👁 · 3 ч 39 мин\n└ ыыыыы\n\n<b><a href=\"https://youtu.be/wGMGHXGcJpA\">Ахиллес</a></b> · 12 👁 · 4 мин\n└ Прямая трансляция Persus\n\n<b><a href=\"https://youtu.be/tzAzaJRKuw0\">Ахиллес</a></b> · 0 👁 · 8 ч 48 мин\n└ тут",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
