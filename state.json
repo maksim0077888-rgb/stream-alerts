@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/qxfK31_e_Hs/maxresdefault.jpg?v=5",
     "viewers": 0
    },
-   "4eHjgmFOBOA": {
-    "vid": "4eHjgmFOBOA",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-31T20:01:12Z",
-    "peak": 25,
-    "has_viewers": true,
-    "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=38",
-    "viewers": 9
-   },
    "lu1kKDjOBIQ": {
     "vid": "lu1kKDjOBIQ",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -72,22 +61,10 @@
     "has_viewers": true,
     "title": "тут",
     "thumb": "https://i.ytimg.com/vi/lu1kKDjOBIQ/maxresdefault.jpg?v=6ae64ff2",
-    "viewers": 73
+    "viewers": 74
    }
   },
   "ended": [
-   {
-    "vid": "V_SBPs-jkYo",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-10-30T08:50:34Z",
-    "peak": 404,
-    "has_viewers": true,
-    "title": "ПИТУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/V_SBPs-jkYo/maxresdefault.jpg?v=94",
-    "viewers": 102,
-    "dur": "12 ч 11 мин"
-   },
    {
     "vid": "7d03Qa8Fq68",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/hszoS3mAaGc/maxresdefault.jpg?v=1a",
     "viewers": 10,
     "dur": "2 ч 07 мин"
+   },
+   {
+    "vid": "4eHjgmFOBOA",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-10-31T20:01:12Z",
+    "peak": 25,
+    "has_viewers": true,
+    "title": "ХЭЛЛУИН",
+    "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=38",
+    "viewers": 9,
+    "dur": "4 ч 56 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 73 👁 · 4 ч 14 мин\n└ тут\n\n<b><a href=\"https://youtu.be/4eHjgmFOBOA\">Школа Сук</a></b> · 9 👁 · 4 ч 44 мин\n└ ХЭЛЛУИН\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 0 👁 · 4 ч 59 мин\n└ Вечерний стрим",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lu1kKDjOBIQ\">Дон Грязь</a></b> · 74 👁 · 4 ч 30 мин\n└ тут\n\n<b><a href=\"https://youtu.be/qxfK31_e_Hs\">Ахиллес</a></b> · 0 👁 · 5 ч 14 мин\n└ Вечерний стрим",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
