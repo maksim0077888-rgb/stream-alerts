@@ -49,56 +49,33 @@
     "peak": 67,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=51",
-    "viewers": 21
-   },
-   "Sv9wipunFzQ": {
-    "vid": "Sv9wipunFzQ",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-02T13:40:30Z",
-    "peak": 1117,
-    "has_viewers": true,
-    "title": "Зашел к бате",
-    "thumb": "https://i.ytimg.com/vi/Sv9wipunFzQ/maxresdefault.jpg?v=6ae892c4",
-    "viewers": 1117
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=54",
+    "viewers": 15
    },
    "179H3lM_TKk": {
     "vid": "179H3lM_TKk",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-02T14:06:30Z",
-    "peak": 3208,
+    "peak": 6390,
     "has_viewers": true,
     "title": "Терп Войны (микро-затык)",
-    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=b",
-    "viewers": 3208
+    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=e",
+    "viewers": 6390
    },
    "DRu-M5jlFKM": {
     "vid": "DRu-M5jlFKM",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-11-02T14:24:02Z",
-    "peak": 205,
+    "peak": 288,
     "has_viewers": true,
     "title": "ии  ТВ",
-    "thumb": "https://i.ytimg.com/vi/DRu-M5jlFKM/maxresdefault.jpg?v=8",
-    "viewers": 172
+    "thumb": "https://i.ytimg.com/vi/DRu-M5jlFKM/maxresdefault.jpg?v=b",
+    "viewers": 288
    }
   },
   "ended": [
-   {
-    "vid": "qxfK31_e_Hs",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-10-31T19:46:10Z",
-    "peak": 20,
-    "has_viewers": true,
-    "title": "Вечерний стрим",
-    "thumb": "https://i.ytimg.com/vi/qxfK31_e_Hs/maxresdefault.jpg?v=5",
-    "viewers": 0,
-    "dur": "5 ч 15 мин"
-   },
    {
     "vid": "90wTxhv0S5Y",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/3sJfqY8IzjI/sddefault.jpg?v=6ae84178",
     "viewers": 127,
     "dur": "4 ч 31 мин"
+   },
+   {
+    "vid": "Sv9wipunFzQ",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-02T13:40:30Z",
+    "peak": 1117,
+    "has_viewers": true,
+    "title": "Зашел к бате",
+    "thumb": "https://i.ytimg.com/vi/Sv9wipunFzQ/maxresdefault.jpg?v=6ae892c4",
+    "viewers": 1117,
+    "dur": "1 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 3208 👁 · 54 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/Sv9wipunFzQ\">Дон Грязь</a></b> · 1117 👁 · 1 ч 20 мин\n└ Зашел к бате\n\n<b><a href=\"https://youtu.be/DRu-M5jlFKM\">Селянин</a></b> · 172 👁 · 36 мин\n└ ии  ТВ\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 21 👁 · 6 ч 41 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 6390 👁 · 1 ч 08 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/DRu-M5jlFKM\">Селянин</a></b> · 288 👁 · 51 мин\n└ ии  ТВ\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 15 👁 · 6 ч 56 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
