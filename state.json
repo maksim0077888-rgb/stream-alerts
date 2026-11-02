@@ -41,42 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "KXL0i9N3Axg": {
-    "vid": "KXL0i9N3Axg",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-02T19:00:16Z",
-    "peak": 1676,
-    "has_viewers": true,
-    "title": "Ким Кардашьян у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/KXL0i9N3Axg/maxresdefault.jpg?v=6ae8ddb7",
-    "viewers": 1469
-   },
    "Ht0CsYroQZE": {
     "vid": "Ht0CsYroQZE",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-11-02T20:45:38Z",
-    "peak": 74,
+    "peak": 230,
     "has_viewers": true,
     "title": "ТВ",
-    "thumb": "https://i.ytimg.com/vi/Ht0CsYroQZE/maxresdefault.jpg?v=e",
-    "viewers": 74
+    "thumb": "https://i.ytimg.com/vi/Ht0CsYroQZE/maxresdefault.jpg?v=11",
+    "viewers": 230
    }
   },
   "ended": [
-   {
-    "vid": "C0G0P23XIj4",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-01T14:10:05Z",
-    "peak": 4052,
-    "has_viewers": true,
-    "title": "GOWнище до конца!!!",
-    "thumb": "https://i.ytimg.com/vi/C0G0P23XIj4/maxresdefault.jpg?v=29",
-    "viewers": 3312,
-    "dur": "3 ч 29 мин"
-   },
    {
     "vid": "bElDqNVyIOM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/O92Fc6PxE00/maxresdefault.jpg?v=6ae8b3fa",
     "viewers": 52,
     "dur": "4 ч 16 мин"
+   },
+   {
+    "vid": "KXL0i9N3Axg",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-02T19:00:16Z",
+    "peak": 1676,
+    "has_viewers": true,
+    "title": "Ким Кардашьян у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/KXL0i9N3Axg/maxresdefault.jpg?v=6ae8ddb7",
+    "viewers": 1469,
+    "dur": "3 ч 15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/KXL0i9N3Axg\">Дон Грязь</a></b> · 1469 👁 · 3 ч 00 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/Ht0CsYroQZE\">Селянин</a></b> · 74 👁 · 1 ч 15 мин\n└ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/Ht0CsYroQZE\">Селянин</a></b> · 230 👁 · 1 ч 29 мин\n└ ТВ",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
