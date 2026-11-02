@@ -41,42 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "3sJfqY8IzjI": {
-    "vid": "3sJfqY8IzjI",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-02T07:53:39Z",
-    "peak": 343,
-    "has_viewers": true,
-    "title": "ПЕРСУС МНЕ ИЗМЕНЯЕТ",
-    "thumb": "https://i.ytimg.com/vi/3sJfqY8IzjI/sddefault.jpg?v=6ae84178",
-    "viewers": 127
-   },
    "AaP5dDPNrvs": {
     "vid": "AaP5dDPNrvs",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-02T08:19:24Z",
-    "peak": 53,
+    "peak": 65,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=30",
-    "viewers": 53
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=33",
+    "viewers": 65
    }
   },
   "ended": [
-   {
-    "vid": "4eHjgmFOBOA",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-10-31T20:01:12Z",
-    "peak": 25,
-    "has_viewers": true,
-    "title": "ХЭЛЛУИН",
-    "thumb": "https://i.ytimg.com/vi/4eHjgmFOBOA/maxresdefault.jpg?v=38",
-    "viewers": 9,
-    "dur": "4 ч 56 мин"
-   },
    {
     "vid": "qxfK31_e_Hs",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/r-bheTj8C3k/maxresdefault.jpg?v=6ae79d2d",
     "viewers": 46,
     "dur": "3 ч 51 мин"
+   },
+   {
+    "vid": "3sJfqY8IzjI",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-02T07:53:39Z",
+    "peak": 343,
+    "has_viewers": true,
+    "title": "ПЕРСУС МНЕ ИЗМЕНЯЕТ",
+    "thumb": "https://i.ytimg.com/vi/3sJfqY8IzjI/sddefault.jpg?v=6ae84178",
+    "viewers": 127,
+    "dur": "4 ч 31 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/3sJfqY8IzjI\">Ахиллес</a></b> · 127 👁 · 4 ч 21 мин\n└ ПЕРСУС МНЕ ИЗМЕНЯЕТ\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 53 👁 · 3 ч 56 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 65 👁 · 4 ч 11 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
