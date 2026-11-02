@@ -49,8 +49,19 @@
     "peak": 67,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=3f",
-    "viewers": 59
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=41",
+    "viewers": 43
+   },
+   "Sv9wipunFzQ": {
+    "vid": "Sv9wipunFzQ",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-02T13:40:30Z",
+    "peak": 362,
+    "has_viewers": true,
+    "title": "Зашел к бате",
+    "thumb": "https://i.ytimg.com/vi/Sv9wipunFzQ/maxresdefault.jpg?v=6ae892c4",
+    "viewers": 362
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "4 ч 31 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 59 👁 · 5 ч 11 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Sv9wipunFzQ\">Дон Грязь</a></b> · 362 👁 · 5 мин\n└ Зашел к бате\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 43 👁 · 5 ч 26 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
