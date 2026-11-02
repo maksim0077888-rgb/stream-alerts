@@ -49,8 +49,8 @@
     "peak": 67,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=5d",
-    "viewers": 15
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=5f",
+    "viewers": 5
    },
    "179H3lM_TKk": {
     "vid": "179H3lM_TKk",
@@ -60,45 +60,22 @@
     "peak": 20721,
     "has_viewers": true,
     "title": "Терп Войны (микро-затык)",
-    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=17",
-    "viewers": 20721
-   },
-   "DRu-M5jlFKM": {
-    "vid": "DRu-M5jlFKM",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-11-02T14:24:02Z",
-    "peak": 288,
-    "has_viewers": true,
-    "title": "ии  ТВ",
-    "thumb": "https://i.ytimg.com/vi/DRu-M5jlFKM/maxresdefault.jpg?v=14",
-    "viewers": 226
+    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=1a",
+    "viewers": 3072
    },
    "5ZBGje1NeAs": {
     "vid": "5ZBGje1NeAs",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-02T15:23:19Z",
-    "peak": 809,
+    "peak": 1012,
     "has_viewers": true,
     "title": "Тут",
     "thumb": "https://i.ytimg.com/vi/5ZBGje1NeAs/maxresdefault.jpg?v=6ae8aade",
-    "viewers": 809
+    "viewers": 1012
    }
   },
   "ended": [
-   {
-    "vid": "90wTxhv0S5Y",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-11-01T01:08:17Z",
-    "peak": 16,
-    "has_viewers": true,
-    "title": "persus stream",
-    "thumb": "https://i.ytimg.com/vi/90wTxhv0S5Y/maxresdefault.jpg?v=14",
-    "viewers": 1,
-    "dur": "4 ч 01 мин"
-   },
    {
     "vid": "lu1kKDjOBIQ",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/Sv9wipunFzQ/maxresdefault.jpg?v=6ae892c4",
     "viewers": 1117,
     "dur": "1 ч 33 мин"
+   },
+   {
+    "vid": "DRu-M5jlFKM",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-11-02T14:24:02Z",
+    "peak": 288,
+    "has_viewers": true,
+    "title": "ии  ТВ",
+    "thumb": "https://i.ytimg.com/vi/DRu-M5jlFKM/maxresdefault.jpg?v=14",
+    "viewers": 226,
+    "dur": "1 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 20721 👁 · 1 ч 54 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/5ZBGje1NeAs\">Дон Грязь</a></b> · 809 👁 · 37 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/DRu-M5jlFKM\">Селянин</a></b> · 226 👁 · 1 ч 36 мин\n└ ии  ТВ\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 15 👁 · 7 ч 41 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 3072 👁 · 2 ч 08 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/5ZBGje1NeAs\">Дон Грязь</a></b> · 1012 👁 · 52 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 5 👁 · 7 ч 56 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
