@@ -41,27 +41,16 @@
  "board": {
   "msg": 119,
   "streams": {
-   "AaP5dDPNrvs": {
-    "vid": "AaP5dDPNrvs",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-02T08:19:24Z",
-    "peak": 67,
-    "has_viewers": true,
-    "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=6e",
-    "viewers": 18
-   },
    "5ZBGje1NeAs": {
     "vid": "5ZBGje1NeAs",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-02T15:23:19Z",
-    "peak": 1121,
+    "peak": 1140,
     "has_viewers": true,
     "title": "Тут",
     "thumb": "https://i.ytimg.com/vi/5ZBGje1NeAs/maxresdefault.jpg?v=6ae8aade",
-    "viewers": 1106
+    "viewers": 1140
    },
    "O92Fc6PxE00": {
     "vid": "O92Fc6PxE00",
@@ -72,22 +61,10 @@
     "has_viewers": true,
     "title": "Прямой эфир 02.11.2026",
     "thumb": "https://i.ytimg.com/vi/O92Fc6PxE00/maxresdefault.jpg?v=6ae8b3fa",
-    "viewers": 47
+    "viewers": 46
    }
   },
   "ended": [
-   {
-    "vid": "rwdABc-uYT8",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-01T08:01:51Z",
-    "peak": 287,
-    "has_viewers": true,
-    "title": "ГОМ, МЫ ЖДЕМ ТЕБЯ",
-    "thumb": "https://i.ytimg.com/vi/rwdABc-uYT8/maxresdefault.jpg?v=42",
-    "viewers": 198,
-    "dur": "5 ч 40 мин"
-   },
    {
     "vid": "wGMGHXGcJpA",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=26",
     "viewers": 4571,
     "dur": "3 ч 17 мин"
+   },
+   {
+    "vid": "AaP5dDPNrvs",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-02T08:19:24Z",
+    "peak": 67,
+    "has_viewers": true,
+    "title": "день 1",
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=6e",
+    "viewers": 18,
+    "dur": "9 ч 26 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/5ZBGje1NeAs\">Дон Грязь</a></b> · 1106 👁 · 2 ч 07 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/O92Fc6PxE00\">Депутат</a></b> · 47 👁 · 1 ч 13 мин\n└ Прямой эфир 02.11.2026\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 18 👁 · 9 ч 11 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/5ZBGje1NeAs\">Дон Грязь</a></b> · 1140 👁 · 2 ч 22 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/O92Fc6PxE00\">Депутат</a></b> · 46 👁 · 1 ч 27 мин\n└ Прямой эфир 02.11.2026",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
