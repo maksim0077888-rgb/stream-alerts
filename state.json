@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Ким Кардашьян у меня в студии",
     "thumb": "https://i.ytimg.com/vi/KXL0i9N3Axg/maxresdefault.jpg?v=6ae8ddb7",
-    "viewers": 1676
+    "viewers": 1647
    },
    "Ht0CsYroQZE": {
     "vid": "Ht0CsYroQZE",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
     "name": "Селянин",
     "start": "2026-11-02T20:45:38Z",
-    "peak": 0,
-    "has_viewers": false,
+    "peak": 42,
+    "has_viewers": true,
     "title": "ТВ",
-    "thumb": "https://i.ytimg.com/vi/Ht0CsYroQZE/sddefault.jpg",
-    "viewers": 0
+    "thumb": "https://i.ytimg.com/vi/Ht0CsYroQZE/maxresdefault.jpg?v=3",
+    "viewers": 42
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "4 ч 16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/KXL0i9N3Axg\">Дон Грязь</a></b> · 1676 👁 · 1 ч 45 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/Ht0CsYroQZE\">Селянин</a></b> · 0 мин\n└ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/KXL0i9N3Axg\">Дон Грязь</a></b> · 1647 👁 · 2 ч 00 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/Ht0CsYroQZE\">Селянин</a></b> · 42 👁 · 15 мин\n└ ТВ",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
