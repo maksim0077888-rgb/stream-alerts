@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "...",
     "thumb": "https://i.ytimg.com/vi/3sJfqY8IzjI/sddefault.jpg?v=6ae84178",
-    "viewers": 343
+    "viewers": 316
    },
    "AaP5dDPNrvs": {
     "vid": "AaP5dDPNrvs",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-02T08:19:24Z",
-    "peak": 31,
+    "peak": 36,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=12",
-    "viewers": 30
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=15",
+    "viewers": 36
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "3 ч 51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/3sJfqY8IzjI\">Ахиллес</a></b> · 343 👁 · 1 ч 55 мин\n└ ...\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 30 👁 · 1 ч 29 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/3sJfqY8IzjI\">Ахиллес</a></b> · 316 👁 · 2 ч 07 мин\n└ ...\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 36 👁 · 1 ч 41 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
