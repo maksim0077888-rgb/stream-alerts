@@ -49,19 +49,19 @@
     "peak": 67,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=54",
-    "viewers": 15
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=57",
+    "viewers": 17
    },
    "179H3lM_TKk": {
     "vid": "179H3lM_TKk",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-02T14:06:30Z",
-    "peak": 6390,
+    "peak": 7987,
     "has_viewers": true,
     "title": "Терп Войны (микро-затык)",
-    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=e",
-    "viewers": 6390
+    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=11",
+    "viewers": 7987
    },
    "DRu-M5jlFKM": {
     "vid": "DRu-M5jlFKM",
@@ -71,8 +71,19 @@
     "peak": 288,
     "has_viewers": true,
     "title": "ии  ТВ",
-    "thumb": "https://i.ytimg.com/vi/DRu-M5jlFKM/maxresdefault.jpg?v=b",
-    "viewers": 288
+    "thumb": "https://i.ytimg.com/vi/DRu-M5jlFKM/maxresdefault.jpg?v=e",
+    "viewers": 269
+   },
+   "5ZBGje1NeAs": {
+    "vid": "5ZBGje1NeAs",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-02T15:23:19Z",
+    "peak": 779,
+    "has_viewers": true,
+    "title": "Тут",
+    "thumb": "https://i.ytimg.com/vi/5ZBGje1NeAs/maxresdefault.jpg?v=6ae8aade",
+    "viewers": 779
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "1 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 6390 👁 · 1 ч 08 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/DRu-M5jlFKM\">Селянин</a></b> · 288 👁 · 51 мин\n└ ии  ТВ\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 15 👁 · 6 ч 56 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 7987 👁 · 1 ч 24 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/5ZBGje1NeAs\">Дон Грязь</a></b> · 779 👁 · 7 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/DRu-M5jlFKM\">Селянин</a></b> · 269 👁 · 1 ч 06 мин\n└ ии  ТВ\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 17 👁 · 7 ч 11 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
