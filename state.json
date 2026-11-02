@@ -49,8 +49,8 @@
     "peak": 67,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=62",
-    "viewers": 18
+    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=65",
+    "viewers": 13
    },
    "179H3lM_TKk": {
     "vid": "179H3lM_TKk",
@@ -60,8 +60,8 @@
     "peak": 30580,
     "has_viewers": true,
     "title": "Терп Войны (микро-затык)",
-    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=1d",
-    "viewers": 30580
+    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=20",
+    "viewers": 4816
    },
    "5ZBGje1NeAs": {
     "vid": "5ZBGje1NeAs",
@@ -72,18 +72,18 @@
     "has_viewers": true,
     "title": "Тут",
     "thumb": "https://i.ytimg.com/vi/5ZBGje1NeAs/maxresdefault.jpg?v=6ae8aade",
-    "viewers": 937
+    "viewers": 1012
    },
    "O92Fc6PxE00": {
     "vid": "O92Fc6PxE00",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
     "name": "Депутат",
     "start": "2026-11-02T16:17:38Z",
-    "peak": 40,
+    "peak": 54,
     "has_viewers": true,
     "title": "Прямой эфир 02.11.2026",
     "thumb": "https://i.ytimg.com/vi/O92Fc6PxE00/maxresdefault.jpg?v=6ae8b3fa",
-    "viewers": 40
+    "viewers": 54
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "1 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 30580 👁 · 2 ч 24 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/5ZBGje1NeAs\">Дон Грязь</a></b> · 937 👁 · 1 ч 07 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/O92Fc6PxE00\">Депутат</a></b> · 40 👁 · 13 мин\n└ Прямой эфир 02.11.2026\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 18 👁 · 8 ч 11 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/179H3lM_TKk\">ПАПИЧ</a></b> · 4816 👁 · 2 ч 38 мин\n└ Терп Войны (микро-затык)\n\n<b><a href=\"https://youtu.be/5ZBGje1NeAs\">Дон Грязь</a></b> · 1012 👁 · 1 ч 22 мин\n└ Тут\n\n<b><a href=\"https://youtu.be/O92Fc6PxE00\">Депутат</a></b> · 54 👁 · 27 мин\n└ Прямой эфир 02.11.2026\n\n<b><a href=\"https://youtu.be/AaP5dDPNrvs\">Школа Сук</a></b> · 13 👁 · 8 ч 26 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
