@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Прямой эфир 02.11.2026",
     "thumb": "https://i.ytimg.com/vi/O92Fc6PxE00/maxresdefault.jpg?v=6ae8b3fa",
-    "viewers": 48
+    "viewers": 51
    },
    "KXL0i9N3Axg": {
     "vid": "KXL0i9N3Axg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-02T19:00:16Z",
-    "peak": 1641,
+    "peak": 1650,
     "has_viewers": true,
     "title": "Ким Кардашьян у меня в студии",
     "thumb": "https://i.ytimg.com/vi/KXL0i9N3Axg/maxresdefault.jpg?v=6ae8ddb7",
-    "viewers": 1641
+    "viewers": 1650
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "2 ч 43 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/KXL0i9N3Axg\">Дон Грязь</a></b> · 1641 👁 · 1 ч 00 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/O92Fc6PxE00\">Депутат</a></b> · 48 👁 · 3 ч 43 мин\n└ Прямой эфир 02.11.2026",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/KXL0i9N3Axg\">Дон Грязь</a></b> · 1650 👁 · 1 ч 15 мин\n└ Ким Кардашьян у меня в студии\n\n<b><a href=\"https://youtu.be/O92Fc6PxE00\">Депутат</a></b> · 51 👁 · 3 ч 57 мин\n└ Прямой эфир 02.11.2026",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
