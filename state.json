@@ -41,42 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "cVf0dky_0Vw": {
-    "vid": "cVf0dky_0Vw",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-11-03T11:40:30Z",
-    "peak": 83,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/cVf0dky_0Vw/maxresdefault.jpg?v=1",
-    "viewers": 83
-   },
    "qSccIESs51g": {
     "vid": "qSccIESs51g",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-03T11:36:23Z",
-    "peak": 135,
+    "peak": 245,
     "has_viewers": true,
     "title": "...",
     "thumb": "https://i.ytimg.com/vi/qSccIESs51g/sddefault.jpg?v=6ae9c72c",
-    "viewers": 135
+    "viewers": 245
    }
   },
   "ended": [
-   {
-    "vid": "CZSpHJp3ukQ",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-01T17:06:16Z",
-    "peak": 25,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/CZSpHJp3ukQ/maxresdefault.jpg?v=6ae7716f",
-    "viewers": 16,
-    "dur": "3 ч 31 мин"
-   },
    {
     "vid": "B43rE0C8-co",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/Ht0CsYroQZE/maxresdefault.jpg?v=11",
     "viewers": 230,
     "dur": "1 ч 39 мин"
+   },
+   {
+    "vid": "cVf0dky_0Vw",
+    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
+    "name": "Селянин",
+    "start": "2026-11-03T11:40:30Z",
+    "peak": 83,
+    "has_viewers": true,
+    "title": "УХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/cVf0dky_0Vw/maxresdefault.jpg?v=1",
+    "viewers": 83,
+    "dur": "20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/qSccIESs51g\">Ахиллес</a></b> · 135 👁 · 9 мин\n└ ...\n\n<b><a href=\"https://youtu.be/cVf0dky_0Vw\">Селянин</a></b> · 83 👁 · 4 мин\n└ УХ ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/qSccIESs51g\">Ахиллес</a></b> · 245 👁 · 24 мин\n└ ...",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
