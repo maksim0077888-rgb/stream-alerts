@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "qSccIESs51g": {
-    "vid": "qSccIESs51g",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-03T11:36:23Z",
-    "peak": 308,
-    "has_viewers": true,
-    "title": "...",
-    "thumb": "https://i.ytimg.com/vi/qSccIESs51g/sddefault.jpg?v=6ae9c72c",
-    "viewers": 236
-   },
    "LLAa5V196k4": {
     "vid": "LLAa5V196k4",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -60,23 +49,11 @@
     "peak": 17854,
     "has_viewers": true,
     "title": "Бох Зачистки (возможен перенос работизи в нос)",
-    "thumb": "https://i.ytimg.com/vi/LLAa5V196k4/maxresdefault.jpg?v=4",
-    "viewers": 17854
+    "thumb": "https://i.ytimg.com/vi/LLAa5V196k4/maxresdefault.jpg?v=7",
+    "viewers": 9037
    }
   },
   "ended": [
-   {
-    "vid": "B43rE0C8-co",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-01T21:08:49Z",
-    "peak": 6,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/B43rE0C8-co/maxresdefault.jpg?v=6ae7aa4b",
-    "viewers": 6,
-    "dur": "14 мин"
-   },
    {
     "vid": "Edu1fpdFUKU",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/cVf0dky_0Vw/maxresdefault.jpg?v=1",
     "viewers": 83,
     "dur": "20 мин"
+   },
+   {
+    "vid": "qSccIESs51g",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-03T11:36:23Z",
+    "peak": 308,
+    "has_viewers": true,
+    "title": "...",
+    "thumb": "https://i.ytimg.com/vi/qSccIESs51g/sddefault.jpg?v=6ae9c72c",
+    "viewers": 236,
+    "dur": "2 ч 50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/LLAa5V196k4\">ПАПИЧ</a></b> · 17854 👁 · 16 мин\n└ Бох Зачистки (возможен перенос работизи в нос)\n\n<b><a href=\"https://youtu.be/qSccIESs51g\">Ахиллес</a></b> · 236 👁 · 2 ч 39 мин\n└ ...",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/LLAa5V196k4\">ПАПИЧ</a></b> · 9037 👁 · 31 мин\n└ Бох Зачистки (возможен перенос работизи в нос)",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
