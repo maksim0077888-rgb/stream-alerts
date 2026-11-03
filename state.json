@@ -40,32 +40,8 @@
  "day": "2026-11-03",
  "board": {
   "msg": 119,
-  "streams": {
-   "LLAa5V196k4": {
-    "vid": "LLAa5V196k4",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-03T13:58:57Z",
-    "peak": 17854,
-    "has_viewers": true,
-    "title": "Бох Зачистки (возможен перенос работизи в нос)",
-    "thumb": "https://i.ytimg.com/vi/LLAa5V196k4/maxresdefault.jpg?v=28",
-    "viewers": 3424
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "Edu1fpdFUKU",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-01T10:21:37Z",
-    "peak": 39,
-    "has_viewers": true,
-    "title": "ыыыыы",
-    "thumb": "https://i.ytimg.com/vi/Edu1fpdFUKU/maxresdefault.jpg?v=b1",
-    "viewers": 16,
-    "dur": "14 ч 53 мин"
-   },
    {
     "vid": "tzAzaJRKuw0",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/qSccIESs51g/sddefault.jpg?v=6ae9c72c",
     "viewers": 236,
     "dur": "2 ч 50 мин"
+   },
+   {
+    "vid": "LLAa5V196k4",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-03T13:58:57Z",
+    "peak": 17854,
+    "has_viewers": true,
+    "title": "Бох Зачистки (возможен перенос работизи в нос)",
+    "thumb": "https://i.ytimg.com/vi/LLAa5V196k4/maxresdefault.jpg?v=28",
+    "viewers": 3424,
+    "dur": "3 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/LLAa5V196k4\">ПАПИЧ</a></b> · 3424 👁 · 3 ч 16 мин\n└ Бох Зачистки (возможен перенос работизи в нос)",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
