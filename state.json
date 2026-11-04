@@ -49,19 +49,19 @@
     "peak": 37,
     "has_viewers": true,
     "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/aF9bOF06NVo/maxresdefault.jpg?v=c",
-    "viewers": 31
+    "thumb": "https://i.ytimg.com/vi/aF9bOF06NVo/maxresdefault.jpg?v=f",
+    "viewers": 30
    },
    "vqU_D_7B9B0": {
     "vid": "vqU_D_7B9B0",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-04T08:16:12Z",
-    "peak": 225,
+    "peak": 253,
     "has_viewers": true,
     "title": "...",
     "thumb": "https://i.ytimg.com/vi/vqU_D_7B9B0/sddefault.jpg?v=6aeae9ca",
-    "viewers": 215
+    "viewers": 253
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "43 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/vqU_D_7B9B0\">Ахиллес</a></b> · 215 👁 · 59 мин\n└ ...\n\n<b><a href=\"https://youtu.be/aF9bOF06NVo\">Школа Сук</a></b> · 31 👁 · 1 ч 02 мин\n└ день 1",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/vqU_D_7B9B0\">Ахиллес</a></b> · 253 👁 · 1 ч 14 мин\n└ ...\n\n<b><a href=\"https://youtu.be/aF9bOF06NVo\">Школа Сук</a></b> · 30 👁 · 1 ч 17 мин\n└ день 1",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
