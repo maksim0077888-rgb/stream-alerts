@@ -40,32 +40,8 @@
  "day": "2026-11-05",
  "board": {
   "msg": 119,
-  "streams": {
-   "zeLHu8v1SAI": {
-    "vid": "zeLHu8v1SAI",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-05T07:22:23Z",
-    "peak": 18,
-    "has_viewers": true,
-    "title": "день 2",
-    "thumb": "https://i.ytimg.com/vi/zeLHu8v1SAI/maxresdefault.jpg?v=8",
-    "viewers": 10
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "179H3lM_TKk",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-02T14:06:30Z",
-    "peak": 30580,
-    "has_viewers": true,
-    "title": "Терп Войны (микро-затык)",
-    "thumb": "https://i.ytimg.com/vi/179H3lM_TKk/maxresdefault.jpg?v=26",
-    "viewers": 4571,
-    "dur": "3 ч 17 мин"
-   },
    {
     "vid": "AaP5dDPNrvs",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/JJ-Ghd54q6I/maxresdefault.jpg?v=6aeb5e68",
     "viewers": 251,
     "dur": "4 ч 56 мин"
+   },
+   {
+    "vid": "zeLHu8v1SAI",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-05T07:22:23Z",
+    "peak": 18,
+    "has_viewers": true,
+    "title": "день 2",
+    "thumb": "https://i.ytimg.com/vi/zeLHu8v1SAI/maxresdefault.jpg?v=8",
+    "viewers": 10,
+    "dur": "1 ч 08 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/zeLHu8v1SAI\">Школа Сук</a></b> · 10 👁 · 53 мин\n└ день 2",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
