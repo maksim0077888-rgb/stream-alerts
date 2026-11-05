@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "jSZtixhgxvo": {
-    "vid": "jSZtixhgxvo",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-05T11:59:44Z",
-    "peak": 106,
-    "has_viewers": true,
-    "title": "Пряиой эфир 05.11.2026",
-    "thumb": "https://i.ytimg.com/vi/jSZtixhgxvo/maxresdefault.jpg?v=6aec6829",
-    "viewers": 64
-   },
    "nQZEne51qCQ": {
     "vid": "nQZEne51qCQ",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -60,23 +49,11 @@
     "peak": 293,
     "has_viewers": true,
     "title": "С Гроу",
-    "thumb": "https://i.ytimg.com/vi/nQZEne51qCQ/maxresdefault.jpg?v=e",
-    "viewers": 278
+    "thumb": "https://i.ytimg.com/vi/nQZEne51qCQ/maxresdefault.jpg?v=11",
+    "viewers": 246
    }
   },
   "ended": [
-   {
-    "vid": "AaP5dDPNrvs",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-02T08:19:24Z",
-    "peak": 67,
-    "has_viewers": true,
-    "title": "день 1",
-    "thumb": "https://i.ytimg.com/vi/AaP5dDPNrvs/maxresdefault.jpg?v=6e",
-    "viewers": 18,
-    "dur": "9 ч 26 мин"
-   },
    {
     "vid": "5ZBGje1NeAs",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/zeLHu8v1SAI/maxresdefault.jpg?v=8",
     "viewers": 10,
     "dur": "1 ч 08 мин"
+   },
+   {
+    "vid": "jSZtixhgxvo",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-11-05T11:59:44Z",
+    "peak": 106,
+    "has_viewers": true,
+    "title": "Пряиой эфир 05.11.2026",
+    "thumb": "https://i.ytimg.com/vi/jSZtixhgxvo/maxresdefault.jpg?v=6aec6829",
+    "viewers": 64,
+    "dur": "2 ч 04 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/nQZEne51qCQ\">Ахиллес</a></b> · 278 👁 · 1 ч 06 мин\n└ С Гроу\n\n<b><a href=\"https://youtu.be/jSZtixhgxvo\">Депутат</a></b> · 64 👁 · 2 ч 01 мин\n└ Пряиой эфир 05.11.2026",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/nQZEne51qCQ\">Ахиллес</a></b> · 246 👁 · 1 ч 20 мин\n└ С Гроу",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
