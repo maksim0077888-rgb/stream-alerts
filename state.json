@@ -49,8 +49,8 @@
     "peak": 19,
     "has_viewers": true,
     "title": "го",
-    "thumb": "https://i.ytimg.com/vi/1QzM_wX4ISc/maxresdefault.jpg?v=9",
-    "viewers": 19
+    "thumb": "https://i.ytimg.com/vi/1QzM_wX4ISc/maxresdefault.jpg?v=c",
+    "viewers": 4
    },
    "N9GvhGPrREM": {
     "vid": "N9GvhGPrREM",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/N9GvhGPrREM/maxresdefault.jpg?v=6aee3236",
-    "viewers": 12
+    "viewers": 9
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "1 ч 24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/1QzM_wX4ISc\">Ахиллес</a></b> · 19 👁 · 35 мин\n└ го\n\n<b><a href=\"https://youtu.be/N9GvhGPrREM\">Ахиллес</a></b> · 12 👁 · 43 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/N9GvhGPrREM\">Ахиллес</a></b> · 9 👁 · 58 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/1QzM_wX4ISc\">Ахиллес</a></b> · 4 👁 · 50 мин\n└ го",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
