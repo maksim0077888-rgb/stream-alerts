@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "1QzM_wX4ISc": {
-    "vid": "1QzM_wX4ISc",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T20:09:57Z",
-    "peak": 22,
-    "has_viewers": true,
-    "title": "го",
-    "thumb": "https://i.ytimg.com/vi/1QzM_wX4ISc/maxresdefault.jpg?v=1a",
-    "viewers": 0
-   },
    "N9GvhGPrREM": {
     "vid": "N9GvhGPrREM",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -63,43 +52,19 @@
     "thumb": "https://i.ytimg.com/vi/N9GvhGPrREM/maxresdefault.jpg?v=6aee3236",
     "viewers": 1
    },
-   "gjlGaTUoYZU": {
-    "vid": "gjlGaTUoYZU",
+   "GIXG4kmZAr4": {
+    "vid": "GIXG4kmZAr4",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
     "name": "Ахиллес",
-    "start": "2026-11-06T23:03:07Z",
-    "peak": 6,
+    "start": "2026-11-06T23:24:50Z",
+    "peak": 3,
     "has_viewers": true,
-    "title": "го",
-    "thumb": "https://i.ytimg.com/vi/gjlGaTUoYZU/maxresdefault.jpg?v=2",
-    "viewers": 6
+    "title": "да",
+    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=1",
+    "viewers": 3
    }
   },
   "ended": [
-   {
-    "vid": "QJChNuzvmH8",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-04T14:28:43Z",
-    "peak": 13841,
-    "has_viewers": true,
-    "title": "Бох не почувствования",
-    "thumb": "https://i.ytimg.com/vi/QJChNuzvmH8/maxresdefault.jpg?v=34",
-    "viewers": 2941,
-    "dur": "4 ч 20 мин"
-   },
-   {
-    "vid": "JJ-Ghd54q6I",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-04T16:33:52Z",
-    "peak": 2583,
-    "has_viewers": true,
-    "title": "стрим с девочкой",
-    "thumb": "https://i.ytimg.com/vi/JJ-Ghd54q6I/maxresdefault.jpg?v=6aeb5e68",
-    "viewers": 251,
-    "dur": "4 ч 56 мин"
-   },
    {
     "vid": "zeLHu8v1SAI",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -255,9 +220,33 @@
     "thumb": "https://i.ytimg.com/vi/r6K6SenIvwY/maxresdefault.jpg?v=3",
     "viewers": 19,
     "dur": "23 мин"
+   },
+   {
+    "vid": "1QzM_wX4ISc",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T20:09:57Z",
+    "peak": 22,
+    "has_viewers": true,
+    "title": "го",
+    "thumb": "https://i.ytimg.com/vi/1QzM_wX4ISc/maxresdefault.jpg?v=1a",
+    "viewers": 0,
+    "dur": "3 ч 09 мин"
+   },
+   {
+    "vid": "gjlGaTUoYZU",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T23:03:07Z",
+    "peak": 6,
+    "has_viewers": true,
+    "title": "го",
+    "thumb": "https://i.ytimg.com/vi/gjlGaTUoYZU/maxresdefault.jpg?v=2",
+    "viewers": 6,
+    "dur": "16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/gjlGaTUoYZU\">Ахиллес</a></b> · 6 👁 · 12 мин\n└ го\n\n<b><a href=\"https://youtu.be/N9GvhGPrREM\">Ахиллес</a></b> · 1 👁 · 3 ч 13 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/1QzM_wX4ISc\">Ахиллес</a></b> · 0 👁 · 3 ч 05 мин\n└ го",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/GIXG4kmZAr4\">Ахиллес</a></b> · 3 👁 · 5 мин\n└ да\n\n<b><a href=\"https://youtu.be/N9GvhGPrREM\">Ахиллес</a></b> · 1 👁 · 3 ч 28 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
