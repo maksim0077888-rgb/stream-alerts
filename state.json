@@ -49,8 +49,8 @@
     "peak": 328,
     "has_viewers": true,
     "title": "САВОШКО ТВ",
-    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=16",
-    "viewers": 228
+    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=19",
+    "viewers": 196
    },
    "Akk0DE_bfB8": {
     "vid": "Akk0DE_bfB8",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "= Дон Симон - Скоро Днюха=",
     "thumb": "https://i.ytimg.com/vi/Akk0DE_bfB8/maxresdefault.jpg?v=6aedce63",
-    "viewers": 136
+    "viewers": 126
    },
    "AatH2OqByk0": {
     "vid": "AatH2OqByk0",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-06T13:47:18Z",
-    "peak": 2099,
+    "peak": 2468,
     "has_viewers": true,
     "title": "Чувствую, не чувствуя!",
-    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=2",
-    "viewers": 2099
+    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=5",
+    "viewers": 2468
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "1 ч 13 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 2099 👁 · 13 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 228 👁 · 1 ч 49 мин\n└ САВОШКО ТВ\n\n<b><a href=\"https://youtu.be/Akk0DE_bfB8\">Don Simon</a></b> · 136 👁 · 1 ч 04 мин\n└ = Дон Симон - Скоро Днюха=",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 2468 👁 · 28 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 196 👁 · 2 ч 04 мин\n└ САВОШКО ТВ\n\n<b><a href=\"https://youtu.be/Akk0DE_bfB8\">Don Simon</a></b> · 126 👁 · 1 ч 19 мин\n└ = Дон Симон - Скоро Днюха=",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
