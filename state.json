@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "у секты в гостях",
     "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
-    "viewers": 131
-   },
-   "52ADD5c4cv0": {
-    "vid": "52ADD5c4cv0",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T17:05:12Z",
-    "peak": 40,
-    "has_viewers": true,
-    "title": "СЛАВА ГЕЙ",
-    "thumb": "https://i.ytimg.com/vi/52ADD5c4cv0/maxresdefault.jpg?v=6",
-    "viewers": 6
+    "viewers": 136
    }
   },
   "ended": [
-   {
-    "vid": "wZgCkxLyzEs",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-03T18:07:31Z",
-    "peak": 401,
-    "has_viewers": true,
-    "title": "Едем к друзьям?",
-    "thumb": "https://i.ytimg.com/vi/wZgCkxLyzEs/maxresdefault.jpg?v=22",
-    "viewers": 203,
-    "dur": "3 ч 07 мин"
-   },
    {
     "vid": "Bqmeky3Ar7s",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=2e",
     "viewers": 3133,
     "dur": "4 ч 23 мин"
+   },
+   {
+    "vid": "52ADD5c4cv0",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T17:05:12Z",
+    "peak": 40,
+    "has_viewers": true,
+    "title": "СЛАВА ГЕЙ",
+    "thumb": "https://i.ytimg.com/vi/52ADD5c4cv0/maxresdefault.jpg?v=6",
+    "viewers": 6,
+    "dur": "1 ч 20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 131 👁 · 3 ч 45 мин\n└ у секты в гостях\n\n<b><a href=\"https://youtu.be/52ADD5c4cv0\">Ахиллес</a></b> · 6 👁 · 1 ч 10 мин\n└ СЛАВА ГЕЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 136 👁 · 4 ч 01 мин\n└ у секты в гостях",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
