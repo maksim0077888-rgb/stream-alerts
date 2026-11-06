@@ -41,42 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "7UiQEDvqOvM": {
-    "vid": "7UiQEDvqOvM",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-06T14:29:30Z",
-    "peak": 181,
-    "has_viewers": true,
-    "title": "у секты в гостях",
-    "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
-    "viewers": 111
-   },
    "rGkjaECMRCM": {
     "vid": "rGkjaECMRCM",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-06T18:34:10Z",
-    "peak": 21,
+    "peak": 22,
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/rGkjaECMRCM/maxresdefault.jpg?v=6aee1d86",
-    "viewers": 21
+    "viewers": 22
    }
   },
   "ended": [
-   {
-    "vid": "Bqmeky3Ar7s",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-03T22:57:12Z",
-    "peak": 199,
-    "has_viewers": true,
-    "title": "опа",
-    "thumb": "https://i.ytimg.com/vi/Bqmeky3Ar7s/maxresdefault.jpg?v=6",
-    "viewers": 199,
-    "dur": "43 мин"
-   },
    {
     "vid": "vqU_D_7B9B0",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/52ADD5c4cv0/maxresdefault.jpg?v=6",
     "viewers": 6,
     "dur": "1 ч 20 мин"
+   },
+   {
+    "vid": "7UiQEDvqOvM",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-06T14:29:30Z",
+    "peak": 181,
+    "has_viewers": true,
+    "title": "у секты в гостях",
+    "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
+    "viewers": 111,
+    "dur": "4 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 111 👁 · 4 ч 45 мин\n└ у секты в гостях\n\n<b><a href=\"https://youtu.be/rGkjaECMRCM\">Ахиллес</a></b> · 21 👁 · 41 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/rGkjaECMRCM\">Ахиллес</a></b> · 22 👁 · 56 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
