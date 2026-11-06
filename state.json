@@ -49,19 +49,8 @@
     "peak": 328,
     "has_viewers": true,
     "title": "САВОШКО ТВ",
-    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=1c",
-    "viewers": 193
-   },
-   "Akk0DE_bfB8": {
-    "vid": "Akk0DE_bfB8",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-11-06T12:56:12Z",
-    "peak": 138,
-    "has_viewers": true,
-    "title": "= Дон Симон - Скоро Днюха=",
-    "thumb": "https://i.ytimg.com/vi/Akk0DE_bfB8/maxresdefault.jpg?v=6aedce63",
-    "viewers": 131
+    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=1f",
+    "viewers": 153
    },
    "AatH2OqByk0": {
     "vid": "AatH2OqByk0",
@@ -71,34 +60,22 @@
     "peak": 3518,
     "has_viewers": true,
     "title": "Чувствую, не чувствуя!",
-    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=8",
-    "viewers": 3518
+    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=b",
+    "viewers": 3148
    },
    "7UiQEDvqOvM": {
     "vid": "7UiQEDvqOvM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-11-06T14:29:30Z",
-    "peak": 29,
+    "peak": 73,
     "has_viewers": true,
     "title": "у секты в гостях",
     "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
-    "viewers": 29
+    "viewers": 73
    }
   },
   "ended": [
-   {
-    "vid": "cVf0dky_0Vw",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-11-03T11:40:30Z",
-    "peak": 83,
-    "has_viewers": true,
-    "title": "УХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/cVf0dky_0Vw/maxresdefault.jpg?v=1",
-    "viewers": 83,
-    "dur": "20 мин"
-   },
    {
     "vid": "qSccIESs51g",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/1pnP3NXEvF8/maxresdefault.jpg?v=c",
     "viewers": 154,
     "dur": "1 ч 13 мин"
+   },
+   {
+    "vid": "Akk0DE_bfB8",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-11-06T12:56:12Z",
+    "peak": 138,
+    "has_viewers": true,
+    "title": "= Дон Симон - Скоро Днюха=",
+    "thumb": "https://i.ytimg.com/vi/Akk0DE_bfB8/maxresdefault.jpg?v=6aedce63",
+    "viewers": 131,
+    "dur": "1 ч 46 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 3518 👁 · 43 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 193 👁 · 2 ч 19 мин\n└ САВОШКО ТВ\n\n<b><a href=\"https://youtu.be/Akk0DE_bfB8\">Don Simon</a></b> · 131 👁 · 1 ч 34 мин\n└ = Дон Симон - Скоро Днюха=\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 29 👁 · 1 мин\n└ у секты в гостях",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 3148 👁 · 58 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 153 👁 · 2 ч 34 мин\n└ САВОШКО ТВ\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 73 👁 · 15 мин\n└ у секты в гостях",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
