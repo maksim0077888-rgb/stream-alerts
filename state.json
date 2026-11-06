@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "у секты в гостях",
     "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
-    "viewers": 136
+    "viewers": 145
+   },
+   "rGkjaECMRCM": {
+    "vid": "rGkjaECMRCM",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T18:34:10Z",
+    "peak": 0,
+    "has_viewers": false,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/rGkjaECMRCM/maxresdefault.jpg?v=6aee1d86",
+    "viewers": 0
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "1 ч 20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 136 👁 · 4 ч 01 мин\n└ у секты в гостях",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 145 👁 · 4 ч 15 мин\n└ у секты в гостях\n\n<b><a href=\"https://youtu.be/rGkjaECMRCM\">Ахиллес</a></b> · 11 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
