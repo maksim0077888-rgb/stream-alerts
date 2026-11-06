@@ -41,31 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "1pnP3NXEvF8": {
-    "vid": "1pnP3NXEvF8",
+   "Lr2glBWQ1ek": {
+    "vid": "Lr2glBWQ1ek",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
-    "start": "2026-11-06T10:53:34Z",
-    "peak": 154,
+    "start": "2026-11-06T12:11:05Z",
+    "peak": 83,
     "has_viewers": true,
-    "title": "БЕКОН, КОГДА ГНЕЗДО?",
-    "thumb": "https://i.ytimg.com/vi/1pnP3NXEvF8/maxresdefault.jpg?v=c",
-    "viewers": 154
+    "title": "Пиздак",
+    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=1",
+    "viewers": 83
    }
   },
   "ended": [
-   {
-    "vid": "Ht0CsYroQZE",
-    "cid": "UCyOxBkR6oD17PzazUVYYm4g",
-    "name": "Селянин",
-    "start": "2026-11-02T20:45:38Z",
-    "peak": 230,
-    "has_viewers": true,
-    "title": "ТВ",
-    "thumb": "https://i.ytimg.com/vi/Ht0CsYroQZE/maxresdefault.jpg?v=11",
-    "viewers": 230,
-    "dur": "1 ч 39 мин"
-   },
    {
     "vid": "cVf0dky_0Vw",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/Gxk3DqFSrfA/maxresdefault.jpg?v=6",
     "viewers": 71,
     "dur": "30 мин"
+   },
+   {
+    "vid": "1pnP3NXEvF8",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T10:53:34Z",
+    "peak": 154,
+    "has_viewers": true,
+    "title": "БЕКОН, КОГДА ГНЕЗДО?",
+    "thumb": "https://i.ytimg.com/vi/1pnP3NXEvF8/maxresdefault.jpg?v=c",
+    "viewers": 154,
+    "dur": "1 ч 13 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/1pnP3NXEvF8\">Ахиллес</a></b> · 154 👁 · 1 ч 07 мин\n└ БЕКОН, КОГДА ГНЕЗДО?",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 83 👁 · 4 мин\n└ Пиздак",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
