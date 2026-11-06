@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "Lr2glBWQ1ek": {
-    "vid": "Lr2glBWQ1ek",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T12:11:05Z",
-    "peak": 328,
-    "has_viewers": true,
-    "title": "САВОШКО ТВ",
-    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=34",
-    "viewers": 181
-   },
    "AatH2OqByk0": {
     "vid": "AatH2OqByk0",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -60,34 +49,22 @@
     "peak": 4165,
     "has_viewers": true,
     "title": "Чувствую, не чувствуя!",
-    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=1f",
-    "viewers": 3709
+    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=22",
+    "viewers": 3775
    },
    "7UiQEDvqOvM": {
     "vid": "7UiQEDvqOvM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-11-06T14:29:30Z",
-    "peak": 171,
+    "peak": 181,
     "has_viewers": true,
     "title": "у секты в гостях",
     "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
-    "viewers": 171
+    "viewers": 181
    }
   },
   "ended": [
-   {
-    "vid": "qSccIESs51g",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-03T11:36:23Z",
-    "peak": 308,
-    "has_viewers": true,
-    "title": "...",
-    "thumb": "https://i.ytimg.com/vi/qSccIESs51g/sddefault.jpg?v=6ae9c72c",
-    "viewers": 236,
-    "dur": "2 ч 50 мин"
-   },
    {
     "vid": "LLAa5V196k4",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/Akk0DE_bfB8/maxresdefault.jpg?v=6aedce63",
     "viewers": 131,
     "dur": "1 ч 46 мин"
+   },
+   {
+    "vid": "Lr2glBWQ1ek",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T12:11:05Z",
+    "peak": 328,
+    "has_viewers": true,
+    "title": "САВОШКО ТВ",
+    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=34",
+    "viewers": 181,
+    "dur": "4 ч 20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 3709 👁 · 2 ч 43 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 181 👁 · 4 ч 19 мин\n└ САВОШКО ТВ\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 171 👁 · 2 ч 01 мин\n└ у секты в гостях",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 3775 👁 · 2 ч 58 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 181 👁 · 2 ч 15 мин\n└ у секты в гостях",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
