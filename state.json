@@ -49,8 +49,8 @@
     "peak": 328,
     "has_viewers": true,
     "title": "САВОШКО ТВ",
-    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=1f",
-    "viewers": 153
+    "thumb": "https://i.ytimg.com/vi/Lr2glBWQ1ek/maxresdefault.jpg?v=22",
+    "viewers": 148
    },
    "AatH2OqByk0": {
     "vid": "AatH2OqByk0",
@@ -60,19 +60,19 @@
     "peak": 3518,
     "has_viewers": true,
     "title": "Чувствую, не чувствуя!",
-    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=b",
-    "viewers": 3148
+    "thumb": "https://i.ytimg.com/vi/AatH2OqByk0/maxresdefault.jpg?v=e",
+    "viewers": 3487
    },
    "7UiQEDvqOvM": {
     "vid": "7UiQEDvqOvM",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-11-06T14:29:30Z",
-    "peak": 73,
+    "peak": 108,
     "has_viewers": true,
     "title": "у секты в гостях",
     "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
-    "viewers": 73
+    "viewers": 108
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "1 ч 46 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 3148 👁 · 58 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 153 👁 · 2 ч 34 мин\n└ САВОШКО ТВ\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 73 👁 · 15 мин\n└ у секты в гостях",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AatH2OqByk0\">ПАПИЧ</a></b> · 3487 👁 · 1 ч 13 мин\n└ Чувствую, не чувствуя!\n\n<b><a href=\"https://youtu.be/Lr2glBWQ1ek\">Ахиллес</a></b> · 148 👁 · 2 ч 49 мин\n└ САВОШКО ТВ\n\n<b><a href=\"https://youtu.be/7UiQEDvqOvM\">Рифляй</a></b> · 108 👁 · 31 мин\n└ у секты в гостях",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
