@@ -41,31 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "Gxk3DqFSrfA": {
-    "vid": "Gxk3DqFSrfA",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+   "1pnP3NXEvF8": {
+    "vid": "1pnP3NXEvF8",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
-    "start": "2026-11-06T10:16:18Z",
-    "peak": 71,
+    "start": "2026-11-06T10:53:34Z",
+    "peak": 37,
     "has_viewers": true,
-    "title": "Persus Stream",
-    "thumb": "https://i.ytimg.com/vi/Gxk3DqFSrfA/maxresdefault.jpg?v=6",
-    "viewers": 71
+    "title": "БЕКОН, КОГДА ГНЕЗДО?",
+    "thumb": "https://i.ytimg.com/vi/1pnP3NXEvF8/maxresdefault.jpg?v=1",
+    "viewers": 37
    }
   },
   "ended": [
-   {
-    "vid": "KXL0i9N3Axg",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-02T19:00:16Z",
-    "peak": 1676,
-    "has_viewers": true,
-    "title": "Ким Кардашьян у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/KXL0i9N3Axg/maxresdefault.jpg?v=6ae8ddb7",
-    "viewers": 1469,
-    "dur": "3 ч 15 мин"
-   },
    {
     "vid": "Ht0CsYroQZE",
     "cid": "UCyOxBkR6oD17PzazUVYYm4g",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/ezhYhG_padU/maxresdefault.jpg?v=6aec926c",
     "viewers": 110,
     "dur": "7 ч 47 мин"
+   },
+   {
+    "vid": "Gxk3DqFSrfA",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T10:16:18Z",
+    "peak": 71,
+    "has_viewers": true,
+    "title": "Persus Stream",
+    "thumb": "https://i.ytimg.com/vi/Gxk3DqFSrfA/maxresdefault.jpg?v=6",
+    "viewers": 71,
+    "dur": "30 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/Gxk3DqFSrfA\">Ахиллес</a></b> · 71 👁 · 29 мин\n└ Persus Stream",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/1pnP3NXEvF8\">Ахиллес</a></b> · 37 👁 · 7 мин\n└ БЕКОН, КОГДА ГНЕЗДО?",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
