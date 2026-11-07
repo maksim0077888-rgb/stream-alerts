@@ -40,7 +40,19 @@
  "day": "2026-11-07",
  "board": {
   "msg": 119,
-  "streams": {},
+  "streams": {
+   "rtLXUCnYA3Y": {
+    "vid": "rtLXUCnYA3Y",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-07T10:41:26Z",
+    "peak": 10,
+    "has_viewers": true,
+    "title": "persus",
+    "thumb": "https://i.ytimg.com/vi/rtLXUCnYA3Y/maxresdefault.jpg",
+    "viewers": 10
+   }
+  },
   "ended": [
    {
     "vid": "1pnP3NXEvF8",
@@ -223,7 +235,7 @@
     "dur": "2 ч 22 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/rtLXUCnYA3Y\">Ахиллес</a></b> · 10 👁 · 4 мин\n└ persus",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
