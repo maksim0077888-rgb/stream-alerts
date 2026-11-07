@@ -61,7 +61,29 @@
     "has_viewers": true,
     "title": "туса",
     "thumb": "https://i.ytimg.com/vi/GJwjKeGcfLQ/maxresdefault.jpg?v=6aef946d",
-    "viewers": 207
+    "viewers": 32
+   },
+   "wkPxfY7iDt4": {
+    "vid": "wkPxfY7iDt4",
+    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
+    "name": "Шкила",
+    "start": "2026-11-07T21:36:27Z",
+    "peak": 799,
+    "has_viewers": true,
+    "title": "П%ЗДЕЦ 24/7",
+    "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6aef97f4",
+    "viewers": 799
+   },
+   "djDsqF8qOFI": {
+    "vid": "djDsqF8qOFI",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-07T21:36:48Z",
+    "peak": 8,
+    "has_viewers": true,
+    "title": "день Ху нь",
+    "thumb": "https://i.ytimg.com/vi/djDsqF8qOFI/maxresdefault.jpg?v=1",
+    "viewers": 8
    }
   },
   "ended": [
@@ -246,7 +268,7 @@
     "dur": "14 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/GJwjKeGcfLQ\">Рифляй</a></b> · 207 👁 · 17 мин\n└ туса\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 0 👁 · 8 ч 57 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 799 👁 · 8 мин\n└ П%ЗДЕЦ 24/7\n\n<b><a href=\"https://youtu.be/GJwjKeGcfLQ\">Рифляй</a></b> · 32 👁 · 31 мин\n└ туса\n\n<b><a href=\"https://youtu.be/djDsqF8qOFI\">Школа Сук</a></b> · 8 👁 · 8 мин\n└ день Ху нь\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 0 👁 · 9 ч 12 мин\n└ persus",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
