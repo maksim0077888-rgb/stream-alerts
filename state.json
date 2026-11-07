@@ -41,42 +41,30 @@
  "board": {
   "msg": 119,
   "streams": {
-   "GJwjKeGcfLQ": {
-    "vid": "GJwjKeGcfLQ",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-07T21:13:27Z",
-    "peak": 207,
-    "has_viewers": true,
-    "title": "туса",
-    "thumb": "https://i.ytimg.com/vi/GJwjKeGcfLQ/maxresdefault.jpg?v=6aef946d",
-    "viewers": 6
-   },
    "wkPxfY7iDt4": {
     "vid": "wkPxfY7iDt4",
     "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
     "name": "Шкила",
     "start": "2026-11-07T21:36:27Z",
-    "peak": 1064,
+    "peak": 1230,
     "has_viewers": true,
     "title": "П%ЗДЕЦ 24/7",
     "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6aef97f4",
-    "viewers": 1064
+    "viewers": 1230
+   },
+   "TTaI2nwqwzU": {
+    "vid": "TTaI2nwqwzU",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-07T22:23:15Z",
+    "peak": 52,
+    "has_viewers": true,
+    "title": "туса",
+    "thumb": "https://i.ytimg.com/vi/TTaI2nwqwzU/maxresdefault.jpg?v=6aefa4ca",
+    "viewers": 52
    }
   },
   "ended": [
-   {
-    "vid": "gjlGaTUoYZU",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T23:03:07Z",
-    "peak": 6,
-    "has_viewers": true,
-    "title": "го",
-    "thumb": "https://i.ytimg.com/vi/gjlGaTUoYZU/maxresdefault.jpg?v=2",
-    "viewers": 6,
-    "dur": "16 мин"
-   },
    {
     "vid": "N9GvhGPrREM",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/djDsqF8qOFI/maxresdefault.jpg?v=1",
     "viewers": 8,
     "dur": "23 мин"
+   },
+   {
+    "vid": "GJwjKeGcfLQ",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-07T21:13:27Z",
+    "peak": 207,
+    "has_viewers": true,
+    "title": "туса",
+    "thumb": "https://i.ytimg.com/vi/GJwjKeGcfLQ/maxresdefault.jpg?v=6aef946d",
+    "viewers": 6,
+    "dur": "1 ч 09 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1064 👁 · 38 мин\n└ П%ЗДЕЦ 24/7\n\n<b><a href=\"https://youtu.be/GJwjKeGcfLQ\">Рифляй</a></b> · 6 👁 · 1 ч 01 мин\n└ туса",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1230 👁 · 54 мин\n└ П%ЗДЕЦ 24/7\n\n<b><a href=\"https://youtu.be/TTaI2nwqwzU\">Рифляй</a></b> · 52 👁 · 7 мин\n└ туса",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
