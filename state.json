@@ -49,8 +49,8 @@
     "peak": 76,
     "has_viewers": true,
     "title": "день Ху нь",
-    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=2b",
-    "viewers": 32
+    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=2e",
+    "viewers": 20
    },
    "OfA2tqd9Xeg": {
     "vid": "OfA2tqd9Xeg",
@@ -60,8 +60,8 @@
     "peak": 15,
     "has_viewers": true,
     "title": "persus",
-    "thumb": "https://i.ytimg.com/vi/OfA2tqd9Xeg/maxresdefault.jpg?v=18",
-    "viewers": 10
+    "thumb": "https://i.ytimg.com/vi/OfA2tqd9Xeg/maxresdefault.jpg?v=1a",
+    "viewers": 9
    },
    "Fnn9yvsBhvU": {
     "vid": "Fnn9yvsBhvU",
@@ -71,8 +71,8 @@
     "peak": 3590,
     "has_viewers": true,
     "title": "Микро-затык (надеюсь строго без сюжета)",
-    "thumb": "https://i.ytimg.com/vi/Fnn9yvsBhvU/maxresdefault.jpg?v=12",
-    "viewers": 3590
+    "thumb": "https://i.ytimg.com/vi/Fnn9yvsBhvU/maxresdefault.jpg?v=15",
+    "viewers": 3484
    },
    "jLPLbpuyrVM": {
     "vid": "jLPLbpuyrVM",
@@ -83,7 +83,18 @@
     "has_viewers": true,
     "title": "на вписке у филосова",
     "thumb": "https://i.ytimg.com/vi/jLPLbpuyrVM/maxresdefault.jpg?v=6aef3813",
-    "viewers": 231
+    "viewers": 127
+   },
+   "UQNiwTGxH1k": {
+    "vid": "UQNiwTGxH1k",
+    "cid": "UCeOF4ZHgHtotuGc07sVH2Pw",
+    "name": "Шкила",
+    "start": "2026-11-07T15:10:22Z",
+    "peak": 2130,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| Лимонка + Гриб = ОТВАР БЕРСЕРКА",
+    "thumb": "https://i.ytimg.com/vi/UQNiwTGxH1k/maxresdefault.jpg?v=6aef1ab5",
+    "viewers": 2130
    }
   },
   "ended": [
@@ -268,7 +279,7 @@
     "dur": "1 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/Fnn9yvsBhvU\">ПАПИЧ</a></b> · 3590 👁 · 1 ч 27 мин\n└ Микро-затык (надеюсь строго без сюжета)\n\n<b><a href=\"https://youtu.be/jLPLbpuyrVM\">Рифляй</a></b> · 231 👁 · 21 мин\n└ на вписке у филосова\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 32 👁 · 3 ч 39 мин\n└ день Ху нь\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 10 👁 · 2 ч 27 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/Fnn9yvsBhvU\">ПАПИЧ</a></b> · 3484 👁 · 1 ч 42 мин\n└ Микро-затык (надеюсь строго без сюжета)\n\n<b><a href=\"https://youtu.be/UQNiwTGxH1k\">Шкила</a></b> · 2130 👁 · 5 мин\n└ SHKILLA TEAM ||| Лимонка + Гриб = ОТВАР БЕРСЕРКА\n\n<b><a href=\"https://youtu.be/jLPLbpuyrVM\">Рифляй</a></b> · 127 👁 · 36 мин\n└ на вписке у филосова\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 20 👁 · 3 ч 54 мин\n└ день Ху нь\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 9 👁 · 2 ч 42 мин\n└ persus",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
