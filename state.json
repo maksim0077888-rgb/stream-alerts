@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "GIXG4kmZAr4": {
-    "vid": "GIXG4kmZAr4",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T23:24:50Z",
-    "peak": 9,
-    "has_viewers": true,
-    "title": "да",
-    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=a",
-    "viewers": 0
-   },
    "oi5H3kpXf0I": {
     "vid": "oi5H3kpXf0I",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "да",
     "thumb": "https://i.ytimg.com/vi/oi5H3kpXf0I/maxresdefault.jpg?v=13",
-    "viewers": 2
+    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "jSZtixhgxvo",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-05T11:59:44Z",
-    "peak": 106,
-    "has_viewers": true,
-    "title": "Пряиой эфир 05.11.2026",
-    "thumb": "https://i.ytimg.com/vi/jSZtixhgxvo/maxresdefault.jpg?v=6aec6829",
-    "viewers": 64,
-    "dur": "2 ч 04 мин"
-   },
    {
     "vid": "nQZEne51qCQ",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/N9GvhGPrREM/maxresdefault.jpg?v=6aee3236",
     "viewers": 1,
     "dur": "2 ч 35 мин"
+   },
+   {
+    "vid": "GIXG4kmZAr4",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T23:24:50Z",
+    "peak": 9,
+    "has_viewers": true,
+    "title": "да",
+    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=a",
+    "viewers": 0,
+    "dur": "41 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/oi5H3kpXf0I\">Ахиллес</a></b> · 2 👁 · 6 ч 36 мин\n└ да\n\n<b><a href=\"https://youtu.be/GIXG4kmZAr4\">Ахиллес</a></b> · 0 👁 · 7 ч 20 мин\n└ да",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/oi5H3kpXf0I\">Ахиллес</a></b> · 1 👁 · 6 ч 51 мин\n└ да",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
