@@ -37,46 +37,23 @@
   "https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g": "UCSVKrRZ6viFK3C9diKAkw6g",
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
- "day": "2026-11-06",
+ "day": "2026-11-07",
  "board": {
   "msg": 119,
   "streams": {
-   "N9GvhGPrREM": {
-    "vid": "N9GvhGPrREM",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T20:02:23Z",
-    "peak": 17,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/N9GvhGPrREM/maxresdefault.jpg?v=6aee3236",
-    "viewers": 1
-   },
    "GIXG4kmZAr4": {
     "vid": "GIXG4kmZAr4",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
     "name": "Ахиллес",
     "start": "2026-11-06T23:24:50Z",
-    "peak": 3,
+    "peak": 9,
     "has_viewers": true,
     "title": "да",
-    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=1",
-    "viewers": 3
+    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=8",
+    "viewers": 9
    }
   },
   "ended": [
-   {
-    "vid": "zeLHu8v1SAI",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-05T07:22:23Z",
-    "peak": 18,
-    "has_viewers": true,
-    "title": "день 2",
-    "thumb": "https://i.ytimg.com/vi/zeLHu8v1SAI/maxresdefault.jpg?v=8",
-    "viewers": 10,
-    "dur": "1 ч 08 мин"
-   },
    {
     "vid": "jSZtixhgxvo",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/gjlGaTUoYZU/maxresdefault.jpg?v=2",
     "viewers": 6,
     "dur": "16 мин"
+   },
+   {
+    "vid": "N9GvhGPrREM",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-06T20:02:23Z",
+    "peak": 17,
+    "has_viewers": true,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/N9GvhGPrREM/maxresdefault.jpg?v=6aee3236",
+    "viewers": 1,
+    "dur": "2 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/GIXG4kmZAr4\">Ахиллес</a></b> · 3 👁 · 5 мин\n└ да\n\n<b><a href=\"https://youtu.be/N9GvhGPrREM\">Ахиллес</a></b> · 1 👁 · 3 ч 28 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/GIXG4kmZAr4\">Ахиллес</a></b> · 9 👁 · 35 мин\n└ да",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
