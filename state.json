@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "rtLXUCnYA3Y": {
-    "vid": "rtLXUCnYA3Y",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-11-07T10:41:26Z",
-    "peak": 31,
-    "has_viewers": true,
-    "title": "persus",
-    "thumb": "https://i.ytimg.com/vi/rtLXUCnYA3Y/maxresdefault.jpg?v=11",
-    "viewers": 28
-   },
    "AEj_RbM6CLY": {
     "vid": "AEj_RbM6CLY",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -60,23 +49,11 @@
     "peak": 68,
     "has_viewers": true,
     "title": "день Ху нь",
-    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=a",
-    "viewers": 68
+    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=d",
+    "viewers": 66
    }
   },
   "ended": [
-   {
-    "vid": "1pnP3NXEvF8",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T10:53:34Z",
-    "peak": 154,
-    "has_viewers": true,
-    "title": "БЕКОН, КОГДА ГНЕЗДО?",
-    "thumb": "https://i.ytimg.com/vi/1pnP3NXEvF8/maxresdefault.jpg?v=c",
-    "viewers": 154,
-    "dur": "1 ч 13 мин"
-   },
    {
     "vid": "Akk0DE_bfB8",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/jqrR5bKatx4/maxresdefault.jpg?v=19",
     "viewers": 204,
     "dur": "2 ч 22 мин"
+   },
+   {
+    "vid": "rtLXUCnYA3Y",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-07T10:41:26Z",
+    "peak": 31,
+    "has_viewers": true,
+    "title": "persus",
+    "thumb": "https://i.ytimg.com/vi/rtLXUCnYA3Y/maxresdefault.jpg?v=11",
+    "viewers": 28,
+    "dur": "1 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 68 👁 · 54 мин\n└ день Ху нь\n\n<b><a href=\"https://youtu.be/rtLXUCnYA3Y\">Ахиллес</a></b> · 28 👁 · 1 ч 33 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 66 👁 · 1 ч 09 мин\n└ день Ху нь",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
