@@ -46,11 +46,22 @@
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-07T11:21:00Z",
-    "peak": 68,
+    "peak": 76,
     "has_viewers": true,
     "title": "день Ху нь",
-    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=d",
-    "viewers": 66
+    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=10",
+    "viewers": 76
+   },
+   "OfA2tqd9Xeg": {
+    "vid": "OfA2tqd9Xeg",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-07T12:32:48Z",
+    "peak": 0,
+    "has_viewers": false,
+    "title": "persus",
+    "thumb": "https://i.ytimg.com/vi/OfA2tqd9Xeg/maxresdefault.jpg?v=1",
+    "viewers": 0
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "1 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 66 👁 · 1 ч 09 мин\n└ день Ху нь",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 76 👁 · 1 ч 24 мин\n└ день Ху нь\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 12 мин\n└ persus",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
