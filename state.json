@@ -49,8 +49,19 @@
     "peak": 9,
     "has_viewers": true,
     "title": "да",
-    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=8",
-    "viewers": 9
+    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=a",
+    "viewers": 0
+   },
+   "oi5H3kpXf0I": {
+    "vid": "oi5H3kpXf0I",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-07T00:08:41Z",
+    "peak": 6,
+    "has_viewers": true,
+    "title": "да",
+    "thumb": "https://i.ytimg.com/vi/oi5H3kpXf0I/maxresdefault.jpg?v=1",
+    "viewers": 6
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "2 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/GIXG4kmZAr4\">Ахиллес</a></b> · 9 👁 · 35 мин\n└ да",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/oi5H3kpXf0I\">Ахиллес</a></b> · 6 👁 · 6 мин\n└ да\n\n<b><a href=\"https://youtu.be/GIXG4kmZAr4\">Ахиллес</a></b> · 0 👁 · 50 мин\n└ да",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
