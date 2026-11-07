@@ -49,8 +49,8 @@
     "peak": 76,
     "has_viewers": true,
     "title": "день Ху нь",
-    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=25",
-    "viewers": 55
+    "thumb": "https://i.ytimg.com/vi/AEj_RbM6CLY/maxresdefault.jpg?v=28",
+    "viewers": 39
    },
    "OfA2tqd9Xeg": {
     "vid": "OfA2tqd9Xeg",
@@ -60,19 +60,30 @@
     "peak": 15,
     "has_viewers": true,
     "title": "persus",
-    "thumb": "https://i.ytimg.com/vi/OfA2tqd9Xeg/maxresdefault.jpg?v=12",
-    "viewers": 4
+    "thumb": "https://i.ytimg.com/vi/OfA2tqd9Xeg/maxresdefault.jpg?v=15",
+    "viewers": 3
    },
    "Fnn9yvsBhvU": {
     "vid": "Fnn9yvsBhvU",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-07T13:32:59Z",
-    "peak": 3114,
+    "peak": 3283,
     "has_viewers": true,
     "title": "Микро-затык (надеюсь строго без сюжета)",
-    "thumb": "https://i.ytimg.com/vi/Fnn9yvsBhvU/maxresdefault.jpg?v=c",
-    "viewers": 3114
+    "thumb": "https://i.ytimg.com/vi/Fnn9yvsBhvU/maxresdefault.jpg?v=f",
+    "viewers": 3283
+   },
+   "jLPLbpuyrVM": {
+    "vid": "jLPLbpuyrVM",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-07T14:39:23Z",
+    "peak": 130,
+    "has_viewers": true,
+    "title": "на вписке у филосова",
+    "thumb": "https://i.ytimg.com/vi/jLPLbpuyrVM/maxresdefault.jpg?v=6aef3813",
+    "viewers": 130
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "1 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/Fnn9yvsBhvU\">ПАПИЧ</a></b> · 3114 👁 · 57 мин\n└ Микро-затык (надеюсь строго без сюжета)\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 55 👁 · 3 ч 09 мин\n└ день Ху нь\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 4 👁 · 1 ч 57 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/Fnn9yvsBhvU\">ПАПИЧ</a></b> · 3283 👁 · 1 ч 12 мин\n└ Микро-затык (надеюсь строго без сюжета)\n\n<b><a href=\"https://youtu.be/jLPLbpuyrVM\">Рифляй</a></b> · 130 👁 · 6 мин\n└ на вписке у филосова\n\n<b><a href=\"https://youtu.be/AEj_RbM6CLY\">Школа Сук</a></b> · 39 👁 · 3 ч 24 мин\n└ день Ху нь\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 3 👁 · 2 ч 12 мин\n└ persus",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
