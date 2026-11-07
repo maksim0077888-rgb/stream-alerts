@@ -52,77 +52,19 @@
     "thumb": "https://i.ytimg.com/vi/OfA2tqd9Xeg/maxresdefault.jpg?v=1d",
     "viewers": 0
    },
-   "UQNiwTGxH1k": {
-    "vid": "UQNiwTGxH1k",
-    "cid": "UCeOF4ZHgHtotuGc07sVH2Pw",
-    "name": "Шкила",
-    "start": "2026-11-07T15:10:22Z",
-    "peak": 10048,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| Лимонка + Гриб = ОТВАР БЕРСЕРКА",
-    "thumb": "https://i.ytimg.com/vi/UQNiwTGxH1k/maxresdefault.jpg?v=6aef1ab5",
-    "viewers": 2079
-   },
-   "quH9NJorgxg": {
-    "vid": "quH9NJorgxg",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-07T17:23:11Z",
-    "peak": 124,
-    "has_viewers": true,
-    "title": "П%ЗДЕЦ 24/7",
-    "thumb": "https://i.ytimg.com/vi/quH9NJorgxg/maxresdefault.jpg?v=6aef5c4f",
-    "viewers": 119
-   },
-   "7auL4z240pE": {
-    "vid": "7auL4z240pE",
+   "GJwjKeGcfLQ": {
+    "vid": "GJwjKeGcfLQ",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
-    "start": "2026-11-07T20:57:55Z",
-    "peak": 22,
+    "start": "2026-11-07T21:13:27Z",
+    "peak": 74,
     "has_viewers": true,
-    "title": "на вписке у философа",
-    "thumb": "https://i.ytimg.com/vi/7auL4z240pE/maxresdefault.jpg?v=6aef90b7",
-    "viewers": 22
+    "title": "туса",
+    "thumb": "https://i.ytimg.com/vi/GJwjKeGcfLQ/maxresdefault.jpg?v=6aef946d",
+    "viewers": 74
    }
   },
   "ended": [
-   {
-    "vid": "52ADD5c4cv0",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T17:05:12Z",
-    "peak": 40,
-    "has_viewers": true,
-    "title": "СЛАВА ГЕЙ",
-    "thumb": "https://i.ytimg.com/vi/52ADD5c4cv0/maxresdefault.jpg?v=6",
-    "viewers": 6,
-    "dur": "1 ч 20 мин"
-   },
-   {
-    "vid": "7UiQEDvqOvM",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-06T14:29:30Z",
-    "peak": 181,
-    "has_viewers": true,
-    "title": "у секты в гостях",
-    "thumb": "https://i.ytimg.com/vi/7UiQEDvqOvM/maxresdefault.jpg?v=6aede440",
-    "viewers": 111,
-    "dur": "4 ч 39 мин"
-   },
-   {
-    "vid": "rGkjaECMRCM",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T18:34:10Z",
-    "peak": 22,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/rGkjaECMRCM/maxresdefault.jpg?v=6aee1d86",
-    "viewers": 16,
-    "dur": "1 ч 24 мин"
-   },
    {
     "vid": "r6K6SenIvwY",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -266,9 +208,45 @@
     "thumb": "https://i.ytimg.com/vi/jLPLbpuyrVM/maxresdefault.jpg?v=6aef3813",
     "viewers": 34,
     "dur": "6 ч 17 мин"
+   },
+   {
+    "vid": "UQNiwTGxH1k",
+    "cid": "UCeOF4ZHgHtotuGc07sVH2Pw",
+    "name": "Шкила",
+    "start": "2026-11-07T15:10:22Z",
+    "peak": 10048,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| Лимонка + Гриб = ОТВАР БЕРСЕРКА",
+    "thumb": "https://i.ytimg.com/vi/UQNiwTGxH1k/maxresdefault.jpg?v=6aef1ab5",
+    "viewers": 2079,
+    "dur": "6 ч 05 мин"
+   },
+   {
+    "vid": "quH9NJorgxg",
+    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
+    "name": "Шкила",
+    "start": "2026-11-07T17:23:11Z",
+    "peak": 124,
+    "has_viewers": true,
+    "title": "П%ЗДЕЦ 24/7",
+    "thumb": "https://i.ytimg.com/vi/quH9NJorgxg/maxresdefault.jpg?v=6aef5c4f",
+    "viewers": 119,
+    "dur": "3 ч 50 мин"
+   },
+   {
+    "vid": "7auL4z240pE",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-07T20:57:55Z",
+    "peak": 22,
+    "has_viewers": true,
+    "title": "на вписке у философа",
+    "thumb": "https://i.ytimg.com/vi/7auL4z240pE/maxresdefault.jpg?v=6aef90b7",
+    "viewers": 22,
+    "dur": "14 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/UQNiwTGxH1k\">Шкила</a></b> · 2079 👁 · 5 ч 50 мин\n└ SHKILLA TEAM ||| Лимонка + Гриб = ОТВАР БЕРСЕРКА\n\n<b><a href=\"https://youtu.be/quH9NJorgxg\">Шкила</a></b> · 119 👁 · 3 ч 37 мин\n└ П%ЗДЕЦ 24/7\n\n<b><a href=\"https://youtu.be/7auL4z240pE\">Рифляй</a></b> · 22 👁 · 2 мин\n└ на вписке у философа\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 0 👁 · 8 ч 27 мин\n└ persus",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/GJwjKeGcfLQ\">Рифляй</a></b> · 74 👁 · 1 мин\n└ туса\n\n<b><a href=\"https://youtu.be/OfA2tqd9Xeg\">Ахиллес</a></b> · 0 👁 · 8 ч 42 мин\n└ persus",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
