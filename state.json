@@ -41,31 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "oi5H3kpXf0I": {
-    "vid": "oi5H3kpXf0I",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+   "dxhMAnOhtO4": {
+    "vid": "dxhMAnOhtO4",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
-    "start": "2026-11-07T00:08:41Z",
-    "peak": 26,
+    "start": "2026-11-07T07:53:06Z",
+    "peak": 35,
     "has_viewers": true,
-    "title": "да",
-    "thumb": "https://i.ytimg.com/vi/oi5H3kpXf0I/maxresdefault.jpg?v=13",
-    "viewers": 1
+    "title": "было и было",
+    "thumb": "https://i.ytimg.com/vi/dxhMAnOhtO4/maxresdefault.jpg?v=1",
+    "viewers": 35
    }
   },
   "ended": [
-   {
-    "vid": "nQZEne51qCQ",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-05T12:54:37Z",
-    "peak": 301,
-    "has_viewers": true,
-    "title": "С Гроу",
-    "thumb": "https://i.ytimg.com/vi/nQZEne51qCQ/maxresdefault.jpg?v=17",
-    "viewers": 285,
-    "dur": "1 ч 58 мин"
-   },
    {
     "vid": "ezhYhG_padU",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=a",
     "viewers": 0,
     "dur": "41 мин"
+   },
+   {
+    "vid": "oi5H3kpXf0I",
+    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
+    "name": "Ахиллес",
+    "start": "2026-11-07T00:08:41Z",
+    "peak": 26,
+    "has_viewers": true,
+    "title": "да",
+    "thumb": "https://i.ytimg.com/vi/oi5H3kpXf0I/maxresdefault.jpg?v=13",
+    "viewers": 1,
+    "dur": "1 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/oi5H3kpXf0I\">Ахиллес</a></b> · 1 👁 · 7 ч 36 мин\n└ да",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dxhMAnOhtO4\">Ахиллес</a></b> · 35 👁 · 7 мин\n└ было и было",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
