@@ -48,35 +48,12 @@
     "start": "2026-11-07T21:36:27Z",
     "peak": 1230,
     "has_viewers": true,
-    "title": "П%ЗДЕЦ 24/7",
-    "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6aef97f4",
-    "viewers": 18
-   },
-   "ExuEEeAImOs": {
-    "vid": "ExuEEeAImOs",
-    "cid": "UCeOF4ZHgHtotuGc07sVH2Pw",
-    "name": "Шкила",
-    "start": "2026-11-08T14:00:45Z",
-    "peak": 2408,
-    "has_viewers": true,
     "title": "SHKILLA TEAM ||| Гидромассонабор + новые прически",
-    "thumb": "https://i.ytimg.com/vi/ExuEEeAImOs/maxresdefault.jpg?v=6af064f6",
-    "viewers": 2408
+    "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6af097e5",
+    "viewers": 1028
    }
   },
   "ended": [
-   {
-    "vid": "dxhMAnOhtO4",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-07T07:53:06Z",
-    "peak": 35,
-    "has_viewers": true,
-    "title": "было и было",
-    "thumb": "https://i.ytimg.com/vi/dxhMAnOhtO4/maxresdefault.jpg?v=1",
-    "viewers": 35,
-    "dur": "8 мин"
-   },
    {
     "vid": "jqrR5bKatx4",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/xqNmHq7vb28/maxresdefault.jpg?v=6af04c6e",
     "viewers": 46,
     "dur": "1 ч 20 мин"
+   },
+   {
+    "vid": "ExuEEeAImOs",
+    "cid": "UCeOF4ZHgHtotuGc07sVH2Pw",
+    "name": "Шкила",
+    "start": "2026-11-08T14:00:45Z",
+    "peak": 2408,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| Гидромассонабор + новые прически",
+    "thumb": "https://i.ytimg.com/vi/ExuEEeAImOs/maxresdefault.jpg?v=6af064f6",
+    "viewers": 2408,
+    "dur": "1 ч 44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/ExuEEeAImOs\">Шкила</a></b> · 2408 👁 · 1 ч 29 мин\n└ SHKILLA TEAM ||| Гидромассонабор + новые прически\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 18 👁 · 17 ч 54 мин\n└ П%ЗДЕЦ 24/7",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1028 👁 · 18 ч 08 мин\n└ SHKILLA TEAM ||| Гидромассонабор + новые прически",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
