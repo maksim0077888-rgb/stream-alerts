@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "П%ЗДЕЦ 24/7",
     "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6aef97f4",
-    "viewers": 1080
-   },
-   "Qjby2LIsBX8": {
-    "vid": "Qjby2LIsBX8",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-08T06:01:01Z",
-    "peak": 43,
-    "has_viewers": true,
-    "title": "день Ху нь",
-    "thumb": "https://i.ytimg.com/vi/Qjby2LIsBX8/maxresdefault.jpg?v=33",
-    "viewers": 14
+    "viewers": 1089
    }
   },
   "ended": [
-   {
-    "vid": "GIXG4kmZAr4",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-11-06T23:24:50Z",
-    "peak": 9,
-    "has_viewers": true,
-    "title": "да",
-    "thumb": "https://i.ytimg.com/vi/GIXG4kmZAr4/maxresdefault.jpg?v=a",
-    "viewers": 0,
-    "dur": "41 мин"
-   },
    {
     "vid": "oi5H3kpXf0I",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/TTaI2nwqwzU/maxresdefault.jpg?v=6aefa4ca",
     "viewers": 113,
     "dur": "1 ч 14 мин"
+   },
+   {
+    "vid": "Qjby2LIsBX8",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-08T06:01:01Z",
+    "peak": 43,
+    "has_viewers": true,
+    "title": "день Ху нь",
+    "thumb": "https://i.ytimg.com/vi/Qjby2LIsBX8/maxresdefault.jpg?v=33",
+    "viewers": 14,
+    "dur": "4 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1080 👁 · 12 ч 39 мин\n└ П%ЗДЕЦ 24/7\n\n<b><a href=\"https://youtu.be/Qjby2LIsBX8\">Школа Сук</a></b> · 14 👁 · 4 ч 14 мин\n└ день Ху нь",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1089 👁 · 12 ч 54 мин\n└ П%ЗДЕЦ 24/7",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
