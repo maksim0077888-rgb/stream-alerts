@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "wkPxfY7iDt4": {
-    "vid": "wkPxfY7iDt4",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-07T21:36:27Z",
-    "peak": 2198,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| Гидромассонабор + новые прически",
-    "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6af097e5",
-    "viewers": 1907
-   },
    "0TPhuON9qdY": {
     "vid": "0TPhuON9qdY",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "жду Ким Кордошнян",
     "thumb": "https://i.ytimg.com/vi/0TPhuON9qdY/maxresdefault.jpg?v=e",
-    "viewers": 8
+    "viewers": 7
    }
   },
   "ended": [
-   {
-    "vid": "jqrR5bKatx4",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-07T08:06:40Z",
-    "peak": 204,
-    "has_viewers": true,
-    "title": "да",
-    "thumb": "https://i.ytimg.com/vi/jqrR5bKatx4/maxresdefault.jpg?v=19",
-    "viewers": 204,
-    "dur": "2 ч 22 мин"
-   },
    {
     "vid": "rtLXUCnYA3Y",
     "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/ExuEEeAImOs/maxresdefault.jpg?v=6af064f6",
     "viewers": 2408,
     "dur": "1 ч 44 мин"
+   },
+   {
+    "vid": "wkPxfY7iDt4",
+    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
+    "name": "Шкила",
+    "start": "2026-11-07T21:36:27Z",
+    "peak": 2198,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| Гидромассонабор + новые прически",
+    "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6af097e5",
+    "viewers": 1907,
+    "dur": "22 ч 08 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1907 👁 · 21 ч 54 мин\n└ SHKILLA TEAM ||| Гидромассонабор + новые прически\n\n<b><a href=\"https://youtu.be/0TPhuON9qdY\">Герман Ягодка</a></b> · 8 👁 · 2 ч 02 мин\n└ жду Ким Кордошнян",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/0TPhuON9qdY\">Герман Ягодка</a></b> · 7 👁 · 2 ч 17 мин\n└ жду Ким Кордошнян",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
