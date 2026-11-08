@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "П%ЗДЕЦ 24/7",
     "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6aef97f4",
-    "viewers": 1041
-   },
-   "xqNmHq7vb28": {
-    "vid": "xqNmHq7vb28",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-08T11:33:20Z",
-    "peak": 56,
-    "has_viewers": true,
-    "title": "Прямой эфир 08.11.2026",
-    "thumb": "https://i.ytimg.com/vi/xqNmHq7vb28/maxresdefault.jpg?v=6af04c6e",
-    "viewers": 46
+    "viewers": 1137
    }
   },
   "ended": [
-   {
-    "vid": "oi5H3kpXf0I",
-    "cid": "UC3Eilc5B96kpf0OpyEfoNEg",
-    "name": "Ахиллес",
-    "start": "2026-11-07T00:08:41Z",
-    "peak": 26,
-    "has_viewers": true,
-    "title": "да",
-    "thumb": "https://i.ytimg.com/vi/oi5H3kpXf0I/maxresdefault.jpg?v=13",
-    "viewers": 1,
-    "dur": "1 ч 33 мин"
-   },
    {
     "vid": "dxhMAnOhtO4",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/Qjby2LIsBX8/maxresdefault.jpg?v=33",
     "viewers": 14,
     "dur": "4 ч 29 мин"
+   },
+   {
+    "vid": "xqNmHq7vb28",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-11-08T11:33:20Z",
+    "peak": 56,
+    "has_viewers": true,
+    "title": "Прямой эфир 08.11.2026",
+    "thumb": "https://i.ytimg.com/vi/xqNmHq7vb28/maxresdefault.jpg?v=6af04c6e",
+    "viewers": 46,
+    "dur": "1 ч 20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1041 👁 · 15 ч 08 мин\n└ П%ЗДЕЦ 24/7\n\n<b><a href=\"https://youtu.be/xqNmHq7vb28\">Депутат</a></b> · 46 👁 · 1 ч 12 мин\n└ Прямой эфир 08.11.2026",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/wkPxfY7iDt4\">Шкила</a></b> · 1137 👁 · 15 ч 24 мин\n└ П%ЗДЕЦ 24/7",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
