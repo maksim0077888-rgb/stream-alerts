@@ -40,32 +40,8 @@
  "day": "2026-11-09",
  "board": {
   "msg": 119,
-  "streams": {
-   "RlEnOOfFho8": {
-    "vid": "RlEnOOfFho8",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-11-09T09:53:06Z",
-    "peak": 130,
-    "has_viewers": true,
-    "title": "= Дон Симон - После Днюхи=",
-    "thumb": "https://i.ytimg.com/vi/RlEnOOfFho8/maxresdefault.jpg?v=6af197fa",
-    "viewers": 104
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "Fnn9yvsBhvU",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-07T13:32:59Z",
-    "peak": 3715,
-    "has_viewers": true,
-    "title": "Микро-затык (надеюсь строго без сюжета)",
-    "thumb": "https://i.ytimg.com/vi/Fnn9yvsBhvU/maxresdefault.jpg?v=29",
-    "viewers": 3604,
-    "dur": "3 ч 40 мин"
-   },
    {
     "vid": "AEj_RbM6CLY",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/0TPhuON9qdY/maxresdefault.jpg?v=e",
     "viewers": 3,
     "dur": "1 ч 09 мин"
+   },
+   {
+    "vid": "RlEnOOfFho8",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-11-09T09:53:06Z",
+    "peak": 130,
+    "has_viewers": true,
+    "title": "= Дон Симон - После Днюхи=",
+    "thumb": "https://i.ytimg.com/vi/RlEnOOfFho8/maxresdefault.jpg?v=6af197fa",
+    "viewers": 104,
+    "dur": "1 ч 47 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/RlEnOOfFho8\">Don Simon</a></b> · 104 👁 · 1 ч 37 мин\n└ = Дон Симон - После Днюхи=",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
