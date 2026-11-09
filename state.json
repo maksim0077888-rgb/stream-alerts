@@ -40,7 +40,19 @@
  "day": "2026-11-09",
  "board": {
   "msg": 119,
-  "streams": {},
+  "streams": {
+   "fJwNNwTQSro": {
+    "vid": "fJwNNwTQSro",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-09T14:33:06Z",
+    "peak": 2517,
+    "has_viewers": true,
+    "title": "Концовка или сайд квесты? (выбор очевиден)",
+    "thumb": "https://i.ytimg.com/vi/fJwNNwTQSro/maxresdefault.jpg?v=2",
+    "viewers": 2517
+   }
+  },
   "ended": [
    {
     "vid": "AEj_RbM6CLY",
@@ -223,7 +235,7 @@
     "dur": "1 ч 47 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/fJwNNwTQSro\">ПАПИЧ</a></b> · 2517 👁 · 12 мин\n└ Концовка или сайд квесты? (выбор очевиден)",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
