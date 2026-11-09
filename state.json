@@ -46,11 +46,22 @@
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-09T14:33:06Z",
-    "peak": 3597,
+    "peak": 3678,
     "has_viewers": true,
     "title": "Концовка или сайд квесты? (выбор очевиден)",
-    "thumb": "https://i.ytimg.com/vi/fJwNNwTQSro/maxresdefault.jpg?v=1d",
-    "viewers": 3534
+    "thumb": "https://i.ytimg.com/vi/fJwNNwTQSro/maxresdefault.jpg?v=20",
+    "viewers": 3678
+   },
+   "wR1t9eJ41KE": {
+    "vid": "wR1t9eJ41KE",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-09T17:10:49Z",
+    "peak": 19,
+    "has_viewers": true,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/wR1t9eJ41KE/maxresdefault.jpg?v=6af1fe80",
+    "viewers": 19
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "1 ч 47 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/fJwNNwTQSro\">ПАПИЧ</a></b> · 3534 👁 · 2 ч 27 мин\n└ Концовка или сайд квесты? (выбор очевиден)",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/fJwNNwTQSro\">ПАПИЧ</a></b> · 3678 👁 · 2 ч 42 мин\n└ Концовка или сайд квесты? (выбор очевиден)\n\n<b><a href=\"https://youtu.be/wR1t9eJ41KE\">Ахиллес</a></b> · 19 👁 · 4 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
