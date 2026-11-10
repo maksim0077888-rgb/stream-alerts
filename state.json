@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Погуляем ! Жду Ким Кордошнян",
     "thumb": "https://i.ytimg.com/vi/NocPhH2CZRs/maxresdefault.jpg?v=1f",
-    "viewers": 6
+    "viewers": 0
    },
    "Rx2qpH5A4FM": {
     "vid": "Rx2qpH5A4FM",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-11-10T16:05:18Z",
-    "peak": 222,
+    "peak": 263,
     "has_viewers": true,
     "title": "идем гулять",
-    "thumb": "https://i.ytimg.com/vi/Rx2qpH5A4FM/maxresdefault.jpg?v=3",
-    "viewers": 85
+    "thumb": "https://i.ytimg.com/vi/Rx2qpH5A4FM/maxresdefault.jpg?v=6",
+    "viewers": 263
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Rx2qpH5A4FM\">Герман Ягодка</a></b> · 85 👁 · 25 мин\n└ идем гулять\n\n<b><a href=\"https://youtu.be/NocPhH2CZRs\">Герман Ягодка</a></b> · 6 👁 · 3 ч 32 мин\n└ Погуляем ! Жду Ким Кордошнян",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Rx2qpH5A4FM\">Герман Ягодка</a></b> · 263 👁 · 40 мин\n└ идем гулять\n\n<b><a href=\"https://youtu.be/NocPhH2CZRs\">Герман Ягодка</a></b> · 0 👁 · 3 ч 46 мин\n└ Погуляем ! Жду Ким Кордошнян",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
