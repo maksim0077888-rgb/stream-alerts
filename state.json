@@ -40,7 +40,19 @@
  "day": "2026-11-10",
  "board": {
   "msg": 119,
-  "streams": {},
+  "streams": {
+   "NocPhH2CZRs": {
+    "vid": "NocPhH2CZRs",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-10T12:58:36Z",
+    "peak": 42,
+    "has_viewers": true,
+    "title": "Погуляем ! Жду Ким Кордошнян",
+    "thumb": "https://i.ytimg.com/vi/NocPhH2CZRs/maxresdefault.jpg",
+    "viewers": 42
+   }
+  },
   "ended": [
    {
     "vid": "7auL4z240pE",
@@ -223,7 +235,7 @@
     "dur": "24 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/NocPhH2CZRs\">Герман Ягодка</a></b> · 42 👁 · 2 мин\n└ Погуляем ! Жду Ким Кордошнян",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
