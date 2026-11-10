@@ -41,31 +41,19 @@
  "board": {
   "msg": 119,
   "streams": {
-   "iTBe2XNAD2Y": {
-    "vid": "iTBe2XNAD2Y",
+   "BuVo2zWP1iE": {
+    "vid": "BuVo2zWP1iE",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
-    "start": "2026-11-09T19:45:11Z",
-    "peak": 25,
+    "start": "2026-11-10T02:36:06Z",
+    "peak": 5,
     "has_viewers": true,
     "title": "РИСУЕМ НОВЫЙ ГОД",
-    "thumb": "https://i.ytimg.com/vi/iTBe2XNAD2Y/maxresdefault.jpg?v=14",
-    "viewers": 0
+    "thumb": "https://i.ytimg.com/vi/BuVo2zWP1iE/maxresdefault.jpg?v=2",
+    "viewers": 5
    }
   },
   "ended": [
-   {
-    "vid": "UQNiwTGxH1k",
-    "cid": "UCeOF4ZHgHtotuGc07sVH2Pw",
-    "name": "Шкила",
-    "start": "2026-11-07T15:10:22Z",
-    "peak": 10048,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| Лимонка + Гриб = ОТВАР БЕРСЕРКА",
-    "thumb": "https://i.ytimg.com/vi/UQNiwTGxH1k/maxresdefault.jpg?v=6aef1ab5",
-    "viewers": 2079,
-    "dur": "6 ч 05 мин"
-   },
    {
     "vid": "quH9NJorgxg",
     "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/wR1t9eJ41KE/maxresdefault.jpg?v=6af1fe80",
     "viewers": 18,
     "dur": "6 ч 47 мин"
+   },
+   {
+    "vid": "iTBe2XNAD2Y",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-09T19:45:11Z",
+    "peak": 25,
+    "has_viewers": true,
+    "title": "РИСУЕМ НОВЫЙ ГОД",
+    "thumb": "https://i.ytimg.com/vi/iTBe2XNAD2Y/maxresdefault.jpg?v=14",
+    "viewers": 0,
+    "dur": "7 ч 00 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/iTBe2XNAD2Y\">Школа Сук</a></b> · 0 👁 · 6 ч 45 мин\n└ РИСУЕМ НОВЫЙ ГОД",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/BuVo2zWP1iE\">Школа Сук</a></b> · 5 👁 · 9 мин\n└ РИСУЕМ НОВЫЙ ГОД",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
