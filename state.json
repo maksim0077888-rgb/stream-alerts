@@ -40,32 +40,8 @@
  "day": "2026-11-11",
  "board": {
   "msg": 119,
-  "streams": {
-   "JG2r5MnGQ84": {
-    "vid": "JG2r5MnGQ84",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-11T00:39:49Z",
-    "peak": 143,
-    "has_viewers": true,
-    "title": "на часок",
-    "thumb": "https://i.ytimg.com/vi/JG2r5MnGQ84/maxresdefault.jpg?v=31",
-    "viewers": 58
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "djDsqF8qOFI",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-07T21:36:48Z",
-    "peak": 8,
-    "has_viewers": true,
-    "title": "день Ху нь",
-    "thumb": "https://i.ytimg.com/vi/djDsqF8qOFI/maxresdefault.jpg?v=1",
-    "viewers": 8,
-    "dur": "23 мин"
-   },
    {
     "vid": "GJwjKeGcfLQ",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/NocPhH2CZRs/maxresdefault.jpg?v=1f",
     "viewers": 5,
     "dur": "2 ч 57 мин"
+   },
+   {
+    "vid": "JG2r5MnGQ84",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-11T00:39:49Z",
+    "peak": 143,
+    "has_viewers": true,
+    "title": "на часок",
+    "thumb": "https://i.ytimg.com/vi/JG2r5MnGQ84/maxresdefault.jpg?v=31",
+    "viewers": 58,
+    "dur": "4 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/JG2r5MnGQ84\">Герман Ягодка</a></b> · 58 👁 · 4 ч 20 мин\n└ на часок",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
