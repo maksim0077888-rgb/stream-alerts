@@ -41,17 +41,6 @@
  "board": {
   "msg": 119,
   "streams": {
-   "JldfYdDdzVE": {
-    "vid": "JldfYdDdzVE",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-11T17:23:43Z",
-    "peak": 276,
-    "has_viewers": true,
-    "title": "первое знакомство с прекрасной миледи",
-    "thumb": "https://i.ytimg.com/vi/JldfYdDdzVE/maxresdefault.jpg?v=6af4a496",
-    "viewers": 11
-   },
    "B-kjqTbWeOo": {
     "vid": "B-kjqTbWeOo",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "ЕБАНО",
     "thumb": "https://i.ytimg.com/vi/B-kjqTbWeOo/hqdefault.jpg?v=6af532fb",
-    "viewers": 1
+    "viewers": 0
    }
   },
   "ended": [
-   {
-    "vid": "Qjby2LIsBX8",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-08T06:01:01Z",
-    "peak": 43,
-    "has_viewers": true,
-    "title": "день Ху нь",
-    "thumb": "https://i.ytimg.com/vi/Qjby2LIsBX8/maxresdefault.jpg?v=33",
-    "viewers": 14,
-    "dur": "4 ч 29 мин"
-   },
    {
     "vid": "xqNmHq7vb28",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/RzrgbwIZGYY/maxresdefault.jpg?v=34",
     "viewers": 9,
     "dur": "4 ч 25 мин"
+   },
+   {
+    "vid": "JldfYdDdzVE",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-11T17:23:43Z",
+    "peak": 276,
+    "has_viewers": true,
+    "title": "первое знакомство с прекрасной миледи",
+    "thumb": "https://i.ytimg.com/vi/JldfYdDdzVE/maxresdefault.jpg?v=6af4a496",
+    "viewers": 11,
+    "dur": "6 ч 38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/JldfYdDdzVE\">Рифляй</a></b> · 11 👁 · 13 ч 21 мин\n└ первое знакомство с прекрасной миледи\n\n<b><a href=\"https://youtu.be/B-kjqTbWeOo\">Федук</a></b> · 1 👁 · 3 ч 14 мин\n└ ЕБАНО",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/B-kjqTbWeOo\">Федук</a></b> · 0 👁 · 3 ч 29 мин\n└ ЕБАНО",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
