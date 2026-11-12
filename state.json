@@ -37,7 +37,7 @@
   "https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g": "UCSVKrRZ6viFK3C9diKAkw6g",
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
- "day": "2026-11-11",
+ "day": "2026-11-12",
  "board": {
   "msg": 119,
   "streams": {
@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "первое знакомство с прекрасной миледи",
     "thumb": "https://i.ytimg.com/vi/JldfYdDdzVE/maxresdefault.jpg?v=6af4a496",
-    "viewers": 185
+    "viewers": 207
    },
    "RzrgbwIZGYY": {
     "vid": "RzrgbwIZGYY",
@@ -60,8 +60,8 @@
     "peak": 20,
     "has_viewers": true,
     "title": "ЕБАНО",
-    "thumb": "https://i.ytimg.com/vi/RzrgbwIZGYY/maxresdefault.jpg?v=c",
-    "viewers": 11
+    "thumb": "https://i.ytimg.com/vi/RzrgbwIZGYY/maxresdefault.jpg?v=10",
+    "viewers": 15
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/JldfYdDdzVE\">Рифляй</a></b> · 185 👁 · 6 ч 21 мин\n└ первое знакомство с прекрасной миледи\n\n<b><a href=\"https://youtu.be/RzrgbwIZGYY\">Федук</a></b> · 11 👁 · 1 ч 04 мин\n└ ЕБАНО",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/JldfYdDdzVE\">Рифляй</a></b> · 207 👁 · 6 ч 37 мин\n└ первое знакомство с прекрасной миледи\n\n<b><a href=\"https://youtu.be/RzrgbwIZGYY\">Федук</a></b> · 15 👁 · 1 ч 19 мин\n└ ЕБАНО",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
