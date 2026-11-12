@@ -46,33 +46,22 @@
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-12T10:52:30Z",
-    "peak": 62,
+    "peak": 77,
     "has_viewers": true,
     "title": "назбит",
     "thumb": "https://i.ytimg.com/vi/EtppHFamu0A/hqdefault.jpg?v=6af59a61",
-    "viewers": 62
-   },
-   "iDF3GcTBY0g": {
-    "vid": "iDF3GcTBY0g",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-12T14:29:43Z",
-    "peak": 4240,
-    "has_viewers": true,
-    "title": "Окончательно сокрушение всего и вся!!",
-    "thumb": "https://i.ytimg.com/vi/iDF3GcTBY0g/maxresdefault.jpg?v=6c",
-    "viewers": 4231
+    "viewers": 77
    },
    "DZV1__aUUK8": {
     "vid": "DZV1__aUUK8",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-11-12T16:28:33Z",
-    "peak": 227,
+    "peak": 235,
     "has_viewers": true,
     "title": "на часок утром за тайной гостью еду",
     "thumb": "https://i.ytimg.com/vi/DZV1__aUUK8/sddefault.jpg?v=6af5e925",
-    "viewers": 188
+    "viewers": 235
    },
    "xPcUQTUfPgk": {
     "vid": "xPcUQTUfPgk",
@@ -82,23 +71,11 @@
     "peak": 11,
     "has_viewers": true,
     "title": "э",
-    "thumb": "https://i.ytimg.com/vi/xPcUQTUfPgk/maxresdefault.jpg?v=4",
-    "viewers": 11
+    "thumb": "https://i.ytimg.com/vi/xPcUQTUfPgk/maxresdefault.jpg?v=7",
+    "viewers": 10
    }
   },
   "ended": [
-   {
-    "vid": "wkPxfY7iDt4",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-07T21:36:27Z",
-    "peak": 2198,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| Гидромассонабор + новые прически",
-    "thumb": "https://i.ytimg.com/vi/wkPxfY7iDt4/maxresdefault.jpg?v=6af097e5",
-    "viewers": 1907,
-    "dur": "22 ч 08 мин"
-   },
    {
     "vid": "0TPhuON9qdY",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/VdQFQYWhu7I/maxresdefault.jpg?v=5b",
     "viewers": 23,
     "dur": "7 ч 52 мин"
+   },
+   {
+    "vid": "iDF3GcTBY0g",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-12T14:29:43Z",
+    "peak": 4240,
+    "has_viewers": true,
+    "title": "Окончательно сокрушение всего и вся!!",
+    "thumb": "https://i.ytimg.com/vi/iDF3GcTBY0g/maxresdefault.jpg?v=6c",
+    "viewers": 4231,
+    "dur": "3 ч 05 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/iDF3GcTBY0g\">ПАПИЧ</a></b> · 4231 👁 · 3 ч 00 мин\n└ Окончательно сокрушение всего и вся!!\n\n<b><a href=\"https://youtu.be/DZV1__aUUK8\">Герман Ягодка</a></b> · 188 👁 · 1 ч 02 мин\n└ на часок утром за тайной гостью еду\n\n<b><a href=\"https://youtu.be/EtppHFamu0A\">Федук</a></b> · 62 👁 · 6 ч 38 мин\n└ назбит\n\n<b><a href=\"https://youtu.be/xPcUQTUfPgk\">Школа Сук</a></b> · 11 👁 · 16 мин\n└ э",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DZV1__aUUK8\">Герман Ягодка</a></b> · 235 👁 · 1 ч 16 мин\n└ на часок утром за тайной гостью еду\n\n<b><a href=\"https://youtu.be/EtppHFamu0A\">Федук</a></b> · 77 👁 · 6 ч 52 мин\n└ назбит\n\n<b><a href=\"https://youtu.be/xPcUQTUfPgk\">Школа Сук</a></b> · 10 👁 · 31 мин\n└ э",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
