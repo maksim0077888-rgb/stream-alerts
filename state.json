@@ -50,33 +50,21 @@
     "has_viewers": true,
     "title": "назбит",
     "thumb": "https://i.ytimg.com/vi/EtppHFamu0A/hqdefault.jpg?v=6af59a61",
-    "viewers": 78
+    "viewers": 68
    },
-   "xPcUQTUfPgk": {
-    "vid": "xPcUQTUfPgk",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-12T17:13:43Z",
-    "peak": 25,
+   "qvPyGfPjEbA": {
+    "vid": "qvPyGfPjEbA",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-12T19:46:13Z",
+    "peak": 141,
     "has_viewers": true,
-    "title": "э",
-    "thumb": "https://i.ytimg.com/vi/xPcUQTUfPgk/maxresdefault.jpg?v=1f",
-    "viewers": 23
+    "title": "гэуляша",
+    "thumb": "https://i.ytimg.com/vi/qvPyGfPjEbA/sddefault.jpg?v=6af6177a",
+    "viewers": 141
    }
   },
   "ended": [
-   {
-    "vid": "RlEnOOfFho8",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-11-09T09:53:06Z",
-    "peak": 130,
-    "has_viewers": true,
-    "title": "= Дон Симон - После Днюхи=",
-    "thumb": "https://i.ytimg.com/vi/RlEnOOfFho8/maxresdefault.jpg?v=6af197fa",
-    "viewers": 104,
-    "dur": "1 ч 47 мин"
-   },
    {
     "vid": "fJwNNwTQSro",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/DZV1__aUUK8/sddefault.jpg?v=6af5e925",
     "viewers": 209,
     "dur": "1 ч 55 мин"
+   },
+   {
+    "vid": "xPcUQTUfPgk",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-12T17:13:43Z",
+    "peak": 25,
+    "has_viewers": true,
+    "title": "э",
+    "thumb": "https://i.ytimg.com/vi/xPcUQTUfPgk/maxresdefault.jpg?v=1f",
+    "viewers": 23,
+    "dur": "2 ч 46 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/EtppHFamu0A\">Федук</a></b> · 78 👁 · 8 ч 52 мин\n└ назбит\n\n<b><a href=\"https://youtu.be/xPcUQTUfPgk\">Школа Сук</a></b> · 23 👁 · 2 ч 31 мин\n└ э",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/qvPyGfPjEbA\">Герман Ягодка</a></b> · 141 👁 · 14 мин\n└ гэуляша\n\n<b><a href=\"https://youtu.be/EtppHFamu0A\">Федук</a></b> · 68 👁 · 9 ч 08 мин\n└ назбит",
   "kind": "text",
   "created": "2026-10-30T08:53:41.027717+00:00"
  }
