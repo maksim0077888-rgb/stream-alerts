@@ -41,27 +41,16 @@
  "board": {
   "msg": 132,
   "streams": {
-   "LLpYIeFyfBE": {
-    "vid": "LLpYIeFyfBE",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-13T13:58:20Z",
-    "peak": 330,
-    "has_viewers": true,
-    "title": "хочу Уииные истории",
-    "thumb": "https://i.ytimg.com/vi/LLpYIeFyfBE/maxresdefault.jpg?v=e",
-    "viewers": 0
-   },
    "Ov41i-nDaYI": {
     "vid": "Ov41i-nDaYI",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-11-13T21:27:30Z",
-    "peak": 108,
+    "peak": 187,
     "has_viewers": true,
     "title": "хочуГся",
-    "thumb": "https://i.ytimg.com/vi/Ov41i-nDaYI/maxresdefault.jpg?v=3",
-    "viewers": 108
+    "thumb": "https://i.ytimg.com/vi/Ov41i-nDaYI/maxresdefault.jpg?v=6",
+    "viewers": 187
    }
   },
   "ended": [
@@ -136,9 +125,21 @@
     "thumb": "https://i.ytimg.com/vi/aVzzAz9p3oI/maxresdefault.jpg?v=13",
     "viewers": 269,
     "dur": "1 ч 39 мин"
+   },
+   {
+    "vid": "LLpYIeFyfBE",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-13T13:58:20Z",
+    "peak": 330,
+    "has_viewers": true,
+    "title": "хочу Уииные истории",
+    "thumb": "https://i.ytimg.com/vi/LLpYIeFyfBE/maxresdefault.jpg?v=e",
+    "viewers": 0,
+    "dur": "1 ч 09 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Ov41i-nDaYI\">Герман Ягодка</a></b> · 108 👁 · 17 мин\n└ хочуГся\n\n<b><a href=\"https://youtu.be/LLpYIeFyfBE\">Герман Ягодка</a></b> · 0 👁 · 7 ч 47 мин\n└ хочу Уииные истории",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/Ov41i-nDaYI\">Герман Ягодка</a></b> · 187 👁 · 33 мин\n└ хочуГся",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
