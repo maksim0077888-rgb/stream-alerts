@@ -40,19 +40,7 @@
  "day": "2026-11-13",
  "board": {
   "msg": 132,
-  "streams": {
-   "Owa24c2xrXU": {
-    "vid": "Owa24c2xrXU",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-13T11:31:48Z",
-    "peak": 131,
-    "has_viewers": true,
-    "title": "Прямой эфир 13.11.2026",
-    "thumb": "https://i.ytimg.com/vi/Owa24c2xrXU/maxresdefault.jpg?v=6af6e511",
-    "viewers": 131
-   }
-  },
+  "streams": {},
   "ended": [
    {
     "vid": "9rNQERIwKW0",
@@ -89,9 +77,21 @@
     "thumb": "https://i.ytimg.com/vi/YcJvdgpKVws/hqdefault.jpg?v=6af6e903",
     "viewers": 80,
     "dur": "1 ч 02 мин"
+   },
+   {
+    "vid": "Owa24c2xrXU",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-11-13T11:31:48Z",
+    "peak": 131,
+    "has_viewers": true,
+    "title": "Прямой эфир 13.11.2026",
+    "thumb": "https://i.ytimg.com/vi/Owa24c2xrXU/maxresdefault.jpg?v=6af6e511",
+    "viewers": 131,
+    "dur": "44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/Owa24c2xrXU\">Депутат</a></b> · 131 👁 · 43 мин\n└ Прямой эфир 13.11.2026",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
