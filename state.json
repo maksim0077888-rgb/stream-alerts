@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "хочу Уииные истории",
     "thumb": "https://i.ytimg.com/vi/LLpYIeFyfBE/maxresdefault.jpg?v=e",
-    "viewers": 3
+    "viewers": 0
+   },
+   "lbTWEGu0gJg": {
+    "vid": "lbTWEGu0gJg",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-11-13T16:02:26Z",
+    "peak": 61,
+    "has_viewers": true,
+    "title": "прямой эфир дубль 2",
+    "thumb": "https://i.ytimg.com/vi/lbTWEGu0gJg/maxresdefault.jpg?v=6af7317e",
+    "viewers": 61
    }
   },
   "ended": [
@@ -103,7 +114,7 @@
     "dur": "44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/LLpYIeFyfBE\">Герман Ягодка</a></b> · 3 👁 · 2 ч 02 мин\n└ хочу Уииные истории",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lbTWEGu0gJg\">Депутат</a></b> · 61 👁 · 13 мин\n└ прямой эфир дубль 2\n\n<b><a href=\"https://youtu.be/LLpYIeFyfBE\">Герман Ягодка</a></b> · 0 👁 · 2 ч 17 мин\n└ хочу Уииные истории",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
