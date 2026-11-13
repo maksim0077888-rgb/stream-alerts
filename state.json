@@ -40,19 +40,7 @@
  "day": "2026-11-13",
  "board": {
   "msg": 132,
-  "streams": {
-   "Ov41i-nDaYI": {
-    "vid": "Ov41i-nDaYI",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-13T21:27:30Z",
-    "peak": 194,
-    "has_viewers": true,
-    "title": "хочуГся",
-    "thumb": "https://i.ytimg.com/vi/Ov41i-nDaYI/maxresdefault.jpg?v=f",
-    "viewers": 178
-   }
-  },
+  "streams": {},
   "ended": [
    {
     "vid": "9rNQERIwKW0",
@@ -137,9 +125,21 @@
     "thumb": "https://i.ytimg.com/vi/LLpYIeFyfBE/maxresdefault.jpg?v=e",
     "viewers": 0,
     "dur": "1 ч 09 мин"
+   },
+   {
+    "vid": "Ov41i-nDaYI",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-13T21:27:30Z",
+    "peak": 194,
+    "has_viewers": true,
+    "title": "хочуГся",
+    "thumb": "https://i.ytimg.com/vi/Ov41i-nDaYI/maxresdefault.jpg?v=f",
+    "viewers": 178,
+    "dur": "1 ч 23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/Ov41i-nDaYI\">Герман Ягодка</a></b> · 178 👁 · 1 ч 17 мин\n└ хочуГся",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
