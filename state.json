@@ -38,5 +38,24 @@
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
  "day": "2026-11-13",
- "board": null
+ "board": {
+  "msg": 132,
+  "streams": {
+   "qQEYZqb10jY": {
+    "vid": "qQEYZqb10jY",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-13T09:15:05Z",
+    "peak": 6,
+    "has_viewers": true,
+    "title": "сегодня в ЗАГС",
+    "thumb": "https://i.ytimg.com/vi/qQEYZqb10jY/maxresdefault.jpg",
+    "viewers": 6
+   }
+  },
+  "ended": [],
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/qQEYZqb10jY\">Герман Ягодка</a></b> · 6 👁 · 0 мин\n└ сегодня в ЗАГС",
+  "kind": "text",
+  "created": "2026-11-13T09:15:27.845352+00:00"
+ }
 }
