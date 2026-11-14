@@ -40,19 +40,7 @@
  "day": "2026-11-14",
  "board": {
   "msg": 132,
-  "streams": {
-   "xE2dTRXg2Aw": {
-    "vid": "xE2dTRXg2Aw",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-14T09:40:18Z",
-    "peak": 46,
-    "has_viewers": true,
-    "title": "э",
-    "thumb": "https://i.ytimg.com/vi/xE2dTRXg2Aw/maxresdefault.jpg?v=6d",
-    "viewers": 12
-   }
-  },
+  "streams": {},
   "ended": [
    {
     "vid": "9rNQERIwKW0",
@@ -173,9 +161,21 @@
     "thumb": "https://i.ytimg.com/vi/TrLGi7Tbg_w/maxresdefault.jpg?v=6af899b8",
     "viewers": 80,
     "dur": "1 ч 10 мин"
+   },
+   {
+    "vid": "xE2dTRXg2Aw",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-14T09:40:18Z",
+    "peak": 46,
+    "has_viewers": true,
+    "title": "э",
+    "thumb": "https://i.ytimg.com/vi/xE2dTRXg2Aw/maxresdefault.jpg?v=6d",
+    "viewers": 12,
+    "dur": "9 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/xE2dTRXg2Aw\">Школа Сук</a></b> · 12 👁 · 9 ч 20 мин\n└ э",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
