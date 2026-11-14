@@ -46,11 +46,11 @@
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
     "name": "Депутат",
     "start": "2026-11-14T09:31:10Z",
-    "peak": 64,
+    "peak": 67,
     "has_viewers": true,
     "title": "Прямой эфир 14.11.2026",
     "thumb": "https://i.ytimg.com/vi/Ke_jKBKSK2I/maxresdefault.jpg?v=6af81ec6",
-    "viewers": 62
+    "viewers": 67
    },
    "xE2dTRXg2Aw": {
     "vid": "xE2dTRXg2Aw",
@@ -60,8 +60,8 @@
     "peak": 35,
     "has_viewers": true,
     "title": "э",
-    "thumb": "https://i.ytimg.com/vi/xE2dTRXg2Aw/maxresdefault.jpg?v=23",
-    "viewers": 35
+    "thumb": "https://i.ytimg.com/vi/xE2dTRXg2Aw/maxresdefault.jpg?v=25",
+    "viewers": 28
    }
   },
   "ended": [
@@ -162,7 +162,7 @@
     "dur": "1 ч 23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Ke_jKBKSK2I\">Депутат</a></b> · 62 👁 · 2 ч 59 мин\n└ Прямой эфир 14.11.2026\n\n<b><a href=\"https://youtu.be/xE2dTRXg2Aw\">Школа Сук</a></b> · 35 👁 · 2 ч 50 мин\n└ э",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Ke_jKBKSK2I\">Депутат</a></b> · 67 👁 · 3 ч 14 мин\n└ Прямой эфир 14.11.2026\n\n<b><a href=\"https://youtu.be/xE2dTRXg2Aw\">Школа Сук</a></b> · 28 👁 · 3 ч 05 мин\n└ э",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
