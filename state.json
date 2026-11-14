@@ -41,27 +41,16 @@
  "board": {
   "msg": 132,
   "streams": {
-   "Ke_jKBKSK2I": {
-    "vid": "Ke_jKBKSK2I",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-14T09:31:10Z",
-    "peak": 67,
-    "has_viewers": true,
-    "title": "Прямой эфир 14.11.2026",
-    "thumb": "https://i.ytimg.com/vi/Ke_jKBKSK2I/maxresdefault.jpg?v=6af81ec6",
-    "viewers": 67
-   },
    "xE2dTRXg2Aw": {
     "vid": "xE2dTRXg2Aw",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-14T09:40:18Z",
-    "peak": 35,
+    "peak": 44,
     "has_viewers": true,
     "title": "э",
-    "thumb": "https://i.ytimg.com/vi/xE2dTRXg2Aw/maxresdefault.jpg?v=25",
-    "viewers": 28
+    "thumb": "https://i.ytimg.com/vi/xE2dTRXg2Aw/maxresdefault.jpg?v=28",
+    "viewers": 44
    }
   },
   "ended": [
@@ -160,9 +149,21 @@
     "thumb": "https://i.ytimg.com/vi/Ov41i-nDaYI/maxresdefault.jpg?v=f",
     "viewers": 178,
     "dur": "1 ч 23 мин"
+   },
+   {
+    "vid": "Ke_jKBKSK2I",
+    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
+    "name": "Депутат",
+    "start": "2026-11-14T09:31:10Z",
+    "peak": 67,
+    "has_viewers": true,
+    "title": "Прямой эфир 14.11.2026",
+    "thumb": "https://i.ytimg.com/vi/Ke_jKBKSK2I/maxresdefault.jpg?v=6af81ec6",
+    "viewers": 67,
+    "dur": "3 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Ke_jKBKSK2I\">Депутат</a></b> · 67 👁 · 3 ч 14 мин\n└ Прямой эфир 14.11.2026\n\n<b><a href=\"https://youtu.be/xE2dTRXg2Aw\">Школа Сук</a></b> · 28 👁 · 3 ч 05 мин\n└ э",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/xE2dTRXg2Aw\">Школа Сук</a></b> · 44 👁 · 3 ч 20 мин\n└ э",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
