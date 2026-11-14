@@ -40,19 +40,7 @@
  "day": "2026-11-14",
  "board": {
   "msg": 132,
-  "streams": {
-   "Bkk-Sn3mZHM": {
-    "vid": "Bkk-Sn3mZHM",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-14T19:16:30Z",
-    "peak": 36,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/Bkk-Sn3mZHM/maxresdefault.jpg?v=6af8b376",
-    "viewers": 36
-   }
-  },
+  "streams": {},
   "ended": [
    {
     "vid": "9rNQERIwKW0",
@@ -185,9 +173,21 @@
     "thumb": "https://i.ytimg.com/vi/xE2dTRXg2Aw/maxresdefault.jpg?v=6d",
     "viewers": 12,
     "dur": "9 ч 35 мин"
+   },
+   {
+    "vid": "Bkk-Sn3mZHM",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-14T19:16:30Z",
+    "peak": 36,
+    "has_viewers": true,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/Bkk-Sn3mZHM/maxresdefault.jpg?v=6af8b376",
+    "viewers": 36,
+    "dur": "17 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/Bkk-Sn3mZHM\">Ахиллес</a></b> · 36 👁 · 14 мин\n└ flaco в прямом эфире!",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
