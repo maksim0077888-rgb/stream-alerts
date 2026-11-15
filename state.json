@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
     "thumb": "https://i.ytimg.com/vi/3FMt6H6v1ak/maxresdefault.jpg?v=6af9c571",
-    "viewers": 134
+    "viewers": 158
    },
    "BAiuWwwpteA": {
     "vid": "BAiuWwwpteA",
@@ -61,33 +61,21 @@
     "has_viewers": true,
     "title": "ваваддл  урь",
     "thumb": "https://i.ytimg.com/vi/BAiuWwwpteA/hqdefault.jpg?v=6af9cb70",
-    "viewers": 1
+    "viewers": 0
    },
-   "mrPTC5KGpAU": {
-    "vid": "mrPTC5KGpAU",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-15T17:05:47Z",
-    "peak": 1404,
+   "PTmXUk_mztg": {
+    "vid": "PTmXUk_mztg",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-15T20:17:36Z",
+    "peak": 11,
     "has_viewers": true,
-    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)",
-    "thumb": "https://i.ytimg.com/vi/mrPTC5KGpAU/maxresdefault.jpg?v=6af9e5eb",
-    "viewers": 1235
+    "title": "МЕНЯ ТВЕРЬ ГЕЛЮБОТ",
+    "thumb": "https://i.ytimg.com/vi/PTmXUk_mztg/maxresdefault.jpg?v=6afa1355",
+    "viewers": 11
    }
   },
   "ended": [
-   {
-    "vid": "qQEYZqb10jY",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-13T09:15:05Z",
-    "peak": 474,
-    "has_viewers": true,
-    "title": "Сегодня в студии Майли Сайрус из РБ",
-    "thumb": "https://i.ytimg.com/vi/qQEYZqb10jY/maxresdefault.jpg?v=19",
-    "viewers": 474,
-    "dur": "2 ч 09 мин"
-   },
    {
     "vid": "YcJvdgpKVws",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/DEgik07KVac/maxresdefault.jpg?v=6",
     "viewers": 1,
     "dur": "41 мин"
+   },
+   {
+    "vid": "mrPTC5KGpAU",
+    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
+    "name": "Шкила",
+    "start": "2026-11-15T17:05:47Z",
+    "peak": 1404,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)",
+    "thumb": "https://i.ytimg.com/vi/mrPTC5KGpAU/maxresdefault.jpg?v=6af9e5eb",
+    "viewers": 1235,
+    "dur": "3 ч 17 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/mrPTC5KGpAU\">Шкила</a></b> · 1235 👁 · 3 ч 09 мин\n└ SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 134 👁 · 5 ч 30 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 1 👁 · 5 ч 04 мин\n└ ваваддл  урь",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 158 👁 · 5 ч 45 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/PTmXUk_mztg\">Федук</a></b> · 11 👁 · 12 мин\n└ МЕНЯ ТВЕРЬ ГЕЛЮБОТ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 0 👁 · 5 ч 19 мин\n└ ваваддл  урь",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
