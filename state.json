@@ -49,8 +49,8 @@
     "peak": 12148,
     "has_viewers": true,
     "title": "АУК! + концовка ГОВ ГОВныча",
-    "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=29",
-    "viewers": 12148
+    "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=2c",
+    "viewers": 7966
    },
    "3FMt6H6v1ak": {
     "vid": "3FMt6H6v1ak",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
     "thumb": "https://i.ytimg.com/vi/3FMt6H6v1ak/maxresdefault.jpg?v=6af9c571",
-    "viewers": 242
+    "viewers": 184
    },
    "BAiuWwwpteA": {
     "vid": "BAiuWwwpteA",
@@ -72,7 +72,18 @@
     "has_viewers": true,
     "title": "ваваддл  урь",
     "thumb": "https://i.ytimg.com/vi/BAiuWwwpteA/hqdefault.jpg?v=6af9cb70",
-    "viewers": 1
+    "viewers": 0
+   },
+   "mrPTC5KGpAU": {
+    "vid": "mrPTC5KGpAU",
+    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
+    "name": "Шкила",
+    "start": "2026-11-15T17:05:47Z",
+    "peak": 909,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)",
+    "thumb": "https://i.ytimg.com/vi/mrPTC5KGpAU/maxresdefault.jpg?v=6af9e5eb",
+    "viewers": 909
    }
   },
   "ended": [
@@ -245,7 +256,7 @@
     "dur": "1 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/to4XAUb-REo\">ПАПИЧ</a></b> · 12148 👁 · 3 ч 15 мин\n└ АУК! + концовка ГОВ ГОВныча\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 242 👁 · 2 ч 15 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 1 👁 · 1 ч 49 мин\n└ ваваддл  урь",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/to4XAUb-REo\">ПАПИЧ</a></b> · 7966 👁 · 3 ч 30 мин\n└ АУК! + концовка ГОВ ГОВныча\n\n<b><a href=\"https://youtu.be/mrPTC5KGpAU\">Шкила</a></b> · 909 👁 · 9 мин\n└ SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 184 👁 · 2 ч 30 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 0 👁 · 2 ч 04 мин\n└ ваваддл  урь",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
