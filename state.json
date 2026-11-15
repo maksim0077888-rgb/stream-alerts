@@ -46,44 +46,33 @@
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-15T13:45:11Z",
-    "peak": 8413,
+    "peak": 9070,
     "has_viewers": true,
     "title": "АУК! + концовка ГОВ ГОВныча",
-    "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=18",
-    "viewers": 8413
-   },
-   "WKTrRWPJDxA": {
-    "vid": "WKTrRWPJDxA",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-15T14:01:03Z",
-    "peak": 2106,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ",
-    "thumb": "https://i.ytimg.com/vi/WKTrRWPJDxA/maxresdefault.jpg?v=6af9acef",
-    "viewers": 1633
+    "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=1c",
+    "viewers": 9070
    },
    "3FMt6H6v1ak": {
     "vid": "3FMt6H6v1ak",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-11-15T14:45:14Z",
-    "peak": 122,
+    "peak": 149,
     "has_viewers": true,
     "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
     "thumb": "https://i.ytimg.com/vi/3FMt6H6v1ak/maxresdefault.jpg?v=6af9c571",
-    "viewers": 122
+    "viewers": 149
    },
    "BAiuWwwpteA": {
     "vid": "BAiuWwwpteA",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-15T15:10:52Z",
-    "peak": 20,
+    "peak": 28,
     "has_viewers": true,
     "title": "ваваддл  урь",
     "thumb": "https://i.ytimg.com/vi/BAiuWwwpteA/hqdefault.jpg?v=6af9cb70",
-    "viewers": 20
+    "viewers": 28
    }
   },
   "ended": [
@@ -242,9 +231,21 @@
     "thumb": "https://i.ytimg.com/vi/ZH1WjOZlctw/maxresdefault.jpg?v=b",
     "viewers": 174,
     "dur": "1 ч 23 мин"
+   },
+   {
+    "vid": "WKTrRWPJDxA",
+    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
+    "name": "Шкила",
+    "start": "2026-11-15T14:01:03Z",
+    "peak": 2106,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ",
+    "thumb": "https://i.ytimg.com/vi/WKTrRWPJDxA/maxresdefault.jpg?v=6af9acef",
+    "viewers": 1633,
+    "dur": "1 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/to4XAUb-REo\">ПАПИЧ</a></b> · 8413 👁 · 2 ч 00 мин\n└ АУК! + концовка ГОВ ГОВныча\n\n<b><a href=\"https://youtu.be/WKTrRWPJDxA\">Шкила</a></b> · 1633 👁 · 1 ч 44 мин\n└ SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 122 👁 · 1 ч 00 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 20 👁 · 34 мин\n└ ваваддл  урь",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/to4XAUb-REo\">ПАПИЧ</a></b> · 9070 👁 · 2 ч 15 мин\n└ АУК! + концовка ГОВ ГОВныча\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 149 👁 · 1 ч 15 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 28 👁 · 49 мин\n└ ваваддл  урь",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
