@@ -46,11 +46,22 @@
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-15T13:45:11Z",
-    "peak": 3684,
+    "peak": 4596,
     "has_viewers": true,
     "title": "АУК! + концовка ГОВ ГОВныча",
-    "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=3",
-    "viewers": 3684
+    "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=6",
+    "viewers": 4596
+   },
+   "WKTrRWPJDxA": {
+    "vid": "WKTrRWPJDxA",
+    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
+    "name": "Шкила",
+    "start": "2026-11-15T14:01:03Z",
+    "peak": 1690,
+    "has_viewers": true,
+    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ",
+    "thumb": "https://i.ytimg.com/vi/WKTrRWPJDxA/maxresdefault.jpg?v=6af9acef",
+    "viewers": 1690
    }
   },
   "ended": [
@@ -211,7 +222,7 @@
     "dur": "1 ч 23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/to4XAUb-REo\">ПАПИЧ</a></b> · 3684 👁 · 15 мин\n└ АУК! + концовка ГОВ ГОВныча",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/to4XAUb-REo\">ПАПИЧ</a></b> · 4596 👁 · 30 мин\n└ АУК! + концовка ГОВ ГОВныча\n\n<b><a href=\"https://youtu.be/WKTrRWPJDxA\">Шкила</a></b> · 1690 👁 · 14 мин\n└ SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
