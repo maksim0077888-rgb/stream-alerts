@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "3FMt6H6v1ak": {
-    "vid": "3FMt6H6v1ak",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-15T14:45:14Z",
-    "peak": 272,
-    "has_viewers": true,
-    "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
-    "thumb": "https://i.ytimg.com/vi/3FMt6H6v1ak/maxresdefault.jpg?v=6af9c571",
-    "viewers": 178
-   },
    "BAiuWwwpteA": {
     "vid": "BAiuWwwpteA",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -72,33 +61,21 @@
     "has_viewers": true,
     "title": "МЕНЯ ТВЕРЬ ГЕЛЮБОТ",
     "thumb": "https://i.ytimg.com/vi/PTmXUk_mztg/maxresdefault.jpg?v=6afa1355",
-    "viewers": 0
+    "viewers": 1
    },
    "RZV9SW0v2PQ": {
     "vid": "RZV9SW0v2PQ",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-15T21:21:44Z",
-    "peak": 493,
+    "peak": 524,
     "has_viewers": true,
     "title": "Маэстро ФМ",
-    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=a",
-    "viewers": 477
+    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=d",
+    "viewers": 524
    }
   },
   "ended": [
-   {
-    "vid": "YcJvdgpKVws",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-13T10:40:13Z",
-    "peak": 80,
-    "has_viewers": true,
-    "title": "Я ВСЕ ВЬБАЛ НО НА ДВУШКУ ОСТАЛГСЬ",
-    "thumb": "https://i.ytimg.com/vi/YcJvdgpKVws/hqdefault.jpg?v=6af6e903",
-    "viewers": 80,
-    "dur": "1 ч 02 мин"
-   },
    {
     "vid": "Owa24c2xrXU",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/mrPTC5KGpAU/maxresdefault.jpg?v=6af9e5eb",
     "viewers": 1235,
     "dur": "3 ч 17 мин"
+   },
+   {
+    "vid": "3FMt6H6v1ak",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-15T14:45:14Z",
+    "peak": 272,
+    "has_viewers": true,
+    "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
+    "thumb": "https://i.ytimg.com/vi/3FMt6H6v1ak/maxresdefault.jpg?v=6af9c571",
+    "viewers": 178,
+    "dur": "7 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/RZV9SW0v2PQ\">Дон Грязь</a></b> · 477 👁 · 53 мин\n└ Маэстро ФМ\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 178 👁 · 7 ч 30 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 0 👁 · 7 ч 04 мин\n└ ваваддл  урь\n\n<b><a href=\"https://youtu.be/PTmXUk_mztg\">Федук</a></b> · 0 👁 · 1 ч 57 мин\n└ МЕНЯ ТВЕРЬ ГЕЛЮБОТ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/RZV9SW0v2PQ\">Дон Грязь</a></b> · 524 👁 · 1 ч 08 мин\n└ Маэстро ФМ\n\n<b><a href=\"https://youtu.be/PTmXUk_mztg\">Федук</a></b> · 1 👁 · 2 ч 13 мин\n└ МЕНЯ ТВЕРЬ ГЕЛЮБОТ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 0 👁 · 7 ч 19 мин\n└ ваваддл  урь",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
