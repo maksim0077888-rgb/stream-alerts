@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
     "thumb": "https://i.ytimg.com/vi/3FMt6H6v1ak/maxresdefault.jpg?v=6af9c571",
-    "viewers": 188
+    "viewers": 196
    },
    "BAiuWwwpteA": {
     "vid": "BAiuWwwpteA",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "ваваддл  урь",
     "thumb": "https://i.ytimg.com/vi/BAiuWwwpteA/hqdefault.jpg?v=6af9cb70",
-    "viewers": 1
+    "viewers": 0
    },
    "mrPTC5KGpAU": {
     "vid": "mrPTC5KGpAU",
@@ -72,33 +72,10 @@
     "has_viewers": true,
     "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)",
     "thumb": "https://i.ytimg.com/vi/mrPTC5KGpAU/maxresdefault.jpg?v=6af9e5eb",
-    "viewers": 1361
-   },
-   "DEgik07KVac": {
-    "vid": "DEgik07KVac",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-15T19:07:51Z",
-    "peak": 6,
-    "has_viewers": true,
-    "title": "ваваддл  урь",
-    "thumb": "https://i.ytimg.com/vi/DEgik07KVac/maxresdefault.jpg?v=6",
-    "viewers": 1
+    "viewers": 1348
    }
   },
   "ended": [
-   {
-    "vid": "9rNQERIwKW0",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-13T10:19:41Z",
-    "peak": 9,
-    "has_viewers": true,
-    "title": "Я ВСЕ ВЬБАЛ НО НА ДВУШКУ ОСТАЛГСЬ",
-    "thumb": "https://i.ytimg.com/vi/9rNQERIwKW0/hqdefault.jpg?v=6af6e433",
-    "viewers": 9,
-    "dur": "17 мин"
-   },
    {
     "vid": "qQEYZqb10jY",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=2c",
     "viewers": 7966,
     "dur": "3 ч 35 мин"
+   },
+   {
+    "vid": "DEgik07KVac",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-15T19:07:51Z",
+    "peak": 6,
+    "has_viewers": true,
+    "title": "ваваддл  урь",
+    "thumb": "https://i.ytimg.com/vi/DEgik07KVac/maxresdefault.jpg?v=6",
+    "viewers": 1,
+    "dur": "41 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/mrPTC5KGpAU\">Шкила</a></b> · 1361 👁 · 2 ч 39 мин\n└ SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 188 👁 · 5 ч 00 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 1 👁 · 4 ч 34 мин\n└ ваваддл  урь\n\n<b><a href=\"https://youtu.be/DEgik07KVac\">Федук</a></b> · 1 👁 · 37 мин\n└ ваваддл  урь",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/mrPTC5KGpAU\">Шкила</a></b> · 1348 👁 · 2 ч 54 мин\n└ SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)\n\n<b><a href=\"https://youtu.be/3FMt6H6v1ak\">Рифляй</a></b> · 196 👁 · 5 ч 15 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 0 👁 · 4 ч 49 мин\n└ ваваддл  урь",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
