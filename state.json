@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "BAiuWwwpteA": {
-    "vid": "BAiuWwwpteA",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-15T15:10:52Z",
-    "peak": 40,
-    "has_viewers": true,
-    "title": "ваваддл  урь",
-    "thumb": "https://i.ytimg.com/vi/BAiuWwwpteA/hqdefault.jpg?v=6af9cb70",
-    "viewers": 0
-   },
    "PTmXUk_mztg": {
     "vid": "PTmXUk_mztg",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -61,7 +50,7 @@
     "has_viewers": true,
     "title": "МЕНЯ ТВЕРЬ ГЕЛЮБОТ",
     "thumb": "https://i.ytimg.com/vi/PTmXUk_mztg/maxresdefault.jpg?v=6afa1355",
-    "viewers": 0
+    "viewers": 1
    },
    "RZV9SW0v2PQ": {
     "vid": "RZV9SW0v2PQ",
@@ -71,23 +60,11 @@
     "peak": 524,
     "has_viewers": true,
     "title": "Маэстро ФМ",
-    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=10",
-    "viewers": 509
+    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=13",
+    "viewers": 492
    }
   },
   "ended": [
-   {
-    "vid": "Owa24c2xrXU",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-13T11:31:48Z",
-    "peak": 131,
-    "has_viewers": true,
-    "title": "Прямой эфир 13.11.2026",
-    "thumb": "https://i.ytimg.com/vi/Owa24c2xrXU/maxresdefault.jpg?v=6af6e511",
-    "viewers": 131,
-    "dur": "44 мин"
-   },
    {
     "vid": "lbTWEGu0gJg",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/3FMt6H6v1ak/maxresdefault.jpg?v=6af9c571",
     "viewers": 178,
     "dur": "7 ч 33 мин"
+   },
+   {
+    "vid": "BAiuWwwpteA",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-15T15:10:52Z",
+    "peak": 40,
+    "has_viewers": true,
+    "title": "ваваддл  урь",
+    "thumb": "https://i.ytimg.com/vi/BAiuWwwpteA/hqdefault.jpg?v=6af9cb70",
+    "viewers": 0,
+    "dur": "1 ч 10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/RZV9SW0v2PQ\">Дон Грязь</a></b> · 509 👁 · 1 ч 23 мин\n└ Маэстро ФМ\n\n<b><a href=\"https://youtu.be/BAiuWwwpteA\">Федук</a></b> · 0 👁 · 7 ч 34 мин\n└ ваваддл  урь\n\n<b><a href=\"https://youtu.be/PTmXUk_mztg\">Федук</a></b> · 0 👁 · 2 ч 27 мин\n└ МЕНЯ ТВЕРЬ ГЕЛЮБОТ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/RZV9SW0v2PQ\">Дон Грязь</a></b> · 492 👁 · 1 ч 39 мин\n└ Маэстро ФМ\n\n<b><a href=\"https://youtu.be/PTmXUk_mztg\">Федук</a></b> · 1 👁 · 2 ч 43 мин\n└ МЕНЯ ТВЕРЬ ГЕЛЮБОТ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
