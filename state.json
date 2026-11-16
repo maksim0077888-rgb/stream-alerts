@@ -49,8 +49,8 @@
     "peak": 524,
     "has_viewers": true,
     "title": "Маэстро ФМ",
-    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=67",
-    "viewers": 290
+    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=6a",
+    "viewers": 287
    },
    "Y9XMkgWkEMw": {
     "vid": "Y9XMkgWkEMw",
@@ -62,6 +62,17 @@
     "title": "дл. л",
     "thumb": "https://i.ytimg.com/vi/Y9XMkgWkEMw/maxresdefault.jpg?v=6",
     "viewers": 0
+   },
+   "IwfruOX3q9A": {
+    "vid": "IwfruOX3q9A",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-16T06:06:19Z",
+    "peak": 4,
+    "has_viewers": true,
+    "title": "' аскевк",
+    "thumb": "https://i.ytimg.com/vi/IwfruOX3q9A/maxresdefault.jpg?v=2",
+    "viewers": 4
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "10 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/RZV9SW0v2PQ\">Дон Грязь</a></b> · 290 👁 · 8 ч 38 мин\n└ Маэстро ФМ\n\n<b><a href=\"https://youtu.be/Y9XMkgWkEMw\">Федук</a></b> · 0 👁 · 6 ч 41 мин\n└ дл. л",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/RZV9SW0v2PQ\">Дон Грязь</a></b> · 287 👁 · 8 ч 53 мин\n└ Маэстро ФМ\n\n<b><a href=\"https://youtu.be/IwfruOX3q9A\">Федук</a></b> · 4 👁 · 9 мин\n└ &#x27; аскевк\n\n<b><a href=\"https://youtu.be/Y9XMkgWkEMw\">Федук</a></b> · 0 👁 · 6 ч 56 мин\n└ дл. л",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
