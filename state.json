@@ -41,77 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "RZV9SW0v2PQ": {
-    "vid": "RZV9SW0v2PQ",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-15T21:21:44Z",
-    "peak": 524,
-    "has_viewers": true,
-    "title": "Маэстро ФМ",
-    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=6d",
-    "viewers": 341
-   },
-   "Y9XMkgWkEMw": {
-    "vid": "Y9XMkgWkEMw",
+   "bw8eO2bA5ek": {
+    "vid": "bw8eO2bA5ek",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-15T23:19:26Z",
-    "peak": 5,
+    "start": "2026-11-16T06:43:50Z",
+    "peak": 6,
     "has_viewers": true,
-    "title": "дл. л",
-    "thumb": "https://i.ytimg.com/vi/Y9XMkgWkEMw/maxresdefault.jpg?v=6",
-    "viewers": 0
-   },
-   "IwfruOX3q9A": {
-    "vid": "IwfruOX3q9A",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-16T06:06:19Z",
-    "peak": 4,
-    "has_viewers": true,
-    "title": "' аскевк",
-    "thumb": "https://i.ytimg.com/vi/IwfruOX3q9A/maxresdefault.jpg?v=2",
-    "viewers": 4
+    "title": "сабакка",
+    "thumb": "https://i.ytimg.com/vi/bw8eO2bA5ek/maxresdefault.jpg?v=6afaa5f1",
+    "viewers": 6
    }
   },
   "ended": [
-   {
-    "vid": "aVzzAz9p3oI",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-13T18:21:40Z",
-    "peak": 289,
-    "has_viewers": true,
-    "title": "Крутая тусовка с Таней Дягелевой",
-    "thumb": "https://i.ytimg.com/vi/aVzzAz9p3oI/maxresdefault.jpg?v=13",
-    "viewers": 269,
-    "dur": "1 ч 39 мин"
-   },
-   {
-    "vid": "LLpYIeFyfBE",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-13T13:58:20Z",
-    "peak": 330,
-    "has_viewers": true,
-    "title": "хочу Уииные истории",
-    "thumb": "https://i.ytimg.com/vi/LLpYIeFyfBE/maxresdefault.jpg?v=e",
-    "viewers": 0,
-    "dur": "1 ч 09 мин"
-   },
-   {
-    "vid": "Ov41i-nDaYI",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-13T21:27:30Z",
-    "peak": 194,
-    "has_viewers": true,
-    "title": "хочуГся",
-    "thumb": "https://i.ytimg.com/vi/Ov41i-nDaYI/maxresdefault.jpg?v=f",
-    "viewers": 178,
-    "dur": "1 ч 23 мин"
-   },
    {
     "vid": "Ke_jKBKSK2I",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -255,9 +197,45 @@
     "thumb": "https://i.ytimg.com/vi/PTmXUk_mztg/maxresdefault.jpg?v=6afa1355",
     "viewers": 0,
     "dur": "10 мин"
+   },
+   {
+    "vid": "RZV9SW0v2PQ",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-15T21:21:44Z",
+    "peak": 524,
+    "has_viewers": true,
+    "title": "Маэстро ФМ",
+    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=6d",
+    "viewers": 341,
+    "dur": "9 ч 18 мин"
+   },
+   {
+    "vid": "Y9XMkgWkEMw",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-15T23:19:26Z",
+    "peak": 5,
+    "has_viewers": true,
+    "title": "дл. л",
+    "thumb": "https://i.ytimg.com/vi/Y9XMkgWkEMw/maxresdefault.jpg?v=6",
+    "viewers": 0,
+    "dur": "7 ч 22 мин"
+   },
+   {
+    "vid": "IwfruOX3q9A",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-16T06:06:19Z",
+    "peak": 4,
+    "has_viewers": true,
+    "title": "' аскевк",
+    "thumb": "https://i.ytimg.com/vi/IwfruOX3q9A/maxresdefault.jpg?v=2",
+    "viewers": 4,
+    "dur": "39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/RZV9SW0v2PQ\">Дон Грязь</a></b> · 341 👁 · 9 ч 08 мин\n└ Маэстро ФМ\n\n<b><a href=\"https://youtu.be/IwfruOX3q9A\">Федук</a></b> · 4 👁 · 24 мин\n└ &#x27; аскевк\n\n<b><a href=\"https://youtu.be/Y9XMkgWkEMw\">Федук</a></b> · 0 👁 · 7 ч 11 мин\n└ дл. л",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/bw8eO2bA5ek\">Федук</a></b> · 6 👁 · 1 мин\n└ сабакка",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
