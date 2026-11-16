@@ -49,19 +49,30 @@
     "peak": 383,
     "has_viewers": true,
     "title": "Это я, Рыба. Сегодня я повесил фотки своих бывших в квартире😁",
-    "thumb": "https://i.ytimg.com/vi/-ptBFNJpUvw/maxresdefault.jpg?v=23",
-    "viewers": 383
+    "thumb": "https://i.ytimg.com/vi/-ptBFNJpUvw/maxresdefault.jpg?v=25",
+    "viewers": 359
    },
    "OA7VcbVU7lw": {
     "vid": "OA7VcbVU7lw",
     "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
     "name": "Шкила",
     "start": "2026-11-16T15:01:59Z",
-    "peak": 1602,
+    "peak": 1700,
     "has_viewers": true,
     "title": "SHKILLA TEAM ||| ХИЛИМ ЧЕРВЯ + ИЩЕМ ГИДРОБРЫЧКУ",
     "thumb": "https://i.ytimg.com/vi/OA7VcbVU7lw/maxresdefault.jpg?v=6afb0f71",
-    "viewers": 1602
+    "viewers": 1700
+   },
+   "GhPZOsZykQI": {
+    "vid": "GhPZOsZykQI",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-16T18:12:15Z",
+    "peak": 59,
+    "has_viewers": true,
+    "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
+    "thumb": "https://i.ytimg.com/vi/GhPZOsZykQI/maxresdefault.jpg?v=6afb4774",
+    "viewers": 59
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "2 ч 15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/OA7VcbVU7lw\">Шкила</a></b> · 1602 👁 · 2 ч 58 мин\n└ SHKILLA TEAM ||| ХИЛИМ ЧЕРВЯ + ИЩЕМ ГИДРОБРЫЧКУ\n\n<b><a href=\"https://youtu.be/-ptBFNJpUvw\">Дон Грязь</a></b> · 383 👁 · 2 ч 45 мин\n└ Это я, Рыба. Сегодня я повесил фотки своих бывших…",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/OA7VcbVU7lw\">Шкила</a></b> · 1700 👁 · 3 ч 13 мин\n└ SHKILLA TEAM ||| ХИЛИМ ЧЕРВЯ + ИЩЕМ ГИДРОБРЫЧКУ\n\n<b><a href=\"https://youtu.be/-ptBFNJpUvw\">Дон Грязь</a></b> · 359 👁 · 2 ч 59 мин\n└ Это я, Рыба. Сегодня я повесил фотки своих бывших…\n\n<b><a href=\"https://youtu.be/GhPZOsZykQI\">Рифляй</a></b> · 59 👁 · 3 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
