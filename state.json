@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "bw8eO2bA5ek": {
-    "vid": "bw8eO2bA5ek",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-16T06:43:50Z",
-    "peak": 37,
-    "has_viewers": true,
-    "title": "сабакка",
-    "thumb": "https://i.ytimg.com/vi/bw8eO2bA5ek/maxresdefault.jpg?v=6afaa5f1",
-    "viewers": 1
-   },
    "p7KdISpvlZE": {
     "vid": "p7KdISpvlZE",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -61,22 +50,10 @@
     "has_viewers": true,
     "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
     "thumb": "https://i.ytimg.com/vi/p7KdISpvlZE/maxresdefault.jpg?v=6afafa2e",
-    "viewers": 131
+    "viewers": 129
    }
   },
   "ended": [
-   {
-    "vid": "Ke_jKBKSK2I",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-14T09:31:10Z",
-    "peak": 67,
-    "has_viewers": true,
-    "title": "Прямой эфир 14.11.2026",
-    "thumb": "https://i.ytimg.com/vi/Ke_jKBKSK2I/maxresdefault.jpg?v=6af81ec6",
-    "viewers": 67,
-    "dur": "3 ч 22 мин"
-   },
    {
     "vid": "TrLGi7Tbg_w",
     "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/IwfruOX3q9A/maxresdefault.jpg?v=2",
     "viewers": 4,
     "dur": "39 мин"
+   },
+   {
+    "vid": "bw8eO2bA5ek",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-16T06:43:50Z",
+    "peak": 37,
+    "has_viewers": true,
+    "title": "сабакка",
+    "thumb": "https://i.ytimg.com/vi/bw8eO2bA5ek/maxresdefault.jpg?v=6afaa5f1",
+    "viewers": 1,
+    "dur": "28 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/p7KdISpvlZE\">Рифляй</a></b> · 131 👁 · 1 ч 02 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/bw8eO2bA5ek\">Федук</a></b> · 1 👁 · 7 ч 01 мин\n└ сабакка",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/p7KdISpvlZE\">Рифляй</a></b> · 129 👁 · 1 ч 18 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
