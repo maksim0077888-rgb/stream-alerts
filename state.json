@@ -40,32 +40,8 @@
  "day": "2026-11-16",
  "board": {
   "msg": 132,
-  "streams": {
-   "p7KdISpvlZE": {
-    "vid": "p7KdISpvlZE",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-16T12:42:31Z",
-    "peak": 147,
-    "has_viewers": true,
-    "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
-    "thumb": "https://i.ytimg.com/vi/p7KdISpvlZE/maxresdefault.jpg?v=6afafa2e",
-    "viewers": 147
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "TrLGi7Tbg_w",
-    "cid": "UCCcEQ8Wwy8XliMS-vyXEyzw",
-    "name": "Депутат",
-    "start": "2026-11-14T17:34:36Z",
-    "peak": 80,
-    "has_viewers": true,
-    "title": "Прямоей эфир с подарком",
-    "thumb": "https://i.ytimg.com/vi/TrLGi7Tbg_w/maxresdefault.jpg?v=6af899b8",
-    "viewers": 80,
-    "dur": "1 ч 10 мин"
-   },
    {
     "vid": "xE2dTRXg2Aw",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/bw8eO2bA5ek/maxresdefault.jpg?v=6afaa5f1",
     "viewers": 1,
     "dur": "28 мин"
+   },
+   {
+    "vid": "p7KdISpvlZE",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-16T12:42:31Z",
+    "peak": 147,
+    "has_viewers": true,
+    "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
+    "thumb": "https://i.ytimg.com/vi/p7KdISpvlZE/maxresdefault.jpg?v=6afafa2e",
+    "viewers": 147,
+    "dur": "2 ч 15 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/p7KdISpvlZE\">Рифляй</a></b> · 147 👁 · 2 ч 02 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
