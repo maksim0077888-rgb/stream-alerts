@@ -51,6 +51,17 @@
     "title": "сабакка",
     "thumb": "https://i.ytimg.com/vi/bw8eO2bA5ek/maxresdefault.jpg?v=6afaa5f1",
     "viewers": 1
+   },
+   "p7KdISpvlZE": {
+    "vid": "p7KdISpvlZE",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-16T12:42:31Z",
+    "peak": 39,
+    "has_viewers": true,
+    "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
+    "thumb": "https://i.ytimg.com/vi/p7KdISpvlZE/maxresdefault.jpg?v=6afafa2e",
+    "viewers": 39
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/bw8eO2bA5ek\">Федук</a></b> · 1 👁 · 5 ч 46 мин\n└ сабакка",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/p7KdISpvlZE\">Рифляй</a></b> · 39 👁 · 2 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ\n\n<b><a href=\"https://youtu.be/bw8eO2bA5ek\">Федук</a></b> · 1 👁 · 6 ч 01 мин\n└ сабакка",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
