@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "nCrZeWNah1M": {
-    "vid": "nCrZeWNah1M",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T13:12:41Z",
-    "peak": 81,
-    "has_viewers": true,
-    "title": "на кг",
-    "thumb": "https://i.ytimg.com/vi/nCrZeWNah1M/maxresdefault.jpg?v=6afc52bf",
-    "viewers": 0
-   },
    "POLIfTpBzic": {
     "vid": "POLIfTpBzic",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -72,7 +61,7 @@
     "has_viewers": true,
     "title": "стрим с валентим",
     "thumb": "https://i.ytimg.com/vi/AkZ5-l-fxbk/maxresdefault.jpg?v=6afcabf1",
-    "viewers": 857
+    "viewers": 930
    },
    "o-xaAT-O3Sc": {
     "vid": "o-xaAT-O3Sc",
@@ -82,34 +71,22 @@
     "peak": 161,
     "has_viewers": true,
     "title": "Сегодня я в роли деда мороза😁",
-    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=7",
-    "viewers": 161
+    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=a",
+    "viewers": 149
    },
    "wdqR1KlpcV4": {
     "vid": "wdqR1KlpcV4",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-17T20:41:54Z",
-    "peak": 8,
+    "peak": 22,
     "has_viewers": true,
     "title": "с другом",
-    "thumb": "https://i.ytimg.com/vi/wdqR1KlpcV4/maxresdefault.jpg",
-    "viewers": 8
+    "thumb": "https://i.ytimg.com/vi/wdqR1KlpcV4/maxresdefault.jpg?v=2",
+    "viewers": 22
    }
   },
   "ended": [
-   {
-    "vid": "Y9XMkgWkEMw",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-15T23:19:26Z",
-    "peak": 5,
-    "has_viewers": true,
-    "title": "дл. л",
-    "thumb": "https://i.ytimg.com/vi/Y9XMkgWkEMw/maxresdefault.jpg?v=6",
-    "viewers": 0,
-    "dur": "7 ч 22 мин"
-   },
    {
     "vid": "IwfruOX3q9A",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/u7eLR7WKu0w/sddefault.jpg?v=6afc876a",
     "viewers": 115,
     "dur": "2 ч 23 мин"
+   },
+   {
+    "vid": "nCrZeWNah1M",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-17T13:12:41Z",
+    "peak": 81,
+    "has_viewers": true,
+    "title": "на кг",
+    "thumb": "https://i.ytimg.com/vi/nCrZeWNah1M/maxresdefault.jpg?v=6afc52bf",
+    "viewers": 0,
+    "dur": "1 ч 01 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 857 👁 · 1 ч 12 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 161 👁 · 34 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/wdqR1KlpcV4\">Ахиллес</a></b> · 8 👁 · 3 мин\n└ с другом\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 0 👁 · 7 ч 32 мин\n└ на кг\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 6 ч 07 мин\n└ москваааааа",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 930 👁 · 1 ч 27 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 149 👁 · 50 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/wdqR1KlpcV4\">Ахиллес</a></b> · 22 👁 · 18 мин\n└ с другом\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 6 ч 22 мин\n└ москваааааа",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
