@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/nCrZeWNah1M/maxresdefault.jpg?v=6afc52bf",
     "viewers": 0
    },
-   "O7X1nWrp17M": {
-    "vid": "O7X1nWrp17M",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-17T14:01:14Z",
-    "peak": 9718,
-    "has_viewers": true,
-    "title": "Говнарёк? Или всё таки найс игорёк?",
-    "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=27",
-    "viewers": 8751
-   },
    "POLIfTpBzic": {
     "vid": "POLIfTpBzic",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -83,22 +72,10 @@
     "has_viewers": true,
     "title": "ДА, МЫ ГЕИ. И ЧТО?",
     "thumb": "https://i.ytimg.com/vi/u7eLR7WKu0w/sddefault.jpg?v=6afc876a",
-    "viewers": 125
+    "viewers": 118
    }
   },
   "ended": [
-   {
-    "vid": "PTmXUk_mztg",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-15T20:17:36Z",
-    "peak": 11,
-    "has_viewers": true,
-    "title": "МЕНЯ ТВЕРЬ ГЕЛЮБОТ",
-    "thumb": "https://i.ytimg.com/vi/PTmXUk_mztg/maxresdefault.jpg?v=6afa1355",
-    "viewers": 0,
-    "dur": "10 мин"
-   },
    {
     "vid": "RZV9SW0v2PQ",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/4G80fex8LXs/maxresdefault.jpg?v=e",
     "viewers": 5,
     "dur": "1 ч 49 мин"
+   },
+   {
+    "vid": "O7X1nWrp17M",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-17T14:01:14Z",
+    "peak": 9718,
+    "has_viewers": true,
+    "title": "Говнарёк? Или всё таки найс игорёк?",
+    "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=27",
+    "viewers": 8751,
+    "dur": "3 ч 20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/O7X1nWrp17M\">ПАПИЧ</a></b> · 8751 👁 · 3 ч 14 мин\n└ Говнарёк? Или всё таки найс игорёк?\n\n<b><a href=\"https://youtu.be/u7eLR7WKu0w\">Ахиллес</a></b> · 125 👁 · 22 мин\n└ ДА, МЫ ГЕИ. И ЧТО?\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 1 👁 · 2 ч 37 мин\n└ москваааааа\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 0 👁 · 4 ч 02 мин\n└ на кг",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/u7eLR7WKu0w\">Ахиллес</a></b> · 118 👁 · 37 мин\n└ ДА, МЫ ГЕИ. И ЧТО?\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 1 👁 · 2 ч 52 мин\n└ москваааааа\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 0 👁 · 4 ч 17 мин\n└ на кг",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
