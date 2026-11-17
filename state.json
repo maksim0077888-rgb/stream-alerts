@@ -49,34 +49,11 @@
     "peak": 1783,
     "has_viewers": true,
     "title": "StreamVi.ru live stream",
-    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=3d",
-    "viewers": 468
-   },
-   "9M6bvC0G2X0": {
-    "vid": "9M6bvC0G2X0",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T08:53:10Z",
-    "peak": 97,
-    "has_viewers": true,
-    "title": "я на хвтеьвчььвттаильгатсебпьжеьегкст",
-    "thumb": "https://i.ytimg.com/vi/9M6bvC0G2X0/maxresdefault.jpg?v=13",
-    "viewers": 21
+    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=41",
+    "viewers": 469
    }
   },
   "ended": [
-   {
-    "vid": "WKTrRWPJDxA",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-15T14:01:03Z",
-    "peak": 2106,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ",
-    "thumb": "https://i.ytimg.com/vi/WKTrRWPJDxA/maxresdefault.jpg?v=6af9acef",
-    "viewers": 1633,
-    "dur": "1 ч 59 мин"
-   },
    {
     "vid": "to4XAUb-REo",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/GhPZOsZykQI/maxresdefault.jpg?v=6afb4774",
     "viewers": 3,
     "dur": "6 ч 40 мин"
+   },
+   {
+    "vid": "9M6bvC0G2X0",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-17T08:53:10Z",
+    "peak": 97,
+    "has_viewers": true,
+    "title": "я на хвтеьвчььвттаильгатсебпьжеьегкст",
+    "thumb": "https://i.ytimg.com/vi/9M6bvC0G2X0/maxresdefault.jpg?v=13",
+    "viewers": 21,
+    "dur": "2 ч 09 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 468 👁 · 5 ч 10 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/9M6bvC0G2X0\">Федук</a></b> · 21 👁 · 2 ч 07 мин\n└ я на хвтеьвчььвттаильгатсебпьжеьегкст",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 469 👁 · 5 ч 24 мин\n└ StreamVi.ru live stream",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
