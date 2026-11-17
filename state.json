@@ -49,8 +49,8 @@
     "peak": 1783,
     "has_viewers": true,
     "title": "StreamVi.ru live stream",
-    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=6b",
-    "viewers": 98
+    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=6e",
+    "viewers": 94
    },
    "nCrZeWNah1M": {
     "vid": "nCrZeWNah1M",
@@ -68,48 +68,25 @@
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-17T14:01:14Z",
-    "peak": 7819,
+    "peak": 8399,
     "has_viewers": true,
     "title": "Говнарёк? Или всё таки найс игорёк?",
-    "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=9",
-    "viewers": 7819
-   },
-   "CflxYWZUe30": {
-    "vid": "CflxYWZUe30",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-17T14:04:05Z",
-    "peak": 184,
-    "has_viewers": true,
-    "title": "вот такая хуйня собачка",
-    "thumb": "https://i.ytimg.com/vi/CflxYWZUe30/maxresdefault.jpg?v=9",
-    "viewers": 184
+    "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=c",
+    "viewers": 8399
    },
    "POLIfTpBzic": {
     "vid": "POLIfTpBzic",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-17T14:37:54Z",
-    "peak": 25,
+    "peak": 74,
     "has_viewers": true,
     "title": "москваааааа",
     "thumb": "https://i.ytimg.com/vi/POLIfTpBzic/maxresdefault.jpg?v=6afc66b7",
-    "viewers": 25
+    "viewers": 74
    }
   },
   "ended": [
-   {
-    "vid": "mrPTC5KGpAU",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-15T17:05:47Z",
-    "peak": 1404,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| РАЗБОР ПОМЕТОВ (перезапуск)",
-    "thumb": "https://i.ytimg.com/vi/mrPTC5KGpAU/maxresdefault.jpg?v=6af9e5eb",
-    "viewers": 1235,
-    "dur": "3 ч 17 мин"
-   },
    {
     "vid": "3FMt6H6v1ak",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -277,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/jn-YbzCyPT4/maxresdefault.jpg?v=6afc486c",
     "viewers": 47,
     "dur": "42 мин"
+   },
+   {
+    "vid": "CflxYWZUe30",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-17T14:04:05Z",
+    "peak": 184,
+    "has_viewers": true,
+    "title": "вот такая хуйня собачка",
+    "thumb": "https://i.ytimg.com/vi/CflxYWZUe30/maxresdefault.jpg?v=9",
+    "viewers": 184,
+    "dur": "56 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 5</b>\n\n<b><a href=\"https://youtu.be/O7X1nWrp17M\">ПАПИЧ</a></b> · 7819 👁 · 44 мин\n└ Говнарёк? Или всё таки найс игорёк?\n\n<b><a href=\"https://youtu.be/CflxYWZUe30\">Ахиллес</a></b> · 184 👁 · 41 мин\n└ вот такая хуйня собачка\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 98 👁 · 8 ч 54 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 25 👁 · 7 мин\n└ москваааааа\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 1 👁 · 1 ч 32 мин\n└ на кг",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/O7X1nWrp17M\">ПАПИЧ</a></b> · 8399 👁 · 59 мин\n└ Говнарёк? Или всё таки найс игорёк?\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 94 👁 · 9 ч 10 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 74 👁 · 22 мин\n└ москваааааа\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 1 👁 · 1 ч 48 мин\n└ на кг",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
