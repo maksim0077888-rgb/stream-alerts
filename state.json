@@ -50,29 +50,29 @@
     "has_viewers": true,
     "title": "на кг",
     "thumb": "https://i.ytimg.com/vi/nCrZeWNah1M/maxresdefault.jpg?v=6afc52bf",
-    "viewers": 1
+    "viewers": 0
    },
    "O7X1nWrp17M": {
     "vid": "O7X1nWrp17M",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-17T14:01:14Z",
-    "peak": 9685,
+    "peak": 9718,
     "has_viewers": true,
     "title": "Говнарёк? Или всё таки найс игорёк?",
-    "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=15",
-    "viewers": 9685
+    "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=18",
+    "viewers": 9718
    },
    "POLIfTpBzic": {
     "vid": "POLIfTpBzic",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-17T14:37:54Z",
-    "peak": 74,
+    "peak": 86,
     "has_viewers": true,
     "title": "москваааааа",
     "thumb": "https://i.ytimg.com/vi/POLIfTpBzic/maxresdefault.jpg?v=6afc66b7",
-    "viewers": 48
+    "viewers": 86
    },
    "4G80fex8LXs": {
     "vid": "4G80fex8LXs",
@@ -82,8 +82,8 @@
     "peak": 208,
     "has_viewers": true,
     "title": "ПОЛУСТРИМ",
-    "thumb": "https://i.ytimg.com/vi/4G80fex8LXs/maxresdefault.jpg?v=9",
-    "viewers": 208
+    "thumb": "https://i.ytimg.com/vi/4G80fex8LXs/maxresdefault.jpg?v=b",
+    "viewers": 53
    }
   },
   "ended": [
@@ -268,7 +268,7 @@
     "dur": "9 ч 53 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/O7X1nWrp17M\">ПАПИЧ</a></b> · 9685 👁 · 1 ч 44 мин\n└ Говнарёк? Или всё таки найс игорёк?\n\n<b><a href=\"https://youtu.be/4G80fex8LXs\">Ахиллес</a></b> · 208 👁 · 44 мин\n└ ПОЛУСТРИМ\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 48 👁 · 1 ч 07 мин\n└ москваааааа\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 1 👁 · 2 ч 32 мин\n└ на кг",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/O7X1nWrp17M\">ПАПИЧ</a></b> · 9718 👁 · 1 ч 59 мин\n└ Говнарёк? Или всё таки найс игорёк?\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 86 👁 · 1 ч 22 мин\n└ москваааааа\n\n<b><a href=\"https://youtu.be/4G80fex8LXs\">Ахиллес</a></b> · 53 👁 · 1 ч 00 мин\n└ ПОЛУСТРИМ\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 0 👁 · 2 ч 48 мин\n└ на кг",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
