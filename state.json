@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "-ptBFNJpUvw": {
-    "vid": "-ptBFNJpUvw",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-16T15:15:32Z",
-    "peak": 703,
-    "has_viewers": true,
-    "title": "Это я, Рыба. Сегодня я повесил фотки своих бывших в квартире😁",
-    "thumb": "https://i.ytimg.com/vi/-ptBFNJpUvw/maxresdefault.jpg?v=af",
-    "viewers": 385
-   },
    "GhPZOsZykQI": {
     "vid": "GhPZOsZykQI",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -61,22 +50,21 @@
     "has_viewers": true,
     "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
     "thumb": "https://i.ytimg.com/vi/GhPZOsZykQI/maxresdefault.jpg?v=6afb4774",
-    "viewers": 3
+    "viewers": 6
+   },
+   "MQf5MX9Szsc": {
+    "vid": "MQf5MX9Szsc",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-17T05:50:31Z",
+    "peak": 691,
+    "has_viewers": true,
+    "title": "StreamVi.ru live stream",
+    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=2",
+    "viewers": 691
    }
   },
   "ended": [
-   {
-    "vid": "Bkk-Sn3mZHM",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-14T19:16:30Z",
-    "peak": 36,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/Bkk-Sn3mZHM/maxresdefault.jpg?v=6af8b376",
-    "viewers": 36,
-    "dur": "17 мин"
-   },
    {
     "vid": "ZH1WjOZlctw",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/OA7VcbVU7lw/maxresdefault.jpg?v=6afb0f71",
     "viewers": 1705,
     "dur": "4 ч 28 мин"
+   },
+   {
+    "vid": "-ptBFNJpUvw",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-16T15:15:32Z",
+    "peak": 703,
+    "has_viewers": true,
+    "title": "Это я, Рыба. Сегодня я повесил фотки своих бывших в квартире😁",
+    "thumb": "https://i.ytimg.com/vi/-ptBFNJpUvw/maxresdefault.jpg?v=af",
+    "viewers": 385,
+    "dur": "14 ч 34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/-ptBFNJpUvw\">Дон Грязь</a></b> · 385 👁 · 14 ч 29 мин\n└ Это я, Рыба. Сегодня я повесил фотки своих бывших…\n\n<b><a href=\"https://youtu.be/GhPZOsZykQI\">Рифляй</a></b> · 3 👁 · 11 ч 33 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 691 👁 · 10 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/GhPZOsZykQI\">Рифляй</a></b> · 6 👁 · 11 ч 48 мин\n└ СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
