@@ -49,34 +49,22 @@
     "peak": 1783,
     "has_viewers": true,
     "title": "StreamVi.ru live stream",
-    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=56",
-    "viewers": 89
+    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=59",
+    "viewers": 102
    },
-   "jn-YbzCyPT4": {
-    "vid": "jn-YbzCyPT4",
+   "nCrZeWNah1M": {
+    "vid": "nCrZeWNah1M",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-17T12:28:40Z",
-    "peak": 47,
+    "start": "2026-11-17T13:12:41Z",
+    "peak": 1,
     "has_viewers": true,
     "title": "на кг",
-    "thumb": "https://i.ytimg.com/vi/jn-YbzCyPT4/maxresdefault.jpg?v=6afc486c",
-    "viewers": 47
+    "thumb": "https://i.ytimg.com/vi/nCrZeWNah1M/maxresdefault.jpg?v=6afc52bf",
+    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "DEgik07KVac",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-15T19:07:51Z",
-    "peak": 6,
-    "has_viewers": true,
-    "title": "ваваддл  урь",
-    "thumb": "https://i.ytimg.com/vi/DEgik07KVac/maxresdefault.jpg?v=6",
-    "viewers": 1,
-    "dur": "41 мин"
-   },
    {
     "vid": "mrPTC5KGpAU",
     "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/Fs13YAuO1Y8/maxresdefault.jpg?v=6afc3959",
     "viewers": 38,
     "dur": "25 мин"
+   },
+   {
+    "vid": "jn-YbzCyPT4",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-17T12:28:40Z",
+    "peak": 47,
+    "has_viewers": true,
+    "title": "на кг",
+    "thumb": "https://i.ytimg.com/vi/jn-YbzCyPT4/maxresdefault.jpg?v=6afc486c",
+    "viewers": 47,
+    "dur": "42 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 89 👁 · 7 ч 10 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/jn-YbzCyPT4\">Федук</a></b> · 47 👁 · 32 мин\n└ на кг",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 102 👁 · 7 ч 24 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 1 👁 · 2 мин\n└ на кг",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
