@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "стрим с валентим",
     "thumb": "https://i.ytimg.com/vi/AkZ5-l-fxbk/maxresdefault.jpg?v=6afcabf1",
-    "viewers": 1206
+    "viewers": 1512
    },
    "o-xaAT-O3Sc": {
     "vid": "o-xaAT-O3Sc",
@@ -71,34 +71,11 @@
     "peak": 161,
     "has_viewers": true,
     "title": "Сегодня я в роли деда мороза😁",
-    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=1c",
-    "viewers": 98
-   },
-   "X3agwSvCx5w": {
-    "vid": "X3agwSvCx5w",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-17T22:12:15Z",
-    "peak": 19,
-    "has_viewers": true,
-    "title": "а",
-    "thumb": "https://i.ytimg.com/vi/X3agwSvCx5w/maxresdefault.jpg?v=4",
-    "viewers": 19
+    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=1f",
+    "viewers": 99
    }
   },
   "ended": [
-   {
-    "vid": "p7KdISpvlZE",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-16T12:42:31Z",
-    "peak": 147,
-    "has_viewers": true,
-    "title": "СТРИМ, РОМАНТИЧЕСКИЙ УЖИН С КРАСОТКОЙ",
-    "thumb": "https://i.ytimg.com/vi/p7KdISpvlZE/maxresdefault.jpg?v=6afafa2e",
-    "viewers": 147,
-    "dur": "2 ч 15 мин"
-   },
    {
     "vid": "OA7VcbVU7lw",
     "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/H1CoeFR03MI/maxresdefault.jpg?v=3",
     "viewers": 9,
     "dur": "23 мин"
+   },
+   {
+    "vid": "X3agwSvCx5w",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-17T22:12:15Z",
+    "peak": 19,
+    "has_viewers": true,
+    "title": "а",
+    "thumb": "https://i.ytimg.com/vi/X3agwSvCx5w/maxresdefault.jpg?v=4",
+    "viewers": 19,
+    "dur": "21 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 1206 👁 · 2 ч 57 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 98 👁 · 2 ч 19 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/X3agwSvCx5w\">Ахиллес</a></b> · 19 👁 · 18 мин\n└ а\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 7 ч 52 мин\n└ москваааааа",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 1512 👁 · 3 ч 12 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 99 👁 · 2 ч 34 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 8 ч 07 мин\n└ москваааааа",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
