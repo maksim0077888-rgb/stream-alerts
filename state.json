@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "стрим с валентим",
     "thumb": "https://i.ytimg.com/vi/AkZ5-l-fxbk/maxresdefault.jpg?v=6afcabf1",
-    "viewers": 1236
+    "viewers": 1139
    },
    "o-xaAT-O3Sc": {
     "vid": "o-xaAT-O3Sc",
@@ -71,34 +71,22 @@
     "peak": 161,
     "has_viewers": true,
     "title": "Сегодня я в роли деда мороза😁",
-    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=10",
-    "viewers": 144
+    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=13",
+    "viewers": 137
    },
-   "wdqR1KlpcV4": {
-    "vid": "wdqR1KlpcV4",
+   "H1CoeFR03MI": {
+    "vid": "H1CoeFR03MI",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
-    "start": "2026-11-17T20:41:54Z",
-    "peak": 28,
+    "start": "2026-11-17T21:44:27Z",
+    "peak": 2,
     "has_viewers": true,
     "title": "с другом",
-    "thumb": "https://i.ytimg.com/vi/wdqR1KlpcV4/maxresdefault.jpg?v=8",
-    "viewers": 13
+    "thumb": "https://i.ytimg.com/vi/H1CoeFR03MI/maxresdefault.jpg",
+    "viewers": 2
    }
   },
   "ended": [
-   {
-    "vid": "IwfruOX3q9A",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-16T06:06:19Z",
-    "peak": 4,
-    "has_viewers": true,
-    "title": "' аскевк",
-    "thumb": "https://i.ytimg.com/vi/IwfruOX3q9A/maxresdefault.jpg?v=2",
-    "viewers": 4,
-    "dur": "39 мин"
-   },
    {
     "vid": "bw8eO2bA5ek",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/nCrZeWNah1M/maxresdefault.jpg?v=6afc52bf",
     "viewers": 0,
     "dur": "1 ч 01 мин"
+   },
+   {
+    "vid": "wdqR1KlpcV4",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-17T20:41:54Z",
+    "peak": 28,
+    "has_viewers": true,
+    "title": "с другом",
+    "thumb": "https://i.ytimg.com/vi/wdqR1KlpcV4/maxresdefault.jpg?v=8",
+    "viewers": 13,
+    "dur": "58 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 1236 👁 · 1 ч 57 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 144 👁 · 1 ч 19 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/wdqR1KlpcV4\">Ахиллес</a></b> · 13 👁 · 48 мин\n└ с другом\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 6 ч 52 мин\n└ москваааааа",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 1139 👁 · 2 ч 12 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 137 👁 · 1 ч 34 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/H1CoeFR03MI\">Ахиллес</a></b> · 2 👁 · 1 мин\n└ с другом\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 7 ч 07 мин\n└ москваааааа",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
