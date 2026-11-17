@@ -49,19 +49,19 @@
     "peak": 1783,
     "has_viewers": true,
     "title": "StreamVi.ru live stream",
-    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=44",
-    "viewers": 467
+    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=45",
+    "viewers": 503
    },
    "Fs13YAuO1Y8": {
     "vid": "Fs13YAuO1Y8",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-17T11:24:19Z",
-    "peak": 8,
+    "peak": 29,
     "has_viewers": true,
     "title": "на кг",
     "thumb": "https://i.ytimg.com/vi/Fs13YAuO1Y8/maxresdefault.jpg?v=6afc3959",
-    "viewers": 8
+    "viewers": 29
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "2 ч 09 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 467 👁 · 5 ч 40 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/Fs13YAuO1Y8\">Федук</a></b> · 8 👁 · 6 мин\n└ на кг",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 503 👁 · 5 ч 48 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/Fs13YAuO1Y8\">Федук</a></b> · 29 👁 · 14 мин\n└ на кг",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
