@@ -62,32 +62,9 @@
     "title": "москваааааа",
     "thumb": "https://i.ytimg.com/vi/POLIfTpBzic/maxresdefault.jpg?v=6afc66b7",
     "viewers": 0
-   },
-   "u7eLR7WKu0w": {
-    "vid": "u7eLR7WKu0w",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-17T16:53:21Z",
-    "peak": 126,
-    "has_viewers": true,
-    "title": "ДА, МЫ ГЕИ. И ЧТО?",
-    "thumb": "https://i.ytimg.com/vi/u7eLR7WKu0w/sddefault.jpg?v=6afc876a",
-    "viewers": 115
    }
   },
   "ended": [
-   {
-    "vid": "RZV9SW0v2PQ",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-15T21:21:44Z",
-    "peak": 524,
-    "has_viewers": true,
-    "title": "Маэстро ФМ",
-    "thumb": "https://i.ytimg.com/vi/RZV9SW0v2PQ/maxresdefault.jpg?v=6d",
-    "viewers": 341,
-    "dur": "9 ч 18 мин"
-   },
    {
     "vid": "Y9XMkgWkEMw",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=27",
     "viewers": 8751,
     "dur": "3 ч 20 мин"
+   },
+   {
+    "vid": "u7eLR7WKu0w",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-17T16:53:21Z",
+    "peak": 126,
+    "has_viewers": true,
+    "title": "ДА, МЫ ГЕИ. И ЧТО?",
+    "thumb": "https://i.ytimg.com/vi/u7eLR7WKu0w/sddefault.jpg?v=6afc876a",
+    "viewers": 115,
+    "dur": "2 ч 23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/u7eLR7WKu0w\">Ахиллес</a></b> · 115 👁 · 2 ч 22 мин\n└ ДА, МЫ ГЕИ. И ЧТО?\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 0 👁 · 6 ч 02 мин\n└ на кг\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 4 ч 37 мин\n└ москваааааа",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/nCrZeWNah1M\">Федук</a></b> · 0 👁 · 6 ч 17 мин\n└ на кг\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 4 ч 52 мин\n└ москваааааа",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
