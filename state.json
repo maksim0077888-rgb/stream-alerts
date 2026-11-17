@@ -49,34 +49,11 @@
     "peak": 1783,
     "has_viewers": true,
     "title": "StreamVi.ru live stream",
-    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=47",
-    "viewers": 487
-   },
-   "Fs13YAuO1Y8": {
-    "vid": "Fs13YAuO1Y8",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T11:24:19Z",
-    "peak": 38,
-    "has_viewers": true,
-    "title": "на кг",
-    "thumb": "https://i.ytimg.com/vi/Fs13YAuO1Y8/maxresdefault.jpg?v=6afc3959",
-    "viewers": 38
+    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=4a",
+    "viewers": 71
    }
   },
   "ended": [
-   {
-    "vid": "to4XAUb-REo",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-15T13:45:11Z",
-    "peak": 12148,
-    "has_viewers": true,
-    "title": "АУК! + концовка ГОВ ГОВныча",
-    "thumb": "https://i.ytimg.com/vi/to4XAUb-REo/maxresdefault.jpg?v=2c",
-    "viewers": 7966,
-    "dur": "3 ч 35 мин"
-   },
    {
     "vid": "DEgik07KVac",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/9M6bvC0G2X0/maxresdefault.jpg?v=13",
     "viewers": 21,
     "dur": "2 ч 09 мин"
+   },
+   {
+    "vid": "Fs13YAuO1Y8",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-17T11:24:19Z",
+    "peak": 38,
+    "has_viewers": true,
+    "title": "на кг",
+    "thumb": "https://i.ytimg.com/vi/Fs13YAuO1Y8/maxresdefault.jpg?v=6afc3959",
+    "viewers": 38,
+    "dur": "25 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 487 👁 · 5 ч 55 мин\n└ StreamVi.ru live stream\n\n<b><a href=\"https://youtu.be/Fs13YAuO1Y8\">Федук</a></b> · 38 👁 · 21 мин\n└ на кг",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/MQf5MX9Szsc\">Дон Грязь</a></b> · 71 👁 · 6 ч 10 мин\n└ StreamVi.ru live stream",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
