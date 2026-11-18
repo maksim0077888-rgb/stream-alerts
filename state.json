@@ -49,34 +49,22 @@
     "peak": 143,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=42",
-    "viewers": 30
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=45",
+    "viewers": 39
    },
-   "jSKEnttVqqU": {
-    "vid": "jSKEnttVqqU",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-18T10:19:05Z",
-    "peak": 38,
+   "IjFDDCKQMUE": {
+    "vid": "IjFDDCKQMUE",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-18T14:31:41Z",
+    "peak": 2314,
     "has_viewers": true,
-    "title": "э",
-    "thumb": "https://i.ytimg.com/vi/jSKEnttVqqU/maxresdefault.jpg?v=36",
-    "viewers": 38
+    "title": "Микро-затык",
+    "thumb": "https://i.ytimg.com/vi/IjFDDCKQMUE/maxresdefault.jpg?v=3",
+    "viewers": 2314
    }
   },
   "ended": [
-   {
-    "vid": "MQf5MX9Szsc",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-17T05:50:31Z",
-    "peak": 1783,
-    "has_viewers": true,
-    "title": "Разговариваю с вами, вечером Мафия",
-    "thumb": "https://i.ytimg.com/vi/MQf5MX9Szsc/maxresdefault.jpg?v=73",
-    "viewers": 186,
-    "dur": "9 ч 53 мин"
-   },
    {
     "vid": "4G80fex8LXs",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=5e",
     "viewers": 216,
     "dur": "8 ч 50 мин"
+   },
+   {
+    "vid": "jSKEnttVqqU",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-18T10:19:05Z",
+    "peak": 38,
+    "has_viewers": true,
+    "title": "э",
+    "thumb": "https://i.ytimg.com/vi/jSKEnttVqqU/maxresdefault.jpg?v=36",
+    "viewers": 38,
+    "dur": "4 ч 26 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/jSKEnttVqqU\">Школа Сук</a></b> · 38 👁 · 4 ч 11 мин\n└ э\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 30 👁 · 5 ч 10 мин\n└ Это я рыба ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/IjFDDCKQMUE\">ПАПИЧ</a></b> · 2314 👁 · 13 мин\n└ Микро-затык\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 39 👁 · 5 ч 25 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
