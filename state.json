@@ -49,45 +49,22 @@
     "peak": 355,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=93",
-    "viewers": 23
-   },
-   "yDiew_HeRjo": {
-    "vid": "yDiew_HeRjo",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-18T19:10:03Z",
-    "peak": 3192,
-    "has_viewers": true,
-    "title": "стрим с Валентим",
-    "thumb": "https://i.ytimg.com/vi/yDiew_HeRjo/sddefault.jpg?v=6afdf801",
-    "viewers": 3051
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=96",
+    "viewers": 18
    },
    "lEot8WGQq0E": {
     "vid": "lEot8WGQq0E",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-18T20:55:54Z",
-    "peak": 18,
+    "peak": 51,
     "has_viewers": true,
     "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/lEot8WGQq0E/maxresdefault.jpg?v=4",
-    "viewers": 18
+    "thumb": "https://i.ytimg.com/vi/lEot8WGQq0E/maxresdefault.jpg?v=7",
+    "viewers": 51
    }
   },
   "ended": [
-   {
-    "vid": "H1CoeFR03MI",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-17T21:44:27Z",
-    "peak": 9,
-    "has_viewers": true,
-    "title": "с другом",
-    "thumb": "https://i.ytimg.com/vi/H1CoeFR03MI/maxresdefault.jpg?v=3",
-    "viewers": 9,
-    "dur": "23 мин"
-   },
    {
     "vid": "X3agwSvCx5w",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/5zoHXw42M2Q/maxresdefault.jpg?v=9",
     "viewers": 8,
     "dur": "1 ч 10 мин"
+   },
+   {
+    "vid": "yDiew_HeRjo",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-18T19:10:03Z",
+    "peak": 3192,
+    "has_viewers": true,
+    "title": "стрим с Валентим",
+    "thumb": "https://i.ytimg.com/vi/yDiew_HeRjo/sddefault.jpg?v=6afdf801",
+    "viewers": 3051,
+    "dur": "2 ч 20 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/yDiew_HeRjo\">Рифляй</a></b> · 3051 👁 · 2 ч 05 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 23 👁 · 11 ч 55 мин\n└ Это я рыба \n\n<b><a href=\"https://youtu.be/lEot8WGQq0E\">Ахиллес</a></b> · 18 👁 · 19 мин\n└ ПОЛУСТРИМ ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/lEot8WGQq0E\">Ахиллес</a></b> · 51 👁 · 34 мин\n└ ПОЛУСТРИМ \n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 18 👁 · 12 ч 10 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
