@@ -49,34 +49,11 @@
     "peak": 125,
     "has_viewers": true,
     "title": "поонали",
-    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=1e",
-    "viewers": 87
-   },
-   "qh2EfrKcX78": {
-    "vid": "qh2EfrKcX78",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-18T07:59:14Z",
-    "peak": 42,
-    "has_viewers": true,
-    "title": "Скумбрия Live",
-    "thumb": "https://i.ytimg.com/vi/qh2EfrKcX78/maxresdefault.jpg",
-    "viewers": 42
+    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=21",
+    "viewers": 117
    }
   },
   "ended": [
-   {
-    "vid": "Fs13YAuO1Y8",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T11:24:19Z",
-    "peak": 38,
-    "has_viewers": true,
-    "title": "на кг",
-    "thumb": "https://i.ytimg.com/vi/Fs13YAuO1Y8/maxresdefault.jpg?v=6afc3959",
-    "viewers": 38,
-    "dur": "25 мин"
-   },
    {
     "vid": "jn-YbzCyPT4",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=85",
     "viewers": 146,
     "dur": "11 ч 16 мин"
+   },
+   {
+    "vid": "qh2EfrKcX78",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-18T07:59:14Z",
+    "peak": 42,
+    "has_viewers": true,
+    "title": "Скумбрия Live",
+    "thumb": "https://i.ytimg.com/vi/qh2EfrKcX78/maxresdefault.jpg",
+    "viewers": 42,
+    "dur": "9 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 87 👁 · 2 ч 38 мин\n└ поонали\n\n<b><a href=\"https://youtu.be/qh2EfrKcX78\">Дон Грязь</a></b> · 42 👁 · 1 мин\n└ Скумбрия Live",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 117 👁 · 2 ч 53 мин\n└ поонали",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
