@@ -46,11 +46,22 @@
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-18T05:22:18Z",
-    "peak": 349,
+    "peak": 439,
     "has_viewers": true,
     "title": "поонали",
-    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=2c",
-    "viewers": 349
+    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=2f",
+    "viewers": 439
+   },
+   "JX-jABreqps": {
+    "vid": "JX-jABreqps",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-18T09:20:18Z",
+    "peak": 96,
+    "has_viewers": true,
+    "title": "Это я рыба ",
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=2",
+    "viewers": 96
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 349 👁 · 3 ч 53 мин\n└ поонали",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 439 👁 · 4 ч 08 мин\n└ поонали\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 96 👁 · 10 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
