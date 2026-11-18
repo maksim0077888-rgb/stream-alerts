@@ -49,7 +49,7 @@
     "peak": 355,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=7b",
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=7e",
     "viewers": 25
    },
    "5zoHXw42M2Q": {
@@ -59,20 +59,20 @@
     "start": "2026-11-18T18:34:50Z",
     "peak": 117,
     "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/5zoHXw42M2Q/maxresdefault.jpg?v=8",
-    "viewers": 82
+    "title": "ПОЛУСТРИМ",
+    "thumb": "https://i.ytimg.com/vi/5zoHXw42M2Q/maxresdefault.jpg?v=9",
+    "viewers": 8
    },
    "yDiew_HeRjo": {
     "vid": "yDiew_HeRjo",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-11-18T19:10:03Z",
-    "peak": 562,
+    "peak": 1824,
     "has_viewers": true,
     "title": "стрим с Валентим",
     "thumb": "https://i.ytimg.com/vi/yDiew_HeRjo/sddefault.jpg?v=6afdf801",
-    "viewers": 562
+    "viewers": 1824
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/yDiew_HeRjo\">Рифляй</a></b> · 562 👁 · 5 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/5zoHXw42M2Q\">Ахиллес</a></b> · 82 👁 · 40 мин\n└ ПОЛУСТРИМ \n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 25 👁 · 9 ч 55 мин\n└ Это я рыба ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/yDiew_HeRjo\">Рифляй</a></b> · 1824 👁 · 20 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 25 👁 · 10 ч 10 мин\n└ Это я рыба \n\n<b><a href=\"https://youtu.be/5zoHXw42M2Q\">Ахиллес</a></b> · 8 👁 · 55 мин\n└ ПОЛУСТРИМ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
