@@ -49,45 +49,22 @@
     "peak": 355,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=5e",
-    "viewers": 290
-   },
-   "IjFDDCKQMUE": {
-    "vid": "IjFDDCKQMUE",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-18T14:31:41Z",
-    "peak": 3069,
-    "has_viewers": true,
-    "title": "Микро-затык",
-    "thumb": "https://i.ytimg.com/vi/IjFDDCKQMUE/maxresdefault.jpg?v=1a",
-    "viewers": 2642
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=61",
+    "viewers": 335
    },
    "v18-9IA2f5Q": {
     "vid": "v18-9IA2f5Q",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
     "start": "2026-11-18T15:08:12Z",
-    "peak": 2409,
+    "peak": 2478,
     "has_viewers": true,
     "title": "стрим с Валентим",
     "thumb": "https://i.ytimg.com/vi/v18-9IA2f5Q/maxresdefault.jpg?v=6afdbf53",
-    "viewers": 2409
+    "viewers": 2478
    }
   },
   "ended": [
-   {
-    "vid": "O7X1nWrp17M",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-17T14:01:14Z",
-    "peak": 9718,
-    "has_viewers": true,
-    "title": "Говнарёк? Или всё таки найс игорёк?",
-    "thumb": "https://i.ytimg.com/vi/O7X1nWrp17M/maxresdefault.jpg?v=27",
-    "viewers": 8751,
-    "dur": "3 ч 20 мин"
-   },
    {
     "vid": "u7eLR7WKu0w",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/DDytsloLTvw/maxresdefault.jpg",
     "viewers": 3,
     "dur": "4 мин"
+   },
+   {
+    "vid": "IjFDDCKQMUE",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-18T14:31:41Z",
+    "peak": 3069,
+    "has_viewers": true,
+    "title": "Микро-затык",
+    "thumb": "https://i.ytimg.com/vi/IjFDDCKQMUE/maxresdefault.jpg?v=1a",
+    "viewers": 2642,
+    "dur": "2 ч 26 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/IjFDDCKQMUE\">ПАПИЧ</a></b> · 2642 👁 · 2 ч 13 мин\n└ Микро-затык\n\n<b><a href=\"https://youtu.be/v18-9IA2f5Q\">Рифляй</a></b> · 2409 👁 · 1 ч 37 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 290 👁 · 7 ч 25 мин\n└ Это я рыба ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/v18-9IA2f5Q\">Рифляй</a></b> · 2478 👁 · 1 ч 52 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 335 👁 · 7 ч 40 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
