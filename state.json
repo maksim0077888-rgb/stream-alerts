@@ -50,44 +50,21 @@
     "has_viewers": true,
     "title": "стрим с валентим",
     "thumb": "https://i.ytimg.com/vi/AkZ5-l-fxbk/maxresdefault.jpg?v=6afcabf1",
-    "viewers": 21
+    "viewers": 17
    },
    "o-xaAT-O3Sc": {
     "vid": "o-xaAT-O3Sc",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-17T20:10:42Z",
-    "peak": 161,
+    "peak": 171,
     "has_viewers": true,
     "title": "Сегодня я в роли деда мороза😁",
-    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=61",
-    "viewers": 129
-   },
-   "fbG9BaQt42U": {
-    "vid": "fbG9BaQt42U",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-17T23:55:58Z",
-    "peak": 557,
-    "has_viewers": true,
-    "title": "стрим с валентим",
-    "thumb": "https://i.ytimg.com/vi/fbG9BaQt42U/maxresdefault.jpg?v=6afce985",
-    "viewers": 351
+    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=64",
+    "viewers": 171
    }
   },
   "ended": [
-   {
-    "vid": "-ptBFNJpUvw",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-16T15:15:32Z",
-    "peak": 703,
-    "has_viewers": true,
-    "title": "Это я, Рыба. Сегодня я повесил фотки своих бывших в квартире😁",
-    "thumb": "https://i.ytimg.com/vi/-ptBFNJpUvw/maxresdefault.jpg?v=af",
-    "viewers": 385,
-    "dur": "14 ч 34 мин"
-   },
    {
     "vid": "GhPZOsZykQI",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/POLIfTpBzic/maxresdefault.jpg?v=6afc66b7",
     "viewers": 0,
     "dur": "2 ч 35 мин"
+   },
+   {
+    "vid": "fbG9BaQt42U",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-17T23:55:58Z",
+    "peak": 557,
+    "has_viewers": true,
+    "title": "стрим с валентим",
+    "thumb": "https://i.ytimg.com/vi/fbG9BaQt42U/maxresdefault.jpg?v=6afce985",
+    "viewers": 351,
+    "dur": "4 ч 26 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/fbG9BaQt42U\">Рифляй</a></b> · 351 👁 · 4 ч 19 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 129 👁 · 8 ч 04 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 21 👁 · 8 ч 42 мин\n└ стрим с валентим",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 171 👁 · 8 ч 19 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 17 👁 · 8 ч 57 мин\n└ стрим с валентим",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
