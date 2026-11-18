@@ -46,11 +46,11 @@
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-18T05:22:18Z",
-    "peak": 439,
+    "peak": 560,
     "has_viewers": true,
     "title": "поонали",
-    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=38",
-    "viewers": 433
+    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=3b",
+    "viewers": 560
    },
    "JX-jABreqps": {
     "vid": "JX-jABreqps",
@@ -60,8 +60,19 @@
     "peak": 143,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=b",
-    "viewers": 39
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=e",
+    "viewers": 34
+   },
+   "jSKEnttVqqU": {
+    "vid": "jSKEnttVqqU",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-18T10:19:05Z",
+    "peak": 37,
+    "has_viewers": true,
+    "title": "э",
+    "thumb": "https://i.ytimg.com/vi/jSKEnttVqqU/maxresdefault.jpg?v=3",
+    "viewers": 37
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 433 👁 · 4 ч 53 мин\n└ поонали\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 39 👁 · 55 мин\n└ Это я рыба ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 560 👁 · 5 ч 08 мин\n└ поонали\n\n<b><a href=\"https://youtu.be/jSKEnttVqqU\">Школа Сук</a></b> · 37 👁 · 11 мин\n└ э\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 34 👁 · 1 ч 10 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
