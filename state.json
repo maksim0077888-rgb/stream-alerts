@@ -49,34 +49,33 @@
     "peak": 355,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=72",
-    "viewers": 27
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=75",
+    "viewers": 21
    },
-   "v18-9IA2f5Q": {
-    "vid": "v18-9IA2f5Q",
+   "fFPhvsTvaQ8": {
+    "vid": "fFPhvsTvaQ8",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
-    "start": "2026-11-18T15:08:12Z",
-    "peak": 2478,
+    "start": "2026-11-18T18:44:22Z",
+    "peak": 59,
     "has_viewers": true,
     "title": "стрим с Валентим",
-    "thumb": "https://i.ytimg.com/vi/v18-9IA2f5Q/maxresdefault.jpg?v=6afdbf53",
-    "viewers": 901
+    "thumb": "https://i.ytimg.com/vi/fFPhvsTvaQ8/maxresdefault.jpg?v=6afdf1fe",
+    "viewers": 59
+   },
+   "5zoHXw42M2Q": {
+    "vid": "5zoHXw42M2Q",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-18T18:34:50Z",
+    "peak": 91,
+    "has_viewers": true,
+    "title": "да",
+    "thumb": "https://i.ytimg.com/vi/5zoHXw42M2Q/maxresdefault.jpg?v=2",
+    "viewers": 91
    }
   },
   "ended": [
-   {
-    "vid": "u7eLR7WKu0w",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-17T16:53:21Z",
-    "peak": 126,
-    "has_viewers": true,
-    "title": "ДА, МЫ ГЕИ. И ЧТО?",
-    "thumb": "https://i.ytimg.com/vi/u7eLR7WKu0w/sddefault.jpg?v=6afc876a",
-    "viewers": 115,
-    "dur": "2 ч 23 мин"
-   },
    {
     "vid": "nCrZeWNah1M",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/IjFDDCKQMUE/maxresdefault.jpg?v=1a",
     "viewers": 2642,
     "dur": "2 ч 26 мин"
+   },
+   {
+    "vid": "v18-9IA2f5Q",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-18T15:08:12Z",
+    "peak": 2478,
+    "has_viewers": true,
+    "title": "стрим с Валентим",
+    "thumb": "https://i.ytimg.com/vi/v18-9IA2f5Q/maxresdefault.jpg?v=6afdbf53",
+    "viewers": 901,
+    "dur": "3 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/v18-9IA2f5Q\">Рифляй</a></b> · 901 👁 · 3 ч 22 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 27 👁 · 9 ч 10 мин\n└ Это я рыба ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/5zoHXw42M2Q\">Ахиллес</a></b> · 91 👁 · 10 мин\n└ да\n\n<b><a href=\"https://youtu.be/fFPhvsTvaQ8\">Рифляй</a></b> · 59 👁 · 1 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 21 👁 · 9 ч 25 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
