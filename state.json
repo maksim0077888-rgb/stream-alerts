@@ -49,19 +49,8 @@
     "peak": 355,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=78",
-    "viewers": 23
-   },
-   "fFPhvsTvaQ8": {
-    "vid": "fFPhvsTvaQ8",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-18T18:44:22Z",
-    "peak": 721,
-    "has_viewers": true,
-    "title": "стрим с Валентим",
-    "thumb": "https://i.ytimg.com/vi/fFPhvsTvaQ8/maxresdefault.jpg?v=6afdf1fe",
-    "viewers": 721
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=7b",
+    "viewers": 25
    },
    "5zoHXw42M2Q": {
     "vid": "5zoHXw42M2Q",
@@ -70,24 +59,23 @@
     "start": "2026-11-18T18:34:50Z",
     "peak": 117,
     "has_viewers": true,
-    "title": "да",
-    "thumb": "https://i.ytimg.com/vi/5zoHXw42M2Q/maxresdefault.jpg?v=5",
-    "viewers": 117
+    "title": "ПОЛУСТРИМ ",
+    "thumb": "https://i.ytimg.com/vi/5zoHXw42M2Q/maxresdefault.jpg?v=8",
+    "viewers": 82
+   },
+   "yDiew_HeRjo": {
+    "vid": "yDiew_HeRjo",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-18T19:10:03Z",
+    "peak": 562,
+    "has_viewers": true,
+    "title": "стрим с Валентим",
+    "thumb": "https://i.ytimg.com/vi/yDiew_HeRjo/sddefault.jpg?v=6afdf801",
+    "viewers": 562
    }
   },
   "ended": [
-   {
-    "vid": "nCrZeWNah1M",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T13:12:41Z",
-    "peak": 81,
-    "has_viewers": true,
-    "title": "на кг",
-    "thumb": "https://i.ytimg.com/vi/nCrZeWNah1M/maxresdefault.jpg?v=6afc52bf",
-    "viewers": 0,
-    "dur": "1 ч 01 мин"
-   },
    {
     "vid": "wdqR1KlpcV4",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/v18-9IA2f5Q/maxresdefault.jpg?v=6afdbf53",
     "viewers": 901,
     "dur": "3 ч 35 мин"
+   },
+   {
+    "vid": "fFPhvsTvaQ8",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-18T18:44:22Z",
+    "peak": 721,
+    "has_viewers": true,
+    "title": "стрим с Валентим",
+    "thumb": "https://i.ytimg.com/vi/fFPhvsTvaQ8/maxresdefault.jpg?v=6afdf1fe",
+    "viewers": 721,
+    "dur": "16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/fFPhvsTvaQ8\">Рифляй</a></b> · 721 👁 · 16 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/5zoHXw42M2Q\">Ахиллес</a></b> · 117 👁 · 26 мин\n└ да\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 23 👁 · 9 ч 40 мин\n└ Это я рыба ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/yDiew_HeRjo\">Рифляй</a></b> · 562 👁 · 5 мин\n└ стрим с Валентим\n\n<b><a href=\"https://youtu.be/5zoHXw42M2Q\">Ахиллес</a></b> · 82 👁 · 40 мин\n└ ПОЛУСТРИМ \n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 25 👁 · 9 ч 55 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
