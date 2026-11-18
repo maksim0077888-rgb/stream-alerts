@@ -49,19 +49,19 @@
     "peak": 125,
     "has_viewers": true,
     "title": "поонали",
-    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=24",
-    "viewers": 108
+    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=26",
+    "viewers": 13
    },
    "BpT-xGhksKo": {
     "vid": "BpT-xGhksKo",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-18T08:26:02Z",
-    "peak": 48,
+    "peak": 118,
     "has_viewers": true,
     "title": "Рыба ФМ",
-    "thumb": "https://i.ytimg.com/vi/BpT-xGhksKo/maxresdefault.jpg?v=1",
-    "viewers": 48
+    "thumb": "https://i.ytimg.com/vi/BpT-xGhksKo/maxresdefault.jpg?v=4",
+    "viewers": 118
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "9 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 108 👁 · 3 ч 08 мин\n└ поонали\n\n<b><a href=\"https://youtu.be/BpT-xGhksKo\">Дон Грязь</a></b> · 48 👁 · 4 мин\n└ Рыба ФМ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/BpT-xGhksKo\">Дон Грязь</a></b> · 118 👁 · 19 мин\n└ Рыба ФМ\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 13 👁 · 3 ч 23 мин\n└ поонали",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
