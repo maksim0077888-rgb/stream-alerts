@@ -49,34 +49,11 @@
     "peak": 355,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=a5",
-    "viewers": 28
-   },
-   "lEot8WGQq0E": {
-    "vid": "lEot8WGQq0E",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-18T20:55:54Z",
-    "peak": 51,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/lEot8WGQq0E/maxresdefault.jpg?v=16",
-    "viewers": 13
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=a8",
+    "viewers": 33
    }
   },
   "ended": [
-   {
-    "vid": "X3agwSvCx5w",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-17T22:12:15Z",
-    "peak": 19,
-    "has_viewers": true,
-    "title": "а",
-    "thumb": "https://i.ytimg.com/vi/X3agwSvCx5w/maxresdefault.jpg?v=4",
-    "viewers": 19,
-    "dur": "21 мин"
-   },
    {
     "vid": "POLIfTpBzic",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/yDiew_HeRjo/sddefault.jpg?v=6afdf801",
     "viewers": 3051,
     "dur": "2 ч 20 мин"
+   },
+   {
+    "vid": "lEot8WGQq0E",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-18T20:55:54Z",
+    "peak": 51,
+    "has_viewers": true,
+    "title": "ПОЛУСТРИМ ",
+    "thumb": "https://i.ytimg.com/vi/lEot8WGQq0E/maxresdefault.jpg?v=16",
+    "viewers": 13,
+    "dur": "1 ч 55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 28 👁 · 13 ч 25 мин\n└ Это я рыба \n\n<b><a href=\"https://youtu.be/lEot8WGQq0E\">Ахиллес</a></b> · 13 👁 · 1 ч 49 мин\n└ ПОЛУСТРИМ ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 33 👁 · 13 ч 40 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
