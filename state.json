@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "o-xaAT-O3Sc": {
-    "vid": "o-xaAT-O3Sc",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-17T20:10:42Z",
-    "peak": 174,
-    "has_viewers": true,
-    "title": "Сегодня я в роли деда мороза😁",
-    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=85",
-    "viewers": 146
-   },
    "cnrA0uozbno": {
     "vid": "cnrA0uozbno",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -60,23 +49,11 @@
     "peak": 125,
     "has_viewers": true,
     "title": "поонали",
-    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=15",
-    "viewers": 101
+    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=18",
+    "viewers": 100
    }
   },
   "ended": [
-   {
-    "vid": "9M6bvC0G2X0",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T08:53:10Z",
-    "peak": 97,
-    "has_viewers": true,
-    "title": "я на хвтеьвчььвттаильгатсебпьжеьегкст",
-    "thumb": "https://i.ytimg.com/vi/9M6bvC0G2X0/maxresdefault.jpg?v=13",
-    "viewers": 21,
-    "dur": "2 ч 09 мин"
-   },
    {
     "vid": "Fs13YAuO1Y8",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/AkZ5-l-fxbk/maxresdefault.jpg?v=6afcabf1",
     "viewers": 27,
     "dur": "4 ч 13 мин"
+   },
+   {
+    "vid": "o-xaAT-O3Sc",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-17T20:10:42Z",
+    "peak": 174,
+    "has_viewers": true,
+    "title": "Сегодня я в роли деда мороза😁",
+    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=85",
+    "viewers": 146,
+    "dur": "11 ч 16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 146 👁 · 11 ч 04 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 101 👁 · 1 ч 53 мин\n└ поонали",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 100 👁 · 2 ч 08 мин\n└ поонали",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
