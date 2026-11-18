@@ -37,21 +37,10 @@
   "https://www.youtube.com/channel/UCSVKrRZ6viFK3C9diKAkw6g": "UCSVKrRZ6viFK3C9diKAkw6g",
   "https://www.youtube.com/watch?v=hn69kR7KNv8": "UCZF2JeZLsEv0cOASy2bC51g"
  },
- "day": "2026-11-17",
+ "day": "2026-11-18",
  "board": {
   "msg": 132,
   "streams": {
-   "POLIfTpBzic": {
-    "vid": "POLIfTpBzic",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T14:37:54Z",
-    "peak": 102,
-    "has_viewers": true,
-    "title": "москваааааа",
-    "thumb": "https://i.ytimg.com/vi/POLIfTpBzic/maxresdefault.jpg?v=6afc66b7",
-    "viewers": 0
-   },
    "AkZ5-l-fxbk": {
     "vid": "AkZ5-l-fxbk",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -61,7 +50,7 @@
     "has_viewers": true,
     "title": "стрим с валентим",
     "thumb": "https://i.ytimg.com/vi/AkZ5-l-fxbk/maxresdefault.jpg?v=6afcabf1",
-    "viewers": 370
+    "viewers": 151
    },
    "o-xaAT-O3Sc": {
     "vid": "o-xaAT-O3Sc",
@@ -71,23 +60,22 @@
     "peak": 161,
     "has_viewers": true,
     "title": "Сегодня я в роли деда мороза😁",
-    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=2b",
-    "viewers": 132
+    "thumb": "https://i.ytimg.com/vi/o-xaAT-O3Sc/maxresdefault.jpg?v=2e",
+    "viewers": 146
+   },
+   "fbG9BaQt42U": {
+    "vid": "fbG9BaQt42U",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-17T23:55:58Z",
+    "peak": 265,
+    "has_viewers": true,
+    "title": "стрим с валентим",
+    "thumb": "https://i.ytimg.com/vi/fbG9BaQt42U/maxresdefault.jpg?v=6afce985",
+    "viewers": 265
    }
   },
   "ended": [
-   {
-    "vid": "OA7VcbVU7lw",
-    "cid": "UCslZVm-WgC0KpEgdxiHk9Ng",
-    "name": "Шкила",
-    "start": "2026-11-16T15:01:59Z",
-    "peak": 1705,
-    "has_viewers": true,
-    "title": "SHKILLA TEAM ||| ХИЛИМ ЧЕРВЯ + ИЩЕМ ГИДРОБРЫЧКУ",
-    "thumb": "https://i.ytimg.com/vi/OA7VcbVU7lw/maxresdefault.jpg?v=6afb0f71",
-    "viewers": 1705,
-    "dur": "4 ч 28 мин"
-   },
    {
     "vid": "-ptBFNJpUvw",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/X3agwSvCx5w/maxresdefault.jpg?v=4",
     "viewers": 19,
     "dur": "21 мин"
+   },
+   {
+    "vid": "POLIfTpBzic",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-17T14:37:54Z",
+    "peak": 102,
+    "has_viewers": true,
+    "title": "москваааааа",
+    "thumb": "https://i.ytimg.com/vi/POLIfTpBzic/maxresdefault.jpg?v=6afc66b7",
+    "viewers": 0,
+    "dur": "2 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 370 👁 · 4 ч 12 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 132 👁 · 3 ч 34 мин\n└ Сегодня я в роли деда мороза😁\n\n<b><a href=\"https://youtu.be/POLIfTpBzic\">Федук</a></b> · 0 👁 · 9 ч 07 мин\n└ москваааааа",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/fbG9BaQt42U\">Рифляй</a></b> · 265 👁 · 4 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/AkZ5-l-fxbk\">Рифляй</a></b> · 151 👁 · 4 ч 27 мин\n└ стрим с валентим\n\n<b><a href=\"https://youtu.be/o-xaAT-O3Sc\">Дон Грязь</a></b> · 146 👁 · 3 ч 50 мин\n└ Сегодня я в роли деда мороза😁",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
