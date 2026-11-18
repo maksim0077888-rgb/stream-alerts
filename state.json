@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "cnrA0uozbno": {
-    "vid": "cnrA0uozbno",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-18T05:22:18Z",
-    "peak": 1006,
-    "has_viewers": true,
-    "title": "GTA VI СТРИМ | PERSUS PLAY",
-    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=5e",
-    "viewers": 216
-   },
    "JX-jABreqps": {
     "vid": "JX-jABreqps",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -60,8 +49,8 @@
     "peak": 143,
     "has_viewers": true,
     "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=3b",
-    "viewers": 21
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=3f",
+    "viewers": 26
    },
    "jSKEnttVqqU": {
     "vid": "jSKEnttVqqU",
@@ -71,23 +60,11 @@
     "peak": 38,
     "has_viewers": true,
     "title": "э",
-    "thumb": "https://i.ytimg.com/vi/jSKEnttVqqU/maxresdefault.jpg?v=30",
-    "viewers": 24
+    "thumb": "https://i.ytimg.com/vi/jSKEnttVqqU/maxresdefault.jpg?v=33",
+    "viewers": 37
    }
   },
   "ended": [
-   {
-    "vid": "CflxYWZUe30",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-17T14:04:05Z",
-    "peak": 184,
-    "has_viewers": true,
-    "title": "вот такая хуйня собачка",
-    "thumb": "https://i.ytimg.com/vi/CflxYWZUe30/maxresdefault.jpg?v=9",
-    "viewers": 184,
-    "dur": "56 мин"
-   },
    {
     "vid": "MQf5MX9Szsc",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/BpT-xGhksKo/maxresdefault.jpg?v=4",
     "viewers": 118,
     "dur": "32 мин"
+   },
+   {
+    "vid": "cnrA0uozbno",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-18T05:22:18Z",
+    "peak": 1006,
+    "has_viewers": true,
+    "title": "GTA VI СТРИМ | PERSUS PLAY",
+    "thumb": "https://i.ytimg.com/vi/cnrA0uozbno/maxresdefault.jpg?v=5e",
+    "viewers": 216,
+    "dur": "8 ч 50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/cnrA0uozbno\">Ахиллес</a></b> · 216 👁 · 8 ч 38 мин\n└ GTA VI СТРИМ | PERSUS PLAY\n\n<b><a href=\"https://youtu.be/jSKEnttVqqU\">Школа Сук</a></b> · 24 👁 · 3 ч 41 мин\n└ э\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 21 👁 · 4 ч 40 мин\n└ Это я рыба ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/jSKEnttVqqU\">Школа Сук</a></b> · 37 👁 · 3 ч 56 мин\n└ э\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 26 👁 · 4 ч 55 мин\n└ Это я рыба ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
