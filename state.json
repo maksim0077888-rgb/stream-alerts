@@ -40,32 +40,8 @@
  "day": "2026-11-19",
  "board": {
   "msg": 132,
-  "streams": {
-   "JX-jABreqps": {
-    "vid": "JX-jABreqps",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-18T09:20:18Z",
-    "peak": 355,
-    "has_viewers": true,
-    "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=c3",
-    "viewers": 158
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "POLIfTpBzic",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-17T14:37:54Z",
-    "peak": 102,
-    "has_viewers": true,
-    "title": "москваааааа",
-    "thumb": "https://i.ytimg.com/vi/POLIfTpBzic/maxresdefault.jpg?v=6afc66b7",
-    "viewers": 0,
-    "dur": "2 ч 35 мин"
-   },
    {
     "vid": "fbG9BaQt42U",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/lEot8WGQq0E/maxresdefault.jpg?v=16",
     "viewers": 13,
     "dur": "1 ч 55 мин"
+   },
+   {
+    "vid": "JX-jABreqps",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-18T09:20:18Z",
+    "peak": 355,
+    "has_viewers": true,
+    "title": "Это я рыба ",
+    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=c3",
+    "viewers": 158,
+    "dur": "15 ч 55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/JX-jABreqps\">Дон Грязь</a></b> · 158 👁 · 15 ч 55 мин\n└ Это я рыба ",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
