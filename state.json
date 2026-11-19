@@ -46,11 +46,11 @@
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-19T10:48:00Z",
-    "peak": 686,
+    "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=42",
-    "viewers": 682
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=45",
+    "viewers": 699
    },
    "fIOXONQvmwI": {
     "vid": "fIOXONQvmwI",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "ПОЛУСТРИМ ",
     "thumb": "https://i.ytimg.com/vi/fIOXONQvmwI/maxresdefault.jpg?v=e",
-    "viewers": 2
+    "viewers": 1
    },
    "DOhuufgA2uM": {
     "vid": "DOhuufgA2uM",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-19T15:59:41Z",
-    "peak": 2543,
+    "peak": 2860,
     "has_viewers": true,
     "title": "Стрем для галочки",
-    "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg?v=3",
-    "viewers": 2543
+    "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg?v=6",
+    "viewers": 2860
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DOhuufgA2uM\">ПАПИЧ</a></b> · 2543 👁 · 15 мин\n└ Стрем для галочки\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 682 👁 · 5 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/fIOXONQvmwI\">Ахиллес</a></b> · 2 👁 · 2 ч 04 мин\n└ ПОЛУСТРИМ ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DOhuufgA2uM\">ПАПИЧ</a></b> · 2860 👁 · 31 мин\n└ Стрем для галочки\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 699 👁 · 5 ч 42 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/fIOXONQvmwI\">Ахиллес</a></b> · 1 👁 · 2 ч 19 мин\n└ ПОЛУСТРИМ ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
