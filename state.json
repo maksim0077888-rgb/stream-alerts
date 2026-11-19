@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "bhvbAyyMSfU": {
-    "vid": "bhvbAyyMSfU",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-19T04:38:09Z",
-    "peak": 301,
-    "has_viewers": true,
-    "title": "Прохожу первую Мафию, потом пойду играть в ГТА 6",
-    "thumb": "https://i.ytimg.com/vi/bhvbAyyMSfU/maxresdefault.jpg?v=4a",
-    "viewers": 266
-   },
    "nCoKP1rEMnQ": {
     "vid": "nCoKP1rEMnQ",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -62,21 +51,31 @@
     "title": "капрал",
     "thumb": "https://i.ytimg.com/vi/nCoKP1rEMnQ/maxresdefault.jpg?v=6afea1bc",
     "viewers": 0
+   },
+   "hhrCkDvRxLs": {
+    "vid": "hhrCkDvRxLs",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-19T10:48:00Z",
+    "peak": 115,
+    "has_viewers": true,
+    "title": "Жду друзей, будут вечером",
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=2",
+    "viewers": 115
+   },
+   "CoVWzkW0e58": {
+    "vid": "CoVWzkW0e58",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-19T10:52:35Z",
+    "peak": 21,
+    "has_viewers": true,
+    "title": "здравствуйте",
+    "thumb": "https://i.ytimg.com/vi/CoVWzkW0e58/maxresdefault.jpg",
+    "viewers": 21
    }
   },
   "ended": [
-   {
-    "vid": "qh2EfrKcX78",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-18T07:59:14Z",
-    "peak": 42,
-    "has_viewers": true,
-    "title": "Скумбрия Live",
-    "thumb": "https://i.ytimg.com/vi/qh2EfrKcX78/maxresdefault.jpg",
-    "viewers": 42,
-    "dur": "9 мин"
-   },
    {
     "vid": "BpT-xGhksKo",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -244,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/YA0MWK3vNVw/maxresdefault.jpg?v=6afea886",
     "viewers": 102,
     "dur": "1 ч 58 мин"
+   },
+   {
+    "vid": "bhvbAyyMSfU",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-19T04:38:09Z",
+    "peak": 301,
+    "has_viewers": true,
+    "title": "Прохожу первую Мафию, потом пойду играть в ГТА 6",
+    "thumb": "https://i.ytimg.com/vi/bhvbAyyMSfU/maxresdefault.jpg?v=4a",
+    "viewers": 266,
+    "dur": "6 ч 07 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/bhvbAyyMSfU\">Дон Грязь</a></b> · 266 👁 · 6 ч 07 мин\n└ Прохожу первую Мафию, потом пойду играть в ГТА 6\n\n<b><a href=\"https://youtu.be/nCoKP1rEMnQ\">Федук</a></b> · 0 👁 · 3 ч 31 мин\n└ капрал",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 115 👁 · 12 мин\n└ Жду друзей, будут вечером\n\n<b><a href=\"https://youtu.be/CoVWzkW0e58\">Ахиллес</a></b> · 21 👁 · 8 мин\n└ здравствуйте\n\n<b><a href=\"https://youtu.be/nCoKP1rEMnQ\">Федук</a></b> · 0 👁 · 3 ч 46 мин\n└ капрал",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
