@@ -49,19 +49,8 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=4e",
-    "viewers": 616
-   },
-   "fIOXONQvmwI": {
-    "vid": "fIOXONQvmwI",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-19T14:11:00Z",
-    "peak": 66,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/fIOXONQvmwI/maxresdefault.jpg?v=e",
-    "viewers": 1
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=51",
+    "viewers": 646
    },
    "DOhuufgA2uM": {
     "vid": "DOhuufgA2uM",
@@ -71,23 +60,11 @@
     "peak": 2905,
     "has_viewers": true,
     "title": "Стрем для галочки",
-    "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg?v=f",
-    "viewers": 2861
+    "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg?v=12",
+    "viewers": 2661
    }
   },
   "ended": [
-   {
-    "vid": "jSKEnttVqqU",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-18T10:19:05Z",
-    "peak": 38,
-    "has_viewers": true,
-    "title": "э",
-    "thumb": "https://i.ytimg.com/vi/jSKEnttVqqU/maxresdefault.jpg?v=36",
-    "viewers": 38,
-    "dur": "4 ч 26 мин"
-   },
    {
     "vid": "DDytsloLTvw",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/nCoKP1rEMnQ/maxresdefault.jpg?v=6afea1bc",
     "viewers": 0,
     "dur": "11 мин"
+   },
+   {
+    "vid": "fIOXONQvmwI",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-19T14:11:00Z",
+    "peak": 66,
+    "has_viewers": true,
+    "title": "ПОЛУСТРИМ ",
+    "thumb": "https://i.ytimg.com/vi/fIOXONQvmwI/maxresdefault.jpg?v=e",
+    "viewers": 1,
+    "dur": "3 ч 19 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DOhuufgA2uM\">ПАПИЧ</a></b> · 2861 👁 · 1 ч 15 мин\n└ Стрем для галочки\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 616 👁 · 6 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/fIOXONQvmwI\">Ахиллес</a></b> · 1 👁 · 3 ч 04 мин\n└ ПОЛУСТРИМ ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/DOhuufgA2uM\">ПАПИЧ</a></b> · 2661 👁 · 1 ч 30 мин\n└ Стрем для галочки\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 646 👁 · 6 ч 42 мин\n└ Дмитрий Горликов у меня в студии",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
