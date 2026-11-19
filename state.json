@@ -49,45 +49,22 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=7c",
-    "viewers": 236
-   },
-   "ZS_Ttgv1_zE": {
-    "vid": "ZS_Ttgv1_zE",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-19T17:34:29Z",
-    "peak": 96,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/ZS_Ttgv1_zE/maxresdefault.jpg?v=28",
-    "viewers": 38
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=7f",
+    "viewers": 224
    },
    "Tkg02tbz9wk": {
     "vid": "Tkg02tbz9wk",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-11-19T20:40:58Z",
-    "peak": 152,
+    "peak": 180,
     "has_viewers": true,
     "title": "Грустно....",
-    "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=4",
-    "viewers": 152
+    "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=7",
+    "viewers": 180
    }
   },
   "ended": [
-   {
-    "vid": "IjFDDCKQMUE",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-18T14:31:41Z",
-    "peak": 3069,
-    "has_viewers": true,
-    "title": "Микро-затык",
-    "thumb": "https://i.ytimg.com/vi/IjFDDCKQMUE/maxresdefault.jpg?v=1a",
-    "viewers": 2642,
-    "dur": "2 ч 26 мин"
-   },
    {
     "vid": "v18-9IA2f5Q",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg?v=18",
     "viewers": 2597,
     "dur": "2 ч 05 мин"
+   },
+   {
+    "vid": "ZS_Ttgv1_zE",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-19T17:34:29Z",
+    "peak": 96,
+    "has_viewers": true,
+    "title": "ПОЛУСТРИМ ",
+    "thumb": "https://i.ytimg.com/vi/ZS_Ttgv1_zE/maxresdefault.jpg?v=28",
+    "viewers": 38,
+    "dur": "3 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 236 👁 · 10 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/Tkg02tbz9wk\">Герман Ягодка</a></b> · 152 👁 · 19 мин\n└ Грустно....\n\n<b><a href=\"https://youtu.be/ZS_Ttgv1_zE\">Ахиллес</a></b> · 38 👁 · 3 ч 26 мин\n└ ПОЛУСТРИМ ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 224 👁 · 10 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/Tkg02tbz9wk\">Герман Ягодка</a></b> · 180 👁 · 34 мин\n└ Грустно....",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
