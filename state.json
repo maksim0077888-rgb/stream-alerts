@@ -49,8 +49,8 @@
     "peak": 686,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=3f",
-    "viewers": 686
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=42",
+    "viewers": 682
    },
    "fIOXONQvmwI": {
     "vid": "fIOXONQvmwI",
@@ -68,11 +68,11 @@
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-19T15:59:41Z",
-    "peak": 1209,
+    "peak": 2543,
     "has_viewers": true,
     "title": "Стрем для галочки",
-    "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg",
-    "viewers": 1209
+    "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg?v=3",
+    "viewers": 2543
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DOhuufgA2uM\">ПАПИЧ</a></b> · 1209 👁 · 1 мин\n└ Стрем для галочки\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 686 👁 · 5 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/fIOXONQvmwI\">Ахиллес</a></b> · 2 👁 · 1 ч 49 мин\n└ ПОЛУСТРИМ ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/DOhuufgA2uM\">ПАПИЧ</a></b> · 2543 👁 · 15 мин\n└ Стрем для галочки\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 682 👁 · 5 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/fIOXONQvmwI\">Ахиллес</a></b> · 2 👁 · 2 ч 04 мин\n└ ПОЛУСТРИМ ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
