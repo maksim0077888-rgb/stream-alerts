@@ -49,8 +49,8 @@
     "peak": 151,
     "has_viewers": true,
     "title": "Прохожу первую Мафию, потом пойду играть в ГТА 6",
-    "thumb": "https://i.ytimg.com/vi/bhvbAyyMSfU/maxresdefault.jpg?v=20",
-    "viewers": 151
+    "thumb": "https://i.ytimg.com/vi/bhvbAyyMSfU/maxresdefault.jpg?v=23",
+    "viewers": 148
    },
    "nCoKP1rEMnQ": {
     "vid": "nCoKP1rEMnQ",
@@ -61,7 +61,18 @@
     "has_viewers": true,
     "title": "капрал",
     "thumb": "https://i.ytimg.com/vi/nCoKP1rEMnQ/maxresdefault.jpg?v=6afea1bc",
-    "viewers": 8
+    "viewers": 3
+   },
+   "fMfLbBF8r8w": {
+    "vid": "fMfLbBF8r8w",
+    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
+    "name": "Don Simon",
+    "start": "2026-11-19T07:19:49Z",
+    "peak": 55,
+    "has_viewers": true,
+    "title": "= Дон Симон - Книга \"ПУТЬ\"=",
+    "thumb": "https://i.ytimg.com/vi/fMfLbBF8r8w/maxresdefault.jpg?v=6afea30d",
+    "viewers": 55
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "2 ч 07 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/bhvbAyyMSfU\">Дон Грязь</a></b> · 151 👁 · 2 ч 37 мин\n└ Прохожу первую Мафию, потом пойду играть в ГТА 6\n\n<b><a href=\"https://youtu.be/nCoKP1rEMnQ\">Федук</a></b> · 8 👁 · 1 мин\n└ капрал",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/bhvbAyyMSfU\">Дон Грязь</a></b> · 148 👁 · 2 ч 52 мин\n└ Прохожу первую Мафию, потом пойду играть в ГТА 6\n\n<b><a href=\"https://youtu.be/fMfLbBF8r8w\">Don Simon</a></b> · 55 👁 · 10 мин\n└ = Дон Симон - Книга &quot;ПУТЬ&quot;=\n\n<b><a href=\"https://youtu.be/nCoKP1rEMnQ\">Федук</a></b> · 3 👁 · 16 мин\n└ капрал",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
