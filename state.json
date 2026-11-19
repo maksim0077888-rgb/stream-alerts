@@ -41,31 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "sJBQn6yHd4U": {
-    "vid": "sJBQn6yHd4U",
+   "bhvbAyyMSfU": {
+    "vid": "bhvbAyyMSfU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
-    "start": "2026-11-19T02:37:40Z",
-    "peak": 139,
+    "start": "2026-11-19T04:38:09Z",
+    "peak": 43,
     "has_viewers": true,
-    "title": "Прохожу первую Мафию, потом пойду ГТА 6 проходить😁",
-    "thumb": "https://i.ytimg.com/vi/sJBQn6yHd4U/maxresdefault.jpg?v=17",
-    "viewers": 139
+    "title": "Прохожу первую Мафию, потом пойду играть в ГТА 6",
+    "thumb": "https://i.ytimg.com/vi/bhvbAyyMSfU/maxresdefault.jpg?v=2",
+    "viewers": 43
    }
   },
   "ended": [
-   {
-    "vid": "fbG9BaQt42U",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-17T23:55:58Z",
-    "peak": 557,
-    "has_viewers": true,
-    "title": "стрим с валентим",
-    "thumb": "https://i.ytimg.com/vi/fbG9BaQt42U/maxresdefault.jpg?v=6afce985",
-    "viewers": 351,
-    "dur": "4 ч 26 мин"
-   },
    {
     "vid": "AkZ5-l-fxbk",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=c3",
     "viewers": 158,
     "dur": "15 ч 55 мин"
+   },
+   {
+    "vid": "sJBQn6yHd4U",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-19T02:37:40Z",
+    "peak": 139,
+    "has_viewers": true,
+    "title": "Прохожу первую Мафию, потом пойду ГТА 6 проходить😁",
+    "thumb": "https://i.ytimg.com/vi/sJBQn6yHd4U/maxresdefault.jpg?v=17",
+    "viewers": 139,
+    "dur": "2 ч 07 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/sJBQn6yHd4U\">Дон Грязь</a></b> · 139 👁 · 1 ч 52 мин\n└ Прохожу первую Мафию, потом пойду ГТА 6 проходить😁",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/bhvbAyyMSfU\">Дон Грязь</a></b> · 43 👁 · 7 мин\n└ Прохожу первую Мафию, потом пойду играть в ГТА 6",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
