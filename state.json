@@ -46,22 +46,22 @@
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-19T10:48:00Z",
-    "peak": 362,
+    "peak": 374,
     "has_viewers": true,
     "title": "Жду друзей, будут вечером",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=2a",
-    "viewers": 362
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=2d",
+    "viewers": 374
    },
    "fIOXONQvmwI": {
     "vid": "fIOXONQvmwI",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-19T14:11:00Z",
-    "peak": 23,
+    "peak": 66,
     "has_viewers": true,
     "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/fIOXONQvmwI/maxresdefault.jpg?v=1",
-    "viewers": 23
+    "thumb": "https://i.ytimg.com/vi/fIOXONQvmwI/maxresdefault.jpg?v=4",
+    "viewers": 66
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "11 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 362 👁 · 3 ч 27 мин\n└ Жду друзей, будут вечером\n\n<b><a href=\"https://youtu.be/fIOXONQvmwI\">Ахиллес</a></b> · 23 👁 · 4 мин\n└ ПОЛУСТРИМ ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 374 👁 · 3 ч 42 мин\n└ Жду друзей, будут вечером\n\n<b><a href=\"https://youtu.be/fIOXONQvmwI\">Ахиллес</a></b> · 66 👁 · 19 мин\n└ ПОЛУСТРИМ ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
