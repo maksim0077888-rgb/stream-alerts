@@ -41,42 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "kWKmrN6AdOg": {
-    "vid": "kWKmrN6AdOg",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-20T13:40:43Z",
-    "peak": 1097,
-    "has_viewers": true,
-    "title": "Вискас, Гетыч, Димко, Персик и Маэстро у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/kWKmrN6AdOg/maxresdefault.jpg?v=41",
-    "viewers": 256
-   },
    "H9c0BIZ8ZMo": {
     "vid": "H9c0BIZ8ZMo",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-20T17:37:50Z",
-    "peak": 90,
+    "peak": 101,
     "has_viewers": true,
     "title": "ПОЛУСТРИМ",
-    "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=f",
-    "viewers": 55
+    "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=12",
+    "viewers": 101
    }
   },
   "ended": [
-   {
-    "vid": "DOhuufgA2uM",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-19T15:59:41Z",
-    "peak": 2905,
-    "has_viewers": true,
-    "title": "Стрем для галочки",
-    "thumb": "https://i.ytimg.com/vi/DOhuufgA2uM/maxresdefault.jpg?v=18",
-    "viewers": 2597,
-    "dur": "2 ч 05 мин"
-   },
    {
     "vid": "ZS_Ttgv1_zE",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/ZBQtjmy9oDE/maxresdefault.jpg?v=1",
     "viewers": 467,
     "dur": "9 мин"
+   },
+   {
+    "vid": "kWKmrN6AdOg",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-20T13:40:43Z",
+    "peak": 1097,
+    "has_viewers": true,
+    "title": "Вискас, Гетыч, Димко, Персик и Маэстро у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/kWKmrN6AdOg/maxresdefault.jpg?v=41",
+    "viewers": 256,
+    "dur": "5 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/kWKmrN6AdOg\">Дон Грязь</a></b> · 256 👁 · 5 ч 20 мин\n└ Вискас, Гетыч, Димко, Персик и Маэстро у меня в с…\n\n<b><a href=\"https://youtu.be/H9c0BIZ8ZMo\">Ахиллес</a></b> · 55 👁 · 1 ч 22 мин\n└ ПОЛУСТРИМ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/H9c0BIZ8ZMo\">Ахиллес</a></b> · 101 👁 · 1 ч 37 мин\n└ ПОЛУСТРИМ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
