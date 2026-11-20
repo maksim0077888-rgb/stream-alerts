@@ -50,44 +50,21 @@
     "has_viewers": true,
     "title": "ПОЛУСТРИМ",
     "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=18",
-    "viewers": 0
+    "viewers": 3
    },
    "9gkP4CVtblM": {
     "vid": "9gkP4CVtblM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-20T19:16:37Z",
-    "peak": 109,
+    "peak": 135,
     "has_viewers": true,
     "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=15",
-    "viewers": 109
-   },
-   "LFFkrrflS-E": {
-    "vid": "LFFkrrflS-E",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T19:35:54Z",
-    "peak": 590,
-    "has_viewers": true,
-    "title": "на час",
-    "thumb": "https://i.ytimg.com/vi/LFFkrrflS-E/maxresdefault.jpg?v=11",
-    "viewers": 562
+    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=18",
+    "viewers": 135
    }
   },
   "ended": [
-   {
-    "vid": "ZS_Ttgv1_zE",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-19T17:34:29Z",
-    "peak": 96,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/ZS_Ttgv1_zE/maxresdefault.jpg?v=28",
-    "viewers": 38,
-    "dur": "3 ч 35 мин"
-   },
    {
     "vid": "k2slnGxRvNc",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/kWKmrN6AdOg/maxresdefault.jpg?v=41",
     "viewers": 256,
     "dur": "5 ч 29 мин"
+   },
+   {
+    "vid": "LFFkrrflS-E",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-20T19:35:54Z",
+    "peak": 590,
+    "has_viewers": true,
+    "title": "на час",
+    "thumb": "https://i.ytimg.com/vi/LFFkrrflS-E/maxresdefault.jpg?v=11",
+    "viewers": 562,
+    "dur": "1 ч 28 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/LFFkrrflS-E\">Герман Ягодка</a></b> · 562 👁 · 1 ч 24 мин\n└ на час\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 109 👁 · 1 ч 44 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/H9c0BIZ8ZMo\">Ахиллес</a></b> · 0 👁 · 3 ч 22 мин\n└ ПОЛУСТРИМ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 135 👁 · 1 ч 58 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/H9c0BIZ8ZMo\">Ахиллес</a></b> · 3 👁 · 3 ч 37 мин\n└ ПОЛУСТРИМ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
