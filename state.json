@@ -41,42 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "H9c0BIZ8ZMo": {
-    "vid": "H9c0BIZ8ZMo",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-20T17:37:50Z",
-    "peak": 123,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ",
-    "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=18",
-    "viewers": 2
-   },
    "9gkP4CVtblM": {
     "vid": "9gkP4CVtblM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-20T19:16:37Z",
-    "peak": 135,
+    "peak": 153,
     "has_viewers": true,
     "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=1b",
-    "viewers": 135
+    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=1e",
+    "viewers": 153
    }
   },
   "ended": [
-   {
-    "vid": "k2slnGxRvNc",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T00:04:58Z",
-    "peak": 327,
-    "has_viewers": true,
-    "title": "новое",
-    "thumb": "https://i.ytimg.com/vi/k2slnGxRvNc/maxresdefault.jpg?v=8",
-    "viewers": 327,
-    "dur": "42 мин"
-   },
    {
     "vid": "Do0QnCYaR-o",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/LFFkrrflS-E/maxresdefault.jpg?v=11",
     "viewers": 562,
     "dur": "1 ч 28 мин"
+   },
+   {
+    "vid": "H9c0BIZ8ZMo",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-20T17:37:50Z",
+    "peak": 123,
+    "has_viewers": true,
+    "title": "ПОЛУСТРИМ",
+    "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=18",
+    "viewers": 2,
+    "dur": "3 ч 53 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 135 👁 · 2 ч 13 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/H9c0BIZ8ZMo\">Ахиллес</a></b> · 2 👁 · 3 ч 52 мин\n└ ПОЛУСТРИМ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 153 👁 · 2 ч 28 мин\n└ Играю в Мафию",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
