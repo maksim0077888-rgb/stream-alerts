@@ -49,57 +49,22 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=127",
-    "viewers": 312
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=12a",
+    "viewers": 438
    },
-   "RaI3oqh3494": {
-    "vid": "RaI3oqh3494",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-20T07:19:59Z",
-    "peak": 29,
-    "has_viewers": true,
-    "title": "бывало и лучше",
-    "thumb": "https://i.ytimg.com/vi/RaI3oqh3494/maxresdefault.jpg?v=4",
-    "viewers": 1
-   },
-   "HN8idc2LGNA": {
-    "vid": "HN8idc2LGNA",
+   "G2AQd8Ad64w": {
+    "vid": "G2AQd8Ad64w",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
-    "start": "2026-11-20T09:31:36Z",
-    "peak": 605,
+    "start": "2026-11-20T11:12:28Z",
+    "peak": 77,
     "has_viewers": true,
-    "title": "Картошкс",
-    "thumb": "https://i.ytimg.com/vi/HN8idc2LGNA/maxresdefault.jpg?v=12",
-    "viewers": 605
+    "title": "нормис",
+    "thumb": "https://i.ytimg.com/vi/G2AQd8Ad64w/maxresdefault.jpg?v=1",
+    "viewers": 77
    }
   },
   "ended": [
-   {
-    "vid": "sJBQn6yHd4U",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-19T02:37:40Z",
-    "peak": 139,
-    "has_viewers": true,
-    "title": "Прохожу первую Мафию, потом пойду ГТА 6 проходить😁",
-    "thumb": "https://i.ytimg.com/vi/sJBQn6yHd4U/maxresdefault.jpg?v=17",
-    "viewers": 139,
-    "dur": "2 ч 07 мин"
-   },
-   {
-    "vid": "fMfLbBF8r8w",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-11-19T07:19:49Z",
-    "peak": 55,
-    "has_viewers": true,
-    "title": "= Дон Симон - Книга \"ПУТЬ\"=",
-    "thumb": "https://i.ytimg.com/vi/fMfLbBF8r8w/maxresdefault.jpg?v=6afea30d",
-    "viewers": 55,
-    "dur": "22 мин"
-   },
    {
     "vid": "YA0MWK3vNVw",
     "cid": "UCZF2JeZLsEv0cOASy2bC51g",
@@ -255,9 +220,33 @@
     "thumb": "https://i.ytimg.com/vi/MMst03PZjxs/maxresdefault.jpg?v=8",
     "viewers": 312,
     "dur": "50 мин"
+   },
+   {
+    "vid": "RaI3oqh3494",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-20T07:19:59Z",
+    "peak": 29,
+    "has_viewers": true,
+    "title": "бывало и лучше",
+    "thumb": "https://i.ytimg.com/vi/RaI3oqh3494/maxresdefault.jpg?v=4",
+    "viewers": 1,
+    "dur": "3 ч 53 мин"
+   },
+   {
+    "vid": "HN8idc2LGNA",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-20T09:31:36Z",
+    "peak": 605,
+    "has_viewers": true,
+    "title": "Картошкс",
+    "thumb": "https://i.ytimg.com/vi/HN8idc2LGNA/maxresdefault.jpg?v=12",
+    "viewers": 605,
+    "dur": "1 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/HN8idc2LGNA\">Герман Ягодка</a></b> · 605 👁 · 1 ч 29 мин\n└ Картошкс\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 312 👁 · 24 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/RaI3oqh3494\">Ахиллес</a></b> · 1 👁 · 3 ч 40 мин\n└ бывало и лучше",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 438 👁 · 24 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/G2AQd8Ad64w\">Герман Ягодка</a></b> · 77 👁 · 3 мин\n└ нормис",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
