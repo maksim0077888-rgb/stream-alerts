@@ -41,31 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "ZBQtjmy9oDE": {
-    "vid": "ZBQtjmy9oDE",
+   "kWKmrN6AdOg": {
+    "vid": "kWKmrN6AdOg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
-    "start": "2026-11-20T13:25:03Z",
-    "peak": 467,
+    "start": "2026-11-20T13:40:43Z",
+    "peak": 382,
     "has_viewers": true,
-    "title": "Вискас, Гетыч, Димко, Маэстро и Персик у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/ZBQtjmy9oDE/maxresdefault.jpg?v=1",
-    "viewers": 467
+    "title": "Вискас, Гетыч, Димко, Персик и Маэстро у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/kWKmrN6AdOg/maxresdefault.jpg?v=1",
+    "viewers": 382
    }
   },
   "ended": [
-   {
-    "vid": "fIOXONQvmwI",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-19T14:11:00Z",
-    "peak": 66,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/fIOXONQvmwI/maxresdefault.jpg?v=e",
-    "viewers": 1,
-    "dur": "3 ч 19 мин"
-   },
    {
     "vid": "DOhuufgA2uM",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/LEoHF4DH5V0/maxresdefault.jpg?v=8",
     "viewers": 868,
     "dur": "37 мин"
+   },
+   {
+    "vid": "ZBQtjmy9oDE",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-20T13:25:03Z",
+    "peak": 467,
+    "has_viewers": true,
+    "title": "Вискас, Гетыч, Димко, Маэстро и Персик у меня в студии",
+    "thumb": "https://i.ytimg.com/vi/ZBQtjmy9oDE/maxresdefault.jpg?v=1",
+    "viewers": 467,
+    "dur": "9 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/ZBQtjmy9oDE\">Дон Грязь</a></b> · 467 👁 · 5 мин\n└ Вискас, Гетыч, Димко, Маэстро и Персик у меня в с…",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/kWKmrN6AdOg\">Дон Грязь</a></b> · 382 👁 · 4 мин\n└ Вискас, Гетыч, Димко, Персик и Маэстро у меня в с…",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
