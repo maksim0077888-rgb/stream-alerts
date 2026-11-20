@@ -49,8 +49,8 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=a0",
-    "viewers": 69
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=a3",
+    "viewers": 74
    },
    "Tkg02tbz9wk": {
     "vid": "Tkg02tbz9wk",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Грустно....",
     "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=22",
-    "viewers": 51
+    "viewers": 33
    },
    "4P7NaCBpBME": {
     "vid": "4P7NaCBpBME",
@@ -71,8 +71,19 @@
     "peak": 77,
     "has_viewers": true,
     "title": "знакомство",
-    "thumb": "https://i.ytimg.com/vi/4P7NaCBpBME/maxresdefault.jpg",
-    "viewers": 77
+    "thumb": "https://i.ytimg.com/vi/4P7NaCBpBME/maxresdefault.jpg?v=1",
+    "viewers": 1
+   },
+   "k2slnGxRvNc": {
+    "vid": "k2slnGxRvNc",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-20T00:04:58Z",
+    "peak": 180,
+    "has_viewers": true,
+    "title": "новое",
+    "thumb": "https://i.ytimg.com/vi/k2slnGxRvNc/maxresdefault.jpg?v=2",
+    "viewers": 180
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "3 ч 35 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 77 👁 · 1 мин\n└ знакомство\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 69 👁 · 13 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/Tkg02tbz9wk\">Герман Ягодка</a></b> · 51 👁 · 3 ч 19 мин\n└ Грустно....",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/k2slnGxRvNc\">Герман Ягодка</a></b> · 180 👁 · 10 мин\n└ новое\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 74 👁 · 13 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/Tkg02tbz9wk\">Герман Ягодка</a></b> · 33 👁 · 3 ч 34 мин\n└ Грустно....\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 1 👁 · 16 мин\n└ знакомство",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
