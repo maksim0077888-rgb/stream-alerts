@@ -50,29 +50,29 @@
     "has_viewers": true,
     "title": "ПОЛУСТРИМ",
     "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=18",
-    "viewers": 77
+    "viewers": 0
    },
    "9gkP4CVtblM": {
     "vid": "9gkP4CVtblM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-20T19:16:37Z",
-    "peak": 64,
+    "peak": 72,
     "has_viewers": true,
     "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=6",
-    "viewers": 64
+    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=9",
+    "viewers": 72
    },
    "LFFkrrflS-E": {
     "vid": "LFFkrrflS-E",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-11-20T19:35:54Z",
-    "peak": 146,
+    "peak": 323,
     "has_viewers": true,
     "title": "на час",
-    "thumb": "https://i.ytimg.com/vi/LFFkrrflS-E/maxresdefault.jpg?v=2",
-    "viewers": 146
+    "thumb": "https://i.ytimg.com/vi/LFFkrrflS-E/maxresdefault.jpg?v=5",
+    "viewers": 323
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "5 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/LFFkrrflS-E\">Герман Ягодка</a></b> · 146 👁 · 9 мин\n└ на час\n\n<b><a href=\"https://youtu.be/H9c0BIZ8ZMo\">Ахиллес</a></b> · 77 👁 · 2 ч 07 мин\n└ ПОЛУСТРИМ\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 64 👁 · 28 мин\n└ Играю в Мафию",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/LFFkrrflS-E\">Герман Ягодка</a></b> · 323 👁 · 24 мин\n└ на час\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 72 👁 · 44 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/H9c0BIZ8ZMo\">Ахиллес</a></b> · 0 👁 · 2 ч 22 мин\n└ ПОЛУСТРИМ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
