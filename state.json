@@ -49,30 +49,8 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=fe",
-    "viewers": 123
-   },
-   "4P7NaCBpBME": {
-    "vid": "4P7NaCBpBME",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-19T23:58:53Z",
-    "peak": 77,
-    "has_viewers": true,
-    "title": "знакомство",
-    "thumb": "https://i.ytimg.com/vi/4P7NaCBpBME/maxresdefault.jpg?v=1",
-    "viewers": 0
-   },
-   "MMst03PZjxs": {
-    "vid": "MMst03PZjxs",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T07:05:22Z",
-    "peak": 312,
-    "has_viewers": true,
-    "title": "бульба",
-    "thumb": "https://i.ytimg.com/vi/MMst03PZjxs/maxresdefault.jpg?v=8",
-    "viewers": 312
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=101",
+    "viewers": 138
    },
    "RaI3oqh3494": {
     "vid": "RaI3oqh3494",
@@ -83,34 +61,10 @@
     "has_viewers": true,
     "title": "бывало и лучше",
     "thumb": "https://i.ytimg.com/vi/RaI3oqh3494/maxresdefault.jpg?v=4",
-    "viewers": 7
+    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "lEot8WGQq0E",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-18T20:55:54Z",
-    "peak": 51,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/lEot8WGQq0E/maxresdefault.jpg?v=16",
-    "viewers": 13,
-    "dur": "1 ч 55 мин"
-   },
-   {
-    "vid": "JX-jABreqps",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-18T09:20:18Z",
-    "peak": 355,
-    "has_viewers": true,
-    "title": "Это я рыба ",
-    "thumb": "https://i.ytimg.com/vi/JX-jABreqps/maxresdefault.jpg?v=c3",
-    "viewers": 158,
-    "dur": "15 ч 55 мин"
-   },
    {
     "vid": "sJBQn6yHd4U",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -266,9 +220,33 @@
     "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=22",
     "viewers": 6,
     "dur": "2 ч 49 мин"
+   },
+   {
+    "vid": "4P7NaCBpBME",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-19T23:58:53Z",
+    "peak": 77,
+    "has_viewers": true,
+    "title": "знакомство",
+    "thumb": "https://i.ytimg.com/vi/4P7NaCBpBME/maxresdefault.jpg?v=1",
+    "viewers": 0,
+    "dur": "4 мин"
+   },
+   {
+    "vid": "MMst03PZjxs",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-20T07:05:22Z",
+    "peak": 312,
+    "has_viewers": true,
+    "title": "бульба",
+    "thumb": "https://i.ytimg.com/vi/MMst03PZjxs/maxresdefault.jpg?v=8",
+    "viewers": 312,
+    "dur": "50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/MMst03PZjxs\">Герман Ягодка</a></b> · 312 👁 · 40 мин\n└ бульба\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 123 👁 · 20 ч 57 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/RaI3oqh3494\">Ахиллес</a></b> · 7 👁 · 25 мин\n└ бывало и лучше\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 0 👁 · 7 ч 46 мин\n└ знакомство",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 138 👁 · 21 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/RaI3oqh3494\">Ахиллес</a></b> · 1 👁 · 40 мин\n└ бывало и лучше",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
