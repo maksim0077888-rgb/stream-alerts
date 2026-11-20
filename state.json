@@ -49,8 +49,8 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=11b",
-    "viewers": 189
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=11e",
+    "viewers": 238
    },
    "RaI3oqh3494": {
     "vid": "RaI3oqh3494",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "бывало и лучше",
     "thumb": "https://i.ytimg.com/vi/RaI3oqh3494/maxresdefault.jpg?v=4",
-    "viewers": 2
+    "viewers": 1
    },
    "HN8idc2LGNA": {
     "vid": "HN8idc2LGNA",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-11-20T09:31:36Z",
-    "peak": 224,
+    "peak": 442,
     "has_viewers": true,
     "title": "Картошкс",
-    "thumb": "https://i.ytimg.com/vi/HN8idc2LGNA/maxresdefault.jpg?v=6",
-    "viewers": 224
+    "thumb": "https://i.ytimg.com/vi/HN8idc2LGNA/maxresdefault.jpg?v=9",
+    "viewers": 442
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "50 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/HN8idc2LGNA\">Герман Ягодка</a></b> · 224 👁 · 29 мин\n└ Картошкс\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 189 👁 · 23 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/RaI3oqh3494\">Ахиллес</a></b> · 2 👁 · 2 ч 40 мин\n└ бывало и лучше",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/HN8idc2LGNA\">Герман Ягодка</a></b> · 442 👁 · 43 мин\n└ Картошкс\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 238 👁 · 23 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/RaI3oqh3494\">Ахиллес</a></b> · 1 👁 · 2 ч 55 мин\n└ бывало и лучше",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
