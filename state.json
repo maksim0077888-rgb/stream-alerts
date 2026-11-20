@@ -49,8 +49,8 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=f8",
-    "viewers": 130
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=fb",
+    "viewers": 109
    },
    "4P7NaCBpBME": {
     "vid": "4P7NaCBpBME",
@@ -61,18 +61,29 @@
     "has_viewers": true,
     "title": "знакомство",
     "thumb": "https://i.ytimg.com/vi/4P7NaCBpBME/maxresdefault.jpg?v=1",
-    "viewers": 1
+    "viewers": 2
    },
    "MMst03PZjxs": {
     "vid": "MMst03PZjxs",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
     "name": "Герман Ягодка",
     "start": "2026-11-20T07:05:22Z",
-    "peak": 115,
+    "peak": 243,
     "has_viewers": true,
     "title": "бульба",
-    "thumb": "https://i.ytimg.com/vi/MMst03PZjxs/maxresdefault.jpg?v=2",
-    "viewers": 115
+    "thumb": "https://i.ytimg.com/vi/MMst03PZjxs/maxresdefault.jpg?v=5",
+    "viewers": 243
+   },
+   "RaI3oqh3494": {
+    "vid": "RaI3oqh3494",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-20T07:19:59Z",
+    "peak": 29,
+    "has_viewers": true,
+    "title": "бывало и лучше",
+    "thumb": "https://i.ytimg.com/vi/RaI3oqh3494/maxresdefault.jpg?v=2",
+    "viewers": 29
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "2 ч 49 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 130 👁 · 20 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/MMst03PZjxs\">Герман Ягодка</a></b> · 115 👁 · 10 мин\n└ бульба\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 1 👁 · 7 ч 16 мин\n└ знакомство",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/MMst03PZjxs\">Герман Ягодка</a></b> · 243 👁 · 25 мин\n└ бульба\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 109 👁 · 20 ч 42 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/RaI3oqh3494\">Ахиллес</a></b> · 29 👁 · 10 мин\n└ бывало и лучше\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 2 👁 · 7 ч 31 мин\n└ знакомство",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
