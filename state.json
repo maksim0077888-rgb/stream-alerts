@@ -49,19 +49,8 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=e6",
-    "viewers": 107
-   },
-   "Tkg02tbz9wk": {
-    "vid": "Tkg02tbz9wk",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-19T20:40:58Z",
-    "peak": 544,
-    "has_viewers": true,
-    "title": "Грустно....",
-    "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=22",
-    "viewers": 6
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=e8",
+    "viewers": 115
    },
    "4P7NaCBpBME": {
     "vid": "4P7NaCBpBME",
@@ -76,18 +65,6 @@
    }
   },
   "ended": [
-   {
-    "vid": "yDiew_HeRjo",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-18T19:10:03Z",
-    "peak": 3192,
-    "has_viewers": true,
-    "title": "стрим с Валентим",
-    "thumb": "https://i.ytimg.com/vi/yDiew_HeRjo/sddefault.jpg?v=6afdf801",
-    "viewers": 3051,
-    "dur": "2 ч 20 мин"
-   },
    {
     "vid": "lEot8WGQq0E",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/_DVlNPR4nVU/maxresdefault.jpg?v=11",
     "viewers": 233,
     "dur": "1 ч 33 мин"
+   },
+   {
+    "vid": "Tkg02tbz9wk",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-19T20:40:58Z",
+    "peak": 544,
+    "has_viewers": true,
+    "title": "Грустно....",
+    "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=22",
+    "viewers": 6,
+    "dur": "2 ч 49 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 107 👁 · 18 ч 57 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/Tkg02tbz9wk\">Герман Ягодка</a></b> · 6 👁 · 9 ч 04 мин\n└ Грустно....\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 1 👁 · 5 ч 46 мин\n└ знакомство",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 115 👁 · 19 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 1 👁 · 6 ч 01 мин\n└ знакомство",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
