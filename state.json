@@ -49,34 +49,22 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=12a",
-    "viewers": 438
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=12d",
+    "viewers": 426
    },
-   "G2AQd8Ad64w": {
-    "vid": "G2AQd8Ad64w",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T11:12:28Z",
-    "peak": 77,
+   "tbcJMIiGVwc": {
+    "vid": "tbcJMIiGVwc",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-20T11:20:30Z",
+    "peak": 35,
     "has_viewers": true,
-    "title": "нормис",
-    "thumb": "https://i.ytimg.com/vi/G2AQd8Ad64w/maxresdefault.jpg?v=1",
-    "viewers": 77
+    "title": "ПОЛУСТРИМ ",
+    "thumb": "https://i.ytimg.com/vi/tbcJMIiGVwc/maxresdefault.jpg?v=2",
+    "viewers": 35
    }
   },
   "ended": [
-   {
-    "vid": "YA0MWK3vNVw",
-    "cid": "UCZF2JeZLsEv0cOASy2bC51g",
-    "name": "Don Simon",
-    "start": "2026-11-19T07:43:11Z",
-    "peak": 106,
-    "has_viewers": true,
-    "title": "= Дон Симон - Книга \"ПУТЬ\"=",
-    "thumb": "https://i.ytimg.com/vi/YA0MWK3vNVw/maxresdefault.jpg?v=6afea886",
-    "viewers": 102,
-    "dur": "1 ч 58 мин"
-   },
    {
     "vid": "bhvbAyyMSfU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/HN8idc2LGNA/maxresdefault.jpg?v=12",
     "viewers": 605,
     "dur": "1 ч 33 мин"
+   },
+   {
+    "vid": "G2AQd8Ad64w",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-20T11:12:28Z",
+    "peak": 77,
+    "has_viewers": true,
+    "title": "нормис",
+    "thumb": "https://i.ytimg.com/vi/G2AQd8Ad64w/maxresdefault.jpg?v=1",
+    "viewers": 77,
+    "dur": "17 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 438 👁 · 24 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/G2AQd8Ad64w\">Герман Ягодка</a></b> · 77 👁 · 3 мин\n└ нормис",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 426 👁 · 24 ч 42 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/tbcJMIiGVwc\">Ахиллес</a></b> · 35 👁 · 10 мин\n└ ПОЛУСТРИМ ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
