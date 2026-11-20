@@ -49,8 +49,8 @@
     "peak": 699,
     "has_viewers": true,
     "title": "Дмитрий Горликов у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=d1",
-    "viewers": 88
+    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=d4",
+    "viewers": 107
    },
    "Tkg02tbz9wk": {
     "vid": "Tkg02tbz9wk",
@@ -61,7 +61,7 @@
     "has_viewers": true,
     "title": "Грустно....",
     "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=22",
-    "viewers": 21
+    "viewers": 22
    },
    "4P7NaCBpBME": {
     "vid": "4P7NaCBpBME",
@@ -73,6 +73,17 @@
     "title": "знакомство",
     "thumb": "https://i.ytimg.com/vi/4P7NaCBpBME/maxresdefault.jpg?v=1",
     "viewers": 1
+   },
+   "_DVlNPR4nVU": {
+    "vid": "_DVlNPR4nVU",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-20T04:08:47Z",
+    "peak": 45,
+    "has_viewers": true,
+    "title": "утро",
+    "thumb": "https://i.ytimg.com/vi/_DVlNPR4nVU/maxresdefault.jpg?v=2",
+    "viewers": 45
    }
   },
   "ended": [
@@ -257,7 +268,7 @@
     "dur": "38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 88 👁 · 17 ч 12 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/Tkg02tbz9wk\">Герман Ягодка</a></b> · 21 👁 · 7 ч 19 мин\n└ Грустно....\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 1 👁 · 4 ч 01 мин\n└ знакомство",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/hhrCkDvRxLs\">Дон Грязь</a></b> · 107 👁 · 17 ч 27 мин\n└ Дмитрий Горликов у меня в студии\n\n<b><a href=\"https://youtu.be/_DVlNPR4nVU\">Герман Ягодка</a></b> · 45 👁 · 6 мин\n└ утро\n\n<b><a href=\"https://youtu.be/Tkg02tbz9wk\">Герман Ягодка</a></b> · 22 👁 · 7 ч 34 мин\n└ Грустно....\n\n<b><a href=\"https://youtu.be/4P7NaCBpBME\">Герман Ягодка</a></b> · 1 👁 · 4 ч 16 мин\n└ знакомство",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
