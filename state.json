@@ -49,34 +49,11 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Смотрю сейчас обзор на новый ролик Дона Грязи, потом буду играть в Мафию 2",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=3b",
-    "viewers": 303
-   },
-   "6P4jQ4VcgXw": {
-    "vid": "6P4jQ4VcgXw",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-21T17:03:23Z",
-    "peak": 30,
-    "has_viewers": true,
-    "title": "э",
-    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=3d",
-    "viewers": 7
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=3e",
+    "viewers": 311
    }
   },
   "ended": [
-   {
-    "vid": "ZBQtjmy9oDE",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-20T13:25:03Z",
-    "peak": 467,
-    "has_viewers": true,
-    "title": "Вискас, Гетыч, Димко, Маэстро и Персик у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/ZBQtjmy9oDE/maxresdefault.jpg?v=1",
-    "viewers": 467,
-    "dur": "9 мин"
-   },
    {
     "vid": "kWKmrN6AdOg",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
     "viewers": 37,
     "dur": "3 ч 31 мин"
+   },
+   {
+    "vid": "6P4jQ4VcgXw",
+    "cid": "UCxuWNVixWyudDP0j0SChQnw",
+    "name": "Школа Сук",
+    "start": "2026-11-21T17:03:23Z",
+    "peak": 30,
+    "has_viewers": true,
+    "title": "э",
+    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=3d",
+    "viewers": 7,
+    "dur": "5 ч 12 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 303 👁 · 4 ч 57 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/6P4jQ4VcgXw\">Школа Сук</a></b> · 7 👁 · 4 ч 57 мин\n└ э",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 311 👁 · 5 ч 12 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
