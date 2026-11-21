@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
     "viewers": 0
    },
-   "RkIdm14oW6g": {
-    "vid": "RkIdm14oW6g",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-21T14:57:48Z",
-    "peak": 10651,
-    "has_viewers": true,
-    "title": "Ему нравится (пока)",
-    "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=26",
-    "viewers": 2923
-   },
    "6blZ1wT34wU": {
     "vid": "6blZ1wT34wU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -71,8 +60,8 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Смотрю сейчас обзор на новый ролик Дона Грязи, потом буду играть в Мафию 2",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=b",
-    "viewers": 461
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=e",
+    "viewers": 457
    },
    "6P4jQ4VcgXw": {
     "vid": "6P4jQ4VcgXw",
@@ -82,23 +71,11 @@
     "peak": 22,
     "has_viewers": true,
     "title": "э",
-    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=c",
-    "viewers": 22
+    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=10",
+    "viewers": 15
    }
   },
   "ended": [
-   {
-    "vid": "hhrCkDvRxLs",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-19T10:48:00Z",
-    "peak": 699,
-    "has_viewers": true,
-    "title": "Вискас, Димко, Гетыч, Персик и я Мажстро у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/hhrCkDvRxLs/maxresdefault.jpg?v=13a",
-    "viewers": 652,
-    "dur": "25 ч 50 мин"
-   },
    {
     "vid": "LEoHF4DH5V0",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -266,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/BtnEsLvU3hU/maxresdefault.jpg?v=c",
     "viewers": 233,
     "dur": "55 мин"
+   },
+   {
+    "vid": "RkIdm14oW6g",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-21T14:57:48Z",
+    "peak": 10651,
+    "has_viewers": true,
+    "title": "Ему нравится (пока)",
+    "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=26",
+    "viewers": 2923,
+    "dur": "3 ч 04 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/RkIdm14oW6g\">ПАПИЧ</a></b> · 2923 👁 · 3 ч 02 мин\n└ Ему нравится (пока)\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 461 👁 · 57 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/6P4jQ4VcgXw\">Школа Сук</a></b> · 22 👁 · 57 мин\n└ э\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 0 👁 · 6 ч 30 мин\n└ жабо",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 457 👁 · 1 ч 12 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/6P4jQ4VcgXw\">Школа Сук</a></b> · 15 👁 · 1 ч 12 мин\n└ э\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 0 👁 · 6 ч 45 мин\n└ жабо",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
