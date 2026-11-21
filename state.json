@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "жабо",
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 1
-   },
-   "BtnEsLvU3hU": {
-    "vid": "BtnEsLvU3hU",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-21T14:59:10Z",
-    "peak": 233,
-    "has_viewers": true,
-    "title": "Сейчас буду смотреть Обзор на Дона Грязь",
-    "thumb": "https://i.ytimg.com/vi/BtnEsLvU3hU/maxresdefault.jpg?v=c",
-    "viewers": 233
+    "viewers": 3
    },
    "RkIdm14oW6g": {
     "vid": "RkIdm14oW6g",
@@ -71,23 +60,11 @@
     "peak": 10651,
     "has_viewers": true,
     "title": "Ему нравится (пока)",
-    "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=8",
-    "viewers": 10651
+    "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=c",
+    "viewers": 8413
    }
   },
   "ended": [
-   {
-    "vid": "tbcJMIiGVwc",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-20T11:20:30Z",
-    "peak": 73,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ ",
-    "thumb": "https://i.ytimg.com/vi/tbcJMIiGVwc/maxresdefault.jpg?v=5",
-    "viewers": 73,
-    "dur": "29 мин"
-   },
    {
     "vid": "hhrCkDvRxLs",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/jtTZqnHKSEw/maxresdefault.jpg?v=13",
     "viewers": 337,
     "dur": "2 ч 05 мин"
+   },
+   {
+    "vid": "BtnEsLvU3hU",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-21T14:59:10Z",
+    "peak": 233,
+    "has_viewers": true,
+    "title": "Сейчас буду смотреть Обзор на Дона Грязь",
+    "thumb": "https://i.ytimg.com/vi/BtnEsLvU3hU/maxresdefault.jpg?v=c",
+    "viewers": 233,
+    "dur": "55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/RkIdm14oW6g\">ПАПИЧ</a></b> · 10651 👁 · 47 мин\n└ Ему нравится (пока)\n\n<b><a href=\"https://youtu.be/BtnEsLvU3hU\">Дон Грязь</a></b> · 233 👁 · 46 мин\n└ Сейчас буду смотреть Обзор на Дона Грязь\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 1 👁 · 4 ч 15 мин\n└ жабо",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/RkIdm14oW6g\">ПАПИЧ</a></b> · 8413 👁 · 1 ч 02 мин\n└ Ему нравится (пока)\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 3 👁 · 4 ч 30 мин\n└ жабо",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
