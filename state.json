@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "жабо",
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 30
+    "viewers": 29
    },
    "jtTZqnHKSEw": {
     "vid": "jtTZqnHKSEw",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-21T12:55:04Z",
-    "peak": 322,
+    "peak": 345,
     "has_viewers": true,
     "title": "Всем привет, это я Маэстро Рыбный суп",
-    "thumb": "https://i.ytimg.com/vi/jtTZqnHKSEw/maxresdefault.jpg?v=c",
-    "viewers": 322
+    "thumb": "https://i.ytimg.com/vi/jtTZqnHKSEw/maxresdefault.jpg?v=e",
+    "viewers": 345
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "2 ч 26 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/jtTZqnHKSEw\">Дон Грязь</a></b> · 322 👁 · 1 ч 05 мин\n└ Всем привет, это я Маэстро Рыбный суп\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 30 👁 · 2 ч 30 мин\n└ жабо",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/jtTZqnHKSEw\">Дон Грязь</a></b> · 345 👁 · 1 ч 20 мин\n└ Всем привет, это я Маэстро Рыбный суп\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 29 👁 · 2 ч 45 мин\n└ жабо",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
