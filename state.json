@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "Играю в Мафию",
     "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=bf",
-    "viewers": 17
+    "viewers": 14
    },
    "EBEkeqDRAj0": {
     "vid": "EBEkeqDRAj0",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-21T11:29:42Z",
-    "peak": 12,
+    "peak": 22,
     "has_viewers": true,
     "title": "жабо",
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 12
+    "viewers": 22
    },
    "5TjAbvI4fiA": {
     "vid": "5TjAbvI4fiA",
@@ -71,8 +71,8 @@
     "peak": 47,
     "has_viewers": true,
     "title": "дома",
-    "thumb": "https://i.ytimg.com/vi/5TjAbvI4fiA/maxresdefault.jpg?v=1",
-    "viewers": 47
+    "thumb": "https://i.ytimg.com/vi/5TjAbvI4fiA/maxresdefault.jpg?v=3",
+    "viewers": 5
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "1 ч 51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/5TjAbvI4fiA\">Ахиллес</a></b> · 47 👁 · 11 мин\n└ дома\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 17 👁 · 16 ч 28 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 12 👁 · 15 мин\n└ жабо",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 22 👁 · 31 мин\n└ жабо\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 14 👁 · 16 ч 44 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/5TjAbvI4fiA\">Ахиллес</a></b> · 5 👁 · 26 мин\n└ дома",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
