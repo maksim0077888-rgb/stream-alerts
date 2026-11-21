@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "жабо",
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 12
+    "viewers": 30
    },
    "6blZ1wT34wU": {
     "vid": "6blZ1wT34wU",
@@ -60,19 +60,19 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Смотрю сейчас обзор на новый ролик Дона Грязи, потом буду играть в Мафию 2",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=20",
-    "viewers": 238
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=23",
+    "viewers": 262
    },
    "6P4jQ4VcgXw": {
     "vid": "6P4jQ4VcgXw",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
     "name": "Школа Сук",
     "start": "2026-11-21T17:03:23Z",
-    "peak": 25,
+    "peak": 28,
     "has_viewers": true,
     "title": "э",
-    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=22",
-    "viewers": 21
+    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=25",
+    "viewers": 28
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "3 ч 04 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 238 👁 · 2 ч 42 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/6P4jQ4VcgXw\">Школа Сук</a></b> · 21 👁 · 2 ч 42 мин\n└ э\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 12 👁 · 8 ч 15 мин\n└ жабо",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 262 👁 · 2 ч 57 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 30 👁 · 8 ч 30 мин\n└ жабо\n\n<b><a href=\"https://youtu.be/6P4jQ4VcgXw\">Школа Сук</a></b> · 28 👁 · 2 ч 56 мин\n└ э",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
