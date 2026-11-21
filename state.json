@@ -49,8 +49,8 @@
     "peak": 211,
     "has_viewers": true,
     "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=7e",
-    "viewers": 30
+    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=81",
+    "viewers": 32
    },
    "jLxfuxbT_Ic": {
     "vid": "jLxfuxbT_Ic",
@@ -62,32 +62,9 @@
     "title": "МЯУ КОНКРСКТОР",
     "thumb": "https://i.ytimg.com/vi/jLxfuxbT_Ic/maxresdefault.jpg?v=6b00c2b4",
     "viewers": 0
-   },
-   "qYSWCT7tw2Q": {
-    "vid": "qYSWCT7tw2Q",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T22:44:58Z",
-    "peak": 239,
-    "has_viewers": true,
-    "title": "Картошкаа",
-    "thumb": "https://i.ytimg.com/vi/qYSWCT7tw2Q/maxresdefault.jpg?v=8",
-    "viewers": 9
    }
   },
   "ended": [
-   {
-    "vid": "Do0QnCYaR-o",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T02:47:28Z",
-    "peak": 48,
-    "has_viewers": true,
-    "title": "доброе утро в17 едем",
-    "thumb": "https://i.ytimg.com/vi/Do0QnCYaR-o/maxresdefault.jpg?v=5",
-    "viewers": 48,
-    "dur": "38 мин"
-   },
    {
     "vid": "_DVlNPR4nVU",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=18",
     "viewers": 2,
     "dur": "3 ч 53 мин"
+   },
+   {
+    "vid": "qYSWCT7tw2Q",
+    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
+    "name": "Герман Ягодка",
+    "start": "2026-11-20T22:44:58Z",
+    "peak": 239,
+    "has_viewers": true,
+    "title": "Картошкаа",
+    "thumb": "https://i.ytimg.com/vi/qYSWCT7tw2Q/maxresdefault.jpg?v=8",
+    "viewers": 9,
+    "dur": "40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 30 👁 · 10 ч 28 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/qYSWCT7tw2Q\">Герман Ягодка</a></b> · 9 👁 · 7 ч 00 мин\n└ Картошкаа\n\n<b><a href=\"https://youtu.be/jLxfuxbT_Ic\">Федук</a></b> · 0 👁 · 7 ч 45 мин\n└ МЯУ КОНКРСКТОР",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 32 👁 · 10 ч 44 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/jLxfuxbT_Ic\">Федук</a></b> · 0 👁 · 8 ч 01 мин\n└ МЯУ КОНКРСКТОР",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
