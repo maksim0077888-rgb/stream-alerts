@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "жабо",
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 52
+    "viewers": 38
    },
    "5TjAbvI4fiA": {
     "vid": "5TjAbvI4fiA",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "дома",
     "thumb": "https://i.ytimg.com/vi/5TjAbvI4fiA/maxresdefault.jpg?v=5",
-    "viewers": 1
+    "viewers": 0
    },
    "jtTZqnHKSEw": {
     "vid": "jtTZqnHKSEw",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-21T12:55:04Z",
-    "peak": 147,
+    "peak": 243,
     "has_viewers": true,
     "title": "Всем привет, это я Маэстро Рыбный суп",
-    "thumb": "https://i.ytimg.com/vi/jtTZqnHKSEw/maxresdefault.jpg?v=4",
-    "viewers": 147
+    "thumb": "https://i.ytimg.com/vi/jtTZqnHKSEw/maxresdefault.jpg?v=6",
+    "viewers": 243
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "17 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/jtTZqnHKSEw\">Дон Грязь</a></b> · 147 👁 · 20 мин\n└ Всем привет, это я Маэстро Рыбный суп\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 52 👁 · 1 ч 45 мин\n└ жабо\n\n<b><a href=\"https://youtu.be/5TjAbvI4fiA\">Ахиллес</a></b> · 1 👁 · 1 ч 41 мин\n└ дома",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/jtTZqnHKSEw\">Дон Грязь</a></b> · 243 👁 · 35 мин\n└ Всем привет, это я Маэстро Рыбный суп\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 38 👁 · 2 ч 00 мин\n└ жабо\n\n<b><a href=\"https://youtu.be/5TjAbvI4fiA\">Ахиллес</a></b> · 0 👁 · 1 ч 56 мин\n└ дома",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
