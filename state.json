@@ -50,29 +50,29 @@
     "has_viewers": true,
     "title": "жабо",
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 2
+    "viewers": 1
    },
    "BtnEsLvU3hU": {
     "vid": "BtnEsLvU3hU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
     "name": "Дон Грязь",
     "start": "2026-11-21T14:59:10Z",
-    "peak": 206,
+    "peak": 233,
     "has_viewers": true,
     "title": "Сейчас буду смотреть Обзор на Дона Грязь",
-    "thumb": "https://i.ytimg.com/vi/BtnEsLvU3hU/maxresdefault.jpg?v=9",
-    "viewers": 206
+    "thumb": "https://i.ytimg.com/vi/BtnEsLvU3hU/maxresdefault.jpg?v=c",
+    "viewers": 233
    },
    "RkIdm14oW6g": {
     "vid": "RkIdm14oW6g",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-21T14:57:48Z",
-    "peak": 3377,
+    "peak": 10651,
     "has_viewers": true,
     "title": "Ему нравится (пока)",
-    "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=6",
-    "viewers": 3377
+    "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=8",
+    "viewers": 10651
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "2 ч 05 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/RkIdm14oW6g\">ПАПИЧ</a></b> · 3377 👁 · 32 мин\n└ Ему нравится (пока)\n\n<b><a href=\"https://youtu.be/BtnEsLvU3hU\">Дон Грязь</a></b> · 206 👁 · 31 мин\n└ Сейчас буду смотреть Обзор на Дона Грязь\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 2 👁 · 4 ч 00 мин\n└ жабо",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/RkIdm14oW6g\">ПАПИЧ</a></b> · 10651 👁 · 47 мин\n└ Ему нравится (пока)\n\n<b><a href=\"https://youtu.be/BtnEsLvU3hU\">Дон Грязь</a></b> · 233 👁 · 46 мин\n└ Сейчас буду смотреть Обзор на Дона Грязь\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 1 👁 · 4 ч 15 мин\n└ жабо",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
