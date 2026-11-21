@@ -49,8 +49,8 @@
     "peak": 211,
     "has_viewers": true,
     "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=81",
-    "viewers": 32
+    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=84",
+    "viewers": 40
    },
    "jLxfuxbT_Ic": {
     "vid": "jLxfuxbT_Ic",
@@ -62,6 +62,17 @@
     "title": "МЯУ КОНКРСКТОР",
     "thumb": "https://i.ytimg.com/vi/jLxfuxbT_Ic/maxresdefault.jpg?v=6b00c2b4",
     "viewers": 0
+   },
+   "MnPpUEps9MM": {
+    "vid": "MnPpUEps9MM",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-21T06:12:40Z",
+    "peak": 10,
+    "has_viewers": true,
+    "title": "ЗА СПАРТАНЦА",
+    "thumb": "https://i.ytimg.com/vi/MnPpUEps9MM/maxresdefault.jpg?v=6b01364e",
+    "viewers": 10
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 32 👁 · 10 ч 44 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/jLxfuxbT_Ic\">Федук</a></b> · 0 👁 · 8 ч 01 мин\n└ МЯУ КОНКРСКТОР",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 40 👁 · 10 ч 58 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/MnPpUEps9MM\">Федук</a></b> · 10 👁 · 2 мин\n└ ЗА СПАРТАНЦА\n\n<b><a href=\"https://youtu.be/jLxfuxbT_Ic\">Федук</a></b> · 0 👁 · 8 ч 15 мин\n└ МЯУ КОНКРСКТОР",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
