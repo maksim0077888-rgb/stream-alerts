@@ -41,27 +41,16 @@
  "board": {
   "msg": 132,
   "streams": {
-   "9gkP4CVtblM": {
-    "vid": "9gkP4CVtblM",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-20T19:16:37Z",
-    "peak": 264,
-    "has_viewers": true,
-    "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=bf",
-    "viewers": 15
-   },
    "EBEkeqDRAj0": {
     "vid": "EBEkeqDRAj0",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-21T11:29:42Z",
-    "peak": 46,
+    "peak": 64,
     "has_viewers": true,
     "title": "жабо",
     "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 46
+    "viewers": 64
    },
    "5TjAbvI4fiA": {
     "vid": "5TjAbvI4fiA",
@@ -72,22 +61,21 @@
     "has_viewers": true,
     "title": "дома",
     "thumb": "https://i.ytimg.com/vi/5TjAbvI4fiA/maxresdefault.jpg?v=5",
-    "viewers": 1
+    "viewers": 0
+   },
+   "jtTZqnHKSEw": {
+    "vid": "jtTZqnHKSEw",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-21T12:55:04Z",
+    "peak": 36,
+    "has_viewers": true,
+    "title": "Всем привет, это я Маэстро Рыбный суп",
+    "thumb": "https://i.ytimg.com/vi/jtTZqnHKSEw/maxresdefault.jpg",
+    "viewers": 36
    }
   },
   "ended": [
-   {
-    "vid": "RaI3oqh3494",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-20T07:19:59Z",
-    "peak": 29,
-    "has_viewers": true,
-    "title": "бывало и лучше",
-    "thumb": "https://i.ytimg.com/vi/RaI3oqh3494/maxresdefault.jpg?v=4",
-    "viewers": 1,
-    "dur": "3 ч 53 мин"
-   },
    {
     "vid": "HN8idc2LGNA",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/nHXKofZP_S8/maxresdefault.jpg?v=6b0166c5",
     "viewers": 7,
     "dur": "1 ч 51 мин"
+   },
+   {
+    "vid": "9gkP4CVtblM",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-20T19:16:37Z",
+    "peak": 264,
+    "has_viewers": true,
+    "title": "Играю в Мафию",
+    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=bf",
+    "viewers": 15,
+    "dur": "17 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 46 👁 · 1 ч 15 мин\n└ жабо\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 15 👁 · 17 ч 28 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/5TjAbvI4fiA\">Ахиллес</a></b> · 1 👁 · 1 ч 11 мин\n└ дома",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 64 👁 · 1 ч 26 мин\n└ жабо\n\n<b><a href=\"https://youtu.be/jtTZqnHKSEw\">Дон Грязь</a></b> · 36 👁 · 1 мин\n└ Всем привет, это я Маэстро Рыбный суп\n\n<b><a href=\"https://youtu.be/5TjAbvI4fiA\">Ахиллес</a></b> · 0 👁 · 1 ч 22 мин\n└ дома",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
