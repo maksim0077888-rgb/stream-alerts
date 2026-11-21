@@ -49,34 +49,22 @@
     "peak": 211,
     "has_viewers": true,
     "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=9c",
-    "viewers": 51
+    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=9f",
+    "viewers": 42
    },
-   "MnPpUEps9MM": {
-    "vid": "MnPpUEps9MM",
+   "9E2S5tqXi3M": {
+    "vid": "9E2S5tqXi3M",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-21T06:12:40Z",
-    "peak": 73,
+    "start": "2026-11-21T08:21:18Z",
+    "peak": 32,
     "has_viewers": true,
     "title": "ЗА СПАРТАНЦА",
-    "thumb": "https://i.ytimg.com/vi/MnPpUEps9MM/maxresdefault.jpg?v=6b01364e",
-    "viewers": 8
+    "thumb": "https://i.ytimg.com/vi/9E2S5tqXi3M/maxresdefault.jpg?v=6b015474",
+    "viewers": 32
    }
   },
   "ended": [
-   {
-    "vid": "Tkg02tbz9wk",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-19T20:40:58Z",
-    "peak": 544,
-    "has_viewers": true,
-    "title": "Грустно....",
-    "thumb": "https://i.ytimg.com/vi/Tkg02tbz9wk/maxresdefault.jpg?v=22",
-    "viewers": 6,
-    "dur": "2 ч 49 мин"
-   },
    {
     "vid": "4P7NaCBpBME",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/jLxfuxbT_Ic/maxresdefault.jpg?v=6b00c2b4",
     "viewers": 0,
     "dur": "9 ч 01 мин"
+   },
+   {
+    "vid": "MnPpUEps9MM",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-21T06:12:40Z",
+    "peak": 73,
+    "has_viewers": true,
+    "title": "ЗА СПАРТАНЦА",
+    "thumb": "https://i.ytimg.com/vi/MnPpUEps9MM/maxresdefault.jpg?v=6b01364e",
+    "viewers": 8,
+    "dur": "2 ч 07 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 51 👁 · 12 ч 58 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/MnPpUEps9MM\">Федук</a></b> · 8 👁 · 2 ч 02 мин\n└ ЗА СПАРТАНЦА",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 42 👁 · 13 ч 13 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/9E2S5tqXi3M\">Федук</a></b> · 32 👁 · 9 мин\n└ ЗА СПАРТАНЦА",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
