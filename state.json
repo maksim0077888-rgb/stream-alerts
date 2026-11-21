@@ -50,33 +50,21 @@
     "has_viewers": true,
     "title": "Играю в Мафию",
     "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=bf",
-    "viewers": 32
+    "viewers": 19
    },
-   "nHXKofZP_S8": {
-    "vid": "nHXKofZP_S8",
+   "EBEkeqDRAj0": {
+    "vid": "EBEkeqDRAj0",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-21T09:39:26Z",
-    "peak": 556,
+    "start": "2026-11-21T11:29:42Z",
+    "peak": 1,
     "has_viewers": true,
-    "title": "ЗА СПАРТАНЦА 2",
-    "thumb": "https://i.ytimg.com/vi/nHXKofZP_S8/maxresdefault.jpg?v=6b0166c5",
-    "viewers": 7
+    "title": "жабо",
+    "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
+    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "MMst03PZjxs",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T07:05:22Z",
-    "peak": 312,
-    "has_viewers": true,
-    "title": "бульба",
-    "thumb": "https://i.ytimg.com/vi/MMst03PZjxs/maxresdefault.jpg?v=8",
-    "viewers": 312,
-    "dur": "50 мин"
-   },
    {
     "vid": "RaI3oqh3494",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/9E2S5tqXi3M/maxresdefault.jpg?v=6b015474",
     "viewers": 480,
     "dur": "1 ч 16 мин"
+   },
+   {
+    "vid": "nHXKofZP_S8",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-21T09:39:26Z",
+    "peak": 556,
+    "has_viewers": true,
+    "title": "ЗА СПАРТАНЦА 2",
+    "thumb": "https://i.ytimg.com/vi/nHXKofZP_S8/maxresdefault.jpg?v=6b0166c5",
+    "viewers": 7,
+    "dur": "1 ч 51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 32 👁 · 15 ч 58 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/nHXKofZP_S8\">Федук</a></b> · 7 👁 · 1 ч 36 мин\n└ ЗА СПАРТАНЦА 2",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/9gkP4CVtblM\">Дон Грязь</a></b> · 19 👁 · 16 ч 13 мин\n└ Играю в Мафию\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 1 👁 · 0 мин\n└ жабо",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
