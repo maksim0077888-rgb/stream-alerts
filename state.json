@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "EBEkeqDRAj0": {
-    "vid": "EBEkeqDRAj0",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-21T11:29:42Z",
-    "peak": 64,
-    "has_viewers": true,
-    "title": "жабо",
-    "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 37
-   },
    "6blZ1wT34wU": {
     "vid": "6blZ1wT34wU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -60,8 +49,8 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Смотрю сейчас обзор на новый ролик Дона Грязи, потом буду играть в Мафию 2",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=38",
-    "viewers": 317
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=3b",
+    "viewers": 303
    },
    "6P4jQ4VcgXw": {
     "vid": "6P4jQ4VcgXw",
@@ -71,23 +60,11 @@
     "peak": 30,
     "has_viewers": true,
     "title": "э",
-    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=3a",
-    "viewers": 5
+    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=3d",
+    "viewers": 7
    }
   },
   "ended": [
-   {
-    "vid": "LEoHF4DH5V0",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-20T12:40:06Z",
-    "peak": 868,
-    "has_viewers": true,
-    "title": "Вискас, Димко, Персик, Гетыч и Маэстро у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/LEoHF4DH5V0/maxresdefault.jpg?v=8",
-    "viewers": 868,
-    "dur": "37 мин"
-   },
    {
     "vid": "ZBQtjmy9oDE",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=26",
     "viewers": 2923,
     "dur": "3 ч 04 мин"
+   },
+   {
+    "vid": "EBEkeqDRAj0",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-21T11:29:42Z",
+    "peak": 64,
+    "has_viewers": true,
+    "title": "жабо",
+    "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
+    "viewers": 37,
+    "dur": "3 ч 31 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 317 👁 · 4 ч 42 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/EBEkeqDRAj0\">Федук</a></b> · 37 👁 · 10 ч 15 мин\n└ жабо\n\n<b><a href=\"https://youtu.be/6P4jQ4VcgXw\">Школа Сук</a></b> · 5 👁 · 4 ч 42 мин\n└ э",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 303 👁 · 4 ч 57 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/6P4jQ4VcgXw\">Школа Сук</a></b> · 7 👁 · 4 ч 57 мин\n└ э",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
