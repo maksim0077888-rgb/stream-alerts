@@ -49,34 +49,11 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Рыба на подзарядке",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=128",
-    "viewers": 36
-   },
-   "AjgMCH37qF8": {
-    "vid": "AjgMCH37qF8",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-22T17:22:26Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/AjgMCH37qF8/maxresdefault.jpg?v=6b0324b5",
-    "viewers": 1
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=12b",
+    "viewers": 45
    }
   },
   "ended": [
-   {
-    "vid": "jLxfuxbT_Ic",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-20T21:59:27Z",
-    "peak": 54,
-    "has_viewers": true,
-    "title": "МЯУ КОНКРСКТОР",
-    "thumb": "https://i.ytimg.com/vi/jLxfuxbT_Ic/maxresdefault.jpg?v=6b00c2b4",
-    "viewers": 0,
-    "dur": "9 ч 01 мин"
-   },
    {
     "vid": "MnPpUEps9MM",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/a3dcGTCl0Ok/maxresdefault.jpg?v=2",
     "viewers": 0,
     "dur": "2 ч 28 мин"
+   },
+   {
+    "vid": "AjgMCH37qF8",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-22T17:22:26Z",
+    "peak": 1,
+    "has_viewers": true,
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/AjgMCH37qF8/maxresdefault.jpg?v=6b0324b5",
+    "viewers": 1,
+    "dur": "8 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 36 👁 · 24 ч 27 мин\n└ Рыба на подзарядке\n\n<b><a href=\"https://youtu.be/AjgMCH37qF8\">Ахиллес</a></b> · 1 👁 · 8 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 45 👁 · 24 ч 42 мин\n└ Рыба на подзарядке",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
