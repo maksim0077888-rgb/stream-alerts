@@ -49,8 +49,8 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Рыба на подзарядке",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=13e",
-    "viewers": 111
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=141",
+    "viewers": 97
    },
    "5qAAcQWg9Kw": {
     "vid": "5qAAcQWg9Kw",
@@ -61,33 +61,21 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/5qAAcQWg9Kw/maxresdefault.jpg?v=6b032ad0",
-    "viewers": 2
+    "viewers": 4
    },
-   "q6KTU3B_D8Q": {
-    "vid": "q6KTU3B_D8Q",
+   "X3QzitLfSnc": {
+    "vid": "X3QzitLfSnc",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-22T18:20:52Z",
-    "peak": 3,
-    "has_viewers": true,
-    "title": "Прямая трансляция ФИЛЯЙ ФИЛЯЙ 2.0",
-    "thumb": "https://i.ytimg.com/vi/q6KTU3B_D8Q/maxresdefault.jpg?v=1",
+    "start": "2026-11-22T19:27:13Z",
+    "peak": 0,
+    "has_viewers": false,
+    "title": "луллулулуб",
+    "thumb": "https://i.ytimg.com/vi/X3QzitLfSnc/maxresdefault.jpg?v=6b034207",
     "viewers": 0
    }
   },
   "ended": [
-   {
-    "vid": "MnPpUEps9MM",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-21T06:12:40Z",
-    "peak": 73,
-    "has_viewers": true,
-    "title": "ЗА СПАРТАНЦА",
-    "thumb": "https://i.ytimg.com/vi/MnPpUEps9MM/maxresdefault.jpg?v=6b01364e",
-    "viewers": 8,
-    "dur": "2 ч 07 мин"
-   },
    {
     "vid": "9E2S5tqXi3M",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/AjgMCH37qF8/maxresdefault.jpg?v=6b0324b5",
     "viewers": 1,
     "dur": "8 мин"
+   },
+   {
+    "vid": "q6KTU3B_D8Q",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-22T18:20:52Z",
+    "peak": 3,
+    "has_viewers": true,
+    "title": "Прямая трансляция ФИЛЯЙ ФИЛЯЙ 2.0",
+    "thumb": "https://i.ytimg.com/vi/q6KTU3B_D8Q/maxresdefault.jpg?v=1",
+    "viewers": 0,
+    "dur": "1 ч 09 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 111 👁 · 26 ч 12 мин\n└ Рыба на подзарядке\n\n<b><a href=\"https://youtu.be/5qAAcQWg9Kw\">Ахиллес</a></b> · 2 👁 · 1 ч 26 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/q6KTU3B_D8Q\">Федук</a></b> · 0 👁 · 54 мин\n└ Прямая трансляция ФИЛЯЙ ФИЛЯЙ 2.0",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 97 👁 · 26 ч 27 мин\n└ Рыба на подзарядке\n\n<b><a href=\"https://youtu.be/5qAAcQWg9Kw\">Ахиллес</a></b> · 4 👁 · 1 ч 42 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/X3QzitLfSnc\">Федук</a></b> · 3 мин\n└ луллулулуб",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
