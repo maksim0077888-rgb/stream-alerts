@@ -49,34 +49,22 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Рыба на подзарядке",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=125",
-    "viewers": 51
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=128",
+    "viewers": 36
    },
-   "a3dcGTCl0Ok": {
-    "vid": "a3dcGTCl0Ok",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-22T15:02:05Z",
-    "peak": 5,
+   "AjgMCH37qF8": {
+    "vid": "AjgMCH37qF8",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-22T17:22:26Z",
+    "peak": 1,
     "has_viewers": true,
-    "title": "коваллл",
-    "thumb": "https://i.ytimg.com/vi/a3dcGTCl0Ok/maxresdefault.jpg?v=2",
-    "viewers": 0
+    "title": "flaco в прямом эфире!",
+    "thumb": "https://i.ytimg.com/vi/AjgMCH37qF8/maxresdefault.jpg?v=6b0324b5",
+    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "qYSWCT7tw2Q",
-    "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
-    "name": "Герман Ягодка",
-    "start": "2026-11-20T22:44:58Z",
-    "peak": 239,
-    "has_viewers": true,
-    "title": "Картошкаа",
-    "thumb": "https://i.ytimg.com/vi/qYSWCT7tw2Q/maxresdefault.jpg?v=8",
-    "viewers": 9,
-    "dur": "40 мин"
-   },
    {
     "vid": "jLxfuxbT_Ic",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/rZx4TaRCb0g/maxresdefault.jpg?v=6b02dfb1",
     "viewers": 4,
     "dur": "2 ч 02 мин"
+   },
+   {
+    "vid": "a3dcGTCl0Ok",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-22T15:02:05Z",
+    "peak": 5,
+    "has_viewers": true,
+    "title": "коваллл",
+    "thumb": "https://i.ytimg.com/vi/a3dcGTCl0Ok/maxresdefault.jpg?v=2",
+    "viewers": 0,
+    "dur": "2 ч 28 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 51 👁 · 24 ч 12 мин\n└ Рыба на подзарядке\n\n<b><a href=\"https://youtu.be/a3dcGTCl0Ok\">Федук</a></b> · 0 👁 · 2 ч 13 мин\n└ коваллл",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 36 👁 · 24 ч 27 мин\n└ Рыба на подзарядке\n\n<b><a href=\"https://youtu.be/AjgMCH37qF8\">Ахиллес</a></b> · 1 👁 · 8 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
