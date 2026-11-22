@@ -49,34 +49,22 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Смотрю сейчас обзор на новый ролик Дона Грязи, потом буду играть в Мафию 2",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=d7",
-    "viewers": 69
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=d9",
+    "viewers": 61
    },
-   "YCH2t6iKcgk": {
-    "vid": "YCH2t6iKcgk",
+   "OyinClNQug8": {
+    "vid": "OyinClNQug8",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-22T10:32:16Z",
-    "peak": 32,
+    "start": "2026-11-22T10:57:12Z",
+    "peak": 20,
     "has_viewers": true,
     "title": "все   еня бргсил",
-    "thumb": "https://i.ytimg.com/vi/YCH2t6iKcgk/maxresdefault.jpg?v=6b02c4a6",
-    "viewers": 32
+    "thumb": "https://i.ytimg.com/vi/OyinClNQug8/maxresdefault.jpg?v=6b02ca7f",
+    "viewers": 20
    }
   },
   "ended": [
-   {
-    "vid": "kWKmrN6AdOg",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-20T13:40:43Z",
-    "peak": 1097,
-    "has_viewers": true,
-    "title": "Вискас, Гетыч, Димко, Персик и Маэстро у меня в студии",
-    "thumb": "https://i.ytimg.com/vi/kWKmrN6AdOg/maxresdefault.jpg?v=41",
-    "viewers": 256,
-    "dur": "5 ч 29 мин"
-   },
    {
     "vid": "LFFkrrflS-E",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=3d",
     "viewers": 7,
     "dur": "5 ч 12 мин"
+   },
+   {
+    "vid": "YCH2t6iKcgk",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-22T10:32:16Z",
+    "peak": 32,
+    "has_viewers": true,
+    "title": "все   еня бргсил",
+    "thumb": "https://i.ytimg.com/vi/YCH2t6iKcgk/maxresdefault.jpg?v=6b02c4a6",
+    "viewers": 32,
+    "dur": "24 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 69 👁 · 17 ч 42 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/YCH2t6iKcgk\">Федук</a></b> · 32 👁 · 13 мин\n└ все   еня бргсил",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 61 👁 · 17 ч 57 мин\n└ Смотрю сейчас обзор на новый ролик Дона Грязи, по…\n\n<b><a href=\"https://youtu.be/OyinClNQug8\">Федук</a></b> · 20 👁 · 3 мин\n└ все   еня бргсил",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
