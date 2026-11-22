@@ -49,34 +49,11 @@
     "peak": 461,
     "has_viewers": true,
     "title": "Рыба на подзарядке",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=103",
-    "viewers": 65
-   },
-   "rZx4TaRCb0g": {
-    "vid": "rZx4TaRCb0g",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-22T12:27:39Z",
-    "peak": 112,
-    "has_viewers": true,
-    "title": "КУСНА",
-    "thumb": "https://i.ytimg.com/vi/rZx4TaRCb0g/maxresdefault.jpg?v=6b02dfb1",
-    "viewers": 4
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=106",
+    "viewers": 75
    }
   },
   "ended": [
-   {
-    "vid": "H9c0BIZ8ZMo",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-20T17:37:50Z",
-    "peak": 123,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ",
-    "thumb": "https://i.ytimg.com/vi/H9c0BIZ8ZMo/maxresdefault.jpg?v=18",
-    "viewers": 2,
-    "dur": "3 ч 53 мин"
-   },
    {
     "vid": "qYSWCT7tw2Q",
     "cid": "UC0QxXv06SBMMR6VcAsGjVCA",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/OyinClNQug8/maxresdefault.jpg?v=6b02ca7f",
     "viewers": 36,
     "dur": "27 мин"
+   },
+   {
+    "vid": "rZx4TaRCb0g",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-22T12:27:39Z",
+    "peak": 112,
+    "has_viewers": true,
+    "title": "КУСНА",
+    "thumb": "https://i.ytimg.com/vi/rZx4TaRCb0g/maxresdefault.jpg?v=6b02dfb1",
+    "viewers": 4,
+    "dur": "2 ч 02 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 65 👁 · 21 ч 12 мин\n└ Рыба на подзарядке\n\n<b><a href=\"https://youtu.be/rZx4TaRCb0g\">Федук</a></b> · 4 👁 · 1 ч 47 мин\n└ КУСНА",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 75 👁 · 21 ч 27 мин\n└ Рыба на подзарядке",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
