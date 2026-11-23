@@ -41,42 +41,30 @@
  "board": {
   "msg": 132,
   "streams": {
-   "jNBcPEHzjFg": {
-    "vid": "jNBcPEHzjFg",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-23T09:36:55Z",
-    "peak": 103,
-    "has_viewers": true,
-    "title": "нвж страпое",
-    "thumb": "https://i.ytimg.com/vi/jNBcPEHzjFg/maxresdefault.jpg?v=6b04092e",
-    "viewers": 5
-   },
    "0nAAXXbOP6g": {
     "vid": "0nAAXXbOP6g",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-23T14:30:34Z",
-    "peak": 979,
+    "peak": 2574,
     "has_viewers": true,
     "title": "Ему нравится?",
-    "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg",
-    "viewers": 979
+    "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg?v=3",
+    "viewers": 2574
+   },
+   "H9VQrAQvVVo": {
+    "vid": "H9VQrAQvVVo",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-23T14:42:36Z",
+    "peak": 16,
+    "has_viewers": true,
+    "title": "сон тв",
+    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=1",
+    "viewers": 16
    }
   },
   "ended": [
-   {
-    "vid": "BtnEsLvU3hU",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-21T14:59:10Z",
-    "peak": 233,
-    "has_viewers": true,
-    "title": "Сейчас буду смотреть Обзор на Дона Грязь",
-    "thumb": "https://i.ytimg.com/vi/BtnEsLvU3hU/maxresdefault.jpg?v=c",
-    "viewers": 233,
-    "dur": "55 мин"
-   },
    {
     "vid": "RkIdm14oW6g",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/HYsM4U7GUmE/maxresdefault.jpg?v=6b03d90c",
     "viewers": 1,
     "dur": "3 ч 33 мин"
+   },
+   {
+    "vid": "jNBcPEHzjFg",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-23T09:36:55Z",
+    "peak": 103,
+    "has_viewers": true,
+    "title": "нвж страпое",
+    "thumb": "https://i.ytimg.com/vi/jNBcPEHzjFg/maxresdefault.jpg?v=6b04092e",
+    "viewers": 5,
+    "dur": "5 ч 03 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/0nAAXXbOP6g\">ПАПИЧ</a></b> · 979 👁 · 0 мин\n└ Ему нравится?\n\n<b><a href=\"https://youtu.be/jNBcPEHzjFg\">Федук</a></b> · 5 👁 · 4 ч 53 мин\n└ нвж страпое",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/0nAAXXbOP6g\">ПАПИЧ</a></b> · 2574 👁 · 14 мин\n└ Ему нравится?\n\n<b><a href=\"https://youtu.be/H9VQrAQvVVo\">Федук</a></b> · 16 👁 · 2 мин\n└ сон тв",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
