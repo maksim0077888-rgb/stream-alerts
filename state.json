@@ -41,31 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "HYsM4U7GUmE": {
-    "vid": "HYsM4U7GUmE",
+   "jNBcPEHzjFg": {
+    "vid": "jNBcPEHzjFg",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-23T06:11:34Z",
-    "peak": 342,
+    "start": "2026-11-23T09:36:55Z",
+    "peak": 7,
     "has_viewers": true,
-    "title": "звонилиги вершашивал",
-    "thumb": "https://i.ytimg.com/vi/HYsM4U7GUmE/maxresdefault.jpg?v=6b03d90c",
-    "viewers": 1
+    "title": "нвж страпое",
+    "thumb": "https://i.ytimg.com/vi/jNBcPEHzjFg/maxresdefault.jpg?v=6b04092e",
+    "viewers": 7
    }
   },
   "ended": [
-   {
-    "vid": "jtTZqnHKSEw",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-21T12:55:04Z",
-    "peak": 353,
-    "has_viewers": true,
-    "title": "Всем привет, это я Маэстро Рыбный суп",
-    "thumb": "https://i.ytimg.com/vi/jtTZqnHKSEw/maxresdefault.jpg?v=13",
-    "viewers": 337,
-    "dur": "2 ч 05 мин"
-   },
    {
     "vid": "BtnEsLvU3hU",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/CtddizSlyts/maxresdefault.jpg?v=6b039b94",
     "viewers": 1,
     "dur": "6 ч 26 мин"
+   },
+   {
+    "vid": "HYsM4U7GUmE",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-23T06:11:34Z",
+    "peak": 342,
+    "has_viewers": true,
+    "title": "звонилиги вершашивал",
+    "thumb": "https://i.ytimg.com/vi/HYsM4U7GUmE/maxresdefault.jpg?v=6b03d90c",
+    "viewers": 1,
+    "dur": "3 ч 33 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/HYsM4U7GUmE\">Федук</a></b> · 1 👁 · 3 ч 19 мин\n└ звонилиги вершашивал",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/jNBcPEHzjFg\">Федук</a></b> · 7 👁 · 8 мин\n└ нвж страпое",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
