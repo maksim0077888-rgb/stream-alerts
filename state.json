@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "6blZ1wT34wU": {
-    "vid": "6blZ1wT34wU",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-21T17:03:09Z",
-    "peak": 461,
-    "has_viewers": true,
-    "title": "Рыба на подзарядке",
-    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=196",
-    "viewers": 146
-   },
    "X3QzitLfSnc": {
     "vid": "X3QzitLfSnc",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -61,33 +50,21 @@
     "has_viewers": true,
     "title": "луллулулуб",
     "thumb": "https://i.ytimg.com/vi/X3QzitLfSnc/maxresdefault.jpg?v=6b034207",
-    "viewers": 1
+    "viewers": 3
    },
    "CtddizSlyts": {
     "vid": "CtddizSlyts",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-23T01:49:42Z",
-    "peak": 16,
+    "peak": 24,
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/CtddizSlyts/maxresdefault.jpg?v=6b039b94",
-    "viewers": 16
+    "viewers": 24
    }
   },
   "ended": [
-   {
-    "vid": "nHXKofZP_S8",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-21T09:39:26Z",
-    "peak": 556,
-    "has_viewers": true,
-    "title": "ЗА СПАРТАНЦА 2",
-    "thumb": "https://i.ytimg.com/vi/nHXKofZP_S8/maxresdefault.jpg?v=6b0166c5",
-    "viewers": 7,
-    "dur": "1 ч 51 мин"
-   },
    {
     "vid": "9gkP4CVtblM",
     "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/5qAAcQWg9Kw/maxresdefault.jpg?v=6b032ad0",
     "viewers": 20,
     "dur": "5 ч 09 мин"
+   },
+   {
+    "vid": "6blZ1wT34wU",
+    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
+    "name": "Дон Грязь",
+    "start": "2026-11-21T17:03:09Z",
+    "peak": 461,
+    "has_viewers": true,
+    "title": "Рыба на подзарядке",
+    "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=196",
+    "viewers": 146,
+    "dur": "33 ч 42 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/6blZ1wT34wU\">Дон Грязь</a></b> · 146 👁 · 33 ч 27 мин\n└ Рыба на подзарядке\n\n<b><a href=\"https://youtu.be/CtddizSlyts\">Ахиллес</a></b> · 16 👁 · 40 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/X3QzitLfSnc\">Федук</a></b> · 1 👁 · 7 ч 03 мин\n└ луллулулуб",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/CtddizSlyts\">Ахиллес</a></b> · 24 👁 · 55 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/X3QzitLfSnc\">Федук</a></b> · 3 👁 · 7 ч 18 мин\n└ луллулулуб",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
