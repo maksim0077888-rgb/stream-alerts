@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/CtddizSlyts/maxresdefault.jpg?v=6b039b94",
-    "viewers": 16
+    "viewers": 25
    },
    "HYsM4U7GUmE": {
     "vid": "HYsM4U7GUmE",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-23T06:11:34Z",
-    "peak": 57,
+    "peak": 342,
     "has_viewers": true,
     "title": "звонилиги вершашивал",
     "thumb": "https://i.ytimg.com/vi/HYsM4U7GUmE/maxresdefault.jpg?v=6b03d90c",
-    "viewers": 57
+    "viewers": 342
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/HYsM4U7GUmE\">Федук</a></b> · 57 👁 · 49 мин\n└ звонилиги вершашивал\n\n<b><a href=\"https://youtu.be/CtddizSlyts\">Ахиллес</a></b> · 16 👁 · 5 ч 11 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/HYsM4U7GUmE\">Федук</a></b> · 342 👁 · 1 ч 03 мин\n└ звонилиги вершашивал\n\n<b><a href=\"https://youtu.be/CtddizSlyts\">Ахиллес</a></b> · 25 👁 · 5 ч 25 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
