@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "0nAAXXbOP6g": {
-    "vid": "0nAAXXbOP6g",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-23T14:30:34Z",
-    "peak": 3416,
-    "has_viewers": true,
-    "title": "Ему нравится?",
-    "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg?v=24",
-    "viewers": 2499
-   },
    "H9VQrAQvVVo": {
     "vid": "H9VQrAQvVVo",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -60,23 +49,11 @@
     "peak": 588,
     "has_viewers": true,
     "title": "сон тв",
-    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=23",
-    "viewers": 99
+    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=26",
+    "viewers": 132
    }
   },
   "ended": [
-   {
-    "vid": "RkIdm14oW6g",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-21T14:57:48Z",
-    "peak": 10651,
-    "has_viewers": true,
-    "title": "Ему нравится (пока)",
-    "thumb": "https://i.ytimg.com/vi/RkIdm14oW6g/maxresdefault.jpg?v=26",
-    "viewers": 2923,
-    "dur": "3 ч 04 мин"
-   },
    {
     "vid": "EBEkeqDRAj0",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/jNBcPEHzjFg/maxresdefault.jpg?v=6b04092e",
     "viewers": 5,
     "dur": "5 ч 03 мин"
+   },
+   {
+    "vid": "0nAAXXbOP6g",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-23T14:30:34Z",
+    "peak": 3416,
+    "has_viewers": true,
+    "title": "Ему нравится?",
+    "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg?v=24",
+    "viewers": 2499,
+    "dur": "3 ч 01 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/0nAAXXbOP6g\">ПАПИЧ</a></b> · 2499 👁 · 3 ч 00 мин\n└ Ему нравится?\n\n<b><a href=\"https://youtu.be/H9VQrAQvVVo\">Федук</a></b> · 99 👁 · 2 ч 48 мин\n└ сон тв",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/H9VQrAQvVVo\">Федук</a></b> · 132 👁 · 3 ч 02 мин\n└ сон тв",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
