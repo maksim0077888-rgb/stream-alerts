@@ -46,22 +46,22 @@
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-23T14:30:34Z",
-    "peak": 2574,
+    "peak": 3107,
     "has_viewers": true,
     "title": "Ему нравится?",
-    "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg?v=3",
-    "viewers": 2574
+    "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg?v=7",
+    "viewers": 3107
    },
    "H9VQrAQvVVo": {
     "vid": "H9VQrAQvVVo",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-23T14:42:36Z",
-    "peak": 16,
+    "peak": 40,
     "has_viewers": true,
     "title": "сон тв",
-    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=1",
-    "viewers": 16
+    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=3",
+    "viewers": 40
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "5 ч 03 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/0nAAXXbOP6g\">ПАПИЧ</a></b> · 2574 👁 · 14 мин\n└ Ему нравится?\n\n<b><a href=\"https://youtu.be/H9VQrAQvVVo\">Федук</a></b> · 16 👁 · 2 мин\n└ сон тв",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/0nAAXXbOP6g\">ПАПИЧ</a></b> · 3107 👁 · 30 мин\n└ Ему нравится?\n\n<b><a href=\"https://youtu.be/H9VQrAQvVVo\">Федук</a></b> · 40 👁 · 18 мин\n└ сон тв",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
