@@ -41,42 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "X3QzitLfSnc": {
-    "vid": "X3QzitLfSnc",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-22T19:27:13Z",
-    "peak": 57,
-    "has_viewers": true,
-    "title": "луллулулуб",
-    "thumb": "https://i.ytimg.com/vi/X3QzitLfSnc/maxresdefault.jpg?v=6b034207",
-    "viewers": 3
-   },
    "CtddizSlyts": {
     "vid": "CtddizSlyts",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-23T01:49:42Z",
-    "peak": 24,
+    "peak": 30,
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/CtddizSlyts/maxresdefault.jpg?v=6b039b94",
-    "viewers": 24
+    "viewers": 30
    }
   },
   "ended": [
-   {
-    "vid": "9gkP4CVtblM",
-    "cid": "UCcUNTjgQSJU_u1ijq7IkQdw",
-    "name": "Дон Грязь",
-    "start": "2026-11-20T19:16:37Z",
-    "peak": 264,
-    "has_viewers": true,
-    "title": "Играю в Мафию",
-    "thumb": "https://i.ytimg.com/vi/9gkP4CVtblM/maxresdefault.jpg?v=bf",
-    "viewers": 15,
-    "dur": "17 ч 39 мин"
-   },
    {
     "vid": "5TjAbvI4fiA",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/6blZ1wT34wU/maxresdefault.jpg?v=196",
     "viewers": 146,
     "dur": "33 ч 42 мин"
+   },
+   {
+    "vid": "X3QzitLfSnc",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-22T19:27:13Z",
+    "peak": 57,
+    "has_viewers": true,
+    "title": "луллулулуб",
+    "thumb": "https://i.ytimg.com/vi/X3QzitLfSnc/maxresdefault.jpg?v=6b034207",
+    "viewers": 3,
+    "dur": "34 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/CtddizSlyts\">Ахиллес</a></b> · 24 👁 · 55 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/X3QzitLfSnc\">Федук</a></b> · 3 👁 · 7 ч 18 мин\n└ луллулулуб",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/CtddizSlyts\">Ахиллес</a></b> · 30 👁 · 1 ч 11 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
