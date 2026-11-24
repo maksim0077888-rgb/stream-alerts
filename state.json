@@ -50,18 +50,29 @@
     "has_viewers": true,
     "title": "братья из гримсьи",
     "thumb": "https://i.ytimg.com/vi/d5UU77zozEQ/maxresdefault.jpg?v=6b056cac",
-    "viewers": 2
+    "viewers": 1
    },
    "VPn2CdKPqi4": {
     "vid": "VPn2CdKPqi4",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
     "name": "ПАПИЧ",
     "start": "2026-11-24T14:29:34Z",
-    "peak": 683,
+    "peak": 1889,
     "has_viewers": true,
     "title": "Уже не нравится?",
-    "thumb": "https://i.ytimg.com/vi/VPn2CdKPqi4/maxresdefault.jpg",
-    "viewers": 683
+    "thumb": "https://i.ytimg.com/vi/VPn2CdKPqi4/maxresdefault.jpg?v=4",
+    "viewers": 1889
+   },
+   "wIfTThPgsdY": {
+    "vid": "wIfTThPgsdY",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-11-24T14:39:43Z",
+    "peak": 111,
+    "has_viewers": true,
+    "title": "Прямая трансляция пользователя Maestro FM",
+    "thumb": "https://i.ytimg.com/vi/wIfTThPgsdY/maxresdefault.jpg?v=1",
+    "viewers": 111
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "1 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/VPn2CdKPqi4\">ПАПИЧ</a></b> · 683 👁 · 1 мин\n└ Уже не нравится?\n\n<b><a href=\"https://youtu.be/d5UU77zozEQ\">Федук</a></b> · 2 👁 · 3 ч 36 мин\n└ братья из гримсьи",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/VPn2CdKPqi4\">ПАПИЧ</a></b> · 1889 👁 · 15 мин\n└ Уже не нравится?\n\n<b><a href=\"https://youtu.be/wIfTThPgsdY\">Дон Грязь</a></b> · 111 👁 · 5 мин\n└ Прямая трансляция пользователя Maestro FM\n\n<b><a href=\"https://youtu.be/d5UU77zozEQ\">Федук</a></b> · 1 👁 · 3 ч 51 мин\n└ братья из гримсьи",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
