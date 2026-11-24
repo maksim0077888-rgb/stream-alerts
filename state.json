@@ -40,32 +40,8 @@
  "day": "2026-11-24",
  "board": {
   "msg": 132,
-  "streams": {
-   "H9VQrAQvVVo": {
-    "vid": "H9VQrAQvVVo",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-23T14:42:36Z",
-    "peak": 588,
-    "has_viewers": true,
-    "title": "сон тв",
-    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=32",
-    "viewers": 1
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "EBEkeqDRAj0",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-21T11:29:42Z",
-    "peak": 64,
-    "has_viewers": true,
-    "title": "жабо",
-    "thumb": "https://i.ytimg.com/vi/EBEkeqDRAj0/maxresdefault.jpg?v=6b01809c",
-    "viewers": 37,
-    "dur": "3 ч 31 мин"
-   },
    {
     "vid": "6P4jQ4VcgXw",
     "cid": "UCxuWNVixWyudDP0j0SChQnw",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg?v=24",
     "viewers": 2499,
     "dur": "3 ч 01 мин"
+   },
+   {
+    "vid": "H9VQrAQvVVo",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-23T14:42:36Z",
+    "peak": 588,
+    "has_viewers": true,
+    "title": "сон тв",
+    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=32",
+    "viewers": 1,
+    "dur": "4 ч 04 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/H9VQrAQvVVo\">Федук</a></b> · 1 👁 · 10 ч 02 мин\n└ сон тв",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
