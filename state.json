@@ -49,34 +49,22 @@
     "peak": 552,
     "has_viewers": true,
     "title": "Вернулся с Мужского Женского😎",
-    "thumb": "https://i.ytimg.com/vi/wIfTThPgsdY/maxresdefault.jpg?v=23",
-    "viewers": 512
+    "thumb": "https://i.ytimg.com/vi/wIfTThPgsdY/maxresdefault.jpg?v=26",
+    "viewers": 430
    },
-   "2t_fCK4lip0": {
-    "vid": "2t_fCK4lip0",
+   "3tyZQv1vD3s": {
+    "vid": "3tyZQv1vD3s",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-24T17:17:47Z",
-    "peak": 50,
+    "start": "2026-11-24T17:42:47Z",
+    "peak": 15,
     "has_viewers": true,
     "title": "с жабием",
-    "thumb": "https://i.ytimg.com/vi/2t_fCK4lip0/maxresdefault.jpg?v=3",
-    "viewers": 50
+    "thumb": "https://i.ytimg.com/vi/3tyZQv1vD3s/maxresdefault.jpg?v=1",
+    "viewers": 15
    }
   },
   "ended": [
-   {
-    "vid": "rZx4TaRCb0g",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-22T12:27:39Z",
-    "peak": 112,
-    "has_viewers": true,
-    "title": "КУСНА",
-    "thumb": "https://i.ytimg.com/vi/rZx4TaRCb0g/maxresdefault.jpg?v=6b02dfb1",
-    "viewers": 4,
-    "dur": "2 ч 02 мин"
-   },
    {
     "vid": "a3dcGTCl0Ok",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/d5UU77zozEQ/maxresdefault.jpg?v=6b056cac",
     "viewers": 0,
     "dur": "6 ч 21 мин"
+   },
+   {
+    "vid": "2t_fCK4lip0",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-24T17:17:47Z",
+    "peak": 50,
+    "has_viewers": true,
+    "title": "с жабием",
+    "thumb": "https://i.ytimg.com/vi/2t_fCK4lip0/maxresdefault.jpg?v=3",
+    "viewers": 50,
+    "dur": "27 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wIfTThPgsdY\">Дон Грязь</a></b> · 512 👁 · 2 ч 50 мин\n└ Вернулся с Мужского Женского😎\n\n<b><a href=\"https://youtu.be/2t_fCK4lip0\">Федук</a></b> · 50 👁 · 12 мин\n└ с жабием",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/wIfTThPgsdY\">Дон Грязь</a></b> · 430 👁 · 3 ч 05 мин\n└ Вернулся с Мужского Женского😎\n\n<b><a href=\"https://youtu.be/3tyZQv1vD3s\">Федук</a></b> · 15 👁 · 2 мин\n└ с жабием",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
