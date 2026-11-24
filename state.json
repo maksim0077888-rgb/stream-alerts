@@ -41,31 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "ZeOu6s06v0k": {
-    "vid": "ZeOu6s06v0k",
+   "d5UU77zozEQ": {
+    "vid": "d5UU77zozEQ",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-24T09:21:16Z",
-    "peak": 170,
+    "start": "2026-11-24T10:53:40Z",
+    "peak": 89,
     "has_viewers": true,
     "title": "братья из гримсьи",
-    "thumb": "https://i.ytimg.com/vi/ZeOu6s06v0k/maxresdefault.jpg?v=6b055703",
-    "viewers": 60
+    "thumb": "https://i.ytimg.com/vi/d5UU77zozEQ/maxresdefault.jpg?v=6b056cac",
+    "viewers": 89
    }
   },
   "ended": [
-   {
-    "vid": "6P4jQ4VcgXw",
-    "cid": "UCxuWNVixWyudDP0j0SChQnw",
-    "name": "Школа Сук",
-    "start": "2026-11-21T17:03:23Z",
-    "peak": 30,
-    "has_viewers": true,
-    "title": "э",
-    "thumb": "https://i.ytimg.com/vi/6P4jQ4VcgXw/maxresdefault.jpg?v=3d",
-    "viewers": 7,
-    "dur": "5 ч 12 мин"
-   },
    {
     "vid": "YCH2t6iKcgk",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=32",
     "viewers": 1,
     "dur": "4 ч 04 мин"
+   },
+   {
+    "vid": "ZeOu6s06v0k",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-24T09:21:16Z",
+    "peak": 170,
+    "has_viewers": true,
+    "title": "братья из гримсьи",
+    "thumb": "https://i.ytimg.com/vi/ZeOu6s06v0k/maxresdefault.jpg?v=6b055703",
+    "viewers": 60,
+    "dur": "1 ч 39 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/ZeOu6s06v0k\">Федук</a></b> · 60 👁 · 1 ч 24 мин\n└ братья из гримсьи",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/d5UU77zozEQ\">Федук</a></b> · 89 👁 · 7 мин\n└ братья из гримсьи",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
