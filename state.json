@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/_tJG4gEfIDM/maxresdefault.jpg?v=6b07547b",
-    "viewers": 15
+    "viewers": 17
    },
    "F-K3qFPPKR0": {
     "vid": "F-K3qFPPKR0",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
     "start": "2026-11-25T22:19:46Z",
-    "peak": 11,
+    "peak": 18,
     "has_viewers": true,
     "title": "я перелымавас",
     "thumb": "https://i.ytimg.com/vi/F-K3qFPPKR0/maxresdefault.jpg?v=6b075ef9",
-    "viewers": 11
+    "viewers": 18
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "11 ч 48 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/_tJG4gEfIDM\">Ахиллес</a></b> · 15 👁 · 55 мин\n└ flaco в прямом эфире!\n\n<b><a href=\"https://youtu.be/F-K3qFPPKR0\">Федук</a></b> · 11 👁 · 10 мин\n└ я перелымавас",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/F-K3qFPPKR0\">Федук</a></b> · 18 👁 · 25 мин\n└ я перелымавас\n\n<b><a href=\"https://youtu.be/_tJG4gEfIDM\">Ахиллес</a></b> · 17 👁 · 1 ч 10 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
