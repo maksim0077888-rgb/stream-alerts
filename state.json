@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "победа вадима яны",
     "thumb": "https://i.ytimg.com/vi/FcWbxNWZV9o/maxresdefault.jpg?v=23",
-    "viewers": 1
+    "viewers": 3
    },
    "OZEQTuFYa_I": {
     "vid": "OZEQTuFYa_I",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-11-25T19:49:15Z",
-    "peak": 114,
+    "peak": 152,
     "has_viewers": true,
     "title": "Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ",
-    "thumb": "https://i.ytimg.com/vi/OZEQTuFYa_I/maxresdefault.jpg?v=3",
-    "viewers": 114
+    "thumb": "https://i.ytimg.com/vi/OZEQTuFYa_I/maxresdefault.jpg?v=6",
+    "viewers": 152
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "28 ч 46 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/OZEQTuFYa_I\">Гундос</a></b> · 114 👁 · 11 мин\n└ Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ\n\n<b><a href=\"https://youtu.be/FcWbxNWZV9o\">Федук</a></b> · 1 👁 · 9 ч 18 мин\n└ победа вадима яны",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/OZEQTuFYa_I\">Гундос</a></b> · 152 👁 · 26 мин\n└ Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ\n\n<b><a href=\"https://youtu.be/FcWbxNWZV9o\">Федук</a></b> · 3 👁 · 9 ч 33 мин\n└ победа вадима яны",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
