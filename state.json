@@ -49,34 +49,11 @@
     "peak": 552,
     "has_viewers": true,
     "title": "Вернулся с Мужского Женского😎",
-    "thumb": "https://i.ytimg.com/vi/wIfTThPgsdY/maxresdefault.jpg?v=b6",
-    "viewers": 98
-   },
-   "K52NhDu6Ntw": {
-    "vid": "K52NhDu6Ntw",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-24T19:12:23Z",
-    "peak": 187,
-    "has_viewers": true,
-    "title": "Прямая трансляция ФИЛЯЙ ФИЛЯЙ 2.0",
-    "thumb": "https://i.ytimg.com/vi/K52NhDu6Ntw/maxresdefault.jpg?v=34",
-    "viewers": 183
+    "thumb": "https://i.ytimg.com/vi/wIfTThPgsdY/maxresdefault.jpg?v=b9",
+    "viewers": 103
    }
   },
   "ended": [
-   {
-    "vid": "AjgMCH37qF8",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-22T17:22:26Z",
-    "peak": 1,
-    "has_viewers": true,
-    "title": "flaco в прямом эфире!",
-    "thumb": "https://i.ytimg.com/vi/AjgMCH37qF8/maxresdefault.jpg?v=6b0324b5",
-    "viewers": 1,
-    "dur": "8 мин"
-   },
    {
     "vid": "q6KTU3B_D8Q",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/3tyZQv1vD3s/maxresdefault.jpg?v=a",
     "viewers": 34,
     "dur": "1 ч 02 мин"
+   },
+   {
+    "vid": "K52NhDu6Ntw",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-24T19:12:23Z",
+    "peak": 187,
+    "has_viewers": true,
+    "title": "Прямая трансляция ФИЛЯЙ ФИЛЯЙ 2.0",
+    "thumb": "https://i.ytimg.com/vi/K52NhDu6Ntw/maxresdefault.jpg?v=34",
+    "viewers": 183,
+    "dur": "4 ч 22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/K52NhDu6Ntw\">Федук</a></b> · 183 👁 · 10 ч 33 мин\n└ Прямая трансляция ФИЛЯЙ ФИЛЯЙ 2.0\n\n<b><a href=\"https://youtu.be/wIfTThPgsdY\">Дон Грязь</a></b> · 98 👁 · 15 ч 05 мин\n└ Вернулся с Мужского Женского😎",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/wIfTThPgsdY\">Дон Грязь</a></b> · 103 👁 · 15 ч 20 мин\n└ Вернулся с Мужского Женского😎",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
