@@ -49,19 +49,19 @@
     "peak": 126,
     "has_viewers": true,
     "title": "шшшш ТВ",
-    "thumb": "https://i.ytimg.com/vi/UQJybt82bQY/maxresdefault.jpg?v=10",
-    "viewers": 125
+    "thumb": "https://i.ytimg.com/vi/UQJybt82bQY/maxresdefault.jpg?v=13",
+    "viewers": 121
    },
    "HtR-_pkubN4": {
     "vid": "HtR-_pkubN4",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-11-26T04:35:15Z",
-    "peak": 46,
+    "peak": 54,
     "has_viewers": true,
     "title": "Сегодня хочу пить лимонки",
-    "thumb": "https://i.ytimg.com/vi/HtR-_pkubN4/maxresdefault.jpg?v=5",
-    "viewers": 46
+    "thumb": "https://i.ytimg.com/vi/HtR-_pkubN4/maxresdefault.jpg?v=7",
+    "viewers": 54
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "5 ч 40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/UQJybt82bQY\">Гундос</a></b> · 125 👁 · 1 ч 21 мин\n└ шшшш ТВ\n\n<b><a href=\"https://youtu.be/HtR-_pkubN4\">Дон Грязь</a></b> · 46 👁 · 25 мин\n└ Сегодня хочу пить лимонки",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/UQJybt82bQY\">Гундос</a></b> · 121 👁 · 1 ч 36 мин\n└ шшшш ТВ\n\n<b><a href=\"https://youtu.be/HtR-_pkubN4\">Дон Грязь</a></b> · 54 👁 · 40 мин\n└ Сегодня хочу пить лимонки",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
