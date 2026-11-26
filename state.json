@@ -50,33 +50,10 @@
     "has_viewers": true,
     "title": "я перелымавас",
     "thumb": "https://i.ytimg.com/vi/VfAEbfV6g4o/maxresdefault.jpg?v=6b07fb04",
-    "viewers": 7
-   },
-   "3l2foU3_Wa4": {
-    "vid": "3l2foU3_Wa4",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-26T18:20:37Z",
-    "peak": 381,
-    "has_viewers": true,
-    "title": "СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?",
-    "thumb": "https://i.ytimg.com/vi/3l2foU3_Wa4/maxresdefault.jpg?v=3e",
-    "viewers": 242
+    "viewers": 5
    }
   },
   "ended": [
-   {
-    "vid": "VPn2CdKPqi4",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-24T14:29:34Z",
-    "peak": 2885,
-    "has_viewers": true,
-    "title": "Уже не нравится?",
-    "thumb": "https://i.ytimg.com/vi/VPn2CdKPqi4/maxresdefault.jpg?v=1c",
-    "viewers": 2885,
-    "dur": "2 ч 29 мин"
-   },
    {
     "vid": "d5UU77zozEQ",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/PIaleorfWoo/maxresdefault.jpg?v=30",
     "viewers": 708,
     "dur": "3 ч 59 мин"
+   },
+   {
+    "vid": "3l2foU3_Wa4",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-26T18:20:37Z",
+    "peak": 381,
+    "has_viewers": true,
+    "title": "СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?",
+    "thumb": "https://i.ytimg.com/vi/3l2foU3_Wa4/maxresdefault.jpg?v=3e",
+    "viewers": 242,
+    "dur": "5 ч 23 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/3l2foU3_Wa4\">Рифляй</a></b> · 242 👁 · 5 ч 10 мин\n└ СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?\n\n<b><a href=\"https://youtu.be/VfAEbfV6g4o\">Федук</a></b> · 7 👁 · 14 ч 05 мин\n└ я перелымавас",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/VfAEbfV6g4o\">Федук</a></b> · 5 👁 · 14 ч 19 мин\n└ я перелымавас",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
