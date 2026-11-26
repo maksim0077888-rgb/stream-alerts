@@ -41,42 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "UQJybt82bQY": {
-    "vid": "UQJybt82bQY",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-11-26T03:38:44Z",
-    "peak": 126,
-    "has_viewers": true,
-    "title": "шшшш ТВ",
-    "thumb": "https://i.ytimg.com/vi/UQJybt82bQY/maxresdefault.jpg?v=13",
-    "viewers": 121
-   },
    "HtR-_pkubN4": {
     "vid": "HtR-_pkubN4",
     "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
     "name": "Дон Грязь",
     "start": "2026-11-26T04:35:15Z",
-    "peak": 54,
+    "peak": 66,
     "has_viewers": true,
     "title": "Сегодня хочу пить лимонки",
-    "thumb": "https://i.ytimg.com/vi/HtR-_pkubN4/maxresdefault.jpg?v=7",
-    "viewers": 54
+    "thumb": "https://i.ytimg.com/vi/HtR-_pkubN4/maxresdefault.jpg?v=b",
+    "viewers": 66
    }
   },
   "ended": [
-   {
-    "vid": "jNBcPEHzjFg",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-23T09:36:55Z",
-    "peak": 103,
-    "has_viewers": true,
-    "title": "нвж страпое",
-    "thumb": "https://i.ytimg.com/vi/jNBcPEHzjFg/maxresdefault.jpg?v=6b04092e",
-    "viewers": 5,
-    "dur": "5 ч 03 мин"
-   },
    {
     "vid": "0nAAXXbOP6g",
     "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/_tJG4gEfIDM/maxresdefault.jpg?v=6b07547b",
     "viewers": 31,
     "dur": "5 ч 40 мин"
+   },
+   {
+    "vid": "UQJybt82bQY",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-26T03:38:44Z",
+    "peak": 126,
+    "has_viewers": true,
+    "title": "шшшш ТВ",
+    "thumb": "https://i.ytimg.com/vi/UQJybt82bQY/maxresdefault.jpg?v=13",
+    "viewers": 121,
+    "dur": "1 ч 44 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/UQJybt82bQY\">Гундос</a></b> · 121 👁 · 1 ч 36 мин\n└ шшшш ТВ\n\n<b><a href=\"https://youtu.be/HtR-_pkubN4\">Дон Грязь</a></b> · 54 👁 · 40 мин\n└ Сегодня хочу пить лимонки",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/HtR-_pkubN4\">Дон Грязь</a></b> · 66 👁 · 55 мин\n└ Сегодня хочу пить лимонки",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
