@@ -40,32 +40,8 @@
  "day": "2026-11-26",
  "board": {
   "msg": 132,
-  "streams": {
-   "HtR-_pkubN4": {
-    "vid": "HtR-_pkubN4",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-11-26T04:35:15Z",
-    "peak": 158,
-    "has_viewers": true,
-    "title": "Сегодня хочу пить лимонки",
-    "thumb": "https://i.ytimg.com/vi/HtR-_pkubN4/maxresdefault.jpg?v=1f",
-    "viewers": 157
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "0nAAXXbOP6g",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-23T14:30:34Z",
-    "peak": 3416,
-    "has_viewers": true,
-    "title": "Ему нравится?",
-    "thumb": "https://i.ytimg.com/vi/0nAAXXbOP6g/maxresdefault.jpg?v=24",
-    "viewers": 2499,
-    "dur": "3 ч 01 мин"
-   },
    {
     "vid": "H9VQrAQvVVo",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/UQJybt82bQY/maxresdefault.jpg?v=13",
     "viewers": 121,
     "dur": "1 ч 44 мин"
+   },
+   {
+    "vid": "HtR-_pkubN4",
+    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
+    "name": "Дон Грязь",
+    "start": "2026-11-26T04:35:15Z",
+    "peak": 158,
+    "has_viewers": true,
+    "title": "Сегодня хочу пить лимонки",
+    "thumb": "https://i.ytimg.com/vi/HtR-_pkubN4/maxresdefault.jpg?v=1f",
+    "viewers": 157,
+    "dur": "2 ч 55 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/HtR-_pkubN4\">Дон Грязь</a></b> · 157 👁 · 2 ч 40 мин\n└ Сегодня хочу пить лимонки",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
