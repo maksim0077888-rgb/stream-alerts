@@ -50,18 +50,7 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/_tJG4gEfIDM/maxresdefault.jpg?v=6b07547b",
-    "viewers": 7
-   },
-   "F-K3qFPPKR0": {
-    "vid": "F-K3qFPPKR0",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-25T22:19:46Z",
-    "peak": 82,
-    "has_viewers": true,
-    "title": "я перелымавас",
-    "thumb": "https://i.ytimg.com/vi/F-K3qFPPKR0/maxresdefault.jpg?v=6b075ef9",
-    "viewers": 63
+    "viewers": 8
    },
    "Mf8lucP-bc0": {
     "vid": "Mf8lucP-bc0",
@@ -71,23 +60,11 @@
     "peak": 88,
     "has_viewers": true,
     "title": "шшшшХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/Mf8lucP-bc0/maxresdefault.jpg?v=13",
-    "viewers": 88
+    "thumb": "https://i.ytimg.com/vi/Mf8lucP-bc0/maxresdefault.jpg?v=16",
+    "viewers": 87
    }
   },
   "ended": [
-   {
-    "vid": "X3QzitLfSnc",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-22T19:27:13Z",
-    "peak": 57,
-    "has_viewers": true,
-    "title": "луллулулуб",
-    "thumb": "https://i.ytimg.com/vi/X3QzitLfSnc/maxresdefault.jpg?v=6b034207",
-    "viewers": 3,
-    "dur": "34 мин"
-   },
    {
     "vid": "CtddizSlyts",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/FcWbxNWZV9o/maxresdefault.jpg?v=23",
     "viewers": 0,
     "dur": "11 ч 48 мин"
+   },
+   {
+    "vid": "F-K3qFPPKR0",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-25T22:19:46Z",
+    "peak": 82,
+    "has_viewers": true,
+    "title": "я перелымавас",
+    "thumb": "https://i.ytimg.com/vi/F-K3qFPPKR0/maxresdefault.jpg?v=6b075ef9",
+    "viewers": 63,
+    "dur": "3 ч 38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/Mf8lucP-bc0\">Гундос</a></b> · 88 👁 · 1 ч 34 мин\n└ шшшшХ ТВ\n\n<b><a href=\"https://youtu.be/F-K3qFPPKR0\">Федук</a></b> · 63 👁 · 3 ч 25 мин\n└ я перелымавас\n\n<b><a href=\"https://youtu.be/_tJG4gEfIDM\">Ахиллес</a></b> · 7 👁 · 4 ч 10 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/Mf8lucP-bc0\">Гундос</a></b> · 87 👁 · 1 ч 50 мин\n└ шшшшХ ТВ\n\n<b><a href=\"https://youtu.be/_tJG4gEfIDM\">Ахиллес</a></b> · 8 👁 · 4 ч 25 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
