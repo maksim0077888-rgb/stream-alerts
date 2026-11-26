@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "flaco в прямом эфире!",
     "thumb": "https://i.ytimg.com/vi/_tJG4gEfIDM/maxresdefault.jpg?v=6b07547b",
-    "viewers": 12
+    "viewers": 10
    },
    "F-K3qFPPKR0": {
     "vid": "F-K3qFPPKR0",
@@ -62,6 +62,17 @@
     "title": "я перелымавас",
     "thumb": "https://i.ytimg.com/vi/F-K3qFPPKR0/maxresdefault.jpg?v=6b075ef9",
     "viewers": 82
+   },
+   "Mf8lucP-bc0": {
+    "vid": "Mf8lucP-bc0",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-26T00:10:29Z",
+    "peak": 31,
+    "has_viewers": true,
+    "title": "шшшшХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/Mf8lucP-bc0/maxresdefault.jpg?v=1",
+    "viewers": 31
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "11 ч 48 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/F-K3qFPPKR0\">Федук</a></b> · 82 👁 · 1 ч 41 мин\n└ я перелымавас\n\n<b><a href=\"https://youtu.be/_tJG4gEfIDM\">Ахиллес</a></b> · 12 👁 · 2 ч 25 мин\n└ flaco в прямом эфире!",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/F-K3qFPPKR0\">Федук</a></b> · 82 👁 · 1 ч 55 мин\n└ я перелымавас\n\n<b><a href=\"https://youtu.be/Mf8lucP-bc0\">Гундос</a></b> · 31 👁 · 4 мин\n└ шшшшХ ТВ\n\n<b><a href=\"https://youtu.be/_tJG4gEfIDM\">Ахиллес</a></b> · 10 👁 · 2 ч 40 мин\n└ flaco в прямом эфире!",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
