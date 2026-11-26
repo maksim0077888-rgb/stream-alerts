@@ -60,34 +60,22 @@
     "peak": 849,
     "has_viewers": true,
     "title": "пппп ТВ",
-    "thumb": "https://i.ytimg.com/vi/PIaleorfWoo/maxresdefault.jpg?v=2d",
-    "viewers": 718
+    "thumb": "https://i.ytimg.com/vi/PIaleorfWoo/maxresdefault.jpg?v=30",
+    "viewers": 708
    },
-   "uP5-awIWBW8": {
-    "vid": "uP5-awIWBW8",
+   "3l2foU3_Wa4": {
+    "vid": "3l2foU3_Wa4",
     "cid": "UCGZvpQlc9dMl30uqbx7scHA",
     "name": "Рифляй",
-    "start": "2026-11-26T17:56:51Z",
-    "peak": 74,
+    "start": "2026-11-26T18:20:37Z",
+    "peak": 120,
     "has_viewers": true,
     "title": "СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?",
-    "thumb": "https://i.ytimg.com/vi/uP5-awIWBW8/maxresdefault.jpg?v=6b0872da",
-    "viewers": 60
+    "thumb": "https://i.ytimg.com/vi/3l2foU3_Wa4/maxresdefault.jpg?v=2",
+    "viewers": 120
    }
   },
   "ended": [
-   {
-    "vid": "H9VQrAQvVVo",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-23T14:42:36Z",
-    "peak": 588,
-    "has_viewers": true,
-    "title": "сон тв",
-    "thumb": "https://i.ytimg.com/vi/H9VQrAQvVVo/maxresdefault.jpg?v=32",
-    "viewers": 1,
-    "dur": "4 ч 04 мин"
-   },
    {
     "vid": "ZeOu6s06v0k",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/HtR-_pkubN4/maxresdefault.jpg?v=1f",
     "viewers": 157,
     "dur": "2 ч 55 мин"
+   },
+   {
+    "vid": "uP5-awIWBW8",
+    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
+    "name": "Рифляй",
+    "start": "2026-11-26T17:56:51Z",
+    "peak": 74,
+    "has_viewers": true,
+    "title": "СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?",
+    "thumb": "https://i.ytimg.com/vi/uP5-awIWBW8/maxresdefault.jpg?v=6b0872da",
+    "viewers": 60,
+    "dur": "22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/PIaleorfWoo\">Гундос</a></b> · 718 👁 · 3 ч 39 мин\n└ пппп ТВ\n\n<b><a href=\"https://youtu.be/uP5-awIWBW8\">Рифляй</a></b> · 60 👁 · 18 мин\n└ СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?\n\n<b><a href=\"https://youtu.be/VfAEbfV6g4o\">Федук</a></b> · 9 👁 · 8 ч 49 мин\n└ я перелымавас",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/PIaleorfWoo\">Гундос</a></b> · 708 👁 · 3 ч 54 мин\n└ пппп ТВ\n\n<b><a href=\"https://youtu.be/3l2foU3_Wa4\">Рифляй</a></b> · 120 👁 · 10 мин\n└ СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?\n\n<b><a href=\"https://youtu.be/VfAEbfV6g4o\">Федук</a></b> · 9 👁 · 9 ч 05 мин\n└ я перелымавас",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
