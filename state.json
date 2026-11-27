@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "зачем",
     "thumb": "https://i.ytimg.com/vi/HIDn4_2fbQE/maxresdefault.jpg?v=6b095894",
-    "viewers": 9
+    "viewers": 8
    },
    "vqf74UDeIiY": {
     "vid": "vqf74UDeIiY",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-11-27T10:30:55Z",
-    "peak": 2744,
+    "peak": 2813,
     "has_viewers": true,
     "title": "шляяяяХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/vqf74UDeIiY/maxresdefault.jpg?v=3",
-    "viewers": 2744
+    "thumb": "https://i.ytimg.com/vi/vqf74UDeIiY/maxresdefault.jpg?v=6",
+    "viewers": 2813
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/vqf74UDeIiY\">Гундос</a></b> · 2744 👁 · 14 мин\n└ шляяяяХ ТВ\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 9 👁 · 28 мин\n└ зачем",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/vqf74UDeIiY\">Гундос</a></b> · 2813 👁 · 29 мин\n└ шляяяяХ ТВ\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 8 👁 · 43 мин\n└ зачем",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
