@@ -41,17 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "n1g80K_tH44": {
-    "vid": "n1g80K_tH44",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-27T14:42:28Z",
-    "peak": 74,
-    "has_viewers": true,
-    "title": "да",
-    "thumb": "https://i.ytimg.com/vi/n1g80K_tH44/maxresdefault.jpg?v=23",
-    "viewers": 6
-   },
    "2VLMEEs46Nk": {
     "vid": "2VLMEEs46Nk",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -62,21 +51,20 @@
     "title": "по ему у",
     "thumb": "https://i.ytimg.com/vi/2VLMEEs46Nk/maxresdefault.jpg?v=6b099d5b",
     "viewers": 0
+   },
+   "1jMReHHDOxI": {
+    "vid": "1jMReHHDOxI",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-27T17:56:47Z",
+    "peak": 13,
+    "has_viewers": true,
+    "title": "идею",
+    "thumb": "https://i.ytimg.com/vi/1jMReHHDOxI/maxresdefault.jpg",
+    "viewers": 13
    }
   },
   "ended": [
-   {
-    "vid": "uP5-awIWBW8",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-26T17:56:51Z",
-    "peak": 74,
-    "has_viewers": true,
-    "title": "СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?",
-    "thumb": "https://i.ytimg.com/vi/uP5-awIWBW8/maxresdefault.jpg?v=6b0872da",
-    "viewers": 60,
-    "dur": "22 мин"
-   },
    {
     "vid": "PIaleorfWoo",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/1-Vid-uHEC8/maxresdefault.jpg?v=49",
     "viewers": 2381,
     "dur": "3 ч 08 мин"
+   },
+   {
+    "vid": "n1g80K_tH44",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-27T14:42:28Z",
+    "peak": 74,
+    "has_viewers": true,
+    "title": "да",
+    "thumb": "https://i.ytimg.com/vi/n1g80K_tH44/maxresdefault.jpg?v=23",
+    "viewers": 6,
+    "dur": "3 ч 18 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/n1g80K_tH44\">Ахиллес</a></b> · 6 👁 · 3 ч 03 мин\n└ да\n\n<b><a href=\"https://youtu.be/2VLMEEs46Nk\">Федук</a></b> · 0 👁 · 2 ч 34 мин\n└ по ему у",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/1jMReHHDOxI\">Ахиллес</a></b> · 13 👁 · 4 мин\n└ идею\n\n<b><a href=\"https://youtu.be/2VLMEEs46Nk\">Федук</a></b> · 0 👁 · 2 ч 50 мин\n└ по ему у",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
