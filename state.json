@@ -50,18 +50,18 @@
     "has_viewers": true,
     "title": "по ему у",
     "thumb": "https://i.ytimg.com/vi/2VLMEEs46Nk/maxresdefault.jpg?v=6b099d5b",
-    "viewers": 1
+    "viewers": 3
    },
    "1jMReHHDOxI": {
     "vid": "1jMReHHDOxI",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-27T17:56:47Z",
-    "peak": 18,
+    "peak": 33,
     "has_viewers": true,
     "title": "идею",
-    "thumb": "https://i.ytimg.com/vi/1jMReHHDOxI/maxresdefault.jpg?v=3",
-    "viewers": 18
+    "thumb": "https://i.ytimg.com/vi/1jMReHHDOxI/maxresdefault.jpg?v=6",
+    "viewers": 33
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "3 ч 18 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/1jMReHHDOxI\">Ахиллес</a></b> · 18 👁 · 18 мин\n└ идею\n\n<b><a href=\"https://youtu.be/2VLMEEs46Nk\">Федук</a></b> · 1 👁 · 3 ч 04 мин\n└ по ему у",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/1jMReHHDOxI\">Ахиллес</a></b> · 33 👁 · 33 мин\n└ идею\n\n<b><a href=\"https://youtu.be/2VLMEEs46Nk\">Федук</a></b> · 3 👁 · 3 ч 20 мин\n└ по ему у",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
