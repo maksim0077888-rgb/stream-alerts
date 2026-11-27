@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "бриь Йцайва нлгрмк",
     "thumb": "https://i.ytimg.com/vi/EsbDenzbzPE/maxresdefault.jpg?v=6b0911c2",
-    "viewers": 8
+    "viewers": 6
+   },
+   "QYd-EiLQVMg": {
+    "vid": "QYd-EiLQVMg",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-27T07:05:34Z",
+    "peak": 206,
+    "has_viewers": true,
+    "title": "Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ",
+    "thumb": "https://i.ytimg.com/vi/QYd-EiLQVMg/maxresdefault.jpg?v=2",
+    "viewers": 206
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "1 ч 32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/EsbDenzbzPE\">Федук</a></b> · 8 👁 · 1 ч 45 мин\n└ бриь Йцайва нлгрмк",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/QYd-EiLQVMg\">Гундос</a></b> · 206 👁 · 9 мин\n└ Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ\n\n<b><a href=\"https://youtu.be/EsbDenzbzPE\">Федук</a></b> · 6 👁 · 2 ч 00 мин\n└ бриь Йцайва нлгрмк",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
