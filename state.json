@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "зачем",
     "thumb": "https://i.ytimg.com/vi/HIDn4_2fbQE/maxresdefault.jpg?v=6b095894",
-    "viewers": 0
+    "viewers": 1
    },
    "1-Vid-uHEC8": {
     "vid": "1-Vid-uHEC8",
@@ -60,19 +60,19 @@
     "peak": 2566,
     "has_viewers": true,
     "title": "GOWнарёк",
-    "thumb": "https://i.ytimg.com/vi/1-Vid-uHEC8/maxresdefault.jpg?v=d",
-    "viewers": 2566
+    "thumb": "https://i.ytimg.com/vi/1-Vid-uHEC8/maxresdefault.jpg?v=10",
+    "viewers": 2303
    },
    "n1g80K_tH44": {
     "vid": "n1g80K_tH44",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-27T14:42:28Z",
-    "peak": 16,
+    "peak": 38,
     "has_viewers": true,
     "title": "да",
-    "thumb": "https://i.ytimg.com/vi/n1g80K_tH44/maxresdefault.jpg",
-    "viewers": 16
+    "thumb": "https://i.ytimg.com/vi/n1g80K_tH44/maxresdefault.jpg?v=2",
+    "viewers": 38
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "51 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1-Vid-uHEC8\">ПАПИЧ</a></b> · 2566 👁 · 33 мин\n└ GOWнарёк\n\n<b><a href=\"https://youtu.be/n1g80K_tH44\">Ахиллес</a></b> · 16 👁 · 3 мин\n└ да\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 0 👁 · 4 ч 28 мин\n└ зачем",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/1-Vid-uHEC8\">ПАПИЧ</a></b> · 2303 👁 · 39 мин\n└ GOWнарёк\n\n<b><a href=\"https://youtu.be/n1g80K_tH44\">Ахиллес</a></b> · 38 👁 · 8 мин\n└ да\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 1 👁 · 4 ч 34 мин\n└ зачем",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
