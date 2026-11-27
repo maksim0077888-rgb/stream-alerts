@@ -41,31 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "BWSiLCh7f1I": {
-    "vid": "BWSiLCh7f1I",
+   "EsbDenzbzPE": {
+    "vid": "EsbDenzbzPE",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-27T03:40:50Z",
-    "peak": 60,
+    "start": "2026-11-27T05:14:51Z",
+    "peak": 1,
     "has_viewers": true,
-    "title": "ДОЛЖЕН ЛИ МУЖЧИНА БРИТЬ ЯЙЦА",
-    "thumb": "https://i.ytimg.com/vi/BWSiLCh7f1I/maxresdefault.jpg?v=6b08fbb8",
-    "viewers": 60
+    "title": "бриь Йцайва нлгрмк",
+    "thumb": "https://i.ytimg.com/vi/EsbDenzbzPE/maxresdefault.jpg?v=6b0911c2",
+    "viewers": 1
    }
   },
   "ended": [
-   {
-    "vid": "3tyZQv1vD3s",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-24T17:42:47Z",
-    "peak": 60,
-    "has_viewers": true,
-    "title": "с жабием",
-    "thumb": "https://i.ytimg.com/vi/3tyZQv1vD3s/maxresdefault.jpg?v=a",
-    "viewers": 34,
-    "dur": "1 ч 02 мин"
-   },
    {
     "vid": "K52NhDu6Ntw",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/2LhuCTXQ6WE/maxresdefault.jpg?v=6b08ccad",
     "viewers": 25,
     "dur": "40 мин"
+   },
+   {
+    "vid": "BWSiLCh7f1I",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-27T03:40:50Z",
+    "peak": 60,
+    "has_viewers": true,
+    "title": "ДОЛЖЕН ЛИ МУЖЧИНА БРИТЬ ЯЙЦА",
+    "thumb": "https://i.ytimg.com/vi/BWSiLCh7f1I/maxresdefault.jpg?v=6b08fbb8",
+    "viewers": 60,
+    "dur": "1 ч 32 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/BWSiLCh7f1I\">Федук</a></b> · 60 👁 · 1 ч 19 мин\n└ ДОЛЖЕН ЛИ МУЖЧИНА БРИТЬ ЯЙЦА",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/EsbDenzbzPE\">Федук</a></b> · 1 👁 · 0 мин\n└ бриь Йцайва нлгрмк",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
