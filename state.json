@@ -40,32 +40,8 @@
  "day": "2026-11-27",
  "board": {
   "msg": 132,
-  "streams": {
-   "VfAEbfV6g4o": {
-    "vid": "VfAEbfV6g4o",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-26T09:25:34Z",
-    "peak": 405,
-    "has_viewers": true,
-    "title": "я перелымавас",
-    "thumb": "https://i.ytimg.com/vi/VfAEbfV6g4o/maxresdefault.jpg?v=6b07fb04",
-    "viewers": 2
-   }
-  },
+  "streams": {},
   "ended": [
-   {
-    "vid": "d5UU77zozEQ",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-24T10:53:40Z",
-    "peak": 193,
-    "has_viewers": true,
-    "title": "братья из гримсьи",
-    "thumb": "https://i.ytimg.com/vi/d5UU77zozEQ/maxresdefault.jpg?v=6b056cac",
-    "viewers": 0,
-    "dur": "6 ч 21 мин"
-   },
    {
     "vid": "2t_fCK4lip0",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -233,9 +209,21 @@
     "thumb": "https://i.ytimg.com/vi/3l2foU3_Wa4/maxresdefault.jpg?v=3e",
     "viewers": 242,
     "dur": "5 ч 23 мин"
+   },
+   {
+    "vid": "VfAEbfV6g4o",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-26T09:25:34Z",
+    "peak": 405,
+    "has_viewers": true,
+    "title": "я перелымавас",
+    "thumb": "https://i.ytimg.com/vi/VfAEbfV6g4o/maxresdefault.jpg?v=6b07fb04",
+    "viewers": 2,
+    "dur": "14 ч 42 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/VfAEbfV6g4o\">Федук</a></b> · 2 👁 · 14 ч 35 мин\n└ я перелымавас",
+  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
