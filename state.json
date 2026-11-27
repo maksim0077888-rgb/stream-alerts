@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "зачем",
     "thumb": "https://i.ytimg.com/vi/HIDn4_2fbQE/maxresdefault.jpg?v=6b095894",
-    "viewers": 1
+    "viewers": 2
+   },
+   "fx1cqDXuSu4": {
+    "vid": "fx1cqDXuSu4",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-27T13:33:13Z",
+    "peak": 73,
+    "has_viewers": true,
+    "title": "вечером",
+    "thumb": "https://i.ytimg.com/vi/fx1cqDXuSu4/maxresdefault.jpg?v=2",
+    "viewers": 73
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "2 ч 03 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 1 👁 · 3 ч 13 мин\n└ зачем",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/fx1cqDXuSu4\">Ахиллес</a></b> · 73 👁 · 12 мин\n└ вечером\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 2 👁 · 3 ч 28 мин\n└ зачем",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
