@@ -41,31 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "EsbDenzbzPE": {
-    "vid": "EsbDenzbzPE",
+   "eIWQ_wBMyRQ": {
+    "vid": "eIWQ_wBMyRQ",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-27T05:14:51Z",
-    "peak": 55,
+    "start": "2026-11-27T09:53:34Z",
+    "peak": 10,
     "has_viewers": true,
-    "title": "бриь Йцайва нлгрмк",
-    "thumb": "https://i.ytimg.com/vi/EsbDenzbzPE/maxresdefault.jpg?v=6b0911c2",
-    "viewers": 4
+    "title": "зачем",
+    "thumb": "https://i.ytimg.com/vi/eIWQ_wBMyRQ/maxresdefault.jpg?v=6b095316",
+    "viewers": 10
    }
   },
   "ended": [
-   {
-    "vid": "wIfTThPgsdY",
-    "cid": "UCnuCoPa0BMRqmT6PrEbq4Pw",
-    "name": "Дон Грязь",
-    "start": "2026-11-24T14:39:43Z",
-    "peak": 552,
-    "has_viewers": true,
-    "title": "Вернулся с Мужского Женского😎",
-    "thumb": "https://i.ytimg.com/vi/wIfTThPgsdY/maxresdefault.jpg?v=159",
-    "viewers": 158,
-    "dur": "28 ч 46 мин"
-   },
    {
     "vid": "OZEQTuFYa_I",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/QYd-EiLQVMg/maxresdefault.jpg?v=1f",
     "viewers": 3013,
     "dur": "2 ч 25 мин"
+   },
+   {
+    "vid": "EsbDenzbzPE",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-27T05:14:51Z",
+    "peak": 55,
+    "has_viewers": true,
+    "title": "бриь Йцайва нлгрмк",
+    "thumb": "https://i.ytimg.com/vi/EsbDenzbzPE/maxresdefault.jpg?v=6b0911c2",
+    "viewers": 4,
+    "dur": "4 ч 38 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/EsbDenzbzPE\">Федук</a></b> · 4 👁 · 4 ч 30 мин\n└ бриь Йцайва нлгрмк",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/eIWQ_wBMyRQ\">Федук</a></b> · 10 👁 · 7 мин\n└ зачем",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
