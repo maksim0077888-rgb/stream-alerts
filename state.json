@@ -49,8 +49,8 @@
     "peak": 48,
     "has_viewers": true,
     "title": "идею",
-    "thumb": "https://i.ytimg.com/vi/1jMReHHDOxI/maxresdefault.jpg?v=32",
-    "viewers": 42
+    "thumb": "https://i.ytimg.com/vi/1jMReHHDOxI/maxresdefault.jpg?v=35",
+    "viewers": 35
    },
    "E_IJgTgJNJY": {
     "vid": "E_IJgTgJNJY",
@@ -61,18 +61,18 @@
     "has_viewers": true,
     "title": "петер  вврчяай",
     "thumb": "https://i.ytimg.com/vi/E_IJgTgJNJY/maxresdefault.jpg?v=6b09d6bd",
-    "viewers": 4
+    "viewers": 3
    },
    "GNLwdmLhPjg": {
     "vid": "GNLwdmLhPjg",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-11-27T22:20:57Z",
-    "peak": 309,
+    "peak": 428,
     "has_viewers": true,
     "title": "аввв ТВ",
-    "thumb": "https://i.ytimg.com/vi/GNLwdmLhPjg/maxresdefault.jpg?v=2",
-    "viewers": 309
+    "thumb": "https://i.ytimg.com/vi/GNLwdmLhPjg/maxresdefault.jpg?v=5",
+    "viewers": 428
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "3 ч 16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/GNLwdmLhPjg\">Гундос</a></b> · 309 👁 · 9 мин\n└ аввв ТВ\n\n<b><a href=\"https://youtu.be/1jMReHHDOxI\">Ахиллес</a></b> · 42 👁 · 4 ч 33 мин\n└ идею\n\n<b><a href=\"https://youtu.be/E_IJgTgJNJY\">Федук</a></b> · 4 👁 · 3 ч 15 мин\n└ петер  вврчяай",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/GNLwdmLhPjg\">Гундос</a></b> · 428 👁 · 24 мин\n└ аввв ТВ\n\n<b><a href=\"https://youtu.be/1jMReHHDOxI\">Ахиллес</a></b> · 35 👁 · 4 ч 48 мин\n└ идею\n\n<b><a href=\"https://youtu.be/E_IJgTgJNJY\">Федук</a></b> · 3 👁 · 3 ч 30 мин\n└ петер  вврчяай",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
