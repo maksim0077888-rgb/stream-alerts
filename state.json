@@ -49,19 +49,8 @@
     "peak": 48,
     "has_viewers": true,
     "title": "идею",
-    "thumb": "https://i.ytimg.com/vi/1jMReHHDOxI/maxresdefault.jpg?v=2f",
-    "viewers": 44
-   },
-   "mcSrcgrTK7E": {
-    "vid": "mcSrcgrTK7E",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-11-27T19:02:18Z",
-    "peak": 604,
-    "has_viewers": true,
-    "title": "Х ТВ",
-    "thumb": "https://i.ytimg.com/vi/mcSrcgrTK7E/maxresdefault.jpg?v=27",
-    "viewers": 585
+    "thumb": "https://i.ytimg.com/vi/1jMReHHDOxI/maxresdefault.jpg?v=32",
+    "viewers": 42
    },
    "E_IJgTgJNJY": {
     "vid": "E_IJgTgJNJY",
@@ -73,21 +62,20 @@
     "title": "петер  вврчяай",
     "thumb": "https://i.ytimg.com/vi/E_IJgTgJNJY/maxresdefault.jpg?v=6b09d6bd",
     "viewers": 4
+   },
+   "GNLwdmLhPjg": {
+    "vid": "GNLwdmLhPjg",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-27T22:20:57Z",
+    "peak": 309,
+    "has_viewers": true,
+    "title": "аввв ТВ",
+    "thumb": "https://i.ytimg.com/vi/GNLwdmLhPjg/maxresdefault.jpg?v=2",
+    "viewers": 309
    }
   },
   "ended": [
-   {
-    "vid": "3l2foU3_Wa4",
-    "cid": "UCGZvpQlc9dMl30uqbx7scHA",
-    "name": "Рифляй",
-    "start": "2026-11-26T18:20:37Z",
-    "peak": 381,
-    "has_viewers": true,
-    "title": "СТРИМ С КРУТОЙ МИЛАШКОЙ, ВАЛЯ ВЕРНУЛСЯ?",
-    "thumb": "https://i.ytimg.com/vi/3l2foU3_Wa4/maxresdefault.jpg?v=3e",
-    "viewers": 242,
-    "dur": "5 ч 23 мин"
-   },
    {
     "vid": "VfAEbfV6g4o",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +243,21 @@
     "thumb": "https://i.ytimg.com/vi/2VLMEEs46Nk/maxresdefault.jpg?v=6b099d5b",
     "viewers": 0,
     "dur": "4 ч 04 мин"
+   },
+   {
+    "vid": "mcSrcgrTK7E",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-27T19:02:18Z",
+    "peak": 604,
+    "has_viewers": true,
+    "title": "Х ТВ",
+    "thumb": "https://i.ytimg.com/vi/mcSrcgrTK7E/maxresdefault.jpg?v=27",
+    "viewers": 585,
+    "dur": "3 ч 16 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/mcSrcgrTK7E\">Гундос</a></b> · 585 👁 · 3 ч 13 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/1jMReHHDOxI\">Ахиллес</a></b> · 44 👁 · 4 ч 18 мин\n└ идею\n\n<b><a href=\"https://youtu.be/E_IJgTgJNJY\">Федук</a></b> · 4 👁 · 3 ч 00 мин\n└ петер  вврчяай",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/GNLwdmLhPjg\">Гундос</a></b> · 309 👁 · 9 мин\n└ аввв ТВ\n\n<b><a href=\"https://youtu.be/1jMReHHDOxI\">Ахиллес</a></b> · 42 👁 · 4 ч 33 мин\n└ идею\n\n<b><a href=\"https://youtu.be/E_IJgTgJNJY\">Федук</a></b> · 4 👁 · 3 ч 15 мин\n└ петер  вврчяай",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
