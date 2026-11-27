@@ -50,33 +50,21 @@
     "has_viewers": true,
     "title": "зачем",
     "thumb": "https://i.ytimg.com/vi/HIDn4_2fbQE/maxresdefault.jpg?v=6b095894",
-    "viewers": 2
+    "viewers": 1
    },
-   "fx1cqDXuSu4": {
-    "vid": "fx1cqDXuSu4",
+   "w5L8JcdVVTI": {
+    "vid": "w5L8JcdVVTI",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
-    "start": "2026-11-27T13:33:13Z",
-    "peak": 73,
+    "start": "2026-11-27T13:54:24Z",
+    "peak": 48,
     "has_viewers": true,
-    "title": "вечером",
-    "thumb": "https://i.ytimg.com/vi/fx1cqDXuSu4/maxresdefault.jpg?v=2",
-    "viewers": 73
+    "title": "с работы",
+    "thumb": "https://i.ytimg.com/vi/w5L8JcdVVTI/maxresdefault.jpg?v=1",
+    "viewers": 48
    }
   },
   "ended": [
-   {
-    "vid": "F-K3qFPPKR0",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-25T22:19:46Z",
-    "peak": 82,
-    "has_viewers": true,
-    "title": "я перелымавас",
-    "thumb": "https://i.ytimg.com/vi/F-K3qFPPKR0/maxresdefault.jpg?v=6b075ef9",
-    "viewers": 63,
-    "dur": "3 ч 38 мин"
-   },
    {
     "vid": "Mf8lucP-bc0",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -244,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/vqf74UDeIiY/maxresdefault.jpg?v=19",
     "viewers": 550,
     "dur": "2 ч 03 мин"
+   },
+   {
+    "vid": "fx1cqDXuSu4",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-27T13:33:13Z",
+    "peak": 73,
+    "has_viewers": true,
+    "title": "вечером",
+    "thumb": "https://i.ytimg.com/vi/fx1cqDXuSu4/maxresdefault.jpg?v=2",
+    "viewers": 73,
+    "dur": "27 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/fx1cqDXuSu4\">Ахиллес</a></b> · 73 👁 · 12 мин\n└ вечером\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 2 👁 · 3 ч 28 мин\n└ зачем",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/w5L8JcdVVTI\">Ахиллес</a></b> · 48 👁 · 6 мин\n└ с работы\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 1 👁 · 3 ч 43 мин\n└ зачем",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
