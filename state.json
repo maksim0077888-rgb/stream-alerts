@@ -40,7 +40,19 @@
  "day": "2026-11-27",
  "board": {
   "msg": 132,
-  "streams": {},
+  "streams": {
+   "BWSiLCh7f1I": {
+    "vid": "BWSiLCh7f1I",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-27T03:40:50Z",
+    "peak": 7,
+    "has_viewers": true,
+    "title": "ДОЛЖЕН ЛИ МУЖЧИНА БРИТЬ ЯЙЦА",
+    "thumb": "https://i.ytimg.com/vi/BWSiLCh7f1I/maxresdefault.jpg?v=6b08fbb8",
+    "viewers": 7
+   }
+  },
   "ended": [
    {
     "vid": "3tyZQv1vD3s",
@@ -223,7 +235,7 @@
     "dur": "40 мин"
    }
   ],
-  "text": "⚫️ <b>Сейчас никого нет в эфире</b>",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/BWSiLCh7f1I\">Федук</a></b> · 7 👁 · 4 мин\n└ ДОЛЖЕН ЛИ МУЖЧИНА БРИТЬ ЯЙЦА",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
