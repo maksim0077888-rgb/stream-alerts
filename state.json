@@ -41,31 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "eIWQ_wBMyRQ": {
-    "vid": "eIWQ_wBMyRQ",
+   "HIDn4_2fbQE": {
+    "vid": "HIDn4_2fbQE",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
     "name": "Федук",
-    "start": "2026-11-27T09:53:34Z",
-    "peak": 10,
+    "start": "2026-11-27T10:17:01Z",
+    "peak": 22,
     "has_viewers": true,
     "title": "зачем",
-    "thumb": "https://i.ytimg.com/vi/eIWQ_wBMyRQ/maxresdefault.jpg?v=6b095316",
-    "viewers": 3
+    "thumb": "https://i.ytimg.com/vi/HIDn4_2fbQE/maxresdefault.jpg?v=6b095894",
+    "viewers": 22
    }
   },
   "ended": [
-   {
-    "vid": "OZEQTuFYa_I",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-11-25T19:49:15Z",
-    "peak": 152,
-    "has_viewers": true,
-    "title": "Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ",
-    "thumb": "https://i.ytimg.com/vi/OZEQTuFYa_I/maxresdefault.jpg?v=9",
-    "viewers": 148,
-    "dur": "42 мин"
-   },
    {
     "vid": "FcWbxNWZV9o",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -233,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/EsbDenzbzPE/maxresdefault.jpg?v=6b0911c2",
     "viewers": 4,
     "dur": "4 ч 38 мин"
+   },
+   {
+    "vid": "eIWQ_wBMyRQ",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-27T09:53:34Z",
+    "peak": 10,
+    "has_viewers": true,
+    "title": "зачем",
+    "thumb": "https://i.ytimg.com/vi/eIWQ_wBMyRQ/maxresdefault.jpg?v=6b095316",
+    "viewers": 3,
+    "dur": "22 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/eIWQ_wBMyRQ\">Федук</a></b> · 3 👁 · 21 мин\n└ зачем",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/HIDn4_2fbQE\">Федук</a></b> · 22 👁 · 13 мин\n└ зачем",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
