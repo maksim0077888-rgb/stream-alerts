@@ -50,7 +50,7 @@
     "has_viewers": true,
     "title": "петер  вврчяай",
     "thumb": "https://i.ytimg.com/vi/E_IJgTgJNJY/maxresdefault.jpg?v=6b09d6bd",
-    "viewers": 2
+    "viewers": 0
    },
    "XGVeU7TnCsQ": {
     "vid": "XGVeU7TnCsQ",
@@ -60,19 +60,19 @@
     "peak": 117,
     "has_viewers": true,
     "title": "ПОЛУСТРИМ",
-    "thumb": "https://i.ytimg.com/vi/XGVeU7TnCsQ/maxresdefault.jpg?v=12",
-    "viewers": 107
+    "thumb": "https://i.ytimg.com/vi/XGVeU7TnCsQ/maxresdefault.jpg?v=14",
+    "viewers": 92
    },
    "dou6lC4DhPM": {
     "vid": "dou6lC4DhPM",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-11-28T06:51:12Z",
-    "peak": 291,
+    "peak": 396,
     "has_viewers": true,
     "title": "Х ТВ",
-    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=b",
-    "viewers": 291
+    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=e",
+    "viewers": 396
    }
   },
   "ended": [
@@ -257,7 +257,7 @@
     "dur": "3 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 291 👁 · 54 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/XGVeU7TnCsQ\">Ахиллес</a></b> · 107 👁 · 1 ч 29 мин\n└ ПОЛУСТРИМ\n\n<b><a href=\"https://youtu.be/E_IJgTgJNJY\">Федук</a></b> · 2 👁 · 12 ч 30 мин\n└ петер  вврчяай",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 396 👁 · 1 ч 09 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/XGVeU7TnCsQ\">Ахиллес</a></b> · 92 👁 · 1 ч 45 мин\n└ ПОЛУСТРИМ\n\n<b><a href=\"https://youtu.be/E_IJgTgJNJY\">Федук</a></b> · 0 👁 · 12 ч 45 мин\n└ петер  вврчяай",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
