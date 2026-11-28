@@ -41,28 +41,6 @@
  "board": {
   "msg": 132,
   "streams": {
-   "E_IJgTgJNJY": {
-    "vid": "E_IJgTgJNJY",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-27T19:15:19Z",
-    "peak": 18,
-    "has_viewers": true,
-    "title": "петер  вврчяай",
-    "thumb": "https://i.ytimg.com/vi/E_IJgTgJNJY/maxresdefault.jpg?v=6b09d6bd",
-    "viewers": 0
-   },
-   "XGVeU7TnCsQ": {
-    "vid": "XGVeU7TnCsQ",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-28T06:15:51Z",
-    "peak": 117,
-    "has_viewers": true,
-    "title": "ПОЛУСТРИМ",
-    "thumb": "https://i.ytimg.com/vi/XGVeU7TnCsQ/maxresdefault.jpg?v=2c",
-    "viewers": 70
-   },
    "dou6lC4DhPM": {
     "vid": "dou6lC4DhPM",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -71,35 +49,11 @@
     "peak": 650,
     "has_viewers": true,
     "title": "Х ТВ",
-    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=26",
-    "viewers": 639
+    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=29",
+    "viewers": 625
    }
   },
   "ended": [
-   {
-    "vid": "BWSiLCh7f1I",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-27T03:40:50Z",
-    "peak": 60,
-    "has_viewers": true,
-    "title": "ДОЛЖЕН ЛИ МУЖЧИНА БРИТЬ ЯЙЦА",
-    "thumb": "https://i.ytimg.com/vi/BWSiLCh7f1I/maxresdefault.jpg?v=6b08fbb8",
-    "viewers": 60,
-    "dur": "1 ч 32 мин"
-   },
-   {
-    "vid": "QYd-EiLQVMg",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-11-27T07:05:34Z",
-    "peak": 3051,
-    "has_viewers": true,
-    "title": "Прямая трансляция ПИЗДАРВАНКИ КАМЕРЫ",
-    "thumb": "https://i.ytimg.com/vi/QYd-EiLQVMg/maxresdefault.jpg?v=1f",
-    "viewers": 3013,
-    "dur": "2 ч 25 мин"
-   },
    {
     "vid": "EsbDenzbzPE",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +209,33 @@
     "thumb": "https://i.ytimg.com/vi/GNLwdmLhPjg/maxresdefault.jpg?v=2f",
     "viewers": 199,
     "dur": "3 ч 59 мин"
+   },
+   {
+    "vid": "E_IJgTgJNJY",
+    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
+    "name": "Федук",
+    "start": "2026-11-27T19:15:19Z",
+    "peak": 18,
+    "has_viewers": true,
+    "title": "петер  вврчяай",
+    "thumb": "https://i.ytimg.com/vi/E_IJgTgJNJY/maxresdefault.jpg?v=6b09d6bd",
+    "viewers": 0,
+    "dur": "8 ч 40 мин"
+   },
+   {
+    "vid": "XGVeU7TnCsQ",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-28T06:15:51Z",
+    "peak": 117,
+    "has_viewers": true,
+    "title": "ПОЛУСТРИМ",
+    "thumb": "https://i.ytimg.com/vi/XGVeU7TnCsQ/maxresdefault.jpg?v=2c",
+    "viewers": 70,
+    "dur": "3 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 639 👁 · 3 ч 09 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/XGVeU7TnCsQ\">Ахиллес</a></b> · 70 👁 · 3 ч 44 мин\n└ ПОЛУСТРИМ\n\n<b><a href=\"https://youtu.be/E_IJgTgJNJY\">Федук</a></b> · 0 👁 · 14 ч 45 мин\n└ петер  вврчяай",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 625 👁 · 3 ч 24 мин\n└ Х ТВ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
