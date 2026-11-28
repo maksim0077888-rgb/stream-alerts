@@ -60,19 +60,8 @@
     "peak": 709,
     "has_viewers": true,
     "title": "бляУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/E8e01ysjXu8/maxresdefault.jpg?v=27",
-    "viewers": 654
-   },
-   "OstOUewEwC4": {
-    "vid": "OstOUewEwC4",
-    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
-    "name": "ПАПИЧ",
-    "start": "2026-11-28T15:00:41Z",
-    "peak": 1994,
-    "has_viewers": true,
-    "title": "Микро-Затык",
-    "thumb": "https://i.ytimg.com/vi/OstOUewEwC4/maxresdefault.jpg?v=21",
-    "viewers": 1992
+    "thumb": "https://i.ytimg.com/vi/E8e01ysjXu8/maxresdefault.jpg?v=2a",
+    "viewers": 614
    },
    "-JqI49reJ6Q": {
     "vid": "-JqI49reJ6Q",
@@ -83,22 +72,21 @@
     "has_viewers": true,
     "title": "нужно ли  брить Яйцва",
     "thumb": "https://i.ytimg.com/vi/-JqI49reJ6Q/maxresdefault.jpg?v=6b0af533",
-    "viewers": 7
+    "viewers": 6
+   },
+   "jzkepkirg7A": {
+    "vid": "jzkepkirg7A",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-28T17:54:51Z",
+    "peak": 18,
+    "has_viewers": true,
+    "title": "Прямая трансляция flaco",
+    "thumb": "https://i.ytimg.com/vi/jzkepkirg7A/maxresdefault.jpg?v=1",
+    "viewers": 18
    }
   },
   "ended": [
-   {
-    "vid": "eIWQ_wBMyRQ",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-27T09:53:34Z",
-    "peak": 10,
-    "has_viewers": true,
-    "title": "зачем",
-    "thumb": "https://i.ytimg.com/vi/eIWQ_wBMyRQ/maxresdefault.jpg?v=6b095316",
-    "viewers": 3,
-    "dur": "22 мин"
-   },
    {
     "vid": "vqf74UDeIiY",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
@@ -266,9 +254,21 @@
     "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=3a",
     "viewers": 663,
     "dur": "4 ч 40 мин"
+   },
+   {
+    "vid": "OstOUewEwC4",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-28T15:00:41Z",
+    "peak": 1994,
+    "has_viewers": true,
+    "title": "Микро-Затык",
+    "thumb": "https://i.ytimg.com/vi/OstOUewEwC4/maxresdefault.jpg?v=21",
+    "viewers": 1992,
+    "dur": "2 ч 52 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/OstOUewEwC4\">ПАПИЧ</a></b> · 1992 👁 · 2 ч 44 мин\n└ Микро-Затык\n\n<b><a href=\"https://youtu.be/E8e01ysjXu8\">Гундос</a></b> · 654 👁 · 3 ч 18 мин\n└ бляУХ ТВ\n\n<b><a href=\"https://youtu.be/-JqI49reJ6Q\">Федук</a></b> · 7 👁 · 2 ч 07 мин\n└ нужно ли  брить Яйцва\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 0 👁 · 7 ч 20 мин\n└ КОСТЯ ГЕЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 4</b>\n\n<b><a href=\"https://youtu.be/E8e01ysjXu8\">Гундос</a></b> · 614 👁 · 3 ч 33 мин\n└ бляУХ ТВ\n\n<b><a href=\"https://youtu.be/jzkepkirg7A\">Ахиллес</a></b> · 18 👁 · 5 мин\n└ Прямая трансляция flaco\n\n<b><a href=\"https://youtu.be/-JqI49reJ6Q\">Федук</a></b> · 6 👁 · 2 ч 23 мин\n└ нужно ли  брить Яйцва\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 0 👁 · 7 ч 35 мин\n└ КОСТЯ ГЕЙ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
