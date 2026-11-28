@@ -52,17 +52,6 @@
     "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=4c",
     "viewers": 0
    },
-   "E8e01ysjXu8": {
-    "vid": "E8e01ysjXu8",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-11-28T14:27:06Z",
-    "peak": 709,
-    "has_viewers": true,
-    "title": "бляУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/E8e01ysjXu8/maxresdefault.jpg?v=4c",
-    "viewers": 601
-   },
    "-JqI49reJ6Q": {
     "vid": "-JqI49reJ6Q",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -76,18 +65,6 @@
    }
   },
   "ended": [
-   {
-    "vid": "w5L8JcdVVTI",
-    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
-    "name": "Ахиллес",
-    "start": "2026-11-27T13:54:24Z",
-    "peak": 81,
-    "has_viewers": true,
-    "title": "с работы",
-    "thumb": "https://i.ytimg.com/vi/w5L8JcdVVTI/maxresdefault.jpg?v=5",
-    "viewers": 19,
-    "dur": "51 мин"
-   },
    {
     "vid": "HIDn4_2fbQE",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -255,9 +232,21 @@
     "thumb": "https://i.ytimg.com/vi/FIEdNGpn6HE/maxresdefault.jpg?v=6b0b2d2d",
     "viewers": 5,
     "dur": "15 мин"
+   },
+   {
+    "vid": "E8e01ysjXu8",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-28T14:27:06Z",
+    "peak": 709,
+    "has_viewers": true,
+    "title": "бляУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/E8e01ysjXu8/maxresdefault.jpg?v=4c",
+    "viewers": 601,
+    "dur": "6 ч 29 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/E8e01ysjXu8\">Гундос</a></b> · 601 👁 · 6 ч 18 мин\n└ бляУХ ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 0 👁 · 10 ч 20 мин\n└ КОСТЯ ГЕЙ\n\n<b><a href=\"https://youtu.be/-JqI49reJ6Q\">Федук</a></b> · 0 👁 · 5 ч 07 мин\n└ нужно ли  брить Яйцва",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 0 👁 · 10 ч 35 мин\n└ КОСТЯ ГЕЙ\n\n<b><a href=\"https://youtu.be/-JqI49reJ6Q\">Федук</a></b> · 0 👁 · 5 ч 23 мин\n└ нужно ли  брить Яйцва",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
