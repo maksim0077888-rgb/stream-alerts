@@ -46,11 +46,22 @@
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-11-28T06:51:12Z",
-    "peak": 650,
+    "peak": 664,
     "has_viewers": true,
     "title": "Х ТВ",
-    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=29",
-    "viewers": 625
+    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=2c",
+    "viewers": 664
+   },
+   "-0GY1lOf7iE": {
+    "vid": "-0GY1lOf7iE",
+    "cid": "UCNGYRZ90q-Go600_RlUsyEg",
+    "name": "Ахиллес",
+    "start": "2026-11-28T10:25:24Z",
+    "peak": 20,
+    "has_viewers": true,
+    "title": "тута",
+    "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=1",
+    "viewers": 20
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "3 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 625 👁 · 3 ч 24 мин\n└ Х ТВ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 664 👁 · 3 ч 39 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 20 👁 · 5 мин\n└ тута",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
