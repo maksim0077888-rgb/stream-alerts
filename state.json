@@ -41,42 +41,19 @@
  "board": {
   "msg": 132,
   "streams": {
-   "dou6lC4DhPM": {
-    "vid": "dou6lC4DhPM",
-    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
-    "name": "Гундос",
-    "start": "2026-11-28T06:51:12Z",
-    "peak": 674,
-    "has_viewers": true,
-    "title": "Х ТВ",
-    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=3a",
-    "viewers": 663
-   },
    "-0GY1lOf7iE": {
     "vid": "-0GY1lOf7iE",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-28T10:25:24Z",
-    "peak": 93,
+    "peak": 166,
     "has_viewers": true,
     "title": "СЛАВА ГЕЙ",
-    "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=e",
-    "viewers": 93
+    "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=12",
+    "viewers": 166
    }
   },
   "ended": [
-   {
-    "vid": "EsbDenzbzPE",
-    "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
-    "name": "Федук",
-    "start": "2026-11-27T05:14:51Z",
-    "peak": 55,
-    "has_viewers": true,
-    "title": "бриь Йцайва нлгрмк",
-    "thumb": "https://i.ytimg.com/vi/EsbDenzbzPE/maxresdefault.jpg?v=6b0911c2",
-    "viewers": 4,
-    "dur": "4 ч 38 мин"
-   },
    {
     "vid": "eIWQ_wBMyRQ",
     "cid": "UC3pO5gXAlD9FQdHNbu7gTtQ",
@@ -244,9 +221,21 @@
     "thumb": "https://i.ytimg.com/vi/XGVeU7TnCsQ/maxresdefault.jpg?v=2c",
     "viewers": 70,
     "dur": "3 ч 59 мин"
+   },
+   {
+    "vid": "dou6lC4DhPM",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-28T06:51:12Z",
+    "peak": 674,
+    "has_viewers": true,
+    "title": "Х ТВ",
+    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=3a",
+    "viewers": 663,
+    "dur": "4 ч 40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 663 👁 · 4 ч 39 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 93 👁 · 1 ч 05 мин\n└ СЛАВА ГЕЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 166 👁 · 1 ч 20 мин\n└ СЛАВА ГЕЙ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
