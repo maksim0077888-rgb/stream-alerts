@@ -50,7 +50,18 @@
     "has_viewers": true,
     "title": "КОСТЯ ГЕЙ",
     "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=2e",
-    "viewers": 7
+    "viewers": 46
+   },
+   "E8e01ysjXu8": {
+    "vid": "E8e01ysjXu8",
+    "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
+    "name": "Гундос",
+    "start": "2026-11-28T14:27:06Z",
+    "peak": 114,
+    "has_viewers": true,
+    "title": "бляУХ ТВ",
+    "thumb": "https://i.ytimg.com/vi/E8e01ysjXu8/maxresdefault.jpg?v=1",
+    "viewers": 114
    }
   },
   "ended": [
@@ -235,7 +246,7 @@
     "dur": "4 ч 40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 1</b>\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 7 👁 · 3 ч 50 мин\n└ КОСТЯ ГЕЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/E8e01ysjXu8\">Гундос</a></b> · 114 👁 · 3 мин\n└ бляУХ ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 46 👁 · 4 ч 05 мин\n└ КОСТЯ ГЕЙ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
