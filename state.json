@@ -49,19 +49,30 @@
     "peak": 166,
     "has_viewers": true,
     "title": "КОСТЯ ГЕЙ",
-    "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=32",
-    "viewers": 51
+    "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=36",
+    "viewers": 52
    },
    "E8e01ysjXu8": {
     "vid": "E8e01ysjXu8",
     "cid": "UCI-ZU17_2PCHErgwMg8TaLA",
     "name": "Гундос",
     "start": "2026-11-28T14:27:06Z",
-    "peak": 344,
+    "peak": 462,
     "has_viewers": true,
     "title": "бляУХ ТВ",
-    "thumb": "https://i.ytimg.com/vi/E8e01ysjXu8/maxresdefault.jpg?v=4",
-    "viewers": 344
+    "thumb": "https://i.ytimg.com/vi/E8e01ysjXu8/maxresdefault.jpg?v=7",
+    "viewers": 462
+   },
+   "OstOUewEwC4": {
+    "vid": "OstOUewEwC4",
+    "cid": "UCbt5BCs0aUDgNwRaUnKtXwA",
+    "name": "ПАПИЧ",
+    "start": "2026-11-28T15:00:41Z",
+    "peak": 566,
+    "has_viewers": true,
+    "title": "Микро-Затык",
+    "thumb": "https://i.ytimg.com/vi/OstOUewEwC4/maxresdefault.jpg",
+    "viewers": 566
    }
   },
   "ended": [
@@ -246,7 +257,7 @@
     "dur": "4 ч 40 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/E8e01ysjXu8\">Гундос</a></b> · 344 👁 · 18 мин\n└ бляУХ ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 51 👁 · 4 ч 20 мин\n└ КОСТЯ ГЕЙ",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 3</b>\n\n<b><a href=\"https://youtu.be/OstOUewEwC4\">ПАПИЧ</a></b> · 566 👁 · 0 мин\n└ Микро-Затык\n\n<b><a href=\"https://youtu.be/E8e01ysjXu8\">Гундос</a></b> · 462 👁 · 33 мин\n└ бляУХ ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 52 👁 · 4 ч 35 мин\n└ КОСТЯ ГЕЙ",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
