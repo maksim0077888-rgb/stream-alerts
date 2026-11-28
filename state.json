@@ -49,19 +49,19 @@
     "peak": 674,
     "has_viewers": true,
     "title": "Х ТВ",
-    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=2f",
-    "viewers": 674
+    "thumb": "https://i.ytimg.com/vi/dou6lC4DhPM/maxresdefault.jpg?v=34",
+    "viewers": 596
    },
    "-0GY1lOf7iE": {
     "vid": "-0GY1lOf7iE",
     "cid": "UCNGYRZ90q-Go600_RlUsyEg",
     "name": "Ахиллес",
     "start": "2026-11-28T10:25:24Z",
-    "peak": 42,
+    "peak": 50,
     "has_viewers": true,
     "title": "HALF-DOWN TV",
-    "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=5",
-    "viewers": 42
+    "thumb": "https://i.ytimg.com/vi/-0GY1lOf7iE/maxresdefault.jpg?v=8",
+    "viewers": 50
    }
   },
   "ended": [
@@ -246,7 +246,7 @@
     "dur": "3 ч 59 мин"
    }
   ],
-  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 674 👁 · 3 ч 54 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 42 👁 · 20 мин\n└ HALF-DOWN TV",
+  "text": "🔴 <b>СЕЙЧАС В ЭФИРЕ — 2</b>\n\n<b><a href=\"https://youtu.be/dou6lC4DhPM\">Гундос</a></b> · 596 👁 · 4 ч 09 мин\n└ Х ТВ\n\n<b><a href=\"https://youtu.be/-0GY1lOf7iE\">Ахиллес</a></b> · 50 👁 · 35 мин\n└ HALF-DOWN TV",
   "kind": "text",
   "created": "2026-11-13T09:15:27.845352+00:00"
  }
